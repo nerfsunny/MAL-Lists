@@ -1,0 +1,1081 @@
+## ABOUT ME
+
+This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
+
+(432) Read a manga that an active MRC staff member has rated 9 or higher.
+
+The list of eligible manga can be found under the [Manga List](#manga_list) section of the file. This list is sorted in alphabetical order and contains a hyperlink to their respective MAL page.
+
+The list of MRC Staff members can be found in the [MRC Staff](#mrc_staff) section of this file. This list contains a link to their respective profile on MAL.
+
+It is commonly recommended to take a screenshot of the manga listed on the MRC Staff member's completed section of their list so that in the event that the MRC Staff member changes their rating sometime between when you completed it and when it gets inspected by the MRC Staff, it will not invalidate your challenge. Also, it is commonly recommended to have your MAL username appear somewhere in this screenshot.
+
+## <a name="manga_list">Manga List</a>
+- [20th Century Boys](https://myanimelist.net/manga/3)
+	- Publication Status: Finished
+	- MAL ID: 3
+	- Genre(s): Award Winning, Drama, Historical, Mystery, Psychological, Sci-Fi, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [denvicar](https://myanimelist.net/profile/denvicar)
+- [21st Century Boys](https://myanimelist.net/manga/743)
+	- Publication Status: Finished
+	- MAL ID: 743
+	- Genre(s): Award Winning, Drama, Mystery, Psychological, Sci-Fi, Seinen
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [About Death](https://myanimelist.net/manga/50027)
+	- Publication Status: Finished
+	- MAL ID: 50027
+	- Genre(s): Psychological, Slice of Life, Supernatural
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Adabana](https://myanimelist.net/manga/125430)
+	- Publication Status: Finished
+	- MAL ID: 125430
+	- Genre(s): Drama, Mystery, Psychological, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Aho Girl](https://myanimelist.net/manga/47102)
+	- Publication Status: Finished
+	- MAL ID: 47102
+	- Genre(s): Comedy, School, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Aho Girl dj - Tenshi Girl](https://myanimelist.net/manga/118326)
+	- Publication Status: Finished
+	- MAL ID: 118326
+	- Genre(s): Comedy
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Ai no Sanka](https://myanimelist.net/manga/87037)
+	- Publication Status: Finished
+	- MAL ID: 87037
+	- Genre(s): Historical, Romance, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Ai-Ren](https://myanimelist.net/manga/1194)
+	- Publication Status: Finished
+	- MAL ID: 1194
+	- Genre(s): Drama, Ecchi, Romance, Sci-Fi, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Aikagi-kun to Shiawase Gohan](https://myanimelist.net/manga/130874)
+	- Publication Status: Finished
+	- MAL ID: 130874
+	- Genre(s): Comedy, Gourmet, Romance, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Air Koi](https://myanimelist.net/manga/21741)
+	- Publication Status: Finished
+	- MAL ID: 21741
+	- Genre(s): Drama, Romance, School, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Aku no Hana](https://myanimelist.net/manga/24705)
+	- Publication Status: Finished
+	- MAL ID: 24705
+	- Genre(s): Drama, Psychological, Romance, School, Shounen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Akumetsu](https://myanimelist.net/manga/1101)
+	- Publication Status: Finished
+	- MAL ID: 1101
+	- Genre(s): Action, Detective, Drama, Psychological, Shounen, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [All You Need Is Kill](https://myanimelist.net/manga/62887)
+	- Publication Status: Finished
+	- MAL ID: 62887
+	- Genre(s): Action, Military, Sci-Fi, Seinen, Time Travel
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Amano Megumi wa Sukidarake!](https://myanimelist.net/manga/95206)
+	- Publication Status: Finished
+	- MAL ID: 95206
+	- Genre(s): Comedy, Ecchi, Love Status Quo, Romance, School, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Angelmois Please](https://myanimelist.net/manga/27167)
+	- Publication Status: Finished
+	- MAL ID: 27167
+	- Genre(s): Comedy, Fantasy, Shounen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Annarasumanara](https://myanimelist.net/manga/30079)
+	- Publication Status: Finished
+	- MAL ID: 30079
+	- Genre(s): Drama, Mystery, Psychological, Romance, School, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Anne no Aijou](https://myanimelist.net/manga/19473)
+	- Publication Status: Finished
+	- MAL ID: 19473
+	- Genre(s): Drama, Historical, Romance, Shoujo, Slice of Life
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Another](https://myanimelist.net/manga/24098)
+	- Publication Status: Finished
+	- MAL ID: 24098
+	- Genre(s): Drama, Gore, Horror, Mystery, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ansatsu Kyoushitsu](https://myanimelist.net/manga/39883)
+	- Publication Status: Finished
+	- MAL ID: 39883
+	- Genre(s): Action, Comedy, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ao no Hako](https://myanimelist.net/manga/128694)
+	- Publication Status: Finished
+	- MAL ID: 128694
+	- Genre(s): Romance, School, Shounen, Sports, Team Sports
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Appleseed](https://myanimelist.net/manga/668)
+	- Publication Status: Finished
+	- MAL ID: 668
+	- Genre(s): Award Winning, Sci-Fi
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Ashita no Joe](https://myanimelist.net/manga/1303)
+	- Publication Status: Finished
+	- MAL ID: 1303
+	- Genre(s): Combat Sports, Drama, Shounen, Slice of Life, Sports
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Ayu Mayu](https://myanimelist.net/manga/4077)
+	- Publication Status: Finished
+	- MAL ID: 4077
+	- Genre(s): Comedy, Ecchi, Harem, Romance, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Babylon made wa Nankounen?](https://myanimelist.net/manga/103798)
+	- Publication Status: Finished
+	- MAL ID: 103798
+	- Genre(s): Award Winning, Comedy, Sci-Fi, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Bakuman.](https://myanimelist.net/manga/9711)
+	- Publication Status: Finished
+	- MAL ID: 9711
+	- Genre(s): Comedy, Drama, Otaku Culture, Romance, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Bartender](https://myanimelist.net/manga/3713)
+	- Publication Status: Finished
+	- MAL ID: 3713
+	- Genre(s): Adult Cast, Gourmet, Seinen, Workplace
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Bastard](https://myanimelist.net/manga/111213)
+	- Publication Status: Finished
+	- MAL ID: 111213
+	- Genre(s): Drama, Gore, Horror, Mystery, Psychological, Romance
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Battle Royale](https://myanimelist.net/manga/142)
+	- Publication Status: Finished
+	- MAL ID: 142
+	- Genre(s): Action, Gore, Psychological, Seinen, Survival, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Beck](https://myanimelist.net/manga/145)
+	- Publication Status: Finished
+	- MAL ID: 145
+	- Genre(s): Award Winning, Drama, Music, Romance, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Black Cat](https://myanimelist.net/manga/40)
+	- Publication Status: Finished
+	- MAL ID: 40
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Bocchi na Bokura no Renai Jijou](https://myanimelist.net/manga/72007)
+	- Publication Status: Finished
+	- MAL ID: 72007
+	- Genre(s): Comedy, Drama, Romance, School, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Boku wa Mari no Naka](https://myanimelist.net/manga/36267)
+	- Publication Status: Finished
+	- MAL ID: 36267
+	- Genre(s): Drama, Mystery, Psychological, Romance, Seinen, Supernatural
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Bokura no Hentai](https://myanimelist.net/manga/41973)
+	- Publication Status: Finished
+	- MAL ID: 41973
+	- Genre(s): Boys Love, Crossdressing, Drama, Psychological, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Bokura no Shokutaku](https://myanimelist.net/manga/104491)
+	- Publication Status: Finished
+	- MAL ID: 104491
+	- Genre(s): Boys Love, Childcare, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Bokurano](https://myanimelist.net/manga/670)
+	- Publication Status: Finished
+	- MAL ID: 670
+	- Genre(s): Award Winning, Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Boys Run the Riot](https://myanimelist.net/manga/124520)
+	- Publication Status: Finished
+	- MAL ID: 124520
+	- Genre(s): Drama, Psychological, School, Seinen, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Burn the Witch](https://myanimelist.net/manga/129370)
+	- Publication Status: On Hiatus
+	- MAL ID: 129370
+	- Genre(s): Action, Fantasy, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Can't See Can't Hear But Love](https://myanimelist.net/manga/35171)
+	- Publication Status: Finished
+	- MAL ID: 35171
+	- Genre(s): Drama, Romance, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Chi no Wadachi](https://myanimelist.net/manga/104271)
+	- Publication Status: Finished
+	- MAL ID: 104271
+	- Genre(s): Drama, Psychological, Seinen, Suspense
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Chichi no Koyomi](https://myanimelist.net/manga/10179)
+	- Publication Status: Finished
+	- MAL ID: 10179
+	- Genre(s): Seinen, Slice of Life
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Chikan Otoko](https://myanimelist.net/manga/46282)
+	- Publication Status: Finished
+	- MAL ID: 46282
+	- Genre(s): Comedy, Drama, Romance, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Chiki Chiki Banana](https://myanimelist.net/manga/7287)
+	- Publication Status: Finished
+	- MAL ID: 7287
+	- Genre(s): Romance, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Deadman Wonderland](https://myanimelist.net/manga/3986)
+	- Publication Status: Finished
+	- MAL ID: 3986
+	- Genre(s): Action, Adventure, Drama, Gore, High Stakes Game, Sci-Fi, Shounen, Supernatural, Survival
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Death Note](https://myanimelist.net/manga/21)
+	- Publication Status: Finished
+	- MAL ID: 21
+	- Genre(s): Psychological, Shounen, Supernatural, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Devilman](https://myanimelist.net/manga/1474)
+	- Publication Status: Finished
+	- MAL ID: 1474
+	- Genre(s): Action, Adventure, Drama, Fantasy, Horror, Mythology, Psychological, Sci-Fi, Shounen, Super Power, Supernatural
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Doubutsu no Kuni](https://myanimelist.net/manga/16668)
+	- Publication Status: Finished
+	- MAL ID: 16668
+	- Genre(s): Action, Adventure, Award Winning, Comedy, Fantasy, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Dragon Ball Gaiden: Tensei shitara Yamcha Datta Ken](https://myanimelist.net/manga/103047)
+	- Publication Status: Finished
+	- MAL ID: 103047
+	- Genre(s): Action, Comedy, Fantasy, Parody, Reincarnation, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Dragon Head](https://myanimelist.net/manga/229)
+	- Publication Status: Finished
+	- MAL ID: 229
+	- Genre(s): Action, Award Winning, Drama, Horror, Psychological, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Dragon Quest: Dai no Daibouken](https://myanimelist.net/manga/871)
+	- Publication Status: Finished
+	- MAL ID: 871
+	- Genre(s): Action, Adventure, Fantasy, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Eden no Ori](https://myanimelist.net/manga/12586)
+	- Publication Status: Finished
+	- MAL ID: 12586
+	- Genre(s): Action, Adventure, Ecchi, Fantasy, Shounen, Survival
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Eien no With](https://myanimelist.net/manga/4964)
+	- Publication Status: Finished
+	- MAL ID: 4964
+	- Genre(s): Drama, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Elfen Lied](https://myanimelist.net/manga/933)
+	- Publication Status: Finished
+	- MAL ID: 933
+	- Genre(s): Action, Drama, Gore, Horror, Psychological, Romance, Seinen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Flying☆Witch](https://myanimelist.net/manga/22589)
+	- Publication Status: Finished
+	- MAL ID: 22589
+	- Genre(s): Romance, School, Shounen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Fudatsuki no Kyouko-chan](https://myanimelist.net/manga/56513)
+	- Publication Status: Finished
+	- MAL ID: 56513
+	- Genre(s): Comedy, Romance, School, Shounen, Supernatural, Vampire
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Fujimi Lovers](https://myanimelist.net/manga/70465)
+	- Publication Status: Finished
+	- MAL ID: 70465
+	- Genre(s): Comedy, Drama, Romance, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Fullmetal Alchemist](https://myanimelist.net/manga/25)
+	- Publication Status: Finished
+	- MAL ID: 25
+	- Genre(s): Action, Adventure, Award Winning, Drama, Fantasy, Military, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Fullmetal Alchemist Chronicle](https://myanimelist.net/manga/174108)
+	- Publication Status: Finished
+	- MAL ID: 174108
+	- Genre(s): Action, Adventure, Drama, Fantasy, Military, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Futari no Renai Shoka](https://myanimelist.net/manga/57359)
+	- Publication Status: Finished
+	- MAL ID: 57359
+	- Genre(s): Romance, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [GTO](https://myanimelist.net/manga/336)
+	- Publication Status: Finished
+	- MAL ID: 336
+	- Genre(s): Action, Award Winning, Comedy, Delinquents, Drama, Ecchi, School, Shounen, Workplace
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Gamble Fish](https://myanimelist.net/manga/15167)
+	- Publication Status: Finished
+	- MAL ID: 15167
+	- Genre(s): Ecchi, Harem, High Stakes Game, Mystery, Psychological, School, Shounen, Strategy Game
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Game Over](https://myanimelist.net/manga/25057)
+	- Publication Status: Finished
+	- MAL ID: 25057
+	- Genre(s): Josei, Romance
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Getter Robo Go](https://myanimelist.net/manga/10447)
+	- Publication Status: Finished
+	- MAL ID: 10447
+	- Genre(s): Action, Mecha, Sci-Fi, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Giniro no Seven](https://myanimelist.net/manga/138817)
+	- Publication Status: Finished
+	- MAL ID: 138817
+	- Genre(s): Action, Ecchi, Sci-Fi, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Gokurakugai](https://myanimelist.net/manga/147874)
+	- Publication Status: Currently Publishing
+	- MAL ID: 147874
+	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Goth](https://myanimelist.net/manga/958)
+	- Publication Status: Finished
+	- MAL ID: 958
+	- Genre(s): Horror, Mystery, Psychological, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Gunnm](https://myanimelist.net/manga/768)
+	- Publication Status: Finished
+	- MAL ID: 768
+	- Genre(s): Action, Sci-Fi, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Hana wo Meshimase](https://myanimelist.net/manga/72719)
+	- Publication Status: Finished
+	- MAL ID: 72719
+	- Genre(s): Romance, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Hana-chan to, Sekai no Katachi](https://myanimelist.net/manga/129812)
+	- Publication Status: Finished
+	- MAL ID: 129812
+	- Genre(s): Adventure, Comedy, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Hanma Baki](https://myanimelist.net/manga/7760)
+	- Publication Status: Finished
+	- MAL ID: 7760
+	- Genre(s): Action, Adventure, Gore, Martial Arts
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Haruka na Machi e](https://myanimelist.net/manga/3258)
+	- Publication Status: Finished
+	- MAL ID: 3258
+	- Genre(s): Award Winning, Drama, Seinen, Slice of Life, Time Travel
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Heads](https://myanimelist.net/manga/2179)
+	- Publication Status: Finished
+	- MAL ID: 2179
+	- Genre(s): Action, Drama, Mystery, Psychological, Sci-Fi, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Heaven Flame](https://myanimelist.net/manga/152675)
+	- Publication Status: Finished
+	- MAL ID: 152675
+	- Genre(s): Drama, Fantasy, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Hells Angels](https://myanimelist.net/manga/1853)
+	- Publication Status: Finished
+	- MAL ID: 1853
+	- Genre(s): Action, Comedy, Fantasy, School, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Hen na Neesan](https://myanimelist.net/manga/85987)
+	- Publication Status: Finished
+	- MAL ID: 85987
+	- Genre(s): Comedy, Erotica, Girls Love, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Henshin Ganbou!](https://myanimelist.net/manga/78773)
+	- Publication Status: Finished
+	- MAL ID: 78773
+	- Genre(s): Comedy, Romance, School, Shounen, Sports, Team Sports
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Hiatari Ryoukou!](https://myanimelist.net/manga/3168)
+	- Publication Status: Finished
+	- MAL ID: 3168
+	- Genre(s): Comedy, Romance, Shoujo, Sports
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [High Score Girl](https://myanimelist.net/manga/44501)
+	- Publication Status: Finished
+	- MAL ID: 44501
+	- Genre(s): Comedy, Love Polygon, Romance, School, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Homunculus](https://myanimelist.net/manga/936)
+	- Publication Status: Finished
+	- MAL ID: 936
+	- Genre(s): Drama, Horror, Mystery, Psychological, Seinen, Supernatural
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Hoozuki-san Chi no Aneki](https://myanimelist.net/manga/17169)
+	- Publication Status: Finished
+	- MAL ID: 17169
+	- Genre(s): Comedy, Ecchi, School, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Hoshi no Samidare](https://myanimelist.net/manga/10552)
+	- Publication Status: Finished
+	- MAL ID: 10552
+	- Genre(s): Action, Psychological, Seinen, Supernatural, Suspense
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Hoshigari Sugi desho!? Inaba-san](https://myanimelist.net/manga/129368)
+	- Publication Status: Finished
+	- MAL ID: 129368
+	- Genre(s): Comedy, Erotica, Sci-Fi
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Hourou Musuko](https://myanimelist.net/manga/585)
+	- Publication Status: Finished
+	- MAL ID: 585
+	- Genre(s): Drama, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Hunter x Hunter](https://myanimelist.net/manga/26)
+	- Publication Status: Currently Publishing
+	- MAL ID: 26
+	- Genre(s): Action, Adventure, Fantasy, Shounen
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [I Am a Hero](https://myanimelist.net/manga/14440)
+	- Publication Status: Finished
+	- MAL ID: 14440
+	- Genre(s): Award Winning, Drama, Gore, Horror, Psychological, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ibitsu](https://myanimelist.net/manga/21019)
+	- Publication Status: Finished
+	- MAL ID: 21019
+	- Genre(s): Drama, Ecchi, Psychological, Romance, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Innocent](https://myanimelist.net/manga/58563)
+	- Publication Status: Finished
+	- MAL ID: 58563
+	- Genre(s): Drama, Historical, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Inu Neko Jump!](https://myanimelist.net/manga/978)
+	- Publication Status: Finished
+	- MAL ID: 978
+	- Genre(s): Comedy, Ecchi, Romance, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Isshuukan Friends.](https://myanimelist.net/manga/43967)
+	- Publication Status: Finished
+	- MAL ID: 43967
+	- Genre(s): Comedy, School, Shounen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Itookashi](https://myanimelist.net/manga/117235)
+	- Publication Status: Finished
+	- MAL ID: 117235
+	- Genre(s): Comedy, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Jinrui wo Metsubou sasete wa Ikemasen](https://myanimelist.net/manga/131703)
+	- Publication Status: Finished
+	- MAL ID: 131703
+	- Genre(s): Childcare, Sci-Fi, Seinen, Slice of Life
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Jitsu wa Watashi wa](https://myanimelist.net/manga/57015)
+	- Publication Status: Finished
+	- MAL ID: 57015
+	- Genre(s): Comedy, Fantasy, Romance, School, Shounen, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu](https://myanimelist.net/manga/1630)
+	- Publication Status: Finished
+	- MAL ID: 1630
+	- Genre(s): Action, Adventure, Historical, Shounen, Vampire
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [JoJo no Kimyou na Bouken Part 3: Stardust Crusaders](https://myanimelist.net/manga/872)
+	- Publication Status: Finished
+	- MAL ID: 872
+	- Genre(s): Action, Adventure, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai](https://myanimelist.net/manga/3006)
+	- Publication Status: Finished
+	- MAL ID: 3006
+	- Genre(s): Action, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
+- [JoJo no Kimyou na Bouken Part 7: Steel Ball Run](https://myanimelist.net/manga/1706)
+	- Publication Status: Finished
+	- MAL ID: 1706
+	- Genre(s): Action, Adventure, Historical, Mystery, Seinen, Shounen, Supernatural
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga/115710)
+	- Publication Status: Finished
+	- MAL ID: 115710
+	- Genre(s): Action, Shounen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://myanimelist.net/manga/100448)
+	- Publication Status: Finished
+	- MAL ID: 100448
+	- Genre(s): Drama, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Kakukaku Shikajika](https://myanimelist.net/manga/44307)
+	- Publication Status: Finished
+	- MAL ID: 44307
+	- Genre(s): Award Winning, Josei, Memoir, Otaku Culture, Slice of Life, Visual Arts
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kami nomi zo Shiru Sekai](https://myanimelist.net/manga/7519)
+	- Publication Status: Finished
+	- MAL ID: 7519
+	- Genre(s): Comedy, Fantasy, Harem, Otaku Culture, Romance, School, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kamisama no Iutoori](https://myanimelist.net/manga/24561)
+	- Publication Status: Finished
+	- MAL ID: 24561
+	- Genre(s): Action, Gore, High Stakes Game, Psychological, School, Shounen, Supernatural, Survival, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kanojo mo Kanojo](https://myanimelist.net/manga/124940)
+	- Publication Status: Finished
+	- MAL ID: 124940
+	- Genre(s): Comedy, Romance, School, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kanojo wa Itsumo Kagayaiteita](https://myanimelist.net/manga/121587)
+	- Publication Status: Finished
+	- MAL ID: 121587
+	- Genre(s): Drama, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kanojo wa Rokurokubi](https://myanimelist.net/manga/90800)
+	- Publication Status: Finished
+	- MAL ID: 90800
+	- Genre(s): Comedy, School, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Keijo!!!!!!!!](https://myanimelist.net/manga/56505)
+	- Publication Status: Finished
+	- MAL ID: 56505
+	- Genre(s): Combat Sports, Ecchi, Shounen, Sports
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kengan Ashura](https://myanimelist.net/manga/72025)
+	- Publication Status: Finished
+	- MAL ID: 72025
+	- Genre(s): Action, Martial Arts
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kenkou Zenrakei Suieibu Umishou](https://myanimelist.net/manga/1302)
+	- Publication Status: Finished
+	- MAL ID: 1302
+	- Genre(s): Comedy, Ecchi, Romance, School, Shounen, Sports
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kimi ni shika Kikoenai](https://myanimelist.net/manga/11438)
+	- Publication Status: Finished
+	- MAL ID: 11438
+	- Genre(s): Drama, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kimi no Na wa.](https://myanimelist.net/manga/99314)
+	- Publication Status: Finished
+	- MAL ID: 99314
+	- Genre(s): Drama, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kimi no Okaasan wo Boku ni Kudasai!](https://myanimelist.net/manga/121740)
+	- Publication Status: Finished
+	- MAL ID: 121740
+	- Genre(s): Childcare, Comedy, Drama, Romance, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kimi no Suizou wo Tabetai](https://myanimelist.net/manga/104538)
+	- Publication Status: Finished
+	- MAL ID: 104538
+	- Genre(s): Drama, Romance
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kintoki: Kinmezoku no Toki](https://myanimelist.net/manga/23172)
+	- Publication Status: Finished
+	- MAL ID: 23172
+	- Genre(s): Adventure, Martial Arts, Shounen, Super Power
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kiriko](https://myanimelist.net/manga/87670)
+	- Publication Status: Finished
+	- MAL ID: 87670
+	- Genre(s): Horror, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kiseijuu](https://myanimelist.net/manga/401)
+	- Publication Status: Finished
+	- MAL ID: 401
+	- Genre(s): Action, Award Winning, Gore, Horror, Psychological, Sci-Fi, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kodomo no Jikan](https://myanimelist.net/manga/582)
+	- Publication Status: Finished
+	- MAL ID: 582
+	- Genre(s): Comedy, Drama, Ecchi, Romance, School, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kodomo no Kamisama](https://myanimelist.net/manga/121207)
+	- Publication Status: Finished
+	- MAL ID: 121207
+	- Genre(s): Drama, Romance, Shounen, Supernatural
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Kodomo wa Wakatte Agenai](https://myanimelist.net/manga/83481)
+	- Publication Status: Finished
+	- MAL ID: 83481
+	- Genre(s): School, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Koe de Oshigoto!](https://myanimelist.net/manga/10837)
+	- Publication Status: Finished
+	- MAL ID: 10837
+	- Genre(s): Comedy, Ecchi, Otaku Culture, Romance, School, Seinen, Showbiz
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Koe no Katachi](https://myanimelist.net/manga/56805)
+	- Publication Status: Finished
+	- MAL ID: 56805
+	- Genre(s): Award Winning, Drama, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kokou no Hito](https://myanimelist.net/manga/7375)
+	- Publication Status: Finished
+	- MAL ID: 7375
+	- Genre(s): Award Winning, Drama, Psychological, Seinen, Sports
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Konjiki no Gash!!](https://myanimelist.net/manga/869)
+	- Publication Status: Finished
+	- MAL ID: 869
+	- Genre(s): Action, Adventure, Award Winning, Comedy, Shounen, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kubo-san wa Mob wo Yurusanai](https://myanimelist.net/manga/122448)
+	- Publication Status: Finished
+	- MAL ID: 122448
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kumika no Mikaku](https://myanimelist.net/manga/100495)
+	- Publication Status: Finished
+	- MAL ID: 100495
+	- Genre(s): Gourmet, Romance, Sci-Fi, Seinen, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Kunisaki Izumo no Jijou](https://myanimelist.net/manga/13406)
+	- Publication Status: Finished
+	- MAL ID: 13406
+	- Genre(s): Comedy, Crossdressing, Harem, Performing Arts, School, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kuroko no Basket](https://myanimelist.net/manga/11652)
+	- Publication Status: Finished
+	- MAL ID: 11652
+	- Genre(s): Comedy, School, Shounen, Sports, Team Sports
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kyoushitsu Jibaku Club](https://myanimelist.net/manga/119484)
+	- Publication Status: Finished
+	- MAL ID: 119484
+	- Genre(s): Drama, Mystery, School, Suspense
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Liar Game](https://myanimelist.net/manga/1649)
+	- Publication Status: Finished
+	- MAL ID: 1649
+	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Mada, Ikiteru](https://myanimelist.net/manga/20310)
+	- Publication Status: Finished
+	- MAL ID: 20310
+	- Genre(s): Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Mirai Nikki](https://myanimelist.net/manga/584)
+	- Publication Status: Finished
+	- MAL ID: 584
+	- Genre(s): Action, Gore, High Stakes Game, Psychological, Shounen, Supernatural, Survival, Suspense
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Mob Psycho 100](https://myanimelist.net/manga/60783)
+	- Publication Status: Finished
+	- MAL ID: 60783
+	- Genre(s): Action, Award Winning, Comedy, Super Power, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Moeyo Pen](https://myanimelist.net/manga/10321)
+	- Publication Status: Finished
+	- MAL ID: 10321
+	- Genre(s): Comedy, Drama, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Monster](https://myanimelist.net/manga/1)
+	- Publication Status: Finished
+	- MAL ID: 1
+	- Genre(s): Adult Cast, Award Winning, Drama, Mystery, Psychological, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Mou Ikkai](https://myanimelist.net/manga/125334)
+	- Publication Status: Finished
+	- MAL ID: 125334
+	- Genre(s): Romance, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Mousou Telepathy](https://myanimelist.net/manga/101711)
+	- Publication Status: Finished
+	- MAL ID: 101711
+	- Genre(s): Comedy, Romance, School, Super Power
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [My Kitty and Old Dog](https://myanimelist.net/manga/43975)
+	- Publication Status: Finished
+	- MAL ID: 43975
+	- Genre(s): Drama, Memoir, Pets, Slice of Life
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [NHK ni Youkoso!](https://myanimelist.net/manga/463)
+	- Publication Status: Finished
+	- MAL ID: 463
+	- Genre(s): Comedy, Drama, Otaku Culture, Psychological, Romance, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Nanatsu no Taizai](https://myanimelist.net/manga/44485)
+	- Publication Status: Finished
+	- MAL ID: 44485
+	- Genre(s): Action, Adventure, Award Winning, Fantasy, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Naruto](https://myanimelist.net/manga/11)
+	- Publication Status: Finished
+	- MAL ID: 11
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Nazo no Kanojo X](https://myanimelist.net/manga/1926)
+	- Publication Status: Finished
+	- MAL ID: 1926
+	- Genre(s): Ecchi, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Nee Nee, Nene-san.](https://myanimelist.net/manga/140604)
+	- Publication Status: Finished
+	- MAL ID: 140604
+	- Genre(s): Drama, Gourmet, Romance, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Nokogiri Yama](https://myanimelist.net/manga/115545)
+	- Publication Status: Finished
+	- MAL ID: 115545
+	- Genre(s): Hentai
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Noraneko to Hidamari](https://myanimelist.net/manga/145968)
+	- Publication Status: Finished
+	- MAL ID: 145968
+	- Genre(s): Romance, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Nozoki Ana](https://myanimelist.net/manga/21419)
+	- Publication Status: Finished
+	- MAL ID: 21419
+	- Genre(s): Drama, Erotica, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Omoide Emanon](https://myanimelist.net/manga/17465)
+	- Publication Status: Finished
+	- MAL ID: 17465
+	- Genre(s): Drama, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Omoni Otto](https://myanimelist.net/manga/115133)
+	- Publication Status: Finished
+	- MAL ID: 115133
+	- Genre(s): Comedy, Seinen, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Onanie Master Kurosawa](https://myanimelist.net/manga/8967)
+	- Publication Status: Finished
+	- MAL ID: 8967
+	- Genre(s): Drama, Psychological, School
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ookami Shounen wa Kyou mo Uso wo Kasaneru](https://myanimelist.net/manga/85802)
+	- Publication Status: Finished
+	- MAL ID: 85802
+	- Genre(s): Crossdressing, Drama, Love Polygon, Romance
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Ookumo-chan Flashback](https://myanimelist.net/manga/106682)
+	- Publication Status: Finished
+	- MAL ID: 106682
+	- Genre(s): School, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ore Monogatari!!](https://myanimelist.net/manga/36933)
+	- Publication Status: Finished
+	- MAL ID: 36933
+	- Genre(s): Award Winning, Comedy, Romance, Shoujo
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Oretama](https://myanimelist.net/manga/447)
+	- Publication Status: Finished
+	- MAL ID: 447
+	- Genre(s): Comedy, Ecchi, Mythology, Romance, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Otome no Itari](https://myanimelist.net/manga/129375)
+	- Publication Status: Finished
+	- MAL ID: 129375
+	- Genre(s): Romance, School, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Oyaji](https://myanimelist.net/manga/14121)
+	- Publication Status: Finished
+	- MAL ID: 14121
+	- Genre(s): Action, Drama, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Oyasumi Punpun](https://myanimelist.net/manga/4632)
+	- Publication Status: Finished
+	- MAL ID: 4632
+	- Genre(s): Drama, Psychological, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Papa, Doushita no?♡](https://myanimelist.net/manga/155011)
+	- Publication Status: Finished
+	- MAL ID: 155011
+	- Genre(s): Hentai
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Ping Pong](https://myanimelist.net/manga/5744)
+	- Publication Status: Finished
+	- MAL ID: 5744
+	- Genre(s): Drama, Seinen, Sports
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Planetes](https://myanimelist.net/manga/481)
+	- Publication Status: Finished
+	- MAL ID: 481
+	- Genre(s): Adult Cast, Award Winning, Drama, Psychological, Sci-Fi, Seinen, Slice of Life, Space, Workplace
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Pluto](https://myanimelist.net/manga/745)
+	- Publication Status: Finished
+	- MAL ID: 745
+	- Genre(s): Action, Award Winning, Detective, Mystery, Psychological, Sci-Fi, Seinen, Suspense
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Pokémon: Mewtwo no Gyakushuu](https://myanimelist.net/manga/24220)
+	- Publication Status: Finished
+	- MAL ID: 24220
+	- Genre(s): Adventure, Fantasy, Kids
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Prison School](https://myanimelist.net/manga/25297)
+	- Publication Status: Finished
+	- MAL ID: 25297
+	- Genre(s): Award Winning, Comedy, Ecchi, Gag Humor, Romance, School, Seinen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Prunus Girl](https://myanimelist.net/manga/14115)
+	- Publication Status: Finished
+	- MAL ID: 14115
+	- Genre(s): Comedy, Crossdressing, Romance, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [RRR](https://myanimelist.net/manga/25300)
+	- Publication Status: Finished
+	- MAL ID: 25300
+	- Genre(s): Combat Sports, Comedy, Drama, Seinen, Sports
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ran to Haiiro no Sekai](https://myanimelist.net/manga/22986)
+	- Publication Status: Finished
+	- MAL ID: 22986
+	- Genre(s): Drama, Fantasy, Romance, Seinen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [ReLIFE](https://myanimelist.net/manga/78523)
+	- Publication Status: Finished
+	- MAL ID: 78523
+	- Genre(s): Comedy, Drama, Romance, School, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [RiN](https://myanimelist.net/manga/46894)
+	- Publication Status: Finished
+	- MAL ID: 46894
+	- Genre(s): School, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Rojica to Rakkasei](https://myanimelist.net/manga/114793)
+	- Publication Status: Finished
+	- MAL ID: 114793
+	- Genre(s): Adventure, Fantasy, Psychological, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Ruri Dragon](https://myanimelist.net/manga/138475)
+	- Publication Status: Finished
+	- MAL ID: 138475
+	- Genre(s): Comedy, Shounen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Ryousai Kenbo](https://myanimelist.net/manga/52755)
+	- Publication Status: Finished
+	- MAL ID: 52755
+	- Genre(s): Hentai
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Ryuu no Nanakuni to Minashigo no Juana](https://myanimelist.net/manga/105754)
+	- Publication Status: Finished
+	- MAL ID: 105754
+	- Genre(s): Fantasy
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Saikyou Densetsu Kurosawa](https://myanimelist.net/manga/3575)
+	- Publication Status: Finished
+	- MAL ID: 3575
+	- Genre(s): Action, Comedy, Delinquents, Drama, Psychological, Seinen, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Saishuu Heiki Kanojo](https://myanimelist.net/manga/773)
+	- Publication Status: Finished
+	- MAL ID: 773
+	- Genre(s): Drama, Romance, Sci-Fi, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Sakuranbo Syndrome - Cupid no Itazura II](https://myanimelist.net/manga/18992)
+	- Publication Status: Finished
+	- MAL ID: 18992
+	- Genre(s): Drama, Love Polygon, Psychological, Romance, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Sankarea](https://myanimelist.net/manga/18597)
+	- Publication Status: Finished
+	- MAL ID: 18597
+	- Genre(s): Comedy, Ecchi, Horror, Romance, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Seishun Forget!](https://myanimelist.net/manga/26404)
+	- Publication Status: Finished
+	- MAL ID: 26404
+	- Genre(s): Comedy, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Sengoku Youko](https://myanimelist.net/manga/8070)
+	- Publication Status: Finished
+	- MAL ID: 8070
+	- Genre(s): Action, Adventure, Fantasy, Historical, Mythology, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Shaman King](https://myanimelist.net/manga/50)
+	- Publication Status: Finished
+	- MAL ID: 50
+	- Genre(s): Action, Adventure, Comedy, Shounen, Super Power, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Shigatsu wa Kimi no Uso](https://myanimelist.net/manga/37707)
+	- Publication Status: Finished
+	- MAL ID: 37707
+	- Genre(s): Award Winning, Drama, Music, Romance, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Shigeshoushi](https://myanimelist.net/manga/544)
+	- Publication Status: Finished
+	- MAL ID: 544
+	- Genre(s): Drama, Josei, Psychological, Romance
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Shin Chimoguri Ringo to Kingyobachi Otoko](https://myanimelist.net/manga/85812)
+	- Publication Status: Finished
+	- MAL ID: 85812
+	- Genre(s): Drama, Fantasy, Romance, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Shin Gendai Ryoukiden](https://myanimelist.net/manga/9709)
+	- Publication Status: Finished
+	- MAL ID: 9709
+	- Genre(s): Hentai, Horror
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Shingeki no Kyojin](https://myanimelist.net/manga/23390)
+	- Publication Status: Finished
+	- MAL ID: 23390
+	- Genre(s): Action, Award Winning, Drama, Gore, Military, Shounen, Survival
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Shonan Junai Gumi!](https://myanimelist.net/manga/445)
+	- Publication Status: Finished
+	- MAL ID: 445
+	- Genre(s): Action, Comedy, Delinquents, Drama, Romance, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Shoujo Shuumatsu Ryokou](https://myanimelist.net/manga/72467)
+	- Publication Status: Finished
+	- MAL ID: 72467
+	- Genre(s): Adventure, Award Winning, Iyashikei, Slice of Life
+	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Slam Dunk](https://myanimelist.net/manga/51)
+	- Publication Status: Finished
+	- MAL ID: 51
+	- Genre(s): Award Winning, School, Shounen, Sports, Team Sports
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Solanin](https://myanimelist.net/manga/3731)
+	- Publication Status: Finished
+	- MAL ID: 3731
+	- Genre(s): Drama, Seinen, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Soul Eater](https://myanimelist.net/manga/908)
+	- Publication Status: Finished
+	- MAL ID: 908
+	- Genre(s): Action, Comedy, Fantasy, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Spirit Circle](https://myanimelist.net/manga/38071)
+	- Publication Status: Finished
+	- MAL ID: 38071
+	- Genre(s): Action, Adventure, Comedy, Drama, Reincarnation, Romance, Seinen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Subarashii Sekai](https://myanimelist.net/manga/3614)
+	- Publication Status: Finished
+	- MAL ID: 3614
+	- Genre(s): Drama, Seinen, Slice of Life
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Sun-Ken Rock](https://myanimelist.net/manga/8848)
+	- Publication Status: Finished
+	- MAL ID: 8848
+	- Genre(s): Action, Comedy, Drama, Ecchi, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Sundome](https://myanimelist.net/manga/1501)
+	- Publication Status: Finished
+	- MAL ID: 1501
+	- Genre(s): Comedy, Drama, Ecchi, Psychological, Romance, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Takopii no Genzai](https://myanimelist.net/manga/142600)
+	- Publication Status: Finished
+	- MAL ID: 142600
+	- Genre(s): Drama, Psychological, Sci-Fi, Shounen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Tetsugaku Letra](https://myanimelist.net/manga/30779)
+	- Publication Status: Finished
+	- MAL ID: 30779
+	- Genre(s): Drama, Performing Arts, School, Shounen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [The Friendly Winter](https://myanimelist.net/manga/77891)
+	- Publication Status: Finished
+	- MAL ID: 77891
+	- Genre(s): Drama, Psychological
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [The Horizon](https://myanimelist.net/manga/125036)
+	- Publication Status: Finished
+	- MAL ID: 125036
+	- Genre(s): Adventure, Drama, Psychological
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Tobaku Datenroku Kaiji: One Poker-hen](https://myanimelist.net/manga/61579)
+	- Publication Status: Finished
+	- MAL ID: 61579
+	- Genre(s): Adult Cast, Drama, High Stakes Game, Psychological, Seinen, Strategy Game
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Tobaku Hakairoku Kaiji](https://myanimelist.net/manga/3573)
+	- Publication Status: Finished
+	- MAL ID: 3573
+	- Genre(s): Adult Cast, Drama, High Stakes Game, Strategy Game
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Tokidoki](https://myanimelist.net/manga/102165)
+	- Publication Status: Finished
+	- MAL ID: 102165
+	- Genre(s): Drama, Romance, School, Shounen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Tokyo Ghoul:re](https://myanimelist.net/manga/81117)
+	- Publication Status: Finished
+	- MAL ID: 81117
+	- Genre(s): Action, Fantasy, Gore, Horror, Psychological, Seinen, Urban Fantasy
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Tong](https://myanimelist.net/manga/118909)
+	- Publication Status: Finished
+	- MAL ID: 118909
+	- Genre(s): Action, Delinquents, Drama, School
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Touch](https://myanimelist.net/manga/1013)
+	- Publication Status: Finished
+	- MAL ID: 1013
+	- Genre(s): Award Winning, Comedy, Drama, Love Polygon, Romance, School, Shounen, Sports, Team Sports
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Transfer Student Storm Bringer](https://myanimelist.net/manga/30457)
+	- Publication Status: Finished
+	- MAL ID: 30457
+	- Genre(s): Action, Comedy, School, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Tsurebito](https://myanimelist.net/manga/737)
+	- Publication Status: Finished
+	- MAL ID: 737
+	- Genre(s): Drama, Seinen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Ueki no Housoku](https://myanimelist.net/manga/326)
+	- Publication Status: Finished
+	- MAL ID: 326
+	- Genre(s): Action, Comedy, Shounen, Super Power
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Urusei Yatsura](https://myanimelist.net/manga/304)
+	- Publication Status: Finished
+	- MAL ID: 304
+	- Genre(s): Award Winning, Comedy, Romance, Sci-Fi, Shounen
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Usemono Yado](https://myanimelist.net/manga/89553)
+	- Publication Status: Finished
+	- MAL ID: 89553
+	- Genre(s): Drama, Shoujo
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Ushio to Tora](https://myanimelist.net/manga/7747)
+	- Publication Status: Finished
+	- MAL ID: 7747
+	- Genre(s): Action, Award Winning, Comedy, Mythology, Shounen, Supernatural
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Uzumaki](https://myanimelist.net/manga/436)
+	- Publication Status: Finished
+	- MAL ID: 436
+	- Genre(s): Drama, Horror, Seinen, Supernatural
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Vagabond](https://myanimelist.net/manga/656)
+	- Publication Status: On Hiatus
+	- MAL ID: 656
+	- Genre(s): Action, Adventure, Award Winning, Historical, Samurai, Seinen
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
+- [Voynich Hotel](https://myanimelist.net/manga/25250)
+	- Publication Status: Finished
+	- MAL ID: 25250
+	- Genre(s): Comedy, Ecchi, Horror, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Waga Tousou](https://myanimelist.net/manga/15916)
+	- Publication Status: Finished
+	- MAL ID: 15916
+	- Genre(s): Historical
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Yokohama Kaidashi Kikou](https://myanimelist.net/manga/4)
+	- Publication Status: Finished
+	- MAL ID: 4
+	- Genre(s): Award Winning, Iyashikei, Sci-Fi, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Yuusha Goikkou no Kaerimichi](https://myanimelist.net/manga/114754)
+	- Publication Status: Finished
+	- MAL ID: 114754
+	- Genre(s): Adventure, Drama, Fantasy, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Yuu☆Yuu☆Hakusho](https://myanimelist.net/manga/53)
+	- Publication Status: Finished
+	- MAL ID: 53
+	- Genre(s): Action, Award Winning, Comedy, Drama, Shounen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Zombie Maria](https://myanimelist.net/manga/99251)
+	- Publication Status: Finished
+	- MAL ID: 99251
+	- Genre(s): Comedy, Romance, Seinen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+
+## <a name="mrc_staff">MRC Staff</a>
+
+- [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Bri](https://myanimelist.net/profile/Bri)
+- [denvicar](https://myanimelist.net/profile/denvicar)
+- [Drackx](https://myanimelist.net/profile/Drackx)
+- [Kazzeon](https://myanimelist.net/profile/Kazzeon)
