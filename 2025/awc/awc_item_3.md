@@ -1,3 +1,7 @@
+---
+title: AWC2025 03
+---
+
 ## ABOUT ME
 
 This list contains a list of anime eligible for the following challenge item, as of March 20, 2025:
