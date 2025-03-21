@@ -1,8 +1,12 @@
+---
+title: MRC2025 51.2
+---
+
 ## ABOUT ME
 
 This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
 
-(512) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
+(51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
 The list of eligible manga can be found under the [Manga List](#manga_list) section of the file. This list is sorted in alphabetical order and contains a hyperlink to their respective MAL page.
 

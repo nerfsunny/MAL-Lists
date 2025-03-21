@@ -1,8 +1,12 @@
+---
+title: MRC2025 2.3
+---
+
 ## ABOUT ME
 
 This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
 
-(23) Read a manga another MRC participant rated 4 or lower.
+(2.3) Read a manga another MRC participant rated 4 or lower.
 
 The list of eligible anime can be found under the [Manga List](#manga_list) section of the file. This list is sorted in alphabetical order and contains a hyperlink to their respective MAL page.
 

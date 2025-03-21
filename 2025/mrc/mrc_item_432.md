@@ -1,8 +1,12 @@
+---
+title: MRC2025 43.2
+---
+
 ## ABOUT ME
 
 This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
 
-(432) Read a manga that an active MRC staff member has rated 9 or higher.
+(43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
 The list of eligible manga can be found under the [Manga List](#manga_list) section of the file. This list is sorted in alphabetical order and contains a hyperlink to their respective MAL page.
 
