@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of March 20, 2025:
+This list contains a list of anime eligible for the following challenge item, as of March 22, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -4999,7 +4999,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 38889
 	- Genre(s): Drama, Music, School, Shounen
-	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kono Sekai no Katasumi ni](https://myanimelist.net/anime/15227)
 	- Publication Status: Finished Airing
 	- MAL ID: 15227
@@ -7823,7 +7823,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://myanimelist.net/anime/50613)
 	- Publication Status: Finished Airing
 	- MAL ID: 50613
-	- Genre(s): Action, Drama, Historical, Samurai, Shounen
+	- Genre(s): Action, Historical, Samurai, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44)
 	- Publication Status: Finished Airing

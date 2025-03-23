@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of March 20, 2025:
+This list contains a list of anime eligible for the following challenge item, as of March 22, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -696,11 +696,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 52186
 	- Genre(s): Fantasy, Josei, Romance
 	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Kineta](https://myanimelist.net/profile/Kineta/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores)
-- [King of Prism: Shiny Seven Stars](https://myanimelist.net/anime/39699)
-	- Publication Status: Finished Airing
-	- MAL ID: 39699
-	- Genre(s): Idols (Male), Music, Sports
-	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
 - [Kingdom](https://myanimelist.net/anime/12031)
 	- Publication Status: Finished Airing
 	- MAL ID: 12031
@@ -1150,7 +1145,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 20907
 	- Genre(s): Adventure
-	- Staff Member(s): [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [Naruleach](https://myanimelist.net/profile/Naruleach/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
+	- Staff Member(s): [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [Naruleach](https://myanimelist.net/profile/Naruleach/statistics/anime-scores), [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [Ookiku Furikabutte](https://myanimelist.net/anime/2159)
 	- Publication Status: Finished Airing
 	- MAL ID: 2159
@@ -1249,7 +1244,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://myanimelist.net/anime/50613)
 	- Publication Status: Finished Airing
 	- MAL ID: 50613
-	- Genre(s): Action, Drama, Historical, Samurai, Shounen
+	- Genre(s): Action, Historical, Samurai, Shounen
 	- Staff Member(s): [Nioxys](https://myanimelist.net/profile/Nioxys/statistics/anime-scores)
 - [SKET Dance](https://myanimelist.net/anime/9863)
 	- Publication Status: Finished Airing
@@ -1441,6 +1436,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 6098
 	- Genre(s): Comedy, Romance, School, Seinen
 	- Staff Member(s): [8-bit](https://myanimelist.net/profile/8-bit/statistics/anime-scores)
+- [Sorairo Utility (TV)](https://myanimelist.net/anime/58066)
+	- Publication Status: Finished Airing
+	- MAL ID: 58066
+	- Genre(s): CGDCT, Sports
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Soratobu Yuureisen](https://myanimelist.net/anime/2811)
 	- Publication Status: Finished Airing
 	- MAL ID: 2811
@@ -1541,6 +1541,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 55844
 	- Genre(s): Boys Love, School
 	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
+- [Tasokare Hotel](https://myanimelist.net/anime/59136)
+	- Publication Status: Finished Airing
+	- MAL ID: 59136
+	- Genre(s): Fantasy, Mystery
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story](https://myanimelist.net/anime/52962)
 	- Publication Status: Finished Airing
 	- MAL ID: 52962
