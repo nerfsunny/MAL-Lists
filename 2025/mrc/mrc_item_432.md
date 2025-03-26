@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of March 26, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -195,11 +195,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 124520
 	- Genre(s): Drama, Psychological, School, Seinen, Slice of Life
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
-- [Burn the Witch](https://myanimelist.net/manga/129370)
-	- Publication Status: On Hiatus
-	- MAL ID: 129370
-	- Genre(s): Action, Fantasy, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Can't See Can't Hear But Love](https://myanimelist.net/manga/35171)
 	- Publication Status: Finished
 	- MAL ID: 35171
@@ -330,11 +325,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 138817
 	- Genre(s): Action, Ecchi, Sci-Fi, Shounen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
-- [Gokurakugai](https://myanimelist.net/manga/147874)
-	- Publication Status: Currently Publishing
-	- MAL ID: 147874
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Goth](https://myanimelist.net/manga/958)
 	- Publication Status: Finished
 	- MAL ID: 958
@@ -425,11 +415,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 585
 	- Genre(s): Drama, Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Hunter x Hunter](https://myanimelist.net/manga/26)
-	- Publication Status: Currently Publishing
-	- MAL ID: 26
-	- Genre(s): Action, Adventure, Fantasy, Shounen
-	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [I Am a Hero](https://myanimelist.net/manga/14440)
 	- Publication Status: Finished
 	- MAL ID: 14440
@@ -1039,11 +1024,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 436
 	- Genre(s): Drama, Horror, Seinen, Supernatural
-	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
-- [Vagabond](https://myanimelist.net/manga/656)
-	- Publication Status: On Hiatus
-	- MAL ID: 656
-	- Genre(s): Action, Adventure, Award Winning, Historical, Samurai, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Voynich Hotel](https://myanimelist.net/manga/25250)
 	- Publication Status: Finished

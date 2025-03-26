@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of March 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of March 26, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -93,7 +93,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [100-man no Inochi no Ue ni Ore wa Tatteiru](https://myanimelist.net/manga/99449)
 	- Publication Status: Currently Publishing
 	- MAL ID: 99449
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Fantasy, Isekai, Shounen
+	- Genre(s): Action, Drama, Fantasy, Isekai, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [100-man$ Kid](https://myanimelist.net/manga/12930)
 	- Publication Status: Finished
@@ -308,7 +308,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [8-gatsu 31-nichi no Long Summer](https://myanimelist.net/manga/157396)
 	- Publication Status: Currently Publishing
 	- MAL ID: 157396
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Sci-Fi, Seinen, Time Travel
+	- Genre(s): Comedy, Romance, Sci-Fi, Seinen, Time Travel
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [8-gatsu no Ghost](https://myanimelist.net/manga/102452)
 	- Publication Status: Finished
@@ -463,7 +463,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Adou](https://myanimelist.net/manga/126259)
 	- Publication Status: Currently Publishing
 	- MAL ID: 126259
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Sci-Fi, Seinen, Suspense
+	- Genre(s): Action, Drama, Sci-Fi, Seinen, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Adult Lecture](https://myanimelist.net/manga/156985)
 	- Publication Status: Finished
@@ -483,7 +483,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [After God](https://myanimelist.net/manga/143991)
 	- Publication Status: Currently Publishing
 	- MAL ID: 143991
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [After Hours](https://myanimelist.net/manga/90491)
 	- Publication Status: Finished
@@ -598,7 +598,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Aishiteru Game wo Owarasetai](https://myanimelist.net/manga/143031)
 	- Publication Status: Currently Publishing
 	- MAL ID: 143031
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School
+	- Genre(s): Comedy, Romance, School
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Aishiteruze Baby★★](https://myanimelist.net/manga/55)
 	- Publication Status: Finished
@@ -688,7 +688,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Akane-banashi](https://myanimelist.net/manga/144034)
 	- Publication Status: Currently Publishing
 	- MAL ID: 144034
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Performing Arts, Shounen
+	- Genre(s): Drama, Performing Arts, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Akari](https://myanimelist.net/manga/171826)
 	- Publication Status: Finished
@@ -738,7 +738,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Akebi-chan no Sailor-fuku](https://myanimelist.net/manga/101851)
 	- Publication Status: Currently Publishing
 	- MAL ID: 101851
-	- Genre(s): Eligible Titles for You Should Read This, School, Seinen, Slice of Life
+	- Genre(s): School, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Aki](https://myanimelist.net/manga/32943)
 	- Publication Status: Finished
@@ -803,7 +803,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Akuyaku Reijou, Cecilia Sylvie wa Shinitakunai node Dansou suru Koto ni Shita.](https://myanimelist.net/manga/130130)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130130
-	- Genre(s): Comedy, Crossdressing, Eligible Titles for You Should Read This, Fantasy, Romance, Villainess
+	- Genre(s): Comedy, Crossdressing, Fantasy, Romance, Villainess
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Alabaster](https://myanimelist.net/manga/22194)
 	- Publication Status: Finished
@@ -908,7 +908,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ame to Kimi to](https://myanimelist.net/manga/129418)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129418
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Seinen, Slice of Life
+	- Genre(s): Comedy, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Amon Game](https://myanimelist.net/manga/16759)
 	- Publication Status: Finished
@@ -973,7 +973,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ane Naru Mono](https://myanimelist.net/manga/97760)
 	- Publication Status: Currently Publishing
 	- MAL ID: 97760
-	- Genre(s): Ecchi, Eligible Titles for You Should Read This, Horror, Romance, Supernatural
+	- Genre(s): Ecchi, Horror, Romance, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ane no Tomodachi](https://myanimelist.net/manga/157378)
 	- Publication Status: Currently Publishing
@@ -993,12 +993,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ani Datta Mono](https://myanimelist.net/manga/148543)
 	- Publication Status: Currently Publishing
 	- MAL ID: 148543
-	- Genre(s): Eligible Titles for You Should Read This, Horror, Mystery, Supernatural
+	- Genre(s): Horror, Mystery, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ani no Yome to Kurashiteimasu.](https://myanimelist.net/manga/94342)
 	- Publication Status: Currently Publishing
 	- MAL ID: 94342
-	- Genre(s): Eligible Titles for You Should Read This, Seinen, Slice of Life
+	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ani-Com](https://myanimelist.net/manga/4095)
 	- Publication Status: Finished
@@ -1038,7 +1038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ano Ko no Kodomo](https://myanimelist.net/manga/140333)
 	- Publication Status: Finished
 	- MAL ID: 140333
-	- Genre(s): Award Winning, Drama, Eligible Titles for You Should Read This, Romance, School, Shoujo
+	- Genre(s): Award Winning, Drama, Romance, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ano Yo no Task](https://myanimelist.net/manga/161247)
 	- Publication Status: Currently Publishing
@@ -1073,7 +1073,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ao no Hako](https://myanimelist.net/manga/135545)
 	- Publication Status: Currently Publishing
 	- MAL ID: 135545
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Shounen, Sports, Team Sports
+	- Genre(s): Romance, School, Shounen, Sports, Team Sports
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ao no Shi, Boku no Koukai](https://myanimelist.net/manga/143739)
 	- Publication Status: Finished
@@ -1188,7 +1188,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ari no Ou](https://myanimelist.net/manga/100472)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100472
-	- Genre(s): Action, Eligible Titles for You Should Read This, Shounen
+	- Genre(s): Action, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Arigatights!](https://myanimelist.net/manga/118352)
 	- Publication Status: Finished
@@ -1218,7 +1218,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Arte](https://myanimelist.net/manga/75929)
 	- Publication Status: Currently Publishing
 	- MAL ID: 75929
-	- Genre(s): Eligible Titles for You Should Read This, Historical, Seinen, Visual Arts
+	- Genre(s): Historical, Seinen, Visual Arts
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Aru Asa Okitara](https://myanimelist.net/manga/78775)
 	- Publication Status: Finished
@@ -1233,7 +1233,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Asadora!](https://myanimelist.net/manga/116000)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116000
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Historical, Mystery, Seinen, Supernatural
+	- Genre(s): Drama, Historical, Mystery, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Asagiri Kanami wa Mieteiru](https://myanimelist.net/manga/158597)
 	- Publication Status: Currently Publishing
@@ -1733,7 +1733,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Be Blues! Ao ni Nare](https://myanimelist.net/manga/59519)
 	- Publication Status: Finished
 	- MAL ID: 59519
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Shounen, Sports, Team Sports
+	- Genre(s): Award Winning, Shounen, Sports, Team Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Be-Bop Highschool](https://myanimelist.net/manga/12094)
 	- Publication Status: Finished
@@ -2018,7 +2018,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Blue Period](https://myanimelist.net/manga/107931)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107931
-	- Genre(s): Award Winning, Drama, Eligible Titles for You Should Read This, School, Seinen, Visual Arts
+	- Genre(s): Award Winning, Drama, School, Seinen, Visual Arts
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Blue Phobia](https://myanimelist.net/manga/111571)
 	- Publication Status: Finished
@@ -2088,7 +2088,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku ga Shinu dake no Hyakumonogatari](https://myanimelist.net/manga/141760)
 	- Publication Status: Currently Publishing
 	- MAL ID: 141760
-	- Genre(s): Eligible Titles for You Should Read This, Horror, Mystery, Mythology, Psychological, Shounen, Supernatural
+	- Genre(s): Horror, Mystery, Mythology, Psychological, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boku ga Watashi ni Naru Tame ni](https://myanimelist.net/manga/99945)
 	- Publication Status: Finished
@@ -2128,7 +2128,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku no Kokoro no Yabai Yatsu](https://myanimelist.net/manga/112807)
 	- Publication Status: Currently Publishing
 	- MAL ID: 112807
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Shounen
+	- Genre(s): Comedy, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Boku no Marie](https://myanimelist.net/manga/10224)
 	- Publication Status: Finished
@@ -2158,7 +2158,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku no Tsuma wa Kanjou ga Nai](https://myanimelist.net/manga/128356)
 	- Publication Status: Currently Publishing
 	- MAL ID: 128356
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Sci-Fi, Seinen
+	- Genre(s): Comedy, Romance, Sci-Fi, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Boku no Watashi no Yusha Gaku](https://myanimelist.net/manga/1752)
 	- Publication Status: Finished
@@ -2343,7 +2343,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Bootsleg](https://myanimelist.net/manga/119611)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119611
-	- Genre(s): Action, Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Shounen, Supernatural
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Border](https://myanimelist.net/manga/60993)
 	- Publication Status: Finished
@@ -2378,22 +2378,22 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru](https://myanimelist.net/manga/119533)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119533
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta](https://myanimelist.net/manga/115194)
 	- Publication Status: Currently Publishing
 	- MAL ID: 115194
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Bouncer](https://myanimelist.net/manga/104373)
 	- Publication Status: Currently Publishing
 	- MAL ID: 104373
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Action, Drama, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic](https://myanimelist.net/manga/113958)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113958
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boushokuki no Ken](https://myanimelist.net/manga/123777)
 	- Publication Status: Currently Publishing
@@ -2508,7 +2508,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Busou Shoujo Machiavellianism](https://myanimelist.net/manga/81707)
 	- Publication Status: Finished
 	- MAL ID: 81707
-	- Genre(s): Action, Eligible Titles for You Should Read This, Martial Arts, School, Shounen
+	- Genre(s): Action, Martial Arts, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Buster Dress](https://myanimelist.net/manga/99874)
 	- Publication Status: Finished
@@ -2633,7 +2633,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Catenaccio](https://myanimelist.net/manga/159277)
 	- Publication Status: Currently Publishing
 	- MAL ID: 159277
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Seinen, Sports, Team Sports
+	- Genre(s): Drama, Seinen, Sports, Team Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Caterpillar](https://myanimelist.net/manga/40051)
 	- Publication Status: Finished
@@ -2698,7 +2698,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore](https://myanimelist.net/manga/117726)
 	- Publication Status: Currently Publishing
 	- MAL ID: 117726
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Isekai, Iyashikei
+	- Genre(s): Comedy, Fantasy, Isekai, Iyashikei
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Chernobyl no Inori](https://myanimelist.net/manga/160725)
 	- Publication Status: Currently Publishing
@@ -2843,7 +2843,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Chitose-kun wa Ramune Bin no Naka](https://myanimelist.net/manga/130461)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130461
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Harem, Romance, School
+	- Genre(s): Comedy, Harem, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Chobits](https://myanimelist.net/manga/107)
 	- Publication Status: Finished
@@ -3058,7 +3058,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Coffee Moon](https://myanimelist.net/manga/129332)
 	- Publication Status: Finished
 	- MAL ID: 129332
-	- Genre(s): Eligible Titles for You Should Read This, Mystery, Seinen, Slice of Life, Supernatural
+	- Genre(s): Mystery, Seinen, Slice of Life, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Colette wa Shinu Koto ni Shita](https://myanimelist.net/manga/68883)
 	- Publication Status: Finished
@@ -3073,7 +3073,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Colorless](https://myanimelist.net/manga/124007)
 	- Publication Status: Finished
 	- MAL ID: 124007
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Super Power
+	- Genre(s): Action, Fantasy, Super Power
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Colossus Order](https://myanimelist.net/manga/59015)
 	- Publication Status: Currently Publishing
@@ -3173,7 +3173,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Crime Game: Houritsu no Nai Sekai](https://myanimelist.net/manga/159364)
 	- Publication Status: Currently Publishing
 	- MAL ID: 159364
-	- Genre(s): Drama, Eligible Titles for You Should Read This, High Stakes Game, Survival, Suspense
+	- Genre(s): Drama, High Stakes Game, Survival, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Crimezone](https://myanimelist.net/manga/29485)
 	- Publication Status: Finished
@@ -3238,7 +3238,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Cuprum no Hanayome](https://myanimelist.net/manga/127084)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127084
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Seinen
+	- Genre(s): Comedy, Romance, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Curry Man](https://myanimelist.net/manga/160698)
 	- Publication Status: Finished
@@ -3303,12 +3303,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Daddy de Buddy](https://myanimelist.net/manga/162936)
 	- Publication Status: Finished
 	- MAL ID: 162936
-	- Genre(s): Action, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Action, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dai Dark](https://myanimelist.net/manga/118858)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118858
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Horror, Sci-Fi, Shounen
+	- Genre(s): Comedy, Horror, Sci-Fi, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dai-2 Dai-4 Kayoubi no Koi](https://myanimelist.net/manga/135539)
 	- Publication Status: Finished
@@ -3343,7 +3343,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Daikaijuu Gaea-tima](https://myanimelist.net/manga/159888)
 	- Publication Status: Currently Publishing
 	- MAL ID: 159888
-	- Genre(s): Action, Eligible Titles for You Should Read This, Sci-Fi, Seinen
+	- Genre(s): Action, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Daimonji to Mondaiji](https://myanimelist.net/manga/161506)
 	- Publication Status: Currently Publishing
@@ -3388,7 +3388,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dandadan](https://myanimelist.net/manga/135496)
 	- Publication Status: Currently Publishing
 	- MAL ID: 135496
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Action, Comedy, Shounen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Dangan Tenshi Fan Club](https://myanimelist.net/manga/46602)
 	- Publication Status: Finished
@@ -3423,7 +3423,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Darashinai desu, Hotta-sensei!](https://myanimelist.net/manga/158884)
 	- Publication Status: Currently Publishing
 	- MAL ID: 158884
-	- Genre(s): Comedy, Ecchi, Eligible Titles for You Should Read This, Romance, School, Seinen
+	- Genre(s): Comedy, Ecchi, Romance, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dareka wo Norowazu ni Irarenai Kono Sekai de](https://myanimelist.net/manga/122396)
 	- Publication Status: Finished
@@ -3438,7 +3438,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dark Gathering](https://myanimelist.net/manga/118668)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118668
-	- Genre(s): Eligible Titles for You Should Read This, Horror, Shounen, Supernatural
+	- Genre(s): Horror, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dark Summoner to Dekiteiru](https://myanimelist.net/manga/154649)
 	- Publication Status: Currently Publishing
@@ -3458,7 +3458,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Darwin Jihen](https://myanimelist.net/manga/130755)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130755
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Sci-Fi, Seinen
+	- Genre(s): Award Winning, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Date Masamune](https://myanimelist.net/manga/36833)
 	- Publication Status: Finished
@@ -3488,7 +3488,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dead Mount Death Play](https://myanimelist.net/manga/110301)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110301
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Reincarnation, Seinen, Supernatural
+	- Genre(s): Action, Fantasy, Reincarnation, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dead Word Puzzle](https://myanimelist.net/manga/68915)
 	- Publication Status: Finished
@@ -3543,7 +3543,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Deatte 5-byou de Battle](https://myanimelist.net/manga/102690)
 	- Publication Status: Currently Publishing
 	- MAL ID: 102690
-	- Genre(s): Action, Eligible Titles for You Should Read This, Gore, Super Power, Supernatural
+	- Genre(s): Action, Gore, Super Power, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Debby the Corsifa wa Makezugirai](https://myanimelist.net/manga/132749)
 	- Publication Status: Finished
@@ -3713,7 +3713,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dinosan](https://myanimelist.net/manga/142793)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142793
-	- Genre(s): Eligible Titles for You Should Read This, Sci-Fi, Seinen, Slice of Life
+	- Genre(s): Sci-Fi, Seinen, Slice of Life
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dinosaur King](https://myanimelist.net/manga/21119)
 	- Publication Status: Finished
@@ -3773,7 +3773,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dogsred](https://myanimelist.net/manga/160828)
 	- Publication Status: Currently Publishing
 	- MAL ID: 160828
-	- Genre(s): Eligible Titles for You Should Read This, Seinen, Sports, Team Sports
+	- Genre(s): Seinen, Sports, Team Sports
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Dois Sol](https://myanimelist.net/manga/24363)
 	- Publication Status: Finished
@@ -3933,7 +3933,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Doukyonin wa Hiza, Tokidoki, Atama no Ue.](https://myanimelist.net/manga/99391)
 	- Publication Status: Currently Publishing
 	- MAL ID: 99391
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Iyashikei, Pets, Slice of Life
+	- Genre(s): Comedy, Iyashikei, Pets, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dounika Naru Hibi](https://myanimelist.net/manga/5750)
 	- Publication Status: Finished
@@ -4040,6 +4040,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 9405
 	- Genre(s): Award Winning, Drama, School, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Drama Queen](https://myanimelist.net/manga/176798)
+	- Publication Status: Currently Publishing
+	- MAL ID: 176798
+	- Genre(s): Shounen, Suspense
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dreams](https://myanimelist.net/manga/7335)
 	- Publication Status: Finished
 	- MAL ID: 7335
@@ -4078,7 +4083,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dungeon no Naka no Hito](https://myanimelist.net/manga/136528)
 	- Publication Status: Currently Publishing
 	- MAL ID: 136528
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Adventure, Comedy, Fantasy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dungeon-tou de Yadoya wo Yarou!: Souzou Mahou wo Moratta Ore no Hosoude Hanjouki](https://myanimelist.net/manga/146186)
 	- Publication Status: Currently Publishing
@@ -4158,7 +4163,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Efu no Shichinin](https://myanimelist.net/manga/111053)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111053
-	- Genre(s): Action, Eligible Titles for You Should Read This, Historical, Seinen
+	- Genre(s): Action, Historical, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Egaobeta na Naruse-kun](https://myanimelist.net/manga/117940)
 	- Publication Status: Finished
@@ -4363,7 +4368,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Exorcist wo Otosenai](https://myanimelist.net/manga/142629)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142629
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Mythology, Romance, Shounen
+	- Genre(s): Action, Fantasy, Mythology, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Extra Heavy Syrup](https://myanimelist.net/manga/4304)
 	- Publication Status: Finished
@@ -4473,7 +4478,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Flying Witch](https://myanimelist.net/manga/46258)
 	- Publication Status: Currently Publishing
 	- MAL ID: 46258
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Iyashikei, Shounen, Slice of Life, Urban Fantasy
+	- Genre(s): Fantasy, Iyashikei, Shounen, Slice of Life, Urban Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Foggy Foot](https://myanimelist.net/manga/128008)
 	- Publication Status: Finished
@@ -4483,7 +4488,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Fool Night](https://myanimelist.net/manga/135264)
 	- Publication Status: Currently Publishing
 	- MAL ID: 135264
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Sci-Fi, Seinen
+	- Genre(s): Drama, Sci-Fi, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Football Alchemist](https://myanimelist.net/manga/127077)
 	- Publication Status: Finished
@@ -4628,7 +4633,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://myanimelist.net/manga/118026)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118026
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Drama, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Fukuyadou Honpo](https://myanimelist.net/manga/14268)
 	- Publication Status: Finished
@@ -4653,7 +4658,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Fumetsu no Anata e](https://myanimelist.net/manga/102343)
 	- Publication Status: Currently Publishing
 	- MAL ID: 102343
-	- Genre(s): Adventure, Award Winning, Drama, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Adventure, Award Winning, Drama, Shounen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Funouhan](https://myanimelist.net/manga/75171)
 	- Publication Status: Finished
@@ -4898,7 +4903,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gachiakuta](https://myanimelist.net/manga/144180)
 	- Publication Status: Currently Publishing
 	- MAL ID: 144180
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Action, Fantasy, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Gachikoi Maou-sama](https://myanimelist.net/manga/157301)
 	- Publication Status: Currently Publishing
@@ -4918,7 +4923,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu](https://myanimelist.net/manga/105328)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105328
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Action, Fantasy, Isekai
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx)
 - [Gaikotsu to Koi wa Dekiru no ka?](https://myanimelist.net/manga/147037)
 	- Publication Status: Finished
@@ -4973,7 +4978,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gal Gamer ni Homeraretai](https://myanimelist.net/manga/141584)
 	- Publication Status: Currently Publishing
 	- MAL ID: 141584
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Video Game
+	- Genre(s): Comedy, Romance, Video Game
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Gal Gohan](https://myanimelist.net/manga/103694)
 	- Publication Status: Finished
@@ -5133,7 +5138,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gekkan Shoujo Nozaki-kun](https://myanimelist.net/manga/29211)
 	- Publication Status: Currently Publishing
 	- MAL ID: 29211
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Otaku Culture, Romance, School
+	- Genre(s): Comedy, Otaku Culture, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Genderless Danshi ni Aisareteimasu.](https://myanimelist.net/manga/113782)
 	- Publication Status: Finished
@@ -5153,7 +5158,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Genkai Chitai](https://myanimelist.net/manga/132671)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132671
-	- Genre(s): Eligible Titles for You Should Read This, Horror
+	- Genre(s): Horror
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Genkaku Picasso](https://myanimelist.net/manga/11558)
 	- Publication Status: Finished
@@ -5228,7 +5233,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ghost Girl](https://myanimelist.net/manga/128150)
 	- Publication Status: Currently Publishing
 	- MAL ID: 128150
-	- Genre(s): Action, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Action, Shounen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Ghost Hunt: Akumu no Sumu Ie](https://myanimelist.net/manga/41697)
 	- Publication Status: Finished
@@ -5393,7 +5398,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Glitch](https://myanimelist.net/manga/157577)
 	- Publication Status: Finished
 	- MAL ID: 157577
-	- Genre(s): Eligible Titles for You Should Read This, Mystery, Seinen
+	- Genre(s): Mystery, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Go West!](https://myanimelist.net/manga/8917)
 	- Publication Status: Finished
@@ -5408,7 +5413,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Goblin Slayer](https://myanimelist.net/manga/98720)
 	- Publication Status: Currently Publishing
 	- MAL ID: 98720
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Action, Fantasy, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Goblin wa Mou Juubun ni Tsuyoi](https://myanimelist.net/manga/106247)
 	- Publication Status: Finished
@@ -5488,7 +5493,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gokurakugai](https://myanimelist.net/manga/147874)
 	- Publication Status: Currently Publishing
 	- MAL ID: 147874
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Action, Fantasy, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Gokusen](https://myanimelist.net/manga/1092)
 	- Publication Status: Finished
@@ -5498,7 +5503,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gokushufudou](https://myanimelist.net/manga/112922)
 	- Publication Status: Currently Publishing
 	- MAL ID: 112922
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Organized Crime
+	- Genre(s): Adult Cast, Comedy, Organized Crime
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Golden Boy](https://myanimelist.net/manga/1458)
 	- Publication Status: Finished
@@ -5568,7 +5573,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Goukon ni Ittara Onna ga Inakatta Hanashi](https://myanimelist.net/manga/142799)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142799
-	- Genre(s): Adult Cast, Comedy, Crossdressing, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Adult Cast, Comedy, Crossdressing, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Goumon Isu Tantei](https://myanimelist.net/manga/112356)
 	- Publication Status: Finished
@@ -5723,12 +5728,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hachi-nan tte, Sore wa Nai deshou!](https://myanimelist.net/manga/94181)
 	- Publication Status: Currently Publishing
 	- MAL ID: 94181
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://myanimelist.net/manga/129187)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129187
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Horror, Romance, Supernatural, Suspense
+	- Genre(s): Drama, Horror, Romance, Supernatural, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hachimitsu to Clover](https://myanimelist.net/manga/1009)
 	- Publication Status: Finished
@@ -5778,7 +5783,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Haikei... Koroshiya-san to Kekkon Shimashita](https://myanimelist.net/manga/123101)
 	- Publication Status: Currently Publishing
 	- MAL ID: 123101
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Romance
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Haikyo Shoujo](https://myanimelist.net/manga/29879)
 	- Publication Status: Finished
@@ -5953,7 +5958,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hana ni Arashi](https://myanimelist.net/manga/111857)
 	- Publication Status: Finished
 	- MAL ID: 111857
-	- Genre(s): Eligible Titles for You Should Read This, Girls Love, School
+	- Genre(s): Girls Love, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hana no Asuka Gumi!](https://myanimelist.net/manga/5326)
 	- Publication Status: Finished
@@ -6033,7 +6038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hananoi-kun to Koi no Yamai](https://myanimelist.net/manga/111953)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111953
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Romance, School, Shoujo
+	- Genre(s): Award Winning, Romance, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hanauta Memoir](https://myanimelist.net/manga/161866)
 	- Publication Status: Currently Publishing
@@ -6188,7 +6193,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Harukaze no Étranger](https://myanimelist.net/manga/77609)
 	- Publication Status: Currently Publishing
 	- MAL ID: 77609
-	- Genre(s): Boys Love, Eligible Titles for You Should Read This, Slice of Life
+	- Genre(s): Boys Love, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Haruno to Natsukawa.](https://myanimelist.net/manga/49827)
 	- Publication Status: Finished
@@ -6283,7 +6288,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Heart Gear](https://myanimelist.net/manga/119321)
 	- Publication Status: Finished
 	- MAL ID: 119321
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Sci-Fi, Shounen
+	- Genre(s): Action, Adventure, Sci-Fi, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Heartcatch Precure!](https://myanimelist.net/manga/25928)
 	- Publication Status: Finished
@@ -6358,7 +6363,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru](https://myanimelist.net/manga/134870)
 	- Publication Status: Currently Publishing
 	- MAL ID: 134870
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hell of a Romance](https://myanimelist.net/manga/161872)
 	- Publication Status: Finished
@@ -6438,7 +6443,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Henai Heartbeat](https://myanimelist.net/manga/158883)
 	- Publication Status: Finished
 	- MAL ID: 158883
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Shounen
+	- Genre(s): Romance, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hengoku no Schwester](https://myanimelist.net/manga/90609)
 	- Publication Status: Finished
@@ -6458,7 +6463,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Henkyou no Roukishi Bard Roehn](https://myanimelist.net/manga/105921)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105921
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Action, Adventure, Fantasy, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hensachi 10 no Ore ga Isekai de Chie no Yuusha ni Nareta Wake](https://myanimelist.net/manga/142166)
 	- Publication Status: Currently Publishing
@@ -6513,7 +6518,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Heterogenia Linguistic: Ishuzoku Gengogaku Nyuumon](https://myanimelist.net/manga/113196)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113196
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Slice of Life
+	- Genre(s): Fantasy, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Heureka](https://myanimelist.net/manga/10619)
 	- Publication Status: Finished
@@ -6588,7 +6593,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/manga/116766)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116766
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Romance, Shounen
+	- Genre(s): Drama, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [High School Musical](https://myanimelist.net/manga/12200)
 	- Publication Status: Finished
@@ -6633,7 +6638,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hikari no Hako](https://myanimelist.net/manga/137944)
 	- Publication Status: Currently Publishing
 	- MAL ID: 137944
-	- Genre(s): Eligible Titles for You Should Read This, Josei, Slice of Life, Supernatural
+	- Genre(s): Josei, Slice of Life, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Hikari to Tomo ni...: Jiheishouji wo Kakaete](https://myanimelist.net/manga/4258)
 	- Publication Status: Finished
@@ -6698,7 +6703,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Himekishi wa Barbaroi no Yome](https://myanimelist.net/manga/134599)
 	- Publication Status: Currently Publishing
 	- MAL ID: 134599
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Romance, Shounen
+	- Genre(s): Comedy, Fantasy, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Himekishi-san to Orc](https://myanimelist.net/manga/92427)
 	- Publication Status: Finished
@@ -6713,7 +6718,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Himesama "Goumon" no Jikan desu](https://myanimelist.net/manga/119375)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119375
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Gourmet, Mythology, Shounen
+	- Genre(s): Comedy, Fantasy, Gourmet, Mythology, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Himesama Tanuki no Koizanyou](https://myanimelist.net/manga/65311)
 	- Publication Status: Finished
@@ -6768,7 +6773,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hinemosu Notari Nikki](https://myanimelist.net/manga/118016)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118016
-	- Genre(s): Eligible Titles for You Should Read This, Historical, Memoir, Seinen, Slice of Life
+	- Genre(s): Historical, Memoir, Seinen, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hiniiru](https://myanimelist.net/manga/84945)
 	- Publication Status: Finished
@@ -6808,7 +6813,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hirayasumi](https://myanimelist.net/manga/137303)
 	- Publication Status: Currently Publishing
 	- MAL ID: 137303
-	- Genre(s): Eligible Titles for You Should Read This, Seinen, Slice of Life
+	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hiroki - Harusaki Meiro](https://myanimelist.net/manga/20769)
 	- Publication Status: Finished
@@ -6863,7 +6868,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hitomi-chan wa Hitomishiri](https://myanimelist.net/manga/117078)
 	- Publication Status: Currently Publishing
 	- MAL ID: 117078
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School
+	- Genre(s): Comedy, Love Status Quo, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hitomi-sensei no Hokenshitsu](https://myanimelist.net/manga/59799)
 	- Publication Status: Currently Publishing
@@ -6983,7 +6988,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hone Dragon no Mana Musume](https://myanimelist.net/manga/137306)
 	- Publication Status: Currently Publishing
 	- MAL ID: 137306
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hone ga Kusaru made](https://myanimelist.net/manga/102987)
 	- Publication Status: Finished
@@ -7113,7 +7118,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hotaru no Yomeiri](https://myanimelist.net/manga/154679)
 	- Publication Status: Currently Publishing
 	- MAL ID: 154679
-	- Genre(s): Eligible Titles for You Should Read This, Historical, Romance
+	- Genre(s): Historical, Romance
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Hotel Harbour View](https://myanimelist.net/manga/8951)
 	- Publication Status: Finished
@@ -7133,7 +7138,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hoteri Hotette First Kiss](https://myanimelist.net/manga/155530)
 	- Publication Status: Finished
 	- MAL ID: 155530
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Shoujo
+	- Genre(s): Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hotman](https://myanimelist.net/manga/3608)
 	- Publication Status: Finished
@@ -7198,7 +7203,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Houkago no Salome](https://myanimelist.net/manga/130374)
 	- Publication Status: Finished
 	- MAL ID: 130374
-	- Genre(s): Drama, Eligible Titles for You Should Read This, School, Visual Arts
+	- Genre(s): Drama, School, Visual Arts
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Houkago, Koishita.](https://myanimelist.net/manga/106981)
 	- Publication Status: Finished
@@ -7223,7 +7228,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Housekishou Richard-shi no Nazo Kantei](https://myanimelist.net/manga/124160)
 	- Publication Status: Currently Publishing
 	- MAL ID: 124160
-	- Genre(s): Adult Cast, Drama, Eligible Titles for You Should Read This, Josei, Mystery, Workplace
+	- Genre(s): Adult Cast, Drama, Josei, Mystery, Workplace
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Houtei Yuugi](https://myanimelist.net/manga/156493)
 	- Publication Status: Currently Publishing
@@ -7483,7 +7488,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/manga/110737)
 	- Publication Status: Finished
 	- MAL ID: 110737
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School, Visual Arts
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Visual Arts
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Ijousha no Ai](https://myanimelist.net/manga/105901)
 	- Publication Status: Finished
@@ -7613,7 +7618,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Imouto no Tomodachi ga Nani Kangaeteru no ka Wakaranai](https://myanimelist.net/manga/129566)
 	- Publication Status: Finished
 	- MAL ID: 129566
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance
+	- Genre(s): Comedy, Love Status Quo, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Imouto wa Meshimazu](https://myanimelist.net/manga/117426)
 	- Publication Status: Finished
@@ -7798,7 +7803,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai Izakaya "Nobu"](https://myanimelist.net/manga/90190)
 	- Publication Status: Currently Publishing
 	- MAL ID: 90190
-	- Genre(s): Adult Cast, Eligible Titles for You Should Read This, Fantasy, Gourmet, Isekai, Iyashikei, Seinen, Workplace
+	- Genre(s): Adult Cast, Fantasy, Gourmet, Isekai, Iyashikei, Seinen, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekai Kenkokuki](https://myanimelist.net/manga/109696)
 	- Publication Status: Currently Publishing
@@ -7808,7 +7813,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai Kuimetsu no Same](https://myanimelist.net/manga/131228)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131228
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekai Meikyuu de Harem wo](https://myanimelist.net/manga/106608)
 	- Publication Status: Currently Publishing
@@ -7818,7 +7823,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai Ojisan](https://myanimelist.net/manga/120177)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120177
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Fantasy, Isekai, Otaku Culture, Parody
+	- Genre(s): Adult Cast, Comedy, Fantasy, Isekai, Otaku Culture, Parody
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekai Omotenashi Gohan](https://myanimelist.net/manga/110621)
 	- Publication Status: Finished
@@ -7833,7 +7838,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai Ryouridou](https://myanimelist.net/manga/110081)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110081
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Gourmet, Isekai, Reincarnation
+	- Genre(s): Fantasy, Gourmet, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekai Seikatsu no Susume](https://myanimelist.net/manga/128828)
 	- Publication Status: Finished
@@ -7843,7 +7848,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/manga/124912)
 	- Publication Status: Currently Publishing
 	- MAL ID: 124912
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, School
+	- Genre(s): Action, Adventure, Fantasy, Isekai, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekai de Shippai shinai 100 no Houhou](https://myanimelist.net/manga/118596)
 	- Publication Status: Finished
@@ -7878,12 +7883,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Isekai wa Smartphone to Tomo ni.](https://myanimelist.net/manga/105645)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105645
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Harem, Isekai, Romance
+	- Genre(s): Adventure, Comedy, Fantasy, Harem, Isekai, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isekaigaeri no Yuusha ga Gendai Saikyou!](https://myanimelist.net/manga/120446)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120446
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Harem, Isekai, School, Super Power
+	- Genre(s): Action, Fantasy, Harem, Isekai, School, Super Power
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Isho, Koukai.](https://myanimelist.net/manga/113433)
 	- Publication Status: Finished
@@ -7958,7 +7963,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Itsuwari no Freja](https://myanimelist.net/manga/108897)
 	- Publication Status: Currently Publishing
 	- MAL ID: 108897
-	- Genre(s): Crossdressing, Eligible Titles for You Should Read This, Historical, Shoujo
+	- Genre(s): Crossdressing, Historical, Shoujo
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Itsuwaribito◆Utsuho◆](https://myanimelist.net/manga/16815)
 	- Publication Status: Finished
@@ -8033,7 +8038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Jahy-sama wa Kujikenai!](https://myanimelist.net/manga/109234)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109234
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Comedy, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Jaken-san wa Sugu Bureru](https://myanimelist.net/manga/118129)
 	- Publication Status: Finished
@@ -8053,7 +8058,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Jaryuu Tensei](https://myanimelist.net/manga/100923)
 	- Publication Status: Finished
 	- MAL ID: 100923
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Adventure, Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Jesus](https://myanimelist.net/manga/20130)
 	- Publication Status: Finished
@@ -8273,7 +8278,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Josou shite Mendokusai Koto ni Natteru Nekura to Yankee no Ryou Kataomoi](https://myanimelist.net/manga/118126)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118126
-	- Genre(s): Comedy, Crossdressing, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Crossdressing, Romance
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Joujuu Senjin!! Mushibugyou](https://myanimelist.net/manga/36717)
 	- Publication Status: Finished
@@ -8353,12 +8358,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Juui-san no Oshigoto in Isekai](https://myanimelist.net/manga/99384)
 	- Publication Status: Currently Publishing
 	- MAL ID: 99384
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai, Medical
+	- Genre(s): Fantasy, Isekai, Medical
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Juujika no Rokunin](https://myanimelist.net/manga/125076)
 	- Publication Status: Currently Publishing
 	- MAL ID: 125076
-	- Genre(s): Eligible Titles for You Should Read This, Gore, Mystery, Psychological, Shounen, Suspense
+	- Genre(s): Gore, Mystery, Psychological, Shounen, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Juukan Kyoushitsu](https://myanimelist.net/manga/109271)
 	- Publication Status: Finished
@@ -8383,7 +8388,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Juushin no Katana](https://myanimelist.net/manga/164151)
 	- Publication Status: Currently Publishing
 	- MAL ID: 164151
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Samurai, Shounen
+	- Genre(s): Action, Fantasy, Samurai, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [K2](https://myanimelist.net/manga/90825)
 	- Publication Status: Currently Publishing
@@ -8408,7 +8413,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kabushikigaisha Magi-Lumière](https://myanimelist.net/manga/142224)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142224
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Mahou Shoujo, Shounen, Workplace
+	- Genre(s): Action, Fantasy, Mahou Shoujo, Shounen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kacchu no Senshi Gamu!](https://myanimelist.net/manga/7197)
 	- Publication Status: Finished
@@ -8483,7 +8488,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kaibutsu Shoujo Zukan](https://myanimelist.net/manga/121715)
 	- Publication Status: Finished
 	- MAL ID: 121715
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Horror, School, Shoujo, Slice of Life, Supernatural
+	- Genre(s): Comedy, Horror, School, Shoujo, Slice of Life, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kaibutsu Shoujo wa Hatsukoi no Yume wo Miru ka?](https://myanimelist.net/manga/146563)
 	- Publication Status: Finished
@@ -8518,7 +8523,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kaii to Otome to Kamikakushi](https://myanimelist.net/manga/122419)
 	- Publication Status: Currently Publishing
 	- MAL ID: 122419
-	- Genre(s): Eligible Titles for You Should Read This, Mystery, Supernatural
+	- Genre(s): Mystery, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kaiji to Okan](https://myanimelist.net/manga/156552)
 	- Publication Status: Currently Publishing
@@ -8528,12 +8533,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kaijin Reijou](https://myanimelist.net/manga/127968)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127968
-	- Genre(s): Action, Ecchi, Eligible Titles for You Should Read This, Gore, Shounen, Supernatural
+	- Genre(s): Action, Ecchi, Gore, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kaijuu 8-gou](https://myanimelist.net/manga/127907)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127907
-	- Genre(s): Action, Adult Cast, Eligible Titles for You Should Read This, Fantasy, Sci-Fi, Shounen, Urban Fantasy
+	- Genre(s): Action, Adult Cast, Fantasy, Sci-Fi, Shounen, Urban Fantasy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kaijuu no Buki Shokunin](https://myanimelist.net/manga/102871)
 	- Publication Status: Finished
@@ -8603,7 +8608,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kake kara Hajimaru Sayonara no Koi](https://myanimelist.net/manga/134644)
 	- Publication Status: Finished
 	- MAL ID: 134644
-	- Genre(s): Adult Cast, Eligible Titles for You Should Read This, Romance, Workplace
+	- Genre(s): Adult Cast, Romance, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kakeru](https://myanimelist.net/manga/48023)
 	- Publication Status: Finished
@@ -8613,7 +8618,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kakkou no Iinazuke](https://myanimelist.net/manga/123602)
 	- Publication Status: Currently Publishing
 	- MAL ID: 123602
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Harem, Romance, Shounen
+	- Genre(s): Comedy, Harem, Romance, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kako to Nise Tantei](https://myanimelist.net/manga/73639)
 	- Publication Status: Finished
@@ -8698,7 +8703,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/manga/111228)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111228
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Iyashikei, Reincarnation
+	- Genre(s): Adventure, Fantasy, Isekai, Iyashikei, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kamibukuro-kun wa Koishiteru](https://myanimelist.net/manga/130740)
 	- Publication Status: Finished
@@ -8883,7 +8888,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kanojo, Okarishimasu](https://myanimelist.net/manga/108407)
 	- Publication Status: Currently Publishing
 	- MAL ID: 108407
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Shounen
+	- Genre(s): Comedy, Romance, School, Shounen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kanshin Smbat](https://myanimelist.net/manga/162376)
 	- Publication Status: Currently Publishing
@@ -9013,7 +9018,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Katsute Kami Datta Kemono-tachi e](https://myanimelist.net/manga/72117)
 	- Publication Status: Finished
 	- MAL ID: 72117
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Fantasy, Military, Shounen
+	- Genre(s): Action, Drama, Fantasy, Military, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Katte ni Kaizou](https://myanimelist.net/manga/1428)
 	- Publication Status: Finished
@@ -9058,7 +9063,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kawaii dake ja Nai Shikimori-san](https://myanimelist.net/manga/118196)
 	- Publication Status: Finished
 	- MAL ID: 118196
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?](https://myanimelist.net/manga/111770)
 	- Publication Status: Finished
@@ -9163,12 +9168,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kekkon Yubiwa Monogatari](https://myanimelist.net/manga/66685)
 	- Publication Status: Finished
 	- MAL ID: 66685
-	- Genre(s): Action, Ecchi, Eligible Titles for You Should Read This, Fantasy, Harem, Isekai, Romance, Seinen
+	- Genre(s): Action, Ecchi, Fantasy, Harem, Isekai, Romance, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kekkon suru tte, Hontou desu ka](https://myanimelist.net/manga/125182)
 	- Publication Status: Finished
 	- MAL ID: 125182
-	- Genre(s): Eligible Titles for You Should Read This, Romance, Seinen, Workplace
+	- Genre(s): Romance, Seinen, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kekkou Kamen](https://myanimelist.net/manga/12709)
 	- Publication Status: Finished
@@ -9183,7 +9188,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kemono Jihen](https://myanimelist.net/manga/104076)
 	- Publication Status: Currently Publishing
 	- MAL ID: 104076
-	- Genre(s): Action, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Action, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kemono Kuni](https://myanimelist.net/manga/154142)
 	- Publication Status: Currently Publishing
@@ -9208,7 +9213,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kemutai Ane to Zurui Imouto](https://myanimelist.net/manga/147403)
 	- Publication Status: Currently Publishing
 	- MAL ID: 147403
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Josei, Romance
+	- Genre(s): Drama, Josei, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ken-chan to Neko. Tokidoki Ahiru](https://myanimelist.net/manga/121048)
 	- Publication Status: Finished
@@ -9228,7 +9233,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kenrantaru Grande Scène](https://myanimelist.net/manga/69841)
 	- Publication Status: Currently Publishing
 	- MAL ID: 69841
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Performing Arts, Seinen, Slice of Life
+	- Genre(s): Drama, Performing Arts, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kenritsu Chikyuu Boueigun](https://myanimelist.net/manga/11673)
 	- Publication Status: Finished
@@ -9388,7 +9393,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Killing Bites](https://myanimelist.net/manga/61087)
 	- Publication Status: Currently Publishing
 	- MAL ID: 61087
-	- Genre(s): Action, Ecchi, Eligible Titles for You Should Read This, Gore, Sci-Fi, Seinen
+	- Genre(s): Action, Ecchi, Gore, Sci-Fi, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Killing Line](https://myanimelist.net/manga/159406)
 	- Publication Status: Currently Publishing
@@ -9448,7 +9453,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kimi ni wa Todokanai.](https://myanimelist.net/manga/120481)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120481
-	- Genre(s): Boys Love, Eligible Titles for You Should Read This, School
+	- Genre(s): Boys Love, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kimi no Iru Machi](https://myanimelist.net/manga/8483)
 	- Publication Status: Finished
@@ -9633,7 +9638,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kininatteru Hito ga Otoko ja Nakatta](https://myanimelist.net/manga/155861)
 	- Publication Status: Currently Publishing
 	- MAL ID: 155861
-	- Genre(s): Eligible Titles for You Should Read This, Girls Love, Music
+	- Genre(s): Girls Love, Music
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kiniro no Yami](https://myanimelist.net/manga/16479)
 	- Publication Status: Finished
@@ -9803,7 +9808,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Koboreru Yoru ni](https://myanimelist.net/manga/151988)
 	- Publication Status: Currently Publishing
 	- MAL ID: 151988
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Josei, Romance
+	- Genre(s): Drama, Josei, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kochira Katsushikaku Kameari Kouenmae Hashutsujo](https://myanimelist.net/manga/733)
 	- Publication Status: Finished
@@ -9978,8 +9983,8 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Koiseyo Mayakashi Tenshi-domo](https://myanimelist.net/manga/158351)
 	- Publication Status: Currently Publishing
 	- MAL ID: 158351
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Shoujo
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+	- Genre(s): Comedy, Romance, School, Shoujo
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Koishikawa-san wa Nikushokukei](https://myanimelist.net/manga/125478)
 	- Publication Status: Finished
 	- MAL ID: 125478
@@ -10063,7 +10068,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natteita.](https://myanimelist.net/manga/121282)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121282
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kokoro no Kanashimi](https://myanimelist.net/manga/26012)
 	- Publication Status: Finished
@@ -10108,7 +10113,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kondo wa Zettai ni Jama Shimasen!](https://myanimelist.net/manga/116720)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116720
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Romance, Time Travel
+	- Genre(s): Drama, Romance, Time Travel
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Koneko Hiroimashita](https://myanimelist.net/manga/97844)
 	- Publication Status: Finished
@@ -10153,7 +10158,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kono Class ni Gal wa Inai](https://myanimelist.net/manga/158289)
 	- Publication Status: Currently Publishing
 	- MAL ID: 158289
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School, Shounen
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kono Gomi wo Nanto Yobu](https://myanimelist.net/manga/147461)
 	- Publication Status: Finished
@@ -10168,7 +10173,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kono Kaisha ni Suki na Hito ga Imasu](https://myanimelist.net/manga/118819)
 	- Publication Status: Finished
 	- MAL ID: 118819
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Romance, Seinen, Workplace
+	- Genre(s): Adult Cast, Comedy, Romance, Seinen, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kono Kanojo wa Fiction desu.](https://myanimelist.net/manga/24990)
 	- Publication Status: Finished
@@ -10203,12 +10208,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kono Sekai ga Game da to Ore dake ga Shitteiru](https://myanimelist.net/manga/83571)
 	- Publication Status: Finished
 	- MAL ID: 83571
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Fantasy, Harem, Video Game
+	- Genre(s): Action, Comedy, Fantasy, Harem, Video Game
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kono Sekai ga Izure Horobu Koto wo, Ore dake ga Shitteiru: Monster ga Arawareta Sekai de, Shinimodori Level Up](https://myanimelist.net/manga/151896)
 	- Publication Status: Finished
 	- MAL ID: 151896
-	- Genre(s): Action, Adult Cast, Eligible Titles for You Should Read This, Fantasy, Gore
+	- Genre(s): Action, Adult Cast, Fantasy, Gore
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kono Sekai no Katasumi ni](https://myanimelist.net/manga/11243)
 	- Publication Status: Finished
@@ -10223,7 +10228,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kono Subarashii Sekai ni Shukufuku wo!](https://myanimelist.net/manga/80385)
 	- Publication Status: Currently Publishing
 	- MAL ID: 80385
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Isekai, Parody, Shounen
+	- Genre(s): Adventure, Comedy, Fantasy, Isekai, Parody, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kono Yo no Owari e no Tabi](https://myanimelist.net/manga/9004)
 	- Publication Status: Finished
@@ -10318,7 +10323,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kouiu no ga Ii](https://myanimelist.net/manga/131446)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131446
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Erotica, Seinen
+	- Genre(s): Comedy, Erotica, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Koukaku Kidoutai: The Ghost in the Shell](https://myanimelist.net/manga/1023)
 	- Publication Status: Finished
@@ -10328,7 +10333,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Koukaku no Pandora](https://myanimelist.net/manga/47250)
 	- Publication Status: Finished
 	- MAL ID: 47250
-	- Genre(s): Action, Comedy, Ecchi, Eligible Titles for You Should Read This, Sci-Fi
+	- Genre(s): Action, Comedy, Ecchi, Sci-Fi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Koukishin wa Joshikousei wo Korosu](https://myanimelist.net/manga/112647)
 	- Publication Status: Finished
@@ -10388,7 +10393,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kowloon Generic Romance](https://myanimelist.net/manga/122863)
 	- Publication Status: Currently Publishing
 	- MAL ID: 122863
-	- Genre(s): Eligible Titles for You Should Read This, Romance, Sci-Fi, Seinen, Workplace
+	- Genre(s): Romance, Sci-Fi, Seinen, Workplace
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kowloons' Ball Parade](https://myanimelist.net/manga/133854)
 	- Publication Status: Finished
@@ -10449,7 +10454,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Currently Publishing
 	- MAL ID: 157709
 	- Genre(s): Josei, Mystery
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kujibiki♥Unbalance](https://myanimelist.net/manga/4156)
 	- Publication Status: Finished
 	- MAL ID: 4156
@@ -10463,7 +10468,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kuma Kuma Kuma Bear](https://myanimelist.net/manga/113752)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113752
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Action, Comedy, Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kumakura-san to Boku](https://myanimelist.net/manga/147672)
 	- Publication Status: Finished
@@ -10478,7 +10483,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kumichou Musume to Sewagakari](https://myanimelist.net/manga/121615)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121615
-	- Genre(s): Childcare, Eligible Titles for You Should Read This, Organized Crime, Slice of Life
+	- Genre(s): Childcare, Organized Crime, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kumika no Mikaku](https://myanimelist.net/manga/100495)
 	- Publication Status: Finished
@@ -10538,7 +10543,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kuro no Shoukanshi](https://myanimelist.net/manga/112121)
 	- Publication Status: Currently Publishing
 	- MAL ID: 112121
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Action, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kuro no Tantei](https://myanimelist.net/manga/52395)
 	- Publication Status: Finished
@@ -10578,7 +10583,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai](https://myanimelist.net/manga/136979)
 	- Publication Status: Currently Publishing
 	- MAL ID: 136979
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School, Shounen
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kurokami](https://myanimelist.net/manga/982)
 	- Publication Status: Finished
@@ -10628,7 +10633,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107562
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Historical, Medical, Mystery, Seinen
+	- Genre(s): Drama, Historical, Medical, Mystery, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kutsu no Muku mama](https://myanimelist.net/manga/155552)
 	- Publication Status: Currently Publishing
@@ -10663,7 +10668,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kuutei Dragons](https://myanimelist.net/manga/101479)
 	- Publication Status: Currently Publishing
 	- MAL ID: 101479
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Adventure, Fantasy, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kuzu to Megane to Bungaku Shoujo (Nise)](https://myanimelist.net/manga/109145)
 	- Publication Status: Finished
@@ -10674,6 +10679,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 96050
 	- Genre(s): Comedy, Romance, School, Shounen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Kyatapi Land](https://myanimelist.net/manga/176779)
+	- Publication Status: Currently Publishing
+	- MAL ID: 176779
+	- Genre(s): Comedy, Gag Humor, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kyoaku Gakuen](https://myanimelist.net/manga/91553)
 	- Publication Status: On Hiatus
@@ -10703,7 +10713,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kyosei Tensei](https://myanimelist.net/manga/133434)
 	- Publication Status: Finished
 	- MAL ID: 133434
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Horror, Seinen, Supernatural, Suspense
+	- Genre(s): Action, Drama, Horror, Seinen, Supernatural, Suspense
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kyosuurei](https://myanimelist.net/manga/92911)
 	- Publication Status: Finished
@@ -10718,7 +10728,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kyou kara Hajimeru Osananajimi](https://myanimelist.net/manga/136684)
 	- Publication Status: Currently Publishing
 	- MAL ID: 136684
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School
+	- Genre(s): Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kyou kara Hitman](https://myanimelist.net/manga/28719)
 	- Publication Status: Finished
@@ -11218,7 +11228,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life](https://myanimelist.net/manga/119152)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119152
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Romance
+	- Genre(s): Adventure, Fantasy, Isekai, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [MIXiM★11](https://myanimelist.net/manga/7265)
 	- Publication Status: Finished
@@ -11243,7 +11253,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Machigatta Ko wo Mahou Shoujo ni Shiteshimatta](https://myanimelist.net/manga/103815)
 	- Publication Status: Currently Publishing
 	- MAL ID: 103815
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Mahou Shoujo
+	- Genre(s): Comedy, Mahou Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Machigatteita no wa Ore Datta n da.](https://myanimelist.net/manga/121891)
 	- Publication Status: Finished
@@ -11303,12 +11313,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Madou no Keifu](https://myanimelist.net/manga/122016)
 	- Publication Status: Finished
 	- MAL ID: 122016
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Madougushi Dahliya wa Utsumukanai](https://myanimelist.net/manga/119806)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119806
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Slice of Life
+	- Genre(s): Fantasy, Slice of Life
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Maesetsu!](https://myanimelist.net/manga/120648)
 	- Publication Status: Finished
@@ -11358,7 +11368,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Magika no Kenshi to Basileus](https://myanimelist.net/manga/62769)
 	- Publication Status: Currently Publishing
 	- MAL ID: 62769
-	- Genre(s): Action, Comedy, Ecchi, Eligible Titles for You Should Read This, Fantasy, Harem, Romance, School, Seinen, Supernatural
+	- Genre(s): Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Seinen, Supernatural
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Mahjong Hishoden: Naki no Ryuu](https://myanimelist.net/manga/17349)
 	- Publication Status: Finished
@@ -11458,7 +11468,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mahoutsukai no Yome](https://myanimelist.net/manga/61189)
 	- Publication Status: Currently Publishing
 	- MAL ID: 61189
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Fantasy, Mythology, Romance, Shounen, Urban Fantasy
+	- Genre(s): Drama, Fantasy, Mythology, Romance, Shounen, Urban Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mai](https://myanimelist.net/manga/194)
 	- Publication Status: Finished
@@ -11488,7 +11498,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maiko-san Chi no Makanai-san](https://myanimelist.net/manga/107239)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107239
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Gourmet, Iyashikei, Performing Arts, Shounen, Slice of Life
+	- Genre(s): Award Winning, Gourmet, Iyashikei, Performing Arts, Shounen, Slice of Life
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mail](https://myanimelist.net/manga/4260)
 	- Publication Status: Finished
@@ -11498,7 +11508,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mairimashita! Iruma-kun](https://myanimelist.net/manga/104241)
 	- Publication Status: Currently Publishing
 	- MAL ID: 104241
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Comedy, Fantasy, Shounen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Mairimashita, Senpai](https://myanimelist.net/manga/103562)
 	- Publication Status: Finished
@@ -11523,7 +11533,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maji de Tsukiau 15-funmae](https://myanimelist.net/manga/129019)
 	- Publication Status: Finished
 	- MAL ID: 129019
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School
+	- Genre(s): Comedy, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Majime Succubus Hiiragi-san](https://myanimelist.net/manga/121155)
 	- Publication Status: Finished
@@ -11593,7 +11603,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Majo-senpai Nippou](https://myanimelist.net/manga/116957)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116957
-	- Genre(s): Eligible Titles for You Should Read This, Romance, Slice of Life
+	- Genre(s): Romance, Slice of Life
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Major](https://myanimelist.net/manga/10978)
 	- Publication Status: Finished
@@ -11718,7 +11728,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maou ga Zutto Miteiru](https://myanimelist.net/manga/160792)
 	- Publication Status: Finished
 	- MAL ID: 160792
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Action, Comedy, Fantasy, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Maou na Ore to Ghoul no Yubiwa](https://myanimelist.net/manga/50515)
 	- Publication Status: Finished
@@ -11748,7 +11758,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?](https://myanimelist.net/manga/113169)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113169
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Romance
+	- Genre(s): Action, Fantasy, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Maou-sama ni Shoukan sareta kedo Kotoba ga Tsuujinai.](https://myanimelist.net/manga/124543)
 	- Publication Status: Finished
@@ -11778,7 +11788,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maria no Danzai](https://myanimelist.net/manga/158707)
 	- Publication Status: Currently Publishing
 	- MAL ID: 158707
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Psychological, Seinen, Suspense
+	- Genre(s): Drama, Psychological, Seinen, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Maria-sensei wa Imouto Gachizei!](https://myanimelist.net/manga/115661)
 	- Publication Status: Currently Publishing
@@ -11883,7 +11893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mato Seihei no Slave](https://myanimelist.net/manga/116880)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116880
-	- Genre(s): Action, Ecchi, Eligible Titles for You Should Read This, Fantasy, Harem, Shounen
+	- Genre(s): Action, Ecchi, Fantasy, Harem, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Mattaku Saikin no Tantei to Kitara](https://myanimelist.net/manga/101946)
 	- Publication Status: Currently Publishing
@@ -11923,7 +11933,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Medalist](https://myanimelist.net/manga/129621)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129621
-	- Genre(s): Award Winning, Drama, Eligible Titles for You Should Read This, Seinen, Sports
+	- Genre(s): Award Winning, Drama, Seinen, Sports
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Megami Kouhosei](https://myanimelist.net/manga/93)
 	- Publication Status: Finished
@@ -12118,7 +12128,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mieruko-chan](https://myanimelist.net/manga/116790)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116790
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Horror, Supernatural
+	- Genre(s): Comedy, Horror, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Migi to Dali](https://myanimelist.net/manga/107774)
 	- Publication Status: Finished
@@ -12138,7 +12148,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mijuku na Futari de Gozaimasu ga](https://myanimelist.net/manga/113938)
 	- Publication Status: Finished
 	- MAL ID: 113938
-	- Genre(s): Adult Cast, Comedy, Ecchi, Eligible Titles for You Should Read This, Love Status Quo, Romance
+	- Genre(s): Adult Cast, Comedy, Ecchi, Love Status Quo, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mikadono Sanshimai wa Angai, Choroi.](https://myanimelist.net/manga/142649)
 	- Publication Status: Currently Publishing
@@ -12318,7 +12328,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Miwa-san Narisumasu](https://myanimelist.net/manga/161105)
 	- Publication Status: Currently Publishing
 	- MAL ID: 161105
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Romance, Seinen
+	- Genre(s): Drama, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mix](https://myanimelist.net/manga/37815)
 	- Publication Status: Currently Publishing
@@ -12338,7 +12348,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mizuki-senpai no Koi Uranai](https://myanimelist.net/manga/132333)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132333
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Seinen, Supernatural
+	- Genre(s): Comedy, Romance, School, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mob Psycho 100](https://myanimelist.net/manga/60783)
 	- Publication Status: Finished
@@ -12348,7 +12358,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mochiron, Isharyou Seikyuu Itashimasu!](https://myanimelist.net/manga/118918)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118918
-	- Genre(s): Comedy, Drama, Eligible Titles for You Should Read This, Fantasy, Romance, Villainess
+	- Genre(s): Comedy, Drama, Fantasy, Romance, Villainess
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Modokidomo](https://myanimelist.net/manga/100166)
 	- Publication Status: Finished
@@ -12683,7 +12693,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Munou na Nana](https://myanimelist.net/manga/107500)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107500
-	- Genre(s): Eligible Titles for You Should Read This, Psychological, Shounen, Supernatural, Suspense
+	- Genre(s): Psychological, Shounen, Supernatural, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Munou no Hito](https://myanimelist.net/manga/19969)
 	- Publication Status: Finished
@@ -12698,12 +12708,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Murazukuri Game no NPC ga Namami no Ningen to shika Omoenai](https://myanimelist.net/manga/122783)
 	- Publication Status: Finished
 	- MAL ID: 122783
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Murciélago](https://myanimelist.net/manga/65705)
 	- Publication Status: Currently Publishing
 	- MAL ID: 65705
-	- Genre(s): Action, Eligible Titles for You Should Read This, Girls Love, Gore, Seinen
+	- Genre(s): Action, Girls Love, Gore, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Murder Incarnation](https://myanimelist.net/manga/67575)
 	- Publication Status: Finished
@@ -12753,7 +12763,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mushoku Tensei: Isekai Ittara Honki Dasu](https://myanimelist.net/manga/70259)
 	- Publication Status: Currently Publishing
 	- MAL ID: 70259
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation, Seinen
+	- Genre(s): Fantasy, Isekai, Reincarnation, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mustard Chocolate](https://myanimelist.net/manga/102984)
 	- Publication Status: Finished
@@ -12768,7 +12778,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Musume ja Nakute Mama ga Suki nano!?](https://myanimelist.net/manga/129795)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129795
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Musume no Iede](https://myanimelist.net/manga/67405)
 	- Publication Status: Finished
@@ -12838,7 +12848,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [My Home Hero](https://myanimelist.net/manga/108032)
 	- Publication Status: Finished
 	- MAL ID: 108032
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Seinen, Suspense
+	- Genre(s): Drama, Seinen, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [My Pure Lady](https://myanimelist.net/manga/21766)
 	- Publication Status: Finished
@@ -12848,7 +12858,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mystery to Iu nakare](https://myanimelist.net/manga/111229)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111229
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Josei, Mystery
+	- Genre(s): Award Winning, Josei, Mystery
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [MÄR](https://myanimelist.net/manga/134)
 	- Publication Status: Finished
@@ -12928,7 +12938,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nami yo Kiitekure](https://myanimelist.net/manga/75489)
 	- Publication Status: Currently Publishing
 	- MAL ID: 75489
-	- Genre(s): Adult Cast, Comedy, Drama, Eligible Titles for You Should Read This, Seinen, Showbiz
+	- Genre(s): Adult Cast, Comedy, Drama, Seinen, Showbiz
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Namikibashi-doori Aoba Jitensha-ten](https://myanimelist.net/manga/27715)
 	- Publication Status: Finished
@@ -13068,7 +13078,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Natsume to Natsume](https://myanimelist.net/manga/130493)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130493
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School
+	- Genre(s): Comedy, Romance, School
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Natsuyasumi 00-nichime](https://myanimelist.net/manga/40475)
 	- Publication Status: Finished
@@ -13218,7 +13228,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nekogurashi no Gamer-san](https://myanimelist.net/manga/121866)
 	- Publication Status: Finished
 	- MAL ID: 121866
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Pets, Shounen, Slice of Life
+	- Genre(s): Comedy, Pets, Shounen, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nekojiru Udon](https://myanimelist.net/manga/18753)
 	- Publication Status: Finished
@@ -13338,7 +13348,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nige Jouzu no Wakagimi](https://myanimelist.net/manga/132845)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132845
-	- Genre(s): Adventure, Award Winning, Comedy, Eligible Titles for You Should Read This, Historical, Samurai, Shounen
+	- Genre(s): Adventure, Award Winning, Comedy, Historical, Samurai, Shounen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Nigeru wa Haji daga Yaku ni Tatsu](https://myanimelist.net/manga/88590)
 	- Publication Status: Finished
@@ -13463,7 +13473,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ningen no Inai Kuni](https://myanimelist.net/manga/123710)
 	- Publication Status: Currently Publishing
 	- MAL ID: 123710
-	- Genre(s): Eligible Titles for You Should Read This, Horror, Sci-Fi, Supernatural
+	- Genre(s): Horror, Sci-Fi, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ningyo Ouji](https://myanimelist.net/manga/95397)
 	- Publication Status: Finished
@@ -13523,7 +13533,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Niwatori Fighter](https://myanimelist.net/manga/132169)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132169
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This
+	- Genre(s): Action, Comedy
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [No Bra](https://myanimelist.net/manga/998)
 	- Publication Status: Finished
@@ -13563,7 +13573,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nobunaga no Chef](https://myanimelist.net/manga/49293)
 	- Publication Status: Finished
 	- MAL ID: 49293
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Gourmet, Historical, Seinen, Time Travel
+	- Genre(s): Comedy, Gourmet, Historical, Seinen, Time Travel
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nodame Cantabile](https://myanimelist.net/manga/419)
 	- Publication Status: Finished
@@ -13603,7 +13613,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nonbiri VRMMO-ki](https://myanimelist.net/manga/98293)
 	- Publication Status: Currently Publishing
 	- MAL ID: 98293
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Nononono](https://myanimelist.net/manga/12450)
 	- Publication Status: Finished
@@ -13668,7 +13678,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nozomanu Fushi no Boukensha](https://myanimelist.net/manga/111225)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111225
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Nozomi Witches](https://myanimelist.net/manga/16963)
 	- Publication Status: Finished
@@ -13813,7 +13823,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ojisama to Neko](https://myanimelist.net/manga/112774)
 	- Publication Status: Currently Publishing
 	- MAL ID: 112774
-	- Genre(s): Eligible Titles for You Should Read This, Pets, Slice of Life
+	- Genre(s): Pets, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ojojojo](https://myanimelist.net/manga/76083)
 	- Publication Status: Finished
@@ -13828,7 +13838,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ojousama no Shimobe](https://myanimelist.net/manga/111136)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111136
-	- Genre(s): Comedy, Ecchi, Eligible Titles for You Should Read This, Harem, Romance
+	- Genre(s): Comedy, Ecchi, Harem, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ojousama to Zubora Meshi](https://myanimelist.net/manga/152420)
 	- Publication Status: Finished
@@ -13843,7 +13853,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Okaeri Alice](https://myanimelist.net/manga/125717)
 	- Publication Status: Finished
 	- MAL ID: 125717
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Love Polygon, Romance, School, Shounen
+	- Genre(s): Drama, Love Polygon, Romance, School, Shounen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx)
 - [Okama Hakusho](https://myanimelist.net/manga/6292)
 	- Publication Status: Finished
@@ -14083,12 +14093,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Onna Tomodachi to Kekkon Shitemita.](https://myanimelist.net/manga/131607)
 	- Publication Status: Finished
 	- MAL ID: 131607
-	- Genre(s): Eligible Titles for You Should Read This, Girls Love, Slice of Life
+	- Genre(s): Girls Love, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Onna no Sono no Hoshi](https://myanimelist.net/manga/131443)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131443
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Josei, School, Slice of Life
+	- Genre(s): Comedy, Josei, School, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Onnanoko ga H na Manga Egaicha Dame desu ka?](https://myanimelist.net/manga/50731)
 	- Publication Status: Finished
@@ -14113,7 +14123,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Onryou Okusama](https://myanimelist.net/manga/118089)
 	- Publication Status: Finished
 	- MAL ID: 118089
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Supernatural
+	- Genre(s): Comedy, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Onsengai no Medusa](https://myanimelist.net/manga/93460)
 	- Publication Status: Finished
@@ -14138,7 +14148,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ookami Buka-kun to Hitsuji Joushi-san](https://myanimelist.net/manga/138319)
 	- Publication Status: Currently Publishing
 	- MAL ID: 138319
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Seinen, Supernatural
+	- Genre(s): Comedy, Romance, Seinen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Ookami Shounen wa Kyou mo Uso wo Kasaneru](https://myanimelist.net/manga/85802)
 	- Publication Status: Finished
@@ -14238,7 +14248,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ore no Genjitsu wa Renai Game?? ka to Omottara Inochigake no Game datta](https://myanimelist.net/manga/109615)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109615
-	- Genre(s): Ecchi, Eligible Titles for You Should Read This, Suspense
+	- Genre(s): Ecchi, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ore no Himegutsu wo Haitekure](https://myanimelist.net/manga/98597)
 	- Publication Status: Finished
@@ -14313,7 +14323,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Orient](https://myanimelist.net/manga/113644)
 	- Publication Status: Finished
 	- MAL ID: 113644
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Samurai, Shounen
+	- Genre(s): Action, Adventure, Fantasy, Samurai, Shounen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Oritatabu](https://myanimelist.net/manga/120660)
 	- Publication Status: Finished
@@ -14328,7 +14338,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Oroka na Tenshi wa Akuma to Odoru](https://myanimelist.net/manga/100079)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100079
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Mythology, Romance, School, Seinen, Supernatural
+	- Genre(s): Comedy, Mythology, Romance, School, Seinen, Supernatural
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Osaka Mad Family](https://myanimelist.net/manga/119144)
 	- Publication Status: Currently Publishing
@@ -14358,7 +14368,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Oshi ga Budoukan Ittekuretara Shinu](https://myanimelist.net/manga/90734)
 	- Publication Status: Currently Publishing
 	- MAL ID: 90734
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Music, Otaku Culture, Seinen
+	- Genre(s): Comedy, Music, Otaku Culture, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Oshi wo Katachi ni Suru Shigoto](https://myanimelist.net/manga/164253)
 	- Publication Status: Currently Publishing
@@ -14383,7 +14393,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otaku ni Yasashii Gal wa Inai!?](https://myanimelist.net/manga/144152)
 	- Publication Status: Currently Publishing
 	- MAL ID: 144152
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Otaku Culture, Romance, School, Seinen
+	- Genre(s): Comedy, Otaku Culture, Romance, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Otaku no Musume-san](https://myanimelist.net/manga/738)
 	- Publication Status: Finished
@@ -14413,7 +14423,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otogibanashi Battle Royal](https://myanimelist.net/manga/106727)
 	- Publication Status: Currently Publishing
 	- MAL ID: 106727
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Drama, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Otoko no Ichimai: Red Card](https://myanimelist.net/manga/130222)
 	- Publication Status: Finished
@@ -14458,7 +14468,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otome Kaijuu Caraméliser](https://myanimelist.net/manga/113210)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113210
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Seinen, Supernatural
+	- Genre(s): Romance, School, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Otome Soukou Artemis](https://myanimelist.net/manga/144115)
 	- Publication Status: Finished
@@ -14473,7 +14483,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otome no Teikoku](https://myanimelist.net/manga/23463)
 	- Publication Status: Currently Publishing
 	- MAL ID: 23463
-	- Genre(s): Ecchi, Eligible Titles for You Should Read This, Girls Love, School, Seinen, Slice of Life
+	- Genre(s): Ecchi, Girls Love, School, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Otomen](https://myanimelist.net/manga/878)
 	- Publication Status: Finished
@@ -14488,17 +14498,17 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otona ni Nattemo](https://myanimelist.net/manga/120410)
 	- Publication Status: Finished
 	- MAL ID: 120410
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Girls Love, Josei
+	- Genre(s): Drama, Girls Love, Josei
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Otona no Zukan Kaiteiban](https://myanimelist.net/manga/143824)
 	- Publication Status: Finished
 	- MAL ID: 143824
-	- Genre(s): Childcare, Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Childcare, Drama, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Otonari ni Ginga](https://myanimelist.net/manga/130641)
 	- Publication Status: Finished
 	- MAL ID: 130641
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Seinen, Supernatural
+	- Genre(s): Comedy, Romance, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Otonari no Downer-san wa Muri Sasenai](https://myanimelist.net/manga/163441)
 	- Publication Status: Currently Publishing
@@ -14568,7 +14578,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ousama Ranking](https://myanimelist.net/manga/121544)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121544
-	- Genre(s): Action, Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Comedy, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ousama-tachi no Viking](https://myanimelist.net/manga/71741)
 	- Publication Status: Finished
@@ -14578,7 +14588,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Out](https://myanimelist.net/manga/70557)
 	- Publication Status: Currently Publishing
 	- MAL ID: 70557
-	- Genre(s): Action, Delinquents, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Action, Delinquents, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Outlanders](https://myanimelist.net/manga/4281)
 	- Publication Status: Finished
@@ -14603,7 +14613,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Owari no Seraph](https://myanimelist.net/manga/43661)
 	- Publication Status: Currently Publishing
 	- MAL ID: 43661
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Fantasy, Shounen, Vampire
+	- Genre(s): Action, Drama, Fantasy, Shounen, Vampire
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Oya ga Urusai node Kouhai (♀) to Gisou Kekkon Shitemita.](https://myanimelist.net/manga/114120)
 	- Publication Status: Finished
@@ -14703,7 +14713,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Paranoia Cage](https://myanimelist.net/manga/92236)
 	- Publication Status: Currently Publishing
 	- MAL ID: 92236
-	- Genre(s): Comedy, Ecchi, Eligible Titles for You Should Read This, Otaku Culture, Slice of Life
+	- Genre(s): Comedy, Ecchi, Otaku Culture, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Parapal](https://myanimelist.net/manga/9999)
 	- Publication Status: Finished
@@ -14728,7 +14738,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Peach Boy Riverside](https://myanimelist.net/manga/92609)
 	- Publication Status: Finished
 	- MAL ID: 92609
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Fantasy, Shounen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Peach Girl](https://myanimelist.net/manga/475)
 	- Publication Status: Finished
@@ -14753,7 +14763,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Pension Life Vampire](https://myanimelist.net/manga/157437)
 	- Publication Status: Finished
 	- MAL ID: 157437
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Shounen, Supernatural, Vampire
+	- Genre(s): Comedy, Shounen, Supernatural, Vampire
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Perfect World](https://myanimelist.net/manga/83655)
 	- Publication Status: Finished
@@ -14863,7 +14873,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Pink to Habanero](https://myanimelist.net/manga/144012)
 	- Publication Status: Currently Publishing
 	- MAL ID: 144012
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Shoujo
+	- Genre(s): Comedy, Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Pippira Note](https://myanimelist.net/manga/11244)
 	- Publication Status: Finished
@@ -15043,12 +15053,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Pujo to Yajuu: JK ga Heel Wrestler ni Koishita Hanashi](https://myanimelist.net/manga/120698)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120698
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Shoujo
+	- Genre(s): Comedy, Romance, Shoujo
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Pumpkin Night](https://myanimelist.net/manga/111403)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111403
-	- Genre(s): Eligible Titles for You Should Read This, Horror, Psychological, Suspense
+	- Genre(s): Horror, Psychological, Suspense
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Pumpkin Scissors](https://myanimelist.net/manga/426)
 	- Publication Status: Currently Publishing
@@ -15168,7 +15178,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Radiation House](https://myanimelist.net/manga/93561)
 	- Publication Status: Currently Publishing
 	- MAL ID: 93561
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Medical, Seinen
+	- Genre(s): Drama, Medical, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Rafnas](https://myanimelist.net/manga/65039)
 	- Publication Status: Finished
@@ -15178,7 +15188,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ragna Crimson](https://myanimelist.net/manga/106733)
 	- Publication Status: Currently Publishing
 	- MAL ID: 106733
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Action, Fantasy, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Raiden-18](https://myanimelist.net/manga/3444)
 	- Publication Status: Finished
@@ -15200,6 +15210,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 87452
 	- Genre(s): Sci-Fi, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Rairairai](https://myanimelist.net/manga/162768)
+	- Publication Status: Currently Publishing
+	- MAL ID: 162768
+	- Genre(s): Action, Adult Cast, Comedy, Sci-Fi
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Raise Kamika](https://myanimelist.net/manga/103464)
 	- Publication Status: Finished
 	- MAL ID: 103464
@@ -15293,7 +15308,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Re:Monster](https://myanimelist.net/manga/73271)
 	- Publication Status: Currently Publishing
 	- MAL ID: 73271
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Re:Zero kara Hajimeru Isekai Seikatsu: Dai-1 Shou - Outo no Ichinichi-hen](https://myanimelist.net/manga/74695)
 	- Publication Status: Finished
@@ -15328,7 +15343,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Real mo Tama ni wa Uso wo Tsuku](https://myanimelist.net/manga/124209)
 	- Publication Status: Currently Publishing
 	- MAL ID: 124209
-	- Genre(s): Comedy, Crossdressing, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Crossdressing, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [RealPG](https://myanimelist.net/manga/33693)
 	- Publication Status: Finished
@@ -15348,7 +15363,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Red Blue](https://myanimelist.net/manga/143196)
 	- Publication Status: Currently Publishing
 	- MAL ID: 143196
-	- Genre(s): Combat Sports, Eligible Titles for You Should Read This, Shounen, Sports
+	- Genre(s): Combat Sports, Shounen, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Red Eyes](https://myanimelist.net/manga/1105)
 	- Publication Status: Currently Publishing
@@ -15383,7 +15398,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Reincarnation no Kaben](https://myanimelist.net/manga/75487)
 	- Publication Status: Currently Publishing
 	- MAL ID: 75487
-	- Genre(s): Action, Eligible Titles for You Should Read This, Mystery, Supernatural
+	- Genre(s): Action, Mystery, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Reiri](https://myanimelist.net/manga/93564)
 	- Publication Status: Finished
@@ -15748,7 +15763,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu](https://myanimelist.net/manga/111466)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111466
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Route 20](https://myanimelist.net/manga/1736)
 	- Publication Status: Finished
@@ -15788,7 +15803,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ruri Dragon](https://myanimelist.net/manga/148054)
 	- Publication Status: Currently Publishing
 	- MAL ID: 148054
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, School, Shounen, Supernatural
+	- Genre(s): Comedy, School, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ruri to Ryouri no Ousama to](https://myanimelist.net/manga/114966)
 	- Publication Status: Finished
@@ -15818,7 +15833,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ryoumin 0-nin Start no Henkyou Ryoushu-sama: Ao no Dias to Soukaku no Otome](https://myanimelist.net/manga/121461)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121461
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ryushika Ryushika](https://myanimelist.net/manga/21676)
 	- Publication Status: Finished
@@ -15853,7 +15868,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ryuu to Chameleon](https://myanimelist.net/manga/152806)
 	- Publication Status: Currently Publishing
 	- MAL ID: 152806
-	- Genre(s): Eligible Titles for You Should Read This, Otaku Culture, Shounen
+	- Genre(s): Otaku Culture, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ryuu to Yuusha to Haitatsunin](https://myanimelist.net/manga/99787)
 	- Publication Status: Finished
@@ -15878,7 +15893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ryuukishi no Okiniiri](https://myanimelist.net/manga/143370)
 	- Publication Status: Currently Publishing
 	- MAL ID: 143370
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Josei, Romance
+	- Genre(s): Fantasy, Josei, Romance
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Ryuuou no Musume: Chuugoku Gensousen](https://myanimelist.net/manga/142666)
 	- Publication Status: Finished
@@ -15923,7 +15938,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [SINoALICE](https://myanimelist.net/manga/125679)
 	- Publication Status: Finished
 	- MAL ID: 125679
-	- Genre(s): Action, Drama, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Drama, Fantasy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [SKET Dance](https://myanimelist.net/manga/1414)
 	- Publication Status: Finished
@@ -16008,12 +16023,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Saihate ni Madou](https://myanimelist.net/manga/159771)
 	- Publication Status: Finished
 	- MAL ID: 159771
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Josei
+	- Genre(s): Drama, Josei
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Saihate no Paladin](https://myanimelist.net/manga/109339)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109339
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Saihate no Serenade](https://myanimelist.net/manga/153772)
 	- Publication Status: Currently Publishing
@@ -16023,7 +16038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Saihate no Solte](https://myanimelist.net/manga/123978)
 	- Publication Status: Currently Publishing
 	- MAL ID: 123978
-	- Genre(s): Adventure, Drama, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Adventure, Drama, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Saihate no Tomodachi](https://myanimelist.net/manga/154455)
 	- Publication Status: Finished
@@ -16053,7 +16068,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Saikyou no Madoushi. Hiza ni Ya wo Uketeshimatta node Inaka no Eihei ni Naru](https://myanimelist.net/manga/119304)
 	- Publication Status: Currently Publishing
 	- MAL ID: 119304
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Adventure, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Sailor Fuku, Tokidoki Apron](https://myanimelist.net/manga/63843)
 	- Publication Status: Finished
@@ -16103,7 +16118,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sakamoto Days](https://myanimelist.net/manga/131334)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131334
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Shounen
+	- Genre(s): Action, Comedy, Shounen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sakana no Miru Yume](https://myanimelist.net/manga/59657)
 	- Publication Status: Finished
@@ -16288,7 +16303,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Saraba, Yoki Hi](https://myanimelist.net/manga/98187)
 	- Publication Status: Finished
 	- MAL ID: 98187
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Josei, Romance, Slice of Life
+	- Genre(s): Drama, Josei, Romance, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Saraiya Goyou](https://myanimelist.net/manga/13271)
 	- Publication Status: Finished
@@ -16388,7 +16403,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sayonara Miniskirt](https://myanimelist.net/manga/114822)
 	- Publication Status: Currently Publishing
 	- MAL ID: 114822
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Mystery, School, Shoujo
+	- Genre(s): Drama, Mystery, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sayonara Rose Garden](https://myanimelist.net/manga/122575)
 	- Publication Status: Finished
@@ -16453,7 +16468,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Scoop Musou: "Scoop Hadouhou!" ( `・ω・´)♂〓〓〓〓★(゜Д ゜ ;;;).:∴ Dogooo](https://myanimelist.net/manga/121653)
 	- Publication Status: Finished
 	- MAL ID: 121653
-	- Genre(s): Action, Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Comedy, Fantasy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Scrap Sandayuu](https://myanimelist.net/manga/147071)
 	- Publication Status: Finished
@@ -16503,12 +16518,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Seihantai na Kimi to Boku](https://myanimelist.net/manga/147091)
 	- Publication Status: Finished
 	- MAL ID: 147091
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School, Shounen
+	- Genre(s): Comedy, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Seihantai na Watashitachi](https://myanimelist.net/manga/154282)
 	- Publication Status: Currently Publishing
 	- MAL ID: 154282
-	- Genre(s): Eligible Titles for You Should Read This, Pets, Slice of Life
+	- Genre(s): Pets, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Seihonnou to Suibakusen](https://myanimelist.net/manga/42851)
 	- Publication Status: Finished
@@ -16518,7 +16533,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Seijo no Maryoku wa Bannou desu](https://myanimelist.net/manga/111628)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111628
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai, Medical, Romance
+	- Genre(s): Fantasy, Isekai, Medical, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Seikai no Monshou](https://myanimelist.net/manga/70189)
 	- Publication Status: Finished
@@ -16623,7 +16638,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha](https://myanimelist.net/manga/113980)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113980
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sekai Seifuku Sekirara Jogakukan](https://myanimelist.net/manga/21837)
 	- Publication Status: Finished
@@ -16638,7 +16653,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sekai de Tada Hitori no Mamonotsukai: Tenshoku shitara Maou ni Machigawaremashita](https://myanimelist.net/manga/120006)
 	- Publication Status: Finished
 	- MAL ID: 120006
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sekai no Chuushin de, Ai wo Sakebu](https://myanimelist.net/manga/886)
 	- Publication Status: Finished
@@ -16648,7 +16663,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sekai no Owari ni Shiba Inu to](https://myanimelist.net/manga/116765)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116765
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This
+	- Genre(s): Adventure, Comedy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sekai no Owari no Pen-friend](https://myanimelist.net/manga/142140)
 	- Publication Status: Finished
@@ -16658,7 +16673,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sekai wo Sukuu Tame ni Watashi to Asachun Dekimasu ka?](https://myanimelist.net/manga/116554)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116554
-	- Genre(s): Comedy, Ecchi, Eligible Titles for You Should Read This, Fantasy, Harem, Shounen
+	- Genre(s): Comedy, Ecchi, Fantasy, Harem, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Sekimen Shinaide Sekime-san](https://myanimelist.net/manga/132519)
 	- Publication Status: Finished
@@ -16728,7 +16743,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Senpai ga Uzai Kouhai no Hanashi](https://myanimelist.net/manga/113560)
 	- Publication Status: Currently Publishing
 	- MAL ID: 113560
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, Workplace
+	- Genre(s): Adult Cast, Comedy, Love Status Quo, Romance, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Senpai wa Otokonoko](https://myanimelist.net/manga/137982)
 	- Publication Status: Finished
@@ -16848,12 +16863,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shachiku-san wa Youjo Yuurei ni Iyasaretai.](https://myanimelist.net/manga/121793)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121793
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Shounen, Slice of Life, Supernatural
+	- Genre(s): Comedy, Shounen, Slice of Life, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shadows House](https://myanimelist.net/manga/115730)
 	- Publication Status: Currently Publishing
 	- MAL ID: 115730
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Mystery, Seinen
+	- Genre(s): Fantasy, Mystery, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Shaman King Kanzenban](https://myanimelist.net/manga/12917)
 	- Publication Status: Finished
@@ -16878,7 +16893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su](https://myanimelist.net/manga/130331)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130331
-	- Genre(s): Action, Adventure, Award Winning, Eligible Titles for You Should Read This, Fantasy, Shounen, Video Game
+	- Genre(s): Action, Adventure, Award Winning, Fantasy, Shounen, Video Game
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shanimuni Go](https://myanimelist.net/manga/8218)
 	- Publication Status: Finished
@@ -17053,7 +17068,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shin Honkaku Mahou Shoujo Risuka](https://myanimelist.net/manga/135567)
 	- Publication Status: Finished
 	- MAL ID: 135567
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Mahou Shoujo, Mystery, Psychological, Shounen
+	- Genre(s): Action, Fantasy, Mahou Shoujo, Mystery, Psychological, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shin Ishu Kakutou Taisen](https://myanimelist.net/manga/115934)
 	- Publication Status: Finished
@@ -17088,7 +17103,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://myanimelist.net/manga/114175)
 	- Publication Status: Finished
 	- MAL ID: 114175
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Romance, Shounen
+	- Genre(s): Fantasy, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shinai naru Boku e Satsui wo Komete](https://myanimelist.net/manga/115746)
 	- Publication Status: Finished
@@ -17118,7 +17133,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shinigami Bocchan to Kuro Maid](https://myanimelist.net/manga/110029)
 	- Publication Status: Finished
 	- MAL ID: 110029
-	- Genre(s): Comedy, Drama, Eligible Titles for You Should Read This, Love Status Quo, Romance
+	- Genre(s): Comedy, Drama, Love Status Quo, Romance
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Shinigami Minarai! Otsukare-chan](https://myanimelist.net/manga/118090)
 	- Publication Status: Finished
@@ -17158,7 +17173,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shinimodori, Subete wo Sukuu Tame ni Saikyou e to Itaru @comic](https://myanimelist.net/manga/121989)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121989
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Time Travel
+	- Genre(s): Action, Adventure, Fantasy, Time Travel
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shining Musume.](https://myanimelist.net/manga/7484)
 	- Publication Status: Finished
@@ -17348,7 +17363,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shiro Seijo to Kuro Bokushi](https://myanimelist.net/manga/106615)
 	- Publication Status: Currently Publishing
 	- MAL ID: 106615
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Love Status Quo, Romance, Shounen
+	- Genre(s): Fantasy, Love Status Quo, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shirogane no Nina](https://myanimelist.net/manga/61403)
 	- Publication Status: Finished
@@ -17573,7 +17588,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shounen Onmyouji](https://myanimelist.net/manga/154736)
 	- Publication Status: Currently Publishing
 	- MAL ID: 154736
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Historical, Mythology, Seinen, Supernatural
+	- Genre(s): Adventure, Historical, Mythology, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Shounen Shoujo Hyouryuuki](https://myanimelist.net/manga/16067)
 	- Publication Status: Finished
@@ -17583,7 +17598,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shounen no Abyss](https://myanimelist.net/manga/126699)
 	- Publication Status: Finished
 	- MAL ID: 126699
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Psychological, Seinen
+	- Genre(s): Drama, Psychological, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shounen no Ato](https://myanimelist.net/manga/122166)
 	- Publication Status: Finished
@@ -17683,7 +17698,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shuumatsu no Walküre](https://myanimelist.net/manga/110485)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110485
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Mythology, Seinen
+	- Genre(s): Action, Fantasy, Mythology, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sidonia no Kishi](https://myanimelist.net/manga/13723)
 	- Publication Status: Finished
@@ -17738,7 +17753,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Skip to Loafer](https://myanimelist.net/manga/118289)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118289
-	- Genre(s): Award Winning, Drama, Eligible Titles for You Should Read This, School, Seinen
+	- Genre(s): Award Winning, Drama, School, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Skip! Yamada-kun](https://myanimelist.net/manga/71343)
 	- Publication Status: Finished
@@ -17788,7 +17803,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Smiley](https://myanimelist.net/manga/153081)
 	- Publication Status: Currently Publishing
 	- MAL ID: 153081
-	- Genre(s): Eligible Titles for You Should Read This, Mystery, Psychological, Seinen, Suspense
+	- Genre(s): Mystery, Psychological, Seinen, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Smokin' Parade](https://myanimelist.net/manga/91731)
 	- Publication Status: Finished
@@ -17823,7 +17838,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. ΑΩ](https://myanimelist.net/manga/114925)
 	- Publication Status: Currently Publishing
 	- MAL ID: 114925
-	- Genre(s): Action, Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Isekai, Parody
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Isekai, Parody
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Solo Leveling](https://myanimelist.net/manga/121496)
 	- Publication Status: Finished
@@ -18013,7 +18028,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Soukyuu no Ariadne](https://myanimelist.net/manga/111033)
 	- Publication Status: Finished
 	- MAL ID: 111033
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Sci-Fi, Shounen
+	- Genre(s): Fantasy, Sci-Fi, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Soul Catcher(S)](https://myanimelist.net/manga/51563)
 	- Publication Status: Finished
@@ -18093,7 +18108,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Spider-Man: Octopus Girl](https://myanimelist.net/manga/159788)
 	- Publication Status: Finished
 	- MAL ID: 159788
-	- Genre(s): Action, Eligible Titles for You Should Read This, Sci-Fi, Shounen, Super Power
+	- Genre(s): Action, Sci-Fi, Shounen, Super Power
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Spinoza](https://myanimelist.net/manga/112002)
 	- Publication Status: Finished
@@ -18213,7 +18228,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.](https://myanimelist.net/manga/116539)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116539
-	- Genre(s): Eligible Titles for You Should Read This, School, Shounen, Strategy Game
+	- Genre(s): School, Shounen, Strategy Game
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.](https://myanimelist.net/manga/116795)
 	- Publication Status: Finished
@@ -18308,7 +18323,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Suki na Ko ga Megane wo Wasureta](https://myanimelist.net/manga/117332)
 	- Publication Status: Finished
 	- MAL ID: 117332
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School, Shounen
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Suki ni Naranai yo, Senpai](https://myanimelist.net/manga/87490)
 	- Publication Status: Finished
@@ -18423,7 +18438,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Super no Ura de Yani Suu Futari](https://myanimelist.net/manga/148467)
 	- Publication Status: Currently Publishing
 	- MAL ID: 148467
-	- Genre(s): Adult Cast, Eligible Titles for You Should Read This, Love Status Quo, Romance
+	- Genre(s): Adult Cast, Love Status Quo, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Superior](https://myanimelist.net/manga/1533)
 	- Publication Status: Finished
@@ -18563,7 +18578,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai](https://myanimelist.net/manga/127624)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127624
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Girls Love, School, Seinen, Video Game
+	- Genre(s): Comedy, Girls Love, School, Seinen, Video Game
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Taiho Shichau zo](https://myanimelist.net/manga/1292)
 	- Publication Status: Finished
@@ -18718,7 +18733,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tamon-kun Ima Docchi!?](https://myanimelist.net/manga/140831)
 	- Publication Status: Currently Publishing
 	- MAL ID: 140831
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, Shoujo
+	- Genre(s): Comedy, Romance, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tanabata no Kuni](https://myanimelist.net/manga/12750)
 	- Publication Status: Finished
@@ -18738,7 +18753,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tank Chair](https://myanimelist.net/manga/153168)
 	- Publication Status: Currently Publishing
 	- MAL ID: 153168
-	- Genre(s): Action, Eligible Titles for You Should Read This, Gore, Super Power
+	- Genre(s): Action, Gore, Super Power
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tank Tankuro](https://myanimelist.net/manga/29571)
 	- Publication Status: Finished
@@ -18783,7 +18798,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://myanimelist.net/manga/109906)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109906
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tayutama: Kiss on my Deity](https://myanimelist.net/manga/19995)
 	- Publication Status: Finished
@@ -18798,7 +18813,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tedama ni Toritai Kurokiya-san](https://myanimelist.net/manga/126964)
 	- Publication Status: Finished
 	- MAL ID: 126964
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School
+	- Genre(s): Comedy, Love Status Quo, Romance, School
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Tegamibachi](https://myanimelist.net/manga/1709)
 	- Publication Status: Finished
@@ -18833,12 +18848,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Telework Yotabanashi](https://myanimelist.net/manga/153158)
 	- Publication Status: Finished
 	- MAL ID: 153158
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Romance, Seinen, Workplace
+	- Genre(s): Adult Cast, Comedy, Romance, Seinen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Temple](https://myanimelist.net/manga/120643)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120643
-	- Genre(s): Ecchi, Eligible Titles for You Should Read This, Harem, Romance, Slice of Life
+	- Genre(s): Ecchi, Harem, Romance, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ten: Tenhou-doori no Kaidanji](https://myanimelist.net/manga/3571)
 	- Publication Status: Finished
@@ -18848,7 +18863,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tenchi Souzou Design-bu](https://myanimelist.net/manga/111086)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111086
-	- Genre(s): Comedy, Educational, Eligible Titles for You Should Read This, Fantasy, Gag Humor, Mythology, Seinen, Workplace
+	- Genre(s): Comedy, Educational, Fantasy, Gag Humor, Mythology, Seinen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tende Shouwaru Cupid](https://myanimelist.net/manga/34153)
 	- Publication Status: Finished
@@ -18863,7 +18878,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tengoku Daimakyou](https://myanimelist.net/manga/111745)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111745
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Mystery, Sci-Fi, Seinen
+	- Genre(s): Adventure, Mystery, Sci-Fi, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Tengoku ni Musubu Koi](https://myanimelist.net/manga/55583)
 	- Publication Status: Finished
@@ -18943,12 +18958,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta](https://myanimelist.net/manga/127781)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127781
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai, Reincarnation
+	- Genre(s): Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tensei Oujo to Tensai Reijou no Mahou Kakumei](https://myanimelist.net/manga/130893)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130893
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Girls Love, Seinen
+	- Genre(s): Comedy, Fantasy, Girls Love, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tensei shichatta yo (Iya, Gomen)](https://myanimelist.net/manga/93114)
 	- Publication Status: Finished
@@ -19133,7 +19148,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [The New Gate](https://myanimelist.net/manga/82427)
 	- Publication Status: Currently Publishing
 	- MAL ID: 82427
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Adventure, Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [The Nightmare Before Christmas](https://myanimelist.net/manga/7646)
 	- Publication Status: Finished
@@ -19178,7 +19193,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [This Communication](https://myanimelist.net/manga/135853)
 	- Publication Status: Currently Publishing
 	- MAL ID: 135853
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Shounen
+	- Genre(s): Adventure, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [This Man: Sono Kao wo Mita Mono ni wa Shi wo](https://myanimelist.net/manga/114374)
 	- Publication Status: Finished
@@ -19333,7 +19348,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tokyo Higoro](https://myanimelist.net/manga/130171)
 	- Publication Status: Finished
 	- MAL ID: 130171
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Adult Cast, Drama, Otaku Culture, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tokyo Kaido](https://myanimelist.net/manga/14703)
 	- Publication Status: Finished
@@ -19403,7 +19418,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tomodachi Game](https://myanimelist.net/manga/62795)
 	- Publication Status: Finished
 	- MAL ID: 62795
-	- Genre(s): Eligible Titles for You Should Read This, High Stakes Game, Psychological, Shounen, Strategy Game, Suspense
+	- Genre(s): High Stakes Game, Psychological, Shounen, Strategy Game, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tomodachi wo Tsukurou.](https://myanimelist.net/manga/101290)
 	- Publication Status: Finished
@@ -19463,7 +19478,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tonari no Neko to Koi Shirazu](https://myanimelist.net/manga/165770)
 	- Publication Status: Currently Publishing
 	- MAL ID: 165770
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Seinen
+	- Genre(s): Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tonari no Oneesan ga Suki](https://myanimelist.net/manga/140330)
 	- Publication Status: Finished
@@ -19493,12 +19508,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tondemo Skill de Isekai Hourou Meshi](https://myanimelist.net/manga/105747)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105747
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Gourmet, Isekai
+	- Genre(s): Adventure, Comedy, Fantasy, Gourmet, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tongari Boushi no Atelier](https://myanimelist.net/manga/100035)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100035
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Fantasy, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tonkatsu DJ Agetarou](https://myanimelist.net/manga/91898)
 	- Publication Status: Finished
@@ -19538,7 +19553,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tora wa Ryuu wo Mada Tabenai.](https://myanimelist.net/manga/148133)
 	- Publication Status: Currently Publishing
 	- MAL ID: 148133
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Fantasy, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Torikago no Tsugai](https://myanimelist.net/manga/42005)
 	- Publication Status: Finished
@@ -19573,7 +19588,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Toshokan no Daimajutsushi](https://myanimelist.net/manga/110771)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110771
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Fantasy, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Toshokan no Tenshi](https://myanimelist.net/manga/152281)
 	- Publication Status: Finished
@@ -19603,12 +19618,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Touge Oni](https://myanimelist.net/manga/121043)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121043
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Historical, Mythology, Seinen
+	- Genre(s): Adventure, Fantasy, Historical, Mythology, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tougen Anki](https://myanimelist.net/manga/127436)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127436
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Mythology, Shounen
+	- Genre(s): Action, Fantasy, Mythology, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Touhou Project Niji Sousaku Series: Nisemono ni Koishita Mahoutsukai](https://myanimelist.net/manga/147040)
 	- Publication Status: Finished
@@ -19688,12 +19703,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Trillion Game](https://myanimelist.net/manga/132071)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132071
-	- Genre(s): Adult Cast, Award Winning, Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Adult Cast, Award Winning, Drama, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Trinity Seven: 7-nin no Mashotsukai](https://myanimelist.net/manga/24822)
 	- Publication Status: Currently Publishing
 	- MAL ID: 24822
-	- Genre(s): Action, Comedy, Ecchi, Eligible Titles for You Should Read This, Fantasy, Harem, Romance, School, Shounen
+	- Genre(s): Action, Comedy, Ecchi, Fantasy, Harem, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Truth](https://myanimelist.net/manga/77111)
 	- Publication Status: Finished
@@ -19763,7 +19778,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tsuki ga Michibiku Isekai Douchuu](https://myanimelist.net/manga/90117)
 	- Publication Status: Currently Publishing
 	- MAL ID: 90117
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Adventure, Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tsuki to Laika to Nosferatu](https://myanimelist.net/manga/120864)
 	- Publication Status: Currently Publishing
@@ -19773,7 +19788,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tsukiatte Agetemo Ii kana](https://myanimelist.net/manga/117020)
 	- Publication Status: Currently Publishing
 	- MAL ID: 117020
-	- Genre(s): Eligible Titles for You Should Read This, Girls Love
+	- Genre(s): Girls Love
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tsukiatte Kudasai](https://myanimelist.net/manga/106820)
 	- Publication Status: Finished
@@ -19878,7 +19893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tsuyokute New Saga](https://myanimelist.net/manga/74283)
 	- Publication Status: Finished
 	- MAL ID: 74283
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Fantasy, Time Travel
+	- Genre(s): Adventure, Fantasy, Time Travel
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tsuyoshi: Daremo Katenai, Aitsu ni wa](https://myanimelist.net/manga/140747)
 	- Publication Status: Currently Publishing
@@ -19933,7 +19948,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.](https://myanimelist.net/manga/100127)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100127
-	- Genre(s): Childcare, Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Childcare, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Uchi no Musuko wa Tabun Gay](https://myanimelist.net/manga/122880)
 	- Publication Status: Finished
@@ -20143,7 +20158,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Undead Unluck](https://myanimelist.net/manga/123956)
 	- Publication Status: Finished
 	- MAL ID: 123956
-	- Genre(s): Action, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Action, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Under 3](https://myanimelist.net/manga/159361)
 	- Publication Status: Currently Publishing
@@ -20153,7 +20168,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Under Ninja](https://myanimelist.net/manga/114939)
 	- Publication Status: Currently Publishing
 	- MAL ID: 114939
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Action, Comedy, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Under One Roof](https://myanimelist.net/manga/32381)
 	- Publication Status: Finished
@@ -20188,7 +20203,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ura de Yancha na Gouinda-san](https://myanimelist.net/manga/155920)
 	- Publication Status: Currently Publishing
 	- MAL ID: 155920
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, School, Seinen
+	- Genre(s): Comedy, Love Status Quo, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Urahara Joushi no Usagi ga Poron](https://myanimelist.net/manga/155234)
 	- Publication Status: Currently Publishing
@@ -20198,7 +20213,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Uramichi Oniisan](https://myanimelist.net/manga/109910)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109910
-	- Genre(s): Adult Cast, Comedy, Eligible Titles for You Should Read This, Gag Humor, Showbiz, Workplace
+	- Genre(s): Adult Cast, Comedy, Gag Humor, Showbiz, Workplace
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Uranaishi Hoshiko](https://myanimelist.net/manga/160793)
 	- Publication Status: Currently Publishing
@@ -20243,7 +20258,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Uruwashi no Yoi no Tsuki](https://myanimelist.net/manga/128463)
 	- Publication Status: Currently Publishing
 	- MAL ID: 128463
-	- Genre(s): Eligible Titles for You Should Read This, Romance, School, Shoujo
+	- Genre(s): Romance, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Usagi to Taka no Su](https://myanimelist.net/manga/163559)
 	- Publication Status: Currently Publishing
@@ -20268,7 +20283,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Uso no Kodomo](https://myanimelist.net/manga/153694)
 	- Publication Status: Finished
 	- MAL ID: 153694
-	- Genre(s): Childcare, Drama, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Childcare, Drama, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Usogui](https://myanimelist.net/manga/9982)
 	- Publication Status: Finished
@@ -20303,7 +20318,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Usuzumi no Hate](https://myanimelist.net/manga/146207)
 	- Publication Status: Currently Publishing
 	- MAL ID: 146207
-	- Genre(s): Adventure, Eligible Titles for You Should Read This, Sci-Fi, Seinen
+	- Genre(s): Adventure, Sci-Fi, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Utahime Obaka Miiko](https://myanimelist.net/manga/141347)
 	- Publication Status: Finished
@@ -20393,7 +20408,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Veil](https://myanimelist.net/manga/132678)
 	- Publication Status: Currently Publishing
 	- MAL ID: 132678
-	- Genre(s): Eligible Titles for You Should Read This, Historical, Romance, Slice of Life
+	- Genre(s): Historical, Romance, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Velvet Kiss](https://myanimelist.net/manga/22638)
 	- Publication Status: Finished
@@ -20433,7 +20448,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Violence Action](https://myanimelist.net/manga/105182)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105182
-	- Genre(s): Action, Eligible Titles for You Should Read This, Suspense
+	- Genre(s): Action, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Virgin Ripper](https://myanimelist.net/manga/26301)
 	- Publication Status: Finished
@@ -20573,7 +20588,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watari-kun no xx ga Houkai Sunzen](https://myanimelist.net/manga/77827)
 	- Publication Status: Finished
 	- MAL ID: 77827
-	- Genre(s): Comedy, Drama, Eligible Titles for You Should Read This, Romance, School, Seinen
+	- Genre(s): Comedy, Drama, Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Watashi Igai Jinrui Zenin Yuri](https://myanimelist.net/manga/117355)
 	- Publication Status: Finished
@@ -20583,7 +20598,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://myanimelist.net/manga/28533)
 	- Publication Status: Currently Publishing
 	- MAL ID: 28533
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Otaku Culture, School
+	- Genre(s): Comedy, Otaku Culture, School
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Watashi ni Uso wo Tsuite](https://myanimelist.net/manga/3897)
 	- Publication Status: Finished
@@ -20593,7 +20608,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watashi no Arika](https://myanimelist.net/manga/154136)
 	- Publication Status: Finished
 	- MAL ID: 154136
-	- Genre(s): Eligible Titles for You Should Read This, Idols (Female), Mystery, Seinen
+	- Genre(s): Idols (Female), Mystery, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Watashi no Buki wo Shikondara](https://myanimelist.net/manga/155653)
 	- Publication Status: Currently Publishing
@@ -20628,7 +20643,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watashi no Musuko ga Isekai Tensei shitappoi Full Ver.](https://myanimelist.net/manga/140070)
 	- Publication Status: Finished
 	- MAL ID: 140070
-	- Genre(s): Adult Cast, Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Adult Cast, Drama, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Watashi no Onaka no Sekinin Totte!](https://myanimelist.net/manga/143651)
 	- Publication Status: Finished
@@ -20648,7 +20663,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watashi no Oshi wa Akuyaku Reijou.](https://myanimelist.net/manga/129361)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129361
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Fantasy, Girls Love, School, Villainess
+	- Genre(s): Comedy, Fantasy, Girls Love, School, Villainess
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Watashi no Otto wa Reitouko ni Nemutteiru](https://myanimelist.net/manga/143854)
 	- Publication Status: Finished
@@ -20673,12 +20688,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Watashi no Yuri wa Oshigoto desu!](https://myanimelist.net/manga/104862)
 	- Publication Status: Currently Publishing
 	- MAL ID: 104862
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Girls Love, Workplace
+	- Genre(s): Comedy, Girls Love, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Watashi wa Kabe ni Naritai](https://myanimelist.net/manga/131017)
 	- Publication Status: Finished
 	- MAL ID: 131017
-	- Genre(s): Eligible Titles for You Should Read This, Slice of Life
+	- Genre(s): Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Watashi wa Kagome](https://myanimelist.net/manga/16251)
 	- Publication Status: Finished
@@ -20768,7 +20783,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Witch Watch](https://myanimelist.net/manga/133545)
 	- Publication Status: Currently Publishing
 	- MAL ID: 133545
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Shounen, Supernatural
+	- Genre(s): Comedy, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Wizard's Soul: Koi no Jihad](https://myanimelist.net/manga/56521)
 	- Publication Status: Finished
@@ -20798,7 +20813,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Wondance](https://myanimelist.net/manga/127120)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127120
-	- Genre(s): Eligible Titles for You Should Read This, Performing Arts, School, Seinen, Sports
+	- Genre(s): Performing Arts, School, Seinen, Sports
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [World Embryo](https://myanimelist.net/manga/574)
 	- Publication Status: Finished
@@ -20813,7 +20828,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [World Is Dancing](https://myanimelist.net/manga/147400)
 	- Publication Status: Finished
 	- MAL ID: 147400
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Historical, Performing Arts, Seinen
+	- Genre(s): Drama, Historical, Performing Arts, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [World's End Sabotage](https://myanimelist.net/manga/89769)
 	- Publication Status: Finished
@@ -20828,7 +20843,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Wortenia Senki](https://myanimelist.net/manga/105962)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105962
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Isekai
+	- Genre(s): Action, Adventure, Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Write/Lite Shimai](https://myanimelist.net/manga/107210)
 	- Publication Status: Finished
@@ -20898,7 +20913,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yaiteru Futari](https://myanimelist.net/manga/130633)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130633
-	- Genre(s): Eligible Titles for You Should Read This, Gourmet, Romance, Seinen, Slice of Life
+	- Genre(s): Gourmet, Romance, Seinen, Slice of Life
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yajin](https://myanimelist.net/manga/114284)
 	- Publication Status: Currently Publishing
@@ -20943,7 +20958,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yamada-kun to Lv999 no Koi wo Suru](https://myanimelist.net/manga/125052)
 	- Publication Status: Currently Publishing
 	- MAL ID: 125052
-	- Genre(s): Eligible Titles for You Should Read This, Romance, Video Game
+	- Genre(s): Romance, Video Game
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yamamoto Zenjirou to Moushimasu](https://myanimelist.net/manga/5775)
 	- Publication Status: Finished
@@ -20978,7 +20993,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yancha Gal no Anjou-san](https://myanimelist.net/manga/111357)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111357
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Love Status Quo, Romance, School, Seinen
+	- Genre(s): Comedy, Love Status Quo, Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Yaneura no Majo](https://myanimelist.net/manga/49067)
 	- Publication Status: Finished
@@ -21008,7 +21023,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yankee-kun to Hakujou Girl](https://myanimelist.net/manga/118712)
 	- Publication Status: Finished
 	- MAL ID: 118712
-	- Genre(s): Comedy, Delinquents, Eligible Titles for You Should Read This, Romance
+	- Genre(s): Comedy, Delinquents, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yankee-kun to Megane-chan](https://myanimelist.net/manga/3537)
 	- Publication Status: Finished
@@ -21018,7 +21033,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yano-kun no Futsuu no Hibi](https://myanimelist.net/manga/146233)
 	- Publication Status: Currently Publishing
 	- MAL ID: 146233
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Romance, School
+	- Genre(s): Comedy, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yaoyorozu Girl](https://myanimelist.net/manga/15841)
 	- Publication Status: Currently Publishing
@@ -21043,7 +21058,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yasashii Milk](https://myanimelist.net/manga/159029)
 	- Publication Status: Currently Publishing
 	- MAL ID: 159029
-	- Genre(s): Adult Cast, Drama, Eligible Titles for You Should Read This, Josei, Romance
+	- Genre(s): Adult Cast, Drama, Josei, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Yasashikunai Kimi ga Suki](https://myanimelist.net/manga/107719)
 	- Publication Status: Finished
@@ -21108,7 +21123,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yofukashi no Uta](https://myanimelist.net/manga/121480)
 	- Publication Status: Finished
 	- MAL ID: 121480
-	- Genre(s): Award Winning, Eligible Titles for You Should Read This, Romance, Shounen, Supernatural, Vampire
+	- Genre(s): Award Winning, Romance, Shounen, Supernatural, Vampire
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Yoiko-kei Furyou Succubus Saki-chan](https://myanimelist.net/manga/121789)
 	- Publication Status: Finished
@@ -21173,12 +21188,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yomi no Tsugai](https://myanimelist.net/manga/141772)
 	- Publication Status: Currently Publishing
 	- MAL ID: 141772
-	- Genre(s): Action, Adventure, Eligible Titles for You Should Read This, Fantasy, Shounen
+	- Genre(s): Action, Adventure, Fantasy, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yomotsuhegui: Shisha no Kuni no Kajitsu](https://myanimelist.net/manga/142152)
 	- Publication Status: Finished
 	- MAL ID: 142152
-	- Genre(s): Action, Eligible Titles for You Should Read This, Seinen, Supernatural
+	- Genre(s): Action, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Yonagi-san no Yonayona Gyoza](https://myanimelist.net/manga/154289)
 	- Publication Status: Currently Publishing
@@ -21208,7 +21223,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yoru no Namae wo Yonde](https://myanimelist.net/manga/133591)
 	- Publication Status: Finished
 	- MAL ID: 133591
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Drama, Fantasy, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yoru no Nightingale](https://myanimelist.net/manga/136490)
 	- Publication Status: Finished
@@ -21253,7 +21268,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Youjo Senki](https://myanimelist.net/manga/98436)
 	- Publication Status: Currently Publishing
 	- MAL ID: 98436
-	- Genre(s): Action, Eligible Titles for You Should Read This, Fantasy, Isekai, Military, Reincarnation
+	- Genre(s): Action, Fantasy, Isekai, Military, Reincarnation
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Youjo Shachou](https://myanimelist.net/manga/123492)
 	- Publication Status: Currently Publishing
@@ -21328,12 +21343,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yozakura-san Chi no Daisakusen](https://myanimelist.net/manga/121426)
 	- Publication Status: Finished
 	- MAL ID: 121426
-	- Genre(s): Action, Comedy, Eligible Titles for You Should Read This, Shounen
+	- Genre(s): Action, Comedy, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yubisaki to Renren](https://myanimelist.net/manga/121504)
 	- Publication Status: Currently Publishing
 	- MAL ID: 121504
-	- Genre(s): Adult Cast, Eligible Titles for You Should Read This, Romance, Shoujo
+	- Genre(s): Adult Cast, Romance, Shoujo
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yugami-kun ni wa Tomodachi ga Inai](https://myanimelist.net/manga/62547)
 	- Publication Status: Finished
@@ -21378,7 +21393,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yukionna to Kani wo Kuu](https://myanimelist.net/manga/117964)
 	- Publication Status: Finished
 	- MAL ID: 117964
-	- Genre(s): Drama, Eligible Titles for You Should Read This, Seinen
+	- Genre(s): Drama, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yukuyuku Futari](https://myanimelist.net/manga/112144)
 	- Publication Status: Finished
@@ -21513,7 +21528,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yuukoku no Moriarty](https://myanimelist.net/manga/100323)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100323
-	- Genre(s): Adult Cast, Eligible Titles for You Should Read This, Historical, Mystery, Psychological, Shounen, Suspense
+	- Genre(s): Adult Cast, Historical, Mystery, Psychological, Shounen, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yuukoku no Rasputin](https://myanimelist.net/manga/21344)
 	- Publication Status: Finished
@@ -21528,7 +21543,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yuukyuu no Gusha Asley no, Kenja no Susume: to, Pochi no Daibouken](https://myanimelist.net/manga/107575)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107575
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy
+	- Genre(s): Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yuunagi no Machi Sakura no Kuni](https://myanimelist.net/manga/1487)
 	- Publication Status: Finished
@@ -21573,7 +21588,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita](https://myanimelist.net/manga/131129)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131129
-	- Genre(s): Eligible Titles for You Should Read This, Fantasy, Isekai, Romance
+	- Genre(s): Fantasy, Isekai, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yuusha Unsouya](https://myanimelist.net/manga/148022)
 	- Publication Status: Currently Publishing
@@ -21588,7 +21603,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yuusha ni Haiboku shita Maou-sama wa Kaerizaku Tame ni Mamono Guild wo Tsukuru Koto ni Shimashita.](https://myanimelist.net/manga/127487)
 	- Publication Status: Currently Publishing
 	- MAL ID: 127487
-	- Genre(s): Adventure, Comedy, Eligible Titles for You Should Read This, Fantasy, Seinen
+	- Genre(s): Adventure, Comedy, Fantasy, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Yuusha no Party ni Eiyoushi ga Kuwawatta!](https://myanimelist.net/manga/118650)
 	- Publication Status: Currently Publishing
@@ -21658,7 +21673,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Zannen Onna Kanbu Black General-san](https://myanimelist.net/manga/100817)
 	- Publication Status: Currently Publishing
 	- MAL ID: 100817
-	- Genre(s): Comedy, Eligible Titles for You Should Read This, Shounen, Super Power
+	- Genre(s): Comedy, Shounen, Super Power
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Zansho: Kitoh Mohiro Tanpenshuu](https://myanimelist.net/manga/3326)
 	- Publication Status: Finished
@@ -21678,7 +21693,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Zeikin de Katta Hon](https://myanimelist.net/manga/142818)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142818
-	- Genre(s): Eligible Titles for You Should Read This, Seinen, Slice of Life, Workplace
+	- Genre(s): Seinen, Slice of Life, Workplace
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Zenei no Archer](https://myanimelist.net/manga/95938)
 	- Publication Status: Finished
