@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of March 22, 2025:
+This list contains a list of anime eligible for the following challenge item, as of March 26, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -6395,6 +6395,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 9181
 	- Genre(s): Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Motto! Ojamajo Doremi](https://myanimelist.net/anime/352)
+	- Publication Status: Finished Airing
+	- MAL ID: 352
+	- Genre(s): Comedy, Mahou Shoujo
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Mouryou no Hako](https://myanimelist.net/anime/4879)
 	- Publication Status: Finished Airing
 	- MAL ID: 4879
@@ -7825,6 +7830,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 50613
 	- Genre(s): Action, Historical, Samurai, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran](https://myanimelist.net/anime/57554)
+	- Publication Status: Finished Airing
+	- MAL ID: 57554
+	- Genre(s): Action, Historical, Samurai, Shounen
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen](https://myanimelist.net/anime/44)
 	- Publication Status: Finished Airing
 	- MAL ID: 44
@@ -7949,7 +7959,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58939
 	- Genre(s): Action, Adult Cast, Comedy, Organized Crime, Shounen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Sakamoto desu ga?](https://myanimelist.net/anime/32542)
 	- Publication Status: Finished Airing
 	- MAL ID: 32542
@@ -10640,6 +10650,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40394
 	- Genre(s): Action, Sci-Fi, Strategy Game
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Zenshuu.](https://myanimelist.net/anime/58502)
+	- Publication Status: Finished Airing
+	- MAL ID: 58502
+	- Genre(s): Action, Fantasy, Isekai
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Zero kara Hajimeru Mahou no Sho](https://myanimelist.net/anime/34176)
 	- Publication Status: Finished Airing
 	- MAL ID: 34176
