@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of March 26, 2025:
+This list contains a list of manga eligible for the following challenge item, as of March 27, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1038,7 +1038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ano Ko no Kodomo](https://myanimelist.net/manga/140333)
 	- Publication Status: Finished
 	- MAL ID: 140333
-	- Genre(s): Award Winning, Drama, Romance, School, Shoujo
+	- Genre(s): Award Winning, Drama, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ano Yo no Task](https://myanimelist.net/manga/161247)
 	- Publication Status: Currently Publishing
@@ -2088,7 +2088,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku ga Shinu dake no Hyakumonogatari](https://myanimelist.net/manga/141760)
 	- Publication Status: Currently Publishing
 	- MAL ID: 141760
-	- Genre(s): Horror, Mystery, Mythology, Psychological, Shounen, Supernatural
+	- Genre(s): Horror, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boku ga Watashi ni Naru Tame ni](https://myanimelist.net/manga/99945)
 	- Publication Status: Finished
@@ -3713,7 +3713,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dinosan](https://myanimelist.net/manga/142793)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142793
-	- Genre(s): Sci-Fi, Seinen, Slice of Life
+	- Genre(s): Sci-Fi, Seinen, Workplace
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dinosaur King](https://myanimelist.net/manga/21119)
 	- Publication Status: Finished
@@ -5014,6 +5014,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 100762
 	- Genre(s): Comedy, Girls Love, School
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Gal to Tsuchinoko](https://myanimelist.net/manga/167885)
+	- Publication Status: Currently Publishing
+	- MAL ID: 167885
+	- Genre(s): Comedy, Love Status Quo, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Galaxy Angel](https://myanimelist.net/manga/672)
 	- Publication Status: Finished
@@ -15803,7 +15808,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ruri Dragon](https://myanimelist.net/manga/148054)
 	- Publication Status: Currently Publishing
 	- MAL ID: 148054
-	- Genre(s): Comedy, School, Shounen, Supernatural
+	- Genre(s): School, Shounen, Slice of Life, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ruri to Ryouri no Ousama to](https://myanimelist.net/manga/114966)
 	- Publication Status: Finished
@@ -17675,6 +17680,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 11324
 	- Genre(s): Drama, Josei, Romance
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Shuumatsu Touring](https://myanimelist.net/manga/130154)
+	- Publication Status: Currently Publishing
+	- MAL ID: 130154
+	- Genre(s): Adventure, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shuumatsu no Harem](https://myanimelist.net/manga/98752)
 	- Publication Status: Finished
 	- MAL ID: 98752
@@ -18848,7 +18858,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Telework Yotabanashi](https://myanimelist.net/manga/153158)
 	- Publication Status: Finished
 	- MAL ID: 153158
-	- Genre(s): Adult Cast, Comedy, Romance, Seinen, Workplace
+	- Genre(s): Adult Cast, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Temple](https://myanimelist.net/manga/120643)
 	- Publication Status: Currently Publishing
