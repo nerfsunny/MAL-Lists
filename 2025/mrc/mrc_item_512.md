@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of March 27, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 01, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -124,7 +124,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Aria](https://myanimelist.net/manga/81)
 	- Publication Status: Finished
 	- MAL ID: 81
-	- Genre(s): Adventure, Comedy, Drama, Iyashikei, Sci-Fi, Shounen, Slice of Life
+	- Genre(s): Iyashikei, Sci-Fi, Shounen, Slice of Life
 	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites)
 - [Arifureta Shokugyou de Sekai Saikyou](https://myanimelist.net/manga/96528)
 	- Publication Status: Currently Publishing
@@ -964,7 +964,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Majo to Yajuu](https://myanimelist.net/manga/106204)
 	- Publication Status: On Hiatus
 	- MAL ID: 106204
-	- Genre(s): Action, Fantasy, Seinen
+	- Genre(s): Action, Adult Cast, Fantasy, Seinen
 	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites)
 - [Makai Ouji: Devils and Realist](https://myanimelist.net/manga/17200)
 	- Publication Status: Finished

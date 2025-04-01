@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of March 27, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 01, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -2086,7 +2086,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Boku ga Shinu dake no Hyakumonogatari](https://myanimelist.net/manga/141760)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 141760
 	- Genre(s): Horror, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -3185,6 +3185,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 57885
 	- Genre(s): Comedy, Ecchi, Seinen, Strategy Game
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Criminale!](https://myanimelist.net/manga/96179)
+	- Publication Status: Finished
+	- MAL ID: 96179
+	- Genre(s): Comedy, Romance, School
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Croket!](https://myanimelist.net/manga/17005)
 	- Publication Status: Finished
 	- MAL ID: 17005
@@ -5148,7 +5153,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Genderless Danshi ni Aisareteimasu.](https://myanimelist.net/manga/113782)
 	- Publication Status: Finished
 	- MAL ID: 113782
-	- Genre(s): Josei, Romance, Slice of Life
+	- Genre(s): Josei, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Genghis Khan](https://myanimelist.net/manga/50887)
 	- Publication Status: Finished
@@ -7469,7 +7474,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 102374
 	- Genre(s): Ecchi, School, Shounen
-	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Iinari! Aibration](https://myanimelist.net/manga/3046)
 	- Publication Status: Finished
 	- MAL ID: 3046
@@ -11603,7 +11608,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Majo to Yajuu](https://myanimelist.net/manga/106204)
 	- Publication Status: On Hiatus
 	- MAL ID: 106204
-	- Genre(s): Action, Fantasy, Seinen
+	- Genre(s): Action, Adult Cast, Fantasy, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Majo-senpai Nippou](https://myanimelist.net/manga/116957)
 	- Publication Status: Currently Publishing
@@ -16720,6 +16725,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 57175
 	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Sen wa, Boku wo Egaku](https://myanimelist.net/manga/120465)
+	- Publication Status: Finished
+	- MAL ID: 120465
+	- Genre(s): Drama, Shounen, Visual Arts
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Senakagurashi](https://myanimelist.net/manga/69549)
 	- Publication Status: Finished
 	- MAL ID: 69549
@@ -19065,6 +19075,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 1773
 	- Genre(s): Action, Comedy, Gourmet, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Tetsunagi Oni](https://myanimelist.net/manga/110813)
+	- Publication Status: Finished
+	- MAL ID: 110813
+	- Genre(s): Horror, Josei, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Tetsuwan Atom](https://myanimelist.net/manga/728)
 	- Publication Status: Finished
 	- MAL ID: 728
