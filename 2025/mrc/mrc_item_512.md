@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 06, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -595,7 +595,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 44489
 	- Genre(s): Action, Anthropomorphic, Drama, Fantasy, Seinen
-	- Staff Member(s): [8-bit](https://myanimelist.net/profile/8-bit/favorites), [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Jinbou](https://myanimelist.net/profile/Jinbou/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
+	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Jinbou](https://myanimelist.net/profile/Jinbou/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
 - [Hunter x Hunter](https://myanimelist.net/manga/26)
 	- Publication Status: Currently Publishing
 	- MAL ID: 26
@@ -1210,7 +1210,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 4632
 	- Genre(s): Drama, Psychological, Seinen, Slice of Life
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [8-bit](https://myanimelist.net/profile/8-bit/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
 - [Painter of the Night](https://myanimelist.net/manga/139429)
 	- Publication Status: Currently Publishing
 	- MAL ID: 139429
@@ -1222,9 +1222,9 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Adventure, Fantasy, Mystery, Shounen
 	- Staff Member(s): [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites), [Maffy](https://myanimelist.net/profile/Maffy/favorites), [Mythologically](https://myanimelist.net/profile/Mythologically/favorites), [stinghy](https://myanimelist.net/profile/stinghy/favorites), [tingy](https://myanimelist.net/profile/tingy/favorites)
 - [Pearl Boy](https://myanimelist.net/manga/136294)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 136294
-	- Genre(s): Boys Love, Erotica
+	- Genre(s): Boys Love, Drama, Erotica
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Piano no Mori](https://myanimelist.net/manga/2895)
 	- Publication Status: Finished
@@ -1690,7 +1690,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 436
 	- Genre(s): Drama, Horror, Seinen, Supernatural
-	- Staff Member(s): [8-bit](https://myanimelist.net/profile/8-bit/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
 - [Vagabond](https://myanimelist.net/manga/656)
 	- Publication Status: On Hiatus
 	- MAL ID: 656
@@ -1770,7 +1770,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 4
 	- Genre(s): Award Winning, Iyashikei, Sci-Fi, Seinen, Slice of Life
-	- Staff Member(s): [8-bit](https://myanimelist.net/profile/8-bit/favorites), [Denji](https://myanimelist.net/profile/Denji/favorites), [KTGita22](https://myanimelist.net/profile/KTGita22/favorites), [Leknaat](https://myanimelist.net/profile/Leknaat/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
+	- Staff Member(s): [Denji](https://myanimelist.net/profile/Denji/favorites), [KTGita22](https://myanimelist.net/profile/KTGita22/favorites), [Leknaat](https://myanimelist.net/profile/Leknaat/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
 - [Yokokuhan](https://myanimelist.net/manga/37109)
 	- Publication Status: Finished
 	- MAL ID: 37109
@@ -1786,11 +1786,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 133591
 	- Genre(s): Drama, Fantasy, Seinen
 	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites)
-- [Yotsuba to!](https://myanimelist.net/manga/104)
-	- Publication Status: Currently Publishing
-	- MAL ID: 104
-	- Genre(s): Award Winning, Childcare, Comedy, Iyashikei, Slice of Life
-	- Staff Member(s): [8-bit](https://myanimelist.net/profile/8-bit/favorites)
 - [Youjo Senki](https://myanimelist.net/manga/98436)
 	- Publication Status: Currently Publishing
 	- MAL ID: 98436
@@ -1846,7 +1841,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 
 - [-DxP-](https://myanimelist.net/profile/-DxP-/favorites)
 - [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
-- [8-bit](https://myanimelist.net/profile/8-bit/favorites)
 - [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites)
 - [Aidan](https://myanimelist.net/profile/Aidan/favorites)
 - [Aiimee](https://myanimelist.net/profile/Aiimee/favorites)

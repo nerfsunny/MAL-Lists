@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 06, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
