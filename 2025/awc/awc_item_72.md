@@ -4,7 +4,7 @@ title: AWC2025 72
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of March 19, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 06, 2025:
 
 (72) Watch an anime with 8 or more main characters listed on MAL (can have any number of supporting characters)
 
@@ -136,7 +136,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Aria the Avvenire](https://myanimelist.net/anime/29893)
 	- Publication Status: Finished Airing
 	- MAL ID: 29893
-	- Genre(s): Fantasy, Iyashikei, Sci-Fi, Shounen, Slice of Life
+	- Genre(s): Iyashikei, Sci-Fi, Shounen, Slice of Life
 - [Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou](https://myanimelist.net/anime/51473)
 	- Publication Status: Finished Airing
 	- MAL ID: 51473
@@ -392,6 +392,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Chibi Godzilla no Gyakushuu](https://myanimelist.net/anime/54644)
 	- Publication Status: Finished Airing
 	- MAL ID: 54644
+	- Genre(s): Fantasy, Kids
+- [Chibi Godzilla no Gyakushuu 2nd Season](https://myanimelist.net/anime/58351)
+	- Publication Status: Finished Airing
+	- MAL ID: 58351
 	- Genre(s): Fantasy, Kids
 - [Chocosanji](https://myanimelist.net/anime/55594)
 	- Publication Status: Finished Airing
@@ -1176,19 +1180,23 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Jewelpet Kira☆Deco!](https://myanimelist.net/anime/12963)
 	- Publication Status: Finished Airing
 	- MAL ID: 12963
-	- Genre(s): Anthropomorphic, Fantasy, Mahou Shoujo
+	- Genre(s): Anthropomorphic, Mahou Shoujo
 - [Jewelpet Sunshine](https://myanimelist.net/anime/10359)
 	- Publication Status: Finished Airing
 	- MAL ID: 10359
-	- Genre(s): Anthropomorphic, Comedy, Fantasy, Mahou Shoujo, School
+	- Genre(s): Anthropomorphic, Comedy, Mahou Shoujo, School
 - [Jewelpet Twinkle☆](https://myanimelist.net/anime/8217)
 	- Publication Status: Finished Airing
 	- MAL ID: 8217
-	- Genre(s): Anthropomorphic, Fantasy, Mahou Shoujo, School
+	- Genre(s): Anthropomorphic, Mahou Shoujo, School
 - [Jikuu Tantei Genshi-kun](https://myanimelist.net/anime/2281)
 	- Publication Status: Finished Airing
 	- MAL ID: 2281
 	- Genre(s): Adventure, Comedy, Fantasy, Mystery, Sci-Fi, Time Travel
+- [JK to Orc Heidan: Aku Buta Oni ni Ryougyaku Sareta Seijo Gakuen](https://myanimelist.net/anime/18653)
+	- Publication Status: Finished Airing
+	- MAL ID: 18653
+	- Genre(s): Hentai, Mythology, Supernatural
 - [JoJo no Kimyou na Bouken Part 5: Ougon no Kaze](https://myanimelist.net/anime/37991)
 	- Publication Status: Finished Airing
 	- MAL ID: 37991
@@ -1293,6 +1301,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 31780
 	- Genre(s): Idols (Female), Music
+- [Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season](https://myanimelist.net/anime/57616)
+	- Publication Status: Finished Airing
+	- MAL ID: 57616
+	- Genre(s): Comedy, Harem, Parody, Romance, School, Seinen
 - [King of Prism All Stars: Prism Show☆Best Ten](https://myanimelist.net/anime/40543)
 	- Publication Status: Finished Airing
 	- MAL ID: 40543
@@ -1404,7 +1416,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Lady Jewelpet](https://myanimelist.net/anime/22693)
 	- Publication Status: Finished Airing
 	- MAL ID: 22693
-	- Genre(s): Anthropomorphic, Fantasy, Mahou Shoujo, Romance
+	- Genre(s): Anthropomorphic, Mahou Shoujo, Romance
 - [Last Waltz: Hakudaku Mamire no Natsu Gasshuku](https://myanimelist.net/anime/8111)
 	- Publication Status: Finished Airing
 	- MAL ID: 8111
@@ -1541,6 +1553,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 1918
 	- Genre(s): Comedy, Mahou Shoujo, Parody
+- [Mahoutsukai no Yakusoku](https://myanimelist.net/anime/57152)
+	- Publication Status: Finished Airing
+	- MAL ID: 57152
+	- Genre(s): Fantasy, Isekai
 - [Makura no Danshi](https://myanimelist.net/anime/30705)
 	- Publication Status: Finished Airing
 	- MAL ID: 30705
@@ -1884,6 +1900,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [One Piece: Glorious Island](https://myanimelist.net/anime/16468)
 	- Publication Status: Finished Airing
 	- MAL ID: 16468
+	- Genre(s): Action, Adventure, Fantasy, Shounen
+- [One Piece: Gyojin Tou-hen](https://myanimelist.net/anime/60108)
+	- Publication Status: Finished Airing
+	- MAL ID: 60108
 	- Genre(s): Action, Adventure, Fantasy, Shounen
 - [One Piece: Heart of Gold](https://myanimelist.net/anime/33338)
 	- Publication Status: Finished Airing
@@ -3100,19 +3120,19 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Working!!](https://myanimelist.net/anime/6956)
 	- Publication Status: Finished Airing
 	- MAL ID: 6956
-	- Genre(s): Comedy, Love Status Quo, Seinen, Workplace
+	- Genre(s): Comedy, Love Status Quo, Romance, Seinen, Workplace
 - [Working!!!](https://myanimelist.net/anime/25879)
 	- Publication Status: Finished Airing
 	- MAL ID: 25879
-	- Genre(s): Comedy, Romance, Seinen, Workplace
+	- Genre(s): Comedy, Love Status Quo, Romance, Seinen, Workplace
 - [Working!!! Lord of the Takanashi](https://myanimelist.net/anime/31715)
 	- Publication Status: Finished Airing
 	- MAL ID: 31715
-	- Genre(s): Comedy, Romance, Seinen, Workplace
+	- Genre(s): Comedy, Love Status Quo, Romance, Seinen, Workplace
 - [Working'!!](https://myanimelist.net/anime/10521)
 	- Publication Status: Finished Airing
 	- MAL ID: 10521
-	- Genre(s): Comedy, Love Status Quo, Seinen, Workplace
+	- Genre(s): Comedy, Love Status Quo, Romance, Seinen, Workplace
 - [WWW.Working!!](https://myanimelist.net/anime/33094)
 	- Publication Status: Finished Airing
 	- MAL ID: 33094

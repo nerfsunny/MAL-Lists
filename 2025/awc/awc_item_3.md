@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 01, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 06, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -310,6 +310,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 3359
 	- Genre(s): Action, Historical, Josei, Mythology, Supernatural, Time Travel
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Ameku Takao no Suiri Karte](https://myanimelist.net/anime/58600)
+	- Publication Status: Finished Airing
+	- MAL ID: 58600
+	- Genre(s): Adult Cast, Medical, Mystery
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Amon Saga](https://myanimelist.net/anime/2249)
 	- Publication Status: Finished Airing
 	- MAL ID: 2249
@@ -638,12 +643,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Bai Yao Pu](https://myanimelist.net/anime/41224)
 	- Publication Status: Finished Airing
 	- MAL ID: 41224
-	- Genre(s): Adventure, Fantasy, Historical, Mystery, Supernatural
+	- Genre(s): Adventure, Historical, Mystery, Supernatural
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Bai Yao Pu 2nd Season](https://myanimelist.net/anime/44067)
 	- Publication Status: Finished Airing
 	- MAL ID: 44067
-	- Genre(s): Adventure, Fantasy, Historical, Mystery, Supernatural
+	- Genre(s): Adventure, Historical, Mystery, Supernatural
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Bakemono no Ko](https://myanimelist.net/anime/28805)
 	- Publication Status: Finished Airing
@@ -1980,6 +1985,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 53111
 	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066)
+	- Publication Status: Finished Airing
+	- MAL ID: 57066
+	- Genre(s): Action, Adventure, Fantasy
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348)
 	- Publication Status: Finished Airing
 	- MAL ID: 56348
@@ -2185,11 +2195,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 27821
 	- Genre(s): Action, Fantasy, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
-- [Fei Ren Zai](https://myanimelist.net/anime/37292)
-	- Publication Status: Finished Airing
-	- MAL ID: 37292
-	- Genre(s): Comedy, Mythology, Supernatural
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Final Fantasy VII: Advent Children](https://myanimelist.net/anime/317)
 	- Publication Status: Finished Airing
 	- MAL ID: 317
@@ -3210,11 +3215,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 27969
 	- Genre(s): Award Winning, Drama, Mystery
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
-- [Hana wa Saku, Shura no Gotoku](https://myanimelist.net/anime/59055)
-	- Publication Status: Finished Airing
-	- MAL ID: 59055
-	- Genre(s): Drama, School, Seinen
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hanada Shounen-shi](https://myanimelist.net/anime/2004)
 	- Publication Status: Finished Airing
 	- MAL ID: 2004
@@ -3598,11 +3598,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Hiyokoi](https://myanimelist.net/anime/8768)
 	- Publication Status: Finished Airing
 	- MAL ID: 8768
-	- Genre(s): Romance, School, Shoujo
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
-- [Honey Lemon Soda](https://myanimelist.net/anime/58271)
-	- Publication Status: Finished Airing
-	- MAL ID: 58271
 	- Genre(s): Romance, School, Shoujo
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Honobono Log](https://myanimelist.net/anime/33241)
@@ -8970,11 +8965,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 52991
 	- Genre(s): Adventure, Drama, Fantasy, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
-- [Sousou no Frieren: ●● no Mahou](https://myanimelist.net/anime/56885)
-	- Publication Status: Finished Airing
-	- MAL ID: 56885
-	- Genre(s): Comedy, Fantasy
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Souten Kouro](https://myanimelist.net/anime/5226)
 	- Publication Status: Finished Airing
 	- MAL ID: 5226
