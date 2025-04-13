@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 06, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 13, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -329,7 +329,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Dead Mount Death Play](https://myanimelist.net/manga/110301)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110301
-	- Genre(s): Action, Fantasy, Reincarnation, Seinen, Supernatural
+	- Genre(s): Action, Fantasy, Reincarnation, Seinen, Urban Fantasy
 	- Staff Member(s): [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
 - [Deadman Wonderland](https://myanimelist.net/manga/3986)
 	- Publication Status: Finished
@@ -744,7 +744,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Karaoke Iko!](https://myanimelist.net/manga/130181)
 	- Publication Status: Finished
 	- MAL ID: 130181
-	- Genre(s): Drama
+	- Genre(s): Comedy, Music, Organized Crime
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
 - [Karneval](https://myanimelist.net/manga/10270)
 	- Publication Status: Finished

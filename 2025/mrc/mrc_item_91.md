@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 06, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 13, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -868,7 +868,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Amagami-san Chi no Enmusubi](https://myanimelist.net/manga/134028)
 	- Publication Status: Currently Publishing
 	- MAL ID: 134028
-	- Genre(s): Comedy, Harem, Romance, Shounen
+	- Genre(s): Comedy, Harem, Romance, Shounen, Supernatural
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Amai Seikatsu](https://myanimelist.net/manga/68361)
 	- Publication Status: Finished
@@ -1208,7 +1208,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Around 30 dakedo, Hatsukoi desu.](https://myanimelist.net/manga/117474)
 	- Publication Status: Finished
 	- MAL ID: 117474
-	- Genre(s): Comedy, Romance, Slice of Life
+	- Genre(s): Adult Cast, Comedy, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Around 40 Kenja no Isekai Seikatsu Nikki](https://myanimelist.net/manga/116922)
 	- Publication Status: Currently Publishing
@@ -3493,7 +3493,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dead Mount Death Play](https://myanimelist.net/manga/110301)
 	- Publication Status: Currently Publishing
 	- MAL ID: 110301
-	- Genre(s): Action, Fantasy, Reincarnation, Seinen, Supernatural
+	- Genre(s): Action, Fantasy, Reincarnation, Seinen, Urban Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dead Word Puzzle](https://myanimelist.net/manga/68915)
 	- Publication Status: Finished
@@ -4738,7 +4738,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Futari Ashita mo Sorenari ni](https://myanimelist.net/manga/120367)
 	- Publication Status: Finished
 	- MAL ID: 120367
-	- Genre(s): Comedy, Romance, Slice of Life
+	- Genre(s): Adult Cast, Comedy, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Futari Ecchi](https://myanimelist.net/manga/318)
 	- Publication Status: Currently Publishing
@@ -8116,7 +8116,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, School, Shounen, Slice of Life, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Jigoku no Ashita](https://myanimelist.net/manga/161437)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 161437
 	- Genre(s): Action, Comedy, Drama, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -19808,7 +19808,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Tsuki to Laika to Nosferatu](https://myanimelist.net/manga/120864)
 	- Publication Status: Currently Publishing
 	- MAL ID: 120864
-	- Genre(s): Drama, Romance, Sci-Fi, Space, Vampire
+	- Genre(s): Drama, Fantasy, Historical, Military, Romance, Space, Urban Fantasy, Vampire
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tsukiatte Agetemo Ii kana](https://myanimelist.net/manga/117020)
 	- Publication Status: Currently Publishing
