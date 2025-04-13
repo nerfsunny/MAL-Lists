@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 13, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -25,7 +25,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 55973
 	- Genre(s): Adult Cast, Boys Love, Comedy, Super Power, Workplace
-	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores), [lil-pie](https://myanimelist.net/profile/lil-pie/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
+	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores), [lil-pie](https://myanimelist.net/profile/lil-pie/statistics/anime-scores)
 - [ACCA: 13-ku Kansatsu-ka](https://myanimelist.net/anime/33337)
 	- Publication Status: Finished Airing
 	- MAL ID: 33337
@@ -95,7 +95,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 55310
 	- Genre(s): Adult Cast, Iyashikei, Slice of Life, Workplace
-	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/statistics/anime-scores), [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
+	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/statistics/anime-scores)
 - [Baby Steps](https://myanimelist.net/anime/21185)
 	- Publication Status: Finished Airing
 	- MAL ID: 21185
@@ -116,6 +116,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 54959
 	- Genre(s): Drama, Music
 	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores)
+- [BanG Dream! Movie: Episode of Roselia - I: Yakusoku](https://myanimelist.net/anime/41780)
+	- Publication Status: Finished Airing
+	- MAL ID: 41780
+	- Genre(s): Music
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [cyruz](https://myanimelist.net/profile/cyruz/statistics/anime-scores)
 - [Beelzebub-jou no Okinimesu mama.](https://myanimelist.net/anime/37716)
 	- Publication Status: Finished Airing
 	- MAL ID: 37716
@@ -125,7 +130,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 52976
 	- Genre(s): Action, Adventure, Drama, Fantasy, Gore, Horror, Military, Psychological, Seinen
-	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Ryzor](https://myanimelist.net/profile/Ryzor/statistics/anime-scores)
+	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/statistics/anime-scores)
 - [Berserk: Ougon Jidai-hen I - Haou no Tamago](https://myanimelist.net/anime/10218)
 	- Publication Status: Finished Airing
 	- MAL ID: 10218
@@ -276,6 +281,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 18689
 	- Genre(s): School, Shounen, Sports, Team Sports
 	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/statistics/anime-scores)
+- [Dive!!](https://myanimelist.net/anime/34543)
+	- Publication Status: Finished Airing
+	- MAL ID: 34543
+	- Genre(s): Drama, Sports
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Do It Yourself!!](https://myanimelist.net/anime/48542)
 	- Publication Status: Finished Airing
 	- MAL ID: 48542
@@ -1065,7 +1075,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 42894
 	- Genre(s): Iyashikei, Mythology, Shoujo, Slice of Life, Supernatural
-	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
+	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores), [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
 - [NegaPosi Angler](https://myanimelist.net/anime/59425)
 	- Publication Status: Finished Airing
 	- MAL ID: 59425
@@ -1111,11 +1121,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 1329
 	- Genre(s): Drama, Historical
 	- Staff Member(s): [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores)
-- [Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru](https://myanimelist.net/anime/55842)
-	- Publication Status: Finished Airing
-	- MAL ID: 55842
-	- Genre(s): Comedy, Love Polygon, Romance, School
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Omoide Poroporo](https://myanimelist.net/anime/1029)
 	- Publication Status: Finished Airing
 	- MAL ID: 1029
@@ -1656,11 +1661,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 32673
 	- Genre(s): Anthropomorphic, Childcare, Iyashikei, Seinen, Slice of Life, Supernatural
 	- Staff Member(s): [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
-- [Uma Musume: Pretty Derby - Shin Jidai no Tobira](https://myanimelist.net/anime/57647)
-	- Publication Status: Finished Airing
-	- MAL ID: 57647
-	- Genre(s): Anthropomorphic, Racing, Sports
-	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [cyruz](https://myanimelist.net/profile/cyruz/statistics/anime-scores)
 - [Umi no Triton](https://myanimelist.net/anime/2718)
 	- Publication Status: Finished Airing
 	- MAL ID: 2718
@@ -1796,11 +1796,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 51706
 	- Genre(s): Action, Comedy, Ecchi, Fantasy, Harem, Parody
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/statistics/anime-scores)
-- [Zenshuu.](https://myanimelist.net/anime/58502)
-	- Publication Status: Finished Airing
-	- MAL ID: 58502
-	- Genre(s): Action, Fantasy, Isekai
-	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores)
 - [number24](https://myanimelist.net/anime/39583)
 	- Publication Status: Finished Airing
 	- MAL ID: 39583

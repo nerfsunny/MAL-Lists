@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 13, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -745,6 +745,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 57
 	- Genre(s): Drama, Music, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Ben-To](https://myanimelist.net/anime/10396)
+	- Publication Status: Finished Airing
+	- MAL ID: 10396
+	- Genre(s): Action, Comedy, Gourmet, Martial Arts
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Berserk: Ougon Jidai-hen II - Doldrey Kouryaku](https://myanimelist.net/anime/12113)
 	- Publication Status: Finished Airing
 	- MAL ID: 12113
@@ -1274,7 +1279,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 52215
 	- Genre(s): Drama, Historical, Seinen
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Chihayafuru](https://myanimelist.net/anime/10800)
 	- Publication Status: Finished Airing
 	- MAL ID: 10800
@@ -1539,6 +1544,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 6460
 	- Genre(s): Action, Adventure, Comedy, Seinen
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen](https://myanimelist.net/anime/8360)
+	- Publication Status: Finished Airing
+	- MAL ID: 8360
+	- Genre(s): Comedy, Ecchi, School, Seinen
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Crazy Roulette](https://myanimelist.net/anime/40690)
 	- Publication Status: Finished Airing
@@ -1844,7 +1854,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 38145
 	- Genre(s): Adult Cast, Pets, Slice of Life
-	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Doukyuusei](https://myanimelist.net/anime/30346)
 	- Publication Status: Finished Airing
 	- MAL ID: 30346
@@ -7144,7 +7154,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58567
 	- Genre(s): Action, Adult Cast, Adventure, Fantasy, Urban Fantasy
-	- Staff Member(s): [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Ore dake Level Up na Ken: ReAwakening](https://myanimelist.net/anime/59841)
 	- Publication Status: Finished Airing
 	- MAL ID: 59841
@@ -10124,7 +10134,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 732
 	- Genre(s): Action, Fantasy, Horror, Sci-Fi, Vampire
-	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Vampire Hunter D (2000)](https://myanimelist.net/anime/543)
 	- Publication Status: Finished Airing
 	- MAL ID: 543
