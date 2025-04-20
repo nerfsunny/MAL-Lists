@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 13, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 20, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -893,7 +893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shingeki no Kyojin](https://myanimelist.net/manga/23390)
 	- Publication Status: Finished
 	- MAL ID: 23390
-	- Genre(s): Action, Award Winning, Drama, Gore, Military, Shounen, Survival
+	- Genre(s): Action, Award Winning, Drama, Gore, Military, Shounen, Survival, Suspense
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Shonan Junai Gumi!](https://myanimelist.net/manga/445)
 	- Publication Status: Finished

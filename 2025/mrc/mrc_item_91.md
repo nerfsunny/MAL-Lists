@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 13, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 20, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1628,7 +1628,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Banana Fish](https://myanimelist.net/manga/756)
 	- Publication Status: Finished
 	- MAL ID: 756
-	- Genre(s): Action, Adventure, Delinquents, Drama, Shoujo
+	- Genre(s): Action, Adventure, Delinquents, Drama, Organized Crime, Psychological, Shoujo, Suspense
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Banana no Nana](https://myanimelist.net/manga/20281)
 	- Publication Status: Finished
@@ -2098,7 +2098,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku ni Koisuru Mechanical](https://myanimelist.net/manga/50911)
 	- Publication Status: Finished
 	- MAL ID: 50911
-	- Genre(s): Action, Comedy, Romance, School, Sci-Fi
+	- Genre(s): Action, Comedy, Romance, School, Sci-Fi, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Boku no Chikyuu wo Mamotte](https://myanimelist.net/manga/655)
 	- Publication Status: Finished
@@ -2758,7 +2758,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Chichikogusa](https://myanimelist.net/manga/52043)
 	- Publication Status: Finished
 	- MAL ID: 52043
-	- Genre(s): Childcare, Slice of Life
+	- Genre(s): Childcare, Shounen, Slice of Life
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Chichonmanchi](https://myanimelist.net/manga/64131)
 	- Publication Status: Finished
@@ -3981,7 +3981,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Medical, Psychological
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dr. Ginko wa Tadaima Chiryouchuu](https://myanimelist.net/manga/124144)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 124144
 	- Genre(s): Comedy, Ecchi, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -4403,7 +4403,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [FSc's Japan Diary](https://myanimelist.net/manga/22920)
 	- Publication Status: Finished
 	- MAL ID: 22920
-	- Genre(s): Slice of Life
+	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Fairy Cube](https://myanimelist.net/manga/689)
 	- Publication Status: Finished
@@ -4518,7 +4518,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Fourteen](https://myanimelist.net/manga/12549)
 	- Publication Status: Finished
 	- MAL ID: 12549
-	- Genre(s): Horror, Sci-Fi
+	- Genre(s): Horror, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Fragile: Byourii Kishi Keiichirou no Shoken](https://myanimelist.net/manga/86230)
 	- Publication Status: Currently Publishing
@@ -10623,7 +10623,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kurosagi Shitai Takuhaibin](https://myanimelist.net/manga/1161)
 	- Publication Status: Currently Publishing
 	- MAL ID: 1161
-	- Genre(s): Comedy, Drama, Horror, Mystery, Supernatural
+	- Genre(s): Comedy, Drama, Horror, Mystery, Seinen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kurozakuro](https://myanimelist.net/manga/1063)
 	- Publication Status: Finished
@@ -11506,7 +11506,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Hentai, Romance
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Maiko-san Chi no Makanai-san](https://myanimelist.net/manga/107239)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 107239
 	- Genre(s): Award Winning, Gourmet, Iyashikei, Performing Arts, Shounen, Slice of Life
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -15723,7 +15723,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Rokurei: Tenseishi Rinne Kuyakusho Dairokkan-bu Joreika Katsudouki](https://myanimelist.net/manga/154103)
 	- Publication Status: Currently Publishing
 	- MAL ID: 154103
-	- Genre(s): Comedy, Mystery, Shounen, Supernatural
+	- Genre(s): Comedy, Mystery, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Rokushou!](https://myanimelist.net/manga/120095)
 	- Publication Status: Currently Publishing
@@ -17963,7 +17963,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sora wo Matotte](https://myanimelist.net/manga/158648)
 	- Publication Status: Currently Publishing
 	- MAL ID: 158648
-	- Genre(s): Drama, School, Visual Arts
+	- Genre(s): Drama, School, Seinen, Visual Arts
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Sora yori Takaku](https://myanimelist.net/manga/71659)
 	- Publication Status: Finished
@@ -21193,7 +21193,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yome ga Kore na mon de.](https://myanimelist.net/manga/41375)
 	- Publication Status: Finished
 	- MAL ID: 41375
-	- Genre(s): Comedy, Romance, Sci-Fi, Seinen, Slice of Life
+	- Genre(s): Comedy, Ecchi, Romance, Sci-Fi, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Yome no Manimani](https://myanimelist.net/manga/122025)
 	- Publication Status: Finished
