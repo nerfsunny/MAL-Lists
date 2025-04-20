@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 13, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 20, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -4010,6 +4010,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 39534
 	- Genre(s): School, Shounen, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [TieboRiri](https://myanimelist.net/profile/TieboRiri)
+- [Jibaku Shounen Hanako-kun 2](https://myanimelist.net/anime/53924)
+	- Publication Status: Finished Airing
+	- MAL ID: 53924
+	- Genre(s): School, Shounen, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Jie Yao](https://myanimelist.net/anime/41051)
 	- Publication Status: Finished Airing
 	- MAL ID: 41051
@@ -4295,6 +4300,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 52588
 	- Genre(s): Action, Adult Cast, Fantasy, Military, Sci-Fi, Shounen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Kaijuu 8-gou Movie](https://myanimelist.net/anime/59489)
+	- Publication Status: Finished Airing
+	- MAL ID: 59489
+	- Genre(s): Action, Adult Cast, Fantasy, Military, Sci-Fi, Shounen, Urban Fantasy
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kaikan Phrase](https://myanimelist.net/anime/1021)
 	- Publication Status: Finished Airing
 	- MAL ID: 1021
@@ -4760,6 +4770,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 54714
 	- Genre(s): Comedy, Harem, Parody, Romance, School, Seinen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season](https://myanimelist.net/anime/57616)
+	- Publication Status: Finished Airing
+	- MAL ID: 57616
+	- Genre(s): Comedy, Harem, Parody, Romance, School, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Kimi no Na wa.](https://myanimelist.net/anime/32281)
 	- Publication Status: Finished Airing
 	- MAL ID: 32281
@@ -8409,7 +8424,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58572
 	- Genre(s): Action, Adventure, Fantasy, Shounen, Video Game
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shelter (Music)](https://myanimelist.net/anime/34240)
 	- Publication Status: Finished Airing
 	- MAL ID: 34240
