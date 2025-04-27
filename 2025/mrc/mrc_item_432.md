@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 27, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -335,6 +335,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 768
 	- Genre(s): Action, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Hakui no Kedamono: Sensei no Yubi de Kanjichau](https://myanimelist.net/manga/144452)
+	- Publication Status: Finished
+	- MAL ID: 144452
+	- Genre(s): Erotica, Josei
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Hana wo Meshimase](https://myanimelist.net/manga/72719)
 	- Publication Status: Finished
 	- MAL ID: 72719

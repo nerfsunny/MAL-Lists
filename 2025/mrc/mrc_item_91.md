@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of April 27, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1458,7 +1458,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Aya no Kisetsu](https://myanimelist.net/manga/5195)
 	- Publication Status: Finished
 	- MAL ID: 5195
-	- Genre(s): Seinen
+	- Genre(s): Gourmet, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ayakashi Ko](https://myanimelist.net/manga/95377)
 	- Publication Status: Finished
@@ -3585,11 +3585,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 141844
 	- Genre(s): Boys Love, Erotica, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
-- [Delivery of the Dead](https://myanimelist.net/manga/124398)
-	- Publication Status: Finished
-	- MAL ID: 124398
-	- Genre(s): Comedy, Ecchi, Horror, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Demi-chan wa Kataritai](https://myanimelist.net/manga/82745)
 	- Publication Status: Finished
 	- MAL ID: 82745
@@ -4625,11 +4620,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 138238
 	- Genre(s): Hentai
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
-- [Fukushoku Joshi](https://myanimelist.net/manga/91038)
-	- Publication Status: Finished
-	- MAL ID: 91038
-	- Genre(s): Comedy
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Fukushuu Kyoushitsu](https://myanimelist.net/manga/82295)
 	- Publication Status: Finished
 	- MAL ID: 82295
@@ -7850,11 +7840,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 110081
 	- Genre(s): Fantasy, Gourmet, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Isekai Seikatsu no Susume](https://myanimelist.net/manga/128828)
-	- Publication Status: Finished
-	- MAL ID: 128828
-	- Genre(s): Adventure, Comedy, Ecchi, Fantasy, Romance, Seinen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta](https://myanimelist.net/manga/124912)
 	- Publication Status: Currently Publishing
 	- MAL ID: 124912
@@ -8383,7 +8368,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Juuni Taisen](https://myanimelist.net/manga/108873)
 	- Publication Status: Finished
 	- MAL ID: 108873
-	- Genre(s): Action, Shounen, Survival
+	- Genre(s): Action, Shounen, Survival, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Juuou to Yakusou](https://myanimelist.net/manga/167574)
 	- Publication Status: Currently Publishing
@@ -11599,6 +11584,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 62771
 	- Genre(s): Comedy, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Majo to Kyurasu](https://myanimelist.net/manga/181136)
+	- Publication Status: Currently Publishing
+	- MAL ID: 181136
+	- Genre(s): Comedy, Fantasy, Urban Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Majo to Neko no Hanashi](https://myanimelist.net/manga/95464)
 	- Publication Status: Finished
@@ -16756,7 +16746,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Senpai ga Uzai Kouhai no Hanashi](https://myanimelist.net/manga/113560)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 113560
 	- Genre(s): Adult Cast, Comedy, Love Status Quo, Romance, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -19180,11 +19170,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 7646
 	- Genre(s): Fantasy, Romance, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [The Pink District](https://myanimelist.net/manga/154092)
-	- Publication Status: Finished
-	- MAL ID: 154092
-	- Genre(s): Drama, Horror, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [The Quiz](https://myanimelist.net/manga/48629)
 	- Publication Status: Finished
 	- MAL ID: 48629
