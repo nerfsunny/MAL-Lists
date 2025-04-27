@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 20, 2025:
+This list contains a list of anime eligible for the following challenge item, as of April 27, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -959,7 +959,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 38408
 	- Genre(s): Action, School, Shounen, Super Power
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Boku no Hero Academia 5th Season](https://myanimelist.net/anime/41587)
 	- Publication Status: Finished Airing
 	- MAL ID: 41587
@@ -2784,7 +2784,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 55102
 	- Genre(s): Drama, Music
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Given](https://myanimelist.net/anime/39533)
 	- Publication Status: Finished Airing
 	- MAL ID: 39533
@@ -5090,6 +5090,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 49458
 	- Genre(s): Adventure, Comedy, Fantasy, Isekai, Parody
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage](https://myanimelist.net/anime/59833)
+	- Publication Status: Finished Airing
+	- MAL ID: 59833
+	- Genre(s): Adventure, Comedy, Fantasy, Isekai, Parody
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu](https://myanimelist.net/anime/38040)
 	- Publication Status: Finished Airing
 	- MAL ID: 38040
@@ -5870,6 +5875,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 33183
 	- Genre(s): Action, Mahou Shoujo, School, Slice of Life
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Mahoutsukai Precure!! Mirai Days](https://myanimelist.net/anime/54717)
+	- Publication Status: Finished Airing
+	- MAL ID: 54717
+	- Genre(s): Action, Mahou Shoujo
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Mahoutsukai ni Narenakatta Onnanoko no Hanashi](https://myanimelist.net/anime/58173)
 	- Publication Status: Finished Airing
 	- MAL ID: 58173
