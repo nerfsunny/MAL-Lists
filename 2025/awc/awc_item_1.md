@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 27, 2025:
+This list contains a list of anime eligible for the following challenge item, as of May 05, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -381,11 +381,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 7472
 	- Genre(s): Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen
 	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
-- [Gintama: The Final](https://myanimelist.net/anime/39486)
-	- Publication Status: Finished Airing
-	- MAL ID: 39486
-	- Genre(s): Action, Comedy, Drama, Gag Humor, Historical, Parody, Samurai, Sci-Fi, Shounen
-	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Girls Band Cry](https://myanimelist.net/anime/55102)
 	- Publication Status: Finished Airing
 	- MAL ID: 55102
@@ -921,11 +916,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 23945
 	- Genre(s): Comedy, Ecchi, School, Shounen, Supernatural
 	- Staff Member(s): [beeped5](https://myanimelist.net/profile/beeped5/statistics/anime-scores)
-- [Majokko Shimai no Yoyo to Nene](https://myanimelist.net/anime/15813)
-	- Publication Status: Finished Airing
-	- MAL ID: 15813
-	- Genre(s): Fantasy
-	- Staff Member(s): [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores)
 - [Makoto-chan](https://myanimelist.net/anime/8372)
 	- Publication Status: Finished Airing
 	- MAL ID: 8372
@@ -1036,6 +1026,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 1941
 	- Genre(s): Adventure, Drama, Sci-Fi, Space
 	- Staff Member(s): [Aidan](https://myanimelist.net/profile/Aidan/statistics/anime-scores)
+- [Mori no Densetsu](https://myanimelist.net/anime/2456)
+	- Publication Status: Finished Airing
+	- MAL ID: 2456
+	- Genre(s): Adventure, Award Winning, Drama, Fantasy, Music
+	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores)
 - [Mou Ippon!](https://myanimelist.net/anime/49376)
 	- Publication Status: Finished Airing
 	- MAL ID: 49376
@@ -1316,11 +1311,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 7588
 	- Genre(s): Adult Cast, Drama, Historical, Samurai, Seinen
 	- Staff Member(s): [Aiimee](https://myanimelist.net/profile/Aiimee/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores), [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
-- [Sasurai no Shoujo Nell](https://myanimelist.net/anime/3877)
-	- Publication Status: Finished Airing
-	- MAL ID: 3877
-	- Genre(s): Adventure, Historical
-	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores)
 - [Seikaisuru Kado: Ninovo](https://myanimelist.net/anime/35369)
 	- Publication Status: Finished Airing
 	- MAL ID: 35369
@@ -1425,7 +1415,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 57810
 	- Genre(s): Mystery, School
-	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores)
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Shuumatsu Train Doko e Iku?](https://myanimelist.net/anime/53356)
 	- Publication Status: Finished Airing
 	- MAL ID: 53356
@@ -1726,6 +1716,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 338
 	- Genre(s): Crossdressing, Drama, Historical, Military, Romance, Shoujo
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Pipe](https://myanimelist.net/profile/Pipe/statistics/anime-scores)
+- [Versailles no Bara (Movie)](https://myanimelist.net/anime/52967)
+	- Publication Status: Finished Airing
+	- MAL ID: 52967
+	- Genre(s): Crossdressing, Drama, Historical, Military, Romance, Shoujo
+	- Staff Member(s): [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores)
 - [Wakaokami wa Shougakusei! Movie](https://myanimelist.net/anime/37682)
 	- Publication Status: Finished Airing
 	- MAL ID: 37682

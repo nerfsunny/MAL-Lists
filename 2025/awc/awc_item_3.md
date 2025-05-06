@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 27, 2025:
+This list contains a list of anime eligible for the following challenge item, as of May 05, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -3774,7 +3774,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 37962
 	- Genre(s): Drama, Idols (Male), Music
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [IDOLiSH7 Third Beat!](https://myanimelist.net/anime/45577)
 	- Publication Status: Finished Airing
 	- MAL ID: 45577
