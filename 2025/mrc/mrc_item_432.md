@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 27, 2025:
+This list contains a list of manga eligible for the following challenge item, as of May 05, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -893,7 +893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shin Gendai Ryoukiden](https://myanimelist.net/manga/9709)
 	- Publication Status: Finished
 	- MAL ID: 9709
-	- Genre(s): Hentai, Horror
+	- Genre(s): Gore, Hentai, Horror
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Shingeki no Kyojin](https://myanimelist.net/manga/23390)
 	- Publication Status: Finished

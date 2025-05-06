@@ -4,7 +4,7 @@ title: MRC2025 2.3
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 27, 2025:
+This list contains a list of manga eligible for the following challenge item, as of May 05, 2025:
 
 (2.3) Read a manga another MRC participant rated 4 or lower.
 
@@ -30,6 +30,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 682
 	- Genre(s): Drama, Romance, School, Shoujo, Slice of Life
 	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii)
+- ["Onnanoko" ni Shite yo](https://myanimelist.net/manga/148183)
+	- Publication Status: Finished
+	- MAL ID: 148183
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - ["Suki" to Ienai.](https://myanimelist.net/manga/69)
 	- Publication Status: Finished
 	- MAL ID: 69
@@ -84,7 +89,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 72113
 	- Genre(s): Adventure, Comedy, Fantasy
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [Phanuel](https://myanimelist.net/profile/Phanuel), [Stardew](https://myanimelist.net/profile/Stardew), [TheEdgelord](https://myanimelist.net/profile/TheEdgelord), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [Phanuel](https://myanimelist.net/profile/Phanuel), [TheEdgelord](https://myanimelist.net/profile/TheEdgelord), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [-SINS-](https://myanimelist.net/manga/28208)
 	- Publication Status: Finished
 	- MAL ID: 28208
@@ -229,7 +234,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 14810
 	- Genre(s): Mystery, Shounen
-	- MRC Participants: [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial)
 - [100 Satsujima](https://myanimelist.net/manga/156342)
 	- Publication Status: Finished
 	- MAL ID: 156342
@@ -435,11 +440,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1509
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii)
-- [23:45](https://myanimelist.net/manga/95121)
-	- Publication Status: Finished
-	- MAL ID: 95121
-	- Genre(s): Boys Love, Drama, Slice of Life, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [24 Colors: Hatsukoi no Palette](https://myanimelist.net/manga/5686)
 	- Publication Status: Finished
 	- MAL ID: 5686
@@ -879,7 +879,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 127684
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
 - [Again!!](https://myanimelist.net/manga/35013)
 	- Publication Status: Finished
 	- MAL ID: 35013
@@ -989,7 +989,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 57237
 	- Genre(s): Boys Love, Comedy, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Ai wo Hamu Akuma](https://myanimelist.net/manga/83091)
 	- Publication Status: Finished
 	- MAL ID: 83091
@@ -1054,7 +1054,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 5732
 	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [Schlopsi](https://myanimelist.net/profile/Schlopsi), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [Schlopsi](https://myanimelist.net/profile/Schlopsi)
 - [Aijin☆Incubus](https://myanimelist.net/manga/3931)
 	- Publication Status: Finished
 	- MAL ID: 3931
@@ -1085,11 +1085,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 26452
 	- Genre(s): Josei, Romance
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
-- [Aioi Focus](https://myanimelist.net/manga/143802)
-	- Publication Status: Finished
-	- MAL ID: 143802
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Aioimusubi](https://myanimelist.net/manga/88340)
 	- Publication Status: Finished
 	- MAL ID: 88340
@@ -1120,16 +1115,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 108692
 	- Genre(s): Horror, Romance, Shounen
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Aisaretagari no Anti Romance](https://myanimelist.net/manga/135623)
-	- Publication Status: Finished
-	- MAL ID: 135623
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Aisaretagari no Shohousen](https://myanimelist.net/manga/132292)
-	- Publication Status: Finished
-	- MAL ID: 132292
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Aisei, Shinku wo Daku](https://myanimelist.net/manga/7137)
 	- Publication Status: Finished
 	- MAL ID: 7137
@@ -1189,7 +1174,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 99914
 	- Genre(s): Boys Love, Erotica, Psychological
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [yube](https://myanimelist.net/profile/yube)
 - [Aka no Washupiel](https://myanimelist.net/manga/12334)
 	- Publication Status: Finished
 	- MAL ID: 12334
@@ -1215,11 +1200,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 126617
 	- Genre(s): Erotica, Fantasy, Josei
 	- MRC Participants: [Archoxys](https://myanimelist.net/profile/Archoxys)
-- [Akahime Ranshin](https://myanimelist.net/manga/10144)
-	- Publication Status: Finished
-	- MAL ID: 10144
-	- Genre(s): Performing Arts, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Akai Hana](https://myanimelist.net/manga/2827)
 	- Publication Status: Finished
 	- MAL ID: 2827
@@ -1230,11 +1210,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 13546
 	- Genre(s): Horror
 	- MRC Participants: [SherlyCat25](https://myanimelist.net/profile/SherlyCat25)
-- [Akai Ito](https://myanimelist.net/manga/17893)
-	- Publication Status: Finished
-	- MAL ID: 17893
-	- Genre(s): Shoujo, Vampire
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Akai Kami wa Yuuwaku no Shirushi](https://myanimelist.net/manga/32327)
 	- Publication Status: Finished
 	- MAL ID: 32327
@@ -1299,7 +1274,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 111413
 	- Genre(s): Romance, Shoujo
-	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska)
+	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Akane-chan Overdrive](https://myanimelist.net/manga/900)
 	- Publication Status: Finished
 	- MAL ID: 900
@@ -1325,11 +1300,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 15425
 	- Genre(s): Adventure, Drama, Fantasy, Mystery, Romance, Shoujo
 	- MRC Participants: [Zephyrranth](https://myanimelist.net/profile/Zephyrranth)
-- [Akazukin Eliza](https://myanimelist.net/manga/14167)
-	- Publication Status: Finished
-	- MAL ID: 14167
-	- Genre(s): Adventure, Comedy, Ecchi, Shounen
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Akazukin-chan wa Ookami-san wo Nakasetai!](https://myanimelist.net/manga/102245)
 	- Publication Status: Finished
 	- MAL ID: 102245
@@ -1480,16 +1450,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 154378
 	- Genre(s): Boys Love, Hentai, Supernatural
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
+- [Akumetsu](https://myanimelist.net/manga/1101)
+	- Publication Status: Finished
+	- MAL ID: 1101
+	- Genre(s): Action, Detective, Drama, Psychological, Shounen, Suspense
+	- MRC Participants: [nitrohawk](https://myanimelist.net/profile/nitrohawk)
 - [Akutou Danshi Collection](https://myanimelist.net/manga/4577)
 	- Publication Status: Finished
 	- MAL ID: 4577
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
-- [Akuyaku Reijou ni Narimashita.](https://myanimelist.net/manga/127634)
-	- Publication Status: Finished
-	- MAL ID: 127634
-	- Genre(s): Fantasy, Isekai, Josei, Romance, Villainess
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Akuyaku Reijou wa Ichizu ni Dekiai sarete](https://myanimelist.net/manga/141787)
 	- Publication Status: Finished
 	- MAL ID: 141787
@@ -1675,6 +1645,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 5568
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Ameiro Kouchakan Kandan](https://myanimelist.net/manga/11685)
+	- Publication Status: Finished
+	- MAL ID: 11685
+	- Genre(s): Comedy, Girls Love, Slice of Life
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Ameri-chan Dream](https://myanimelist.net/manga/104341)
 	- Publication Status: Finished
 	- MAL ID: 104341
@@ -1780,11 +1755,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 18186
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Anata wo Wasuretai](https://myanimelist.net/manga/25529)
-	- Publication Status: Finished
-	- MAL ID: 25529
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Anbalance Lover](https://myanimelist.net/manga/1684)
 	- Publication Status: Finished
 	- MAL ID: 1684
@@ -1805,6 +1775,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17473
 	- Genre(s): Action, Comedy, School, Shounen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
+- [Ane to Kabejiri to Watashi](https://myanimelist.net/manga/180106)
+	- Publication Status: Finished
+	- MAL ID: 180106
+	- Genre(s): Comedy, Shounen, Supernatural
+	- MRC Participants: [Shiroponta](https://myanimelist.net/profile/Shiroponta)
 - [Anekurabe](https://myanimelist.net/manga/86150)
 	- Publication Status: Finished
 	- MAL ID: 86150
@@ -1819,7 +1794,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 132426
 	- Genre(s): Romance
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Angel Beats! The 4-koma: Bokura no Sensen Koushinkyoku♪](https://myanimelist.net/manga/19672)
 	- Publication Status: Finished
 	- MAL ID: 19672
@@ -1875,6 +1850,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 153261
 	- Genre(s): Mystery, School, Shounen
 	- MRC Participants: [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+- [Aniki no Ichiban Oishii Tokoro](https://myanimelist.net/manga/132419)
+	- Publication Status: Finished
+	- MAL ID: 132419
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Aniki to Isshoja Nemurenai](https://myanimelist.net/manga/116493)
 	- Publication Status: Finished
 	- MAL ID: 116493
@@ -1940,11 +1920,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 52195
 	- Genre(s): Boys Love, Drama, Slice of Life
 	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii)
-- [Ano Ko wa Sore wo Gaman Dekinai](https://myanimelist.net/manga/113579)
-	- Publication Status: Finished
-	- MAL ID: 113579
-	- Genre(s): Boys Love, Comedy, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Ano Koro ni Aitai](https://myanimelist.net/manga/26855)
 	- Publication Status: Finished
 	- MAL ID: 26855
@@ -1990,6 +1965,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 91491
 	- Genre(s): Boys Love, Erotica, Hentai
 	- MRC Participants: [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+- [Ansatsu Kyoushitsu](https://myanimelist.net/manga/39883)
+	- Publication Status: Finished
+	- MAL ID: 39883
+	- Genre(s): Action, Comedy, School, Shounen
+	- MRC Participants: [nitrohawk](https://myanimelist.net/profile/nitrohawk)
 - [Anti Love Sentai: Hayata☆Joe](https://myanimelist.net/manga/8842)
 	- Publication Status: Finished
 	- MAL ID: 8842
@@ -2269,7 +2249,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 32093
 	- Genre(s): Comedy, Romance, School, Shoujo
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Asa made Jugyou Chu!](https://myanimelist.net/manga/19555)
 	- Publication Status: Finished
 	- MAL ID: 19555
@@ -2280,6 +2260,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 3632
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [DebiPS](https://myanimelist.net/profile/DebiPS)
+- [Asa mo, Hiru mo, Yoru mo.](https://myanimelist.net/manga/3685)
+	- Publication Status: Finished
+	- MAL ID: 3685
+	- Genre(s): Drama, Romance, School, Shoujo
+	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra)
 - [Asahina Koharu no Mousou Biyori](https://myanimelist.net/manga/69837)
 	- Publication Status: Finished
 	- MAL ID: 69837
@@ -2295,11 +2280,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 33043
 	- Genre(s): Adventure, Comedy, Drama, Mystery, Sci-Fi, Seinen, Slice of Life
 	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [lubryka](https://myanimelist.net/profile/lubryka), [milkee](https://myanimelist.net/profile/milkee), [Salyee](https://myanimelist.net/profile/Salyee)
-- [Asanaga Fuugetsu, Shodouka desu.](https://myanimelist.net/manga/50105)
-	- Publication Status: Finished
-	- MAL ID: 50105
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Asatte Dance](https://myanimelist.net/manga/1190)
 	- Publication Status: Finished
 	- MAL ID: 1190
@@ -2425,11 +2405,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 11391
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Attachment Love](https://myanimelist.net/manga/134030)
-	- Publication Status: Finished
-	- MAL ID: 134030
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Attacker You!](https://myanimelist.net/manga/1651)
 	- Publication Status: Finished
 	- MAL ID: 1651
@@ -2479,7 +2454,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 93350
 	- Genre(s): Drama
-	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [milkee](https://myanimelist.net/profile/milkee), [Plate](https://myanimelist.net/profile/Plate)
+	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [milkee](https://myanimelist.net/profile/milkee), [Plate](https://myanimelist.net/profile/Plate), [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Azami no Shiro no Majo](https://myanimelist.net/manga/121996)
 	- Publication Status: Finished
 	- MAL ID: 121996
@@ -2544,7 +2519,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 134696
 	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Haylen](https://myanimelist.net/profile/Haylen), [noimagination7](https://myanimelist.net/profile/noimagination7), [Pentagonion](https://myanimelist.net/profile/Pentagonion)
+	- MRC Participants: [Haylen](https://myanimelist.net/profile/Haylen), [noimagination7](https://myanimelist.net/profile/noimagination7), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey)
 - [BLT: Burning Love Twin](https://myanimelist.net/manga/3799)
 	- Publication Status: Finished
 	- MAL ID: 3799
@@ -2670,11 +2645,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 11653
 	- Genre(s): Comedy, Ecchi, Romance, Seinen, Supernatural
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Baka to α no Kenkyuushitsu](https://myanimelist.net/manga/158869)
-	- Publication Status: Finished
-	- MAL ID: 158869
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Baka.](https://myanimelist.net/manga/7113)
 	- Publication Status: Finished
 	- MAL ID: 7113
@@ -2715,11 +2685,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 66257
 	- Genre(s): Martial Arts, Shounen
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Bakudan Heaven](https://myanimelist.net/manga/49663)
-	- Publication Status: Finished
-	- MAL ID: 49663
-	- Genre(s): Boys Love, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bakuman.](https://myanimelist.net/manga/9711)
 	- Publication Status: Finished
 	- MAL ID: 9711
@@ -2740,11 +2705,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 131955
 	- Genre(s): Hentai
 	- MRC Participants: [jaeo_k](https://myanimelist.net/profile/jaeo_k)
-- [Bakusou!! Platinum Idol](https://myanimelist.net/manga/21896)
-	- Publication Status: Finished
-	- MAL ID: 21896
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bakuten Shoot Beyblade](https://myanimelist.net/manga/852)
 	- Publication Status: Finished
 	- MAL ID: 852
@@ -2859,7 +2819,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 111213
 	- Genre(s): Drama, Gore, Horror, Mystery, Psychological, Romance
-	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Omoyak](https://myanimelist.net/profile/Omoyak), [Syesta](https://myanimelist.net/profile/Syesta), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [Aye-Caramba](https://myanimelist.net/profile/Aye-Caramba), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Omoyak](https://myanimelist.net/profile/Omoyak), [Syesta](https://myanimelist.net/profile/Syesta), [yube](https://myanimelist.net/profile/yube)
 - [Batman](https://myanimelist.net/manga/88100)
 	- Publication Status: Finished
 	- MAL ID: 88100
@@ -3085,6 +3045,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 11392
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
+- [Bijo to Yajuu: Gal to Kimoota 3rd](https://myanimelist.net/manga/179419)
+	- Publication Status: Finished
+	- MAL ID: 179419
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Billionaire Girl](https://myanimelist.net/manga/23588)
 	- Publication Status: Finished
 	- MAL ID: 23588
@@ -3150,26 +3115,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 4515
 	- Genre(s): Comedy, Romance, Shoujo
 	- MRC Participants: [DebiPS](https://myanimelist.net/profile/DebiPS)
-- [Bitter Like Light](https://myanimelist.net/manga/126817)
-	- Publication Status: Finished
-	- MAL ID: 126817
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bitter Virgin](https://myanimelist.net/manga/1162)
 	- Publication Status: Finished
 	- MAL ID: 1162
 	- Genre(s): Drama, Romance, School, Seinen
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Omoyak](https://myanimelist.net/profile/Omoyak)
-- [Bitter or Sweet](https://myanimelist.net/manga/42501)
-	- Publication Status: Finished
-	- MAL ID: 42501
-	- Genre(s): Comedy, Historical, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Bitter: Kare no Hisoyaka na Seppun](https://myanimelist.net/manga/2055)
-	- Publication Status: Finished
-	- MAL ID: 2055
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Biyaku Iri no Cappuccino](https://myanimelist.net/manga/18342)
 	- Publication Status: Finished
 	- MAL ID: 18342
@@ -3220,16 +3170,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 177349
 	- Genre(s): Action, Gore, Mythology, Organized Crime, Shounen, Supernatural, Suspense
 	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate)
-- [Black Sheep Down](https://myanimelist.net/manga/70283)
-	- Publication Status: Finished
-	- MAL ID: 70283
-	- Genre(s): Action, Boys Love, Comedy, Drama, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Black Torch](https://myanimelist.net/manga/103786)
 	- Publication Status: Finished
 	- MAL ID: 103786
 	- Genre(s): Action, Shounen, Supernatural
-	- MRC Participants: [Omoyak](https://myanimelist.net/profile/Omoyak)
+	- MRC Participants: [Omoyak](https://myanimelist.net/profile/Omoyak), [PhantomQiz](https://myanimelist.net/profile/PhantomQiz)
 - [Black-Box](https://myanimelist.net/manga/91119)
 	- Publication Status: Finished
 	- MAL ID: 91119
@@ -3445,6 +3390,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 13963
 	- Genre(s): Action, Adventure, Comedy, Sci-Fi, Shounen
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [fraideii](https://myanimelist.net/profile/fraideii), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy)
+- [Bocchama Sakusei no Jikan desu.](https://myanimelist.net/manga/173020)
+	- Publication Status: Finished
+	- MAL ID: 173020
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Bocchi Hakase to Robot Shoujo no Zetsubouteki Utopia](https://myanimelist.net/manga/107790)
 	- Publication Status: Finished
 	- MAL ID: 107790
@@ -3485,6 +3435,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 94863
 	- Genre(s): Avant Garde, Comedy, Psychological, Seinen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
+- [Boku Nerai no Ecchi na Dekkai Oneesan](https://myanimelist.net/manga/178712)
+	- Publication Status: Finished
+	- MAL ID: 178712
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Boku dake Shitteru Ichimiya-san](https://myanimelist.net/manga/102688)
 	- Publication Status: Finished
 	- MAL ID: 102688
@@ -3495,16 +3450,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 39325
 	- Genre(s): Mystery, Psychological, Seinen, Supernatural, Time Travel
 	- MRC Participants: [taynis](https://myanimelist.net/profile/taynis)
+- [Boku dake no Cosplay Oneesan](https://myanimelist.net/manga/176095)
+	- Publication Status: Finished
+	- MAL ID: 176095
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Boku ga Otouto to Nakayoku Naru Houhou](https://myanimelist.net/manga/66451)
 	- Publication Status: Finished
 	- MAL ID: 66451
 	- Genre(s): Boys Love, Comedy, Crossdressing, Ecchi
 	- MRC Participants: [Bri](https://myanimelist.net/profile/Bri), [noimagination7](https://myanimelist.net/profile/noimagination7), [yube](https://myanimelist.net/profile/yube)
-- [Boku ni Hitsuyou na Mono](https://myanimelist.net/manga/28617)
-	- Publication Status: Finished
-	- MAL ID: 28617
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Boku ni Koisuru Mechanical](https://myanimelist.net/manga/50911)
 	- Publication Status: Finished
 	- MAL ID: 50911
@@ -3704,7 +3659,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 109827
 	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
 - [Bokura no Ai wa Mada Aoku](https://myanimelist.net/manga/160349)
 	- Publication Status: Finished
 	- MAL ID: 160349
@@ -3819,7 +3774,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 86630
 	- Genre(s): Gourmet, Shoujo
-	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [Karinara](https://myanimelist.net/profile/Karinara), [Katsura](https://myanimelist.net/profile/Katsura), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [Stardew](https://myanimelist.net/profile/Stardew), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [Karinara](https://myanimelist.net/profile/Karinara), [Katsura](https://myanimelist.net/profile/Katsura), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Bonnouji](https://myanimelist.net/manga/28226)
 	- Publication Status: Finished
 	- MAL ID: 28226
@@ -3860,16 +3815,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 157331
 	- Genre(s): Romance
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Bouai Friendship♥](https://myanimelist.net/manga/114217)
-	- Publication Status: Finished
-	- MAL ID: 114217
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bougyaku no Kokekko](https://myanimelist.net/manga/114504)
 	- Publication Status: Finished
 	- MAL ID: 114504
 	- Genre(s): Horror
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [lubryka](https://myanimelist.net/profile/lubryka)
 - [Bousou Girls-teki Mousou Renai-teki Suteki Project](https://myanimelist.net/manga/63577)
 	- Publication Status: Finished
 	- MAL ID: 63577
@@ -3925,6 +3875,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 7141
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii)
+- [Boys Love](https://myanimelist.net/manga/82963)
+	- Publication Status: Finished
+	- MAL ID: 82963
+	- Genre(s): Boys Love, Erotica, School
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Boys Run the Riot](https://myanimelist.net/manga/124520)
 	- Publication Status: Finished
 	- MAL ID: 124520
@@ -4020,6 +3975,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1111
 	- Genre(s): Drama, Historical, Supernatural
 	- MRC Participants: [Sol](https://myanimelist.net/profile/Sol), [yube](https://myanimelist.net/profile/yube)
+- [Buenryo na Mesugaki wo Enryo naku!](https://myanimelist.net/manga/171425)
+	- Publication Status: Finished
+	- MAL ID: 171425
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Buffalo 5-nin Musume](https://myanimelist.net/manga/62479)
 	- Publication Status: Finished
 	- MAL ID: 62479
@@ -4035,6 +3995,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 130977
 	- Genre(s): Action, Adventure, Fantasy, Shounen
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+- [Buka ni #Uraaka wo Shiraretara](https://myanimelist.net/manga/171931)
+	- Publication Status: Finished
+	- MAL ID: 171931
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Bukiyou dakedo Daisuki sa](https://myanimelist.net/manga/78921)
 	- Publication Status: Finished
 	- MAL ID: 78921
@@ -4055,6 +4020,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 22679
 	- Genre(s): Shoujo
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
+- [Bungaku Shoujo wa Somerareru](https://myanimelist.net/manga/173967)
+	- Publication Status: Finished
+	- MAL ID: 173967
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Bungou Stray Dogs: Beast](https://myanimelist.net/manga/123006)
 	- Publication Status: Finished
 	- MAL ID: 123006
@@ -4085,6 +4055,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 15086
 	- Genre(s): Martial Arts, School, Seinen
 	- MRC Participants: [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+- [Bushin Gikyoku](https://myanimelist.net/manga/6984)
+	- Publication Status: Finished
+	- MAL ID: 6984
+	- Genre(s): Historical, Martial Arts, Shounen
+	- MRC Participants: [Sen1793](https://myanimelist.net/profile/Sen1793)
 - [Busou Senki: Shokuetsu no Nie](https://myanimelist.net/manga/52615)
 	- Publication Status: Finished
 	- MAL ID: 52615
@@ -4105,6 +4080,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 4994
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
+- [By Spring](https://myanimelist.net/manga/123126)
+	- Publication Status: Finished
+	- MAL ID: 123126
+	- Genre(s): Drama, Romance, Seinen
+	- MRC Participants: [PhantomQiz](https://myanimelist.net/profile/PhantomQiz)
 - [Bye Bye, Ame.](https://myanimelist.net/manga/36941)
 	- Publication Status: Finished
 	- MAL ID: 36941
@@ -4124,7 +4104,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 23419
 	- Genre(s): Drama, Romance, Seinen
-	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora)
+	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [Ballestra](https://myanimelist.net/profile/Ballestra)
 - [Byouto Shoujo Kan](https://myanimelist.net/manga/15207)
 	- Publication Status: Finished
 	- MAL ID: 15207
@@ -4134,7 +4114,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 7526
 	- Genre(s): Action, Drama, Mystery, Shoujo
-	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
 - [C.A.T.](https://myanimelist.net/manga/4421)
 	- Publication Status: Finished
 	- MAL ID: 4421
@@ -4179,7 +4159,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 12397
 	- Genre(s): Drama, Fantasy, Horror, Romance, Shoujo
-	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose)
 - [Candy](https://myanimelist.net/manga/12665)
 	- Publication Status: Finished
 	- MAL ID: 12665
@@ -4674,7 +4654,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 84437
 	- Genre(s): Comedy, Romance, Shoujo
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
 - [Christmas ni Kagayaku](https://myanimelist.net/manga/20275)
 	- Publication Status: Finished
 	- MAL ID: 20275
@@ -4745,11 +4725,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 49585
 	- Genre(s): Shoujo
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
-- [Cinderella no Kake](https://myanimelist.net/manga/24468)
-	- Publication Status: Finished
-	- MAL ID: 24468
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Cinnamon: Jingai x Ningen Yuri Anthology](https://myanimelist.net/manga/138913)
 	- Publication Status: Finished
 	- MAL ID: 138913
@@ -4799,7 +4774,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 68031
 	- Genre(s): Boys Love, Erotica, Romance, School
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
 - [Clover](https://myanimelist.net/manga/113)
 	- Publication Status: Finished
 	- MAL ID: 113
@@ -4990,11 +4965,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 43937
 	- Genre(s): Comedy, Drama, Ecchi, Horror, Parody, Strategy Game
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [lubryka](https://myanimelist.net/profile/lubryka), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Corsair - Eigetsu](https://myanimelist.net/manga/26138)
-	- Publication Status: Finished
-	- MAL ID: 26138
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Cosmo Familia*](https://myanimelist.net/manga/110484)
 	- Publication Status: Finished
 	- MAL ID: 110484
@@ -5079,7 +5049,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 15441
 	- Genre(s): Boys Love, Erotica, Love Polygon
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
 - [Crochet Rest](https://myanimelist.net/manga/88103)
 	- Publication Status: Finished
 	- MAL ID: 88103
@@ -5139,7 +5109,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 55179
 	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
 - [Cubism Love](https://myanimelist.net/manga/26104)
 	- Publication Status: Finished
 	- MAL ID: 26104
@@ -5265,11 +5235,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 4817
 	- Genre(s): Seinen, Supernatural
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
-- [Daiou](https://myanimelist.net/manga/9371)
-	- Publication Status: Finished
-	- MAL ID: 9371
-	- Genre(s): Action, Drama, Fantasy, Sci-Fi, Slice of Life, Super Power
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Daisuki](https://myanimelist.net/manga/20054)
 	- Publication Status: Finished
 	- MAL ID: 20054
@@ -5300,11 +5265,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 8233
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo)
-- [Dakishimetakunai](https://myanimelist.net/manga/1797)
-	- Publication Status: Finished
-	- MAL ID: 1797
-	- Genre(s): Boys Love, Erotica, Romance, School, Vampire
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Dakishimete! Noir](https://myanimelist.net/manga/1831)
 	- Publication Status: Finished
 	- MAL ID: 1831
@@ -5450,11 +5410,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17829
 	- Genre(s): Josei, Romance
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Datte, Kimi ga Warau kara](https://myanimelist.net/manga/35587)
-	- Publication Status: Finished
-	- MAL ID: 35587
-	- Genre(s): Romance, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Daughter of the Emperor](https://myanimelist.net/manga/115751)
 	- Publication Status: Finished
 	- MAL ID: 115751
@@ -5670,6 +5625,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 104169
 	- Genre(s): Avant Garde, Horror
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
+- [Demo Miyu-chan ni wa Boku ga Inai to](https://myanimelist.net/manga/181295)
+	- Publication Status: Finished
+	- MAL ID: 181295
+	- Genre(s): Drama, Romance, Shounen
+	- MRC Participants: [Shiroponta](https://myanimelist.net/profile/Shiroponta)
 - [Demon Tune](https://myanimelist.net/manga/111216)
 	- Publication Status: Finished
 	- MAL ID: 111216
@@ -5869,7 +5829,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 14076
 	- Genre(s): Comedy, Sci-Fi, Seinen, Supernatural
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Phanuel](https://myanimelist.net/profile/Phanuel), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Phanuel](https://myanimelist.net/profile/Phanuel), [yube](https://myanimelist.net/profile/yube)
 - [Digimon Tamers](https://myanimelist.net/manga/2389)
 	- Publication Status: Finished
 	- MAL ID: 2389
@@ -5900,11 +5860,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 82947
 	- Genre(s): Action, Drama, Horror, Mystery, Survival
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [DistopiA: Mikansei na Sekai](https://myanimelist.net/manga/54561)
-	- Publication Status: Finished
-	- MAL ID: 54561
-	- Genre(s): Boys Love, Erotica, Romance, Video Game
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Dive in the Vampire Bund](https://myanimelist.net/manga/19095)
 	- Publication Status: Finished
 	- MAL ID: 19095
@@ -6190,6 +6145,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 9699
 	- Genre(s): Boys Love, School, Slice of Life
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+- [Doukyuusei A](https://myanimelist.net/manga/176977)
+	- Publication Status: Finished
+	- MAL ID: 176977
+	- Genre(s): Boys Love, Delinquents, Psychological, School, Suspense
+	- MRC Participants: [rozewald](https://myanimelist.net/profile/rozewald)
 - [Doumu](https://myanimelist.net/manga/1215)
 	- Publication Status: Finished
 	- MAL ID: 1215
@@ -6499,7 +6459,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 2833
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
 - [Eien no Aida ni Miru Yume](https://myanimelist.net/manga/9203)
 	- Publication Status: Finished
 	- MAL ID: 9203
@@ -6525,21 +6485,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 128421
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Eien wa Irenai](https://myanimelist.net/manga/27625)
-	- Publication Status: Finished
-	- MAL ID: 27625
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Eikou no Te](https://myanimelist.net/manga/3596)
 	- Publication Status: Finished
 	- MAL ID: 3596
 	- Genre(s): Horror, Shoujo
 	- MRC Participants: [Ebo](https://myanimelist.net/profile/Ebo)
-- [Eikyuu Shoujo](https://myanimelist.net/manga/51969)
-	- Publication Status: Finished
-	- MAL ID: 51969
-	- Genre(s): Romance, Shoujo, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Eisen Flügel: Dangan no Uta yo Ryuu ni Todoiteiru ka](https://myanimelist.net/manga/92956)
 	- Publication Status: Finished
 	- MAL ID: 92956
@@ -6605,11 +6555,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 5967
 	- Genre(s): Drama, Romance, School, Shoujo
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Embog](https://myanimelist.net/manga/86938)
-	- Publication Status: Finished
-	- MAL ID: 86938
-	- Genre(s): Boys Love, Hentai
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Emerging](https://myanimelist.net/manga/10970)
 	- Publication Status: Finished
 	- MAL ID: 10970
@@ -7035,11 +6980,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 149566
 	- Genre(s): Psychological, Suspense
 	- MRC Participants: [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Salyee](https://myanimelist.net/profile/Salyee), [Zensorium](https://myanimelist.net/profile/Zensorium)
-- [Fancy Love](https://myanimelist.net/manga/14092)
-	- Publication Status: Finished
-	- MAL ID: 14092
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Fascination Melt](https://myanimelist.net/manga/139273)
 	- Publication Status: Finished
 	- MAL ID: 139273
@@ -7080,11 +7020,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 18572
 	- Genre(s): Comedy, Drama, Romance, Shoujo
 	- MRC Participants: [Zephyrranth](https://myanimelist.net/profile/Zephyrranth)
-- [Feeding Lamb](https://myanimelist.net/manga/114443)
-	- Publication Status: Finished
-	- MAL ID: 114443
-	- Genre(s): Boys Love, Drama, Erotica, Horror
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Fella Pure: Mitarashi-san Chi no Jijou](https://myanimelist.net/manga/29185)
 	- Publication Status: Finished
 	- MAL ID: 29185
@@ -7109,7 +7044,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 8990
 	- Genre(s): Drama, Horror, Josei, Psychological
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Fiancé wa Monster!?](https://myanimelist.net/manga/8985)
 	- Publication Status: Finished
 	- MAL ID: 8985
@@ -7120,11 +7055,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 149139
 	- Genre(s): Adult Cast, Romance
 	- MRC Participants: [subliminallydark](https://myanimelist.net/profile/subliminallydark)
-- [Film Girl](https://myanimelist.net/manga/17596)
-	- Publication Status: Finished
-	- MAL ID: 17596
-	- Genre(s): Comedy, Drama, Romance, Shoujo, Showbiz
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Final Impression](https://myanimelist.net/manga/20239)
 	- Publication Status: Finished
 	- MAL ID: 20239
@@ -7260,6 +7190,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 29083
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Mythology, Romance, Shounen
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
+- [Freesia](https://myanimelist.net/manga/1131)
+	- Publication Status: Finished
+	- MAL ID: 1131
+	- Genre(s): Action, Drama, Psychological, Seinen
+	- MRC Participants: [Aye-Caramba](https://myanimelist.net/profile/Aye-Caramba)
 - [Freezing: First Chronicle](https://myanimelist.net/manga/30125)
 	- Publication Status: Finished
 	- MAL ID: 30125
@@ -7299,12 +7234,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 116075
 	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Rocy98](https://myanimelist.net/profile/Rocy98), [Stardew](https://myanimelist.net/profile/Stardew)
-- [Fuck Night Reversal](https://myanimelist.net/manga/135243)
-	- Publication Status: Finished
-	- MAL ID: 135243
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Rocy98](https://myanimelist.net/profile/Rocy98)
 - [Fudanshi-kun no Honey Days](https://myanimelist.net/manga/54927)
 	- Publication Status: Finished
 	- MAL ID: 54927
@@ -7315,11 +7245,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 56513
 	- Genre(s): Comedy, Romance, School, Shounen, Supernatural, Vampire
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Fugainai Koi](https://myanimelist.net/manga/129806)
-	- Publication Status: Finished
-	- MAL ID: 129806
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Fujiko no Kimyou na Shoseijutsu: Whitesnake no Gosan](https://myanimelist.net/manga/142552)
 	- Publication Status: Finished
 	- MAL ID: 142552
@@ -7444,7 +7369,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 140854
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
 - [Furimuite, Yukino-chan!](https://myanimelist.net/manga/130925)
 	- Publication Status: Finished
 	- MAL ID: 130925
@@ -7510,11 +7435,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 47559
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Futari no Musuko ni Nerawareteimasu](https://myanimelist.net/manga/54389)
-	- Publication Status: Finished
-	- MAL ID: 54389
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Futari no Renai Shoka](https://myanimelist.net/manga/57359)
 	- Publication Status: Finished
 	- MAL ID: 57359
@@ -7599,7 +7519,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 114656
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
 - [Fuyu no Hana](https://myanimelist.net/manga/12359)
 	- Publication Status: Finished
 	- MAL ID: 12359
@@ -7645,11 +7565,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 3655
 	- Genre(s): Comedy, Fantasy, Romance, Shoujo
 	- MRC Participants: [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz)
-- [Gakkou Hotel](https://myanimelist.net/manga/12698)
+- [Gaikotsu Shotenin Honda-san](https://myanimelist.net/manga/104337)
 	- Publication Status: Finished
-	- MAL ID: 12698
-	- Genre(s): Romance, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MAL ID: 104337
+	- Genre(s): Comedy, Memoir, Otaku Culture, Slice of Life, Supernatural, Workplace
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Gakkou Youkai Kikou: You](https://myanimelist.net/manga/21617)
 	- Publication Status: Finished
 	- MAL ID: 21617
@@ -7695,6 +7615,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 104095
 	- Genre(s): Hentai
 	- MRC Participants: [jaeo_k](https://myanimelist.net/profile/jaeo_k)
+- [Gal Milk](https://myanimelist.net/manga/174187)
+	- Publication Status: Finished
+	- MAL ID: 174187
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Gal Nanajimi wa Koko ga Suki](https://myanimelist.net/manga/168002)
 	- Publication Status: Finished
 	- MAL ID: 168002
@@ -7743,7 +7668,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Game Over](https://myanimelist.net/manga/8858)
 	- Publication Status: Finished
 	- MAL ID: 8858
-	- Genre(s): Fantasy, Hentai, Horror
+	- Genre(s): Fantasy, Gore, Hentai, Horror
 	- MRC Participants: [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
 - [Gamerz Heaven!](https://myanimelist.net/manga/1318)
 	- Publication Status: Finished
@@ -8140,11 +8065,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 47949
 	- Genre(s): Comedy, Crossdressing, Drama, Psychological, Romance, Seinen
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Gives](https://myanimelist.net/manga/41427)
-	- Publication Status: Finished
-	- MAL ID: 41427
-	- Genre(s): Boys Love, Drama, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Glamorous](https://myanimelist.net/manga/25042)
 	- Publication Status: Finished
 	- MAL ID: 25042
@@ -8369,7 +8289,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 958
 	- Genre(s): Horror, Mystery, Psychological, Shounen
-	- MRC Participants: [Sen1793](https://myanimelist.net/profile/Sen1793), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+	- MRC Participants: [Sen1793](https://myanimelist.net/profile/Sen1793), [StarInBetween](https://myanimelist.net/profile/StarInBetween), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
 - [Goufuuji Ai no Ashi](https://myanimelist.net/manga/158886)
 	- Publication Status: Finished
 	- MAL ID: 158886
@@ -8399,7 +8319,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 141906
 	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee)
 - [Granblue Fantasy](https://myanimelist.net/manga/106800)
 	- Publication Status: Finished
 	- MAL ID: 106800
@@ -8580,11 +8500,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 113223
 	- Genre(s): Romance, School, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Hachimitsu Shounen](https://myanimelist.net/manga/11254)
-	- Publication Status: Finished
-	- MAL ID: 11254
-	- Genre(s): Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hachiue no Juunin](https://myanimelist.net/manga/18164)
 	- Publication Status: Finished
 	- MAL ID: 18164
@@ -8765,11 +8680,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 90256
 	- Genre(s): Mystery, Shoujo, Supernatural
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum), [lubryka](https://myanimelist.net/profile/lubryka), [yube](https://myanimelist.net/profile/yube)
-- [Hakoniwa](https://myanimelist.net/manga/8057)
-	- Publication Status: Finished
-	- MAL ID: 8057
-	- Genre(s): Boys Love, Comedy, Erotica, Romance, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hakui no Ousama](https://myanimelist.net/manga/107708)
 	- Publication Status: Finished
 	- MAL ID: 107708
@@ -8785,11 +8695,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 11891
 	- Genre(s): School, Shoujo
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Hakuran no Kemono](https://myanimelist.net/manga/158552)
-	- Publication Status: Finished
-	- MAL ID: 158552
-	- Genre(s): Boys Love, Fantasy
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hakushaku Cain Series](https://myanimelist.net/manga/885)
 	- Publication Status: Finished
 	- MAL ID: 885
@@ -8870,11 +8775,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17342
 	- Genre(s): Boys Love, Drama, Historical
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Hana Tokidoki Kuma](https://myanimelist.net/manga/133033)
-	- Publication Status: Finished
-	- MAL ID: 133033
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hana ni Kuchizuke](https://myanimelist.net/manga/104999)
 	- Publication Status: Finished
 	- MAL ID: 104999
@@ -8965,11 +8865,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2083
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Hananusubito](https://myanimelist.net/manga/87969)
-	- Publication Status: Finished
-	- MAL ID: 87969
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hanasaku Bokura no Koiwazurai](https://myanimelist.net/manga/144164)
 	- Publication Status: Finished
 	- MAL ID: 144164
@@ -9050,6 +8945,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 10195
 	- Genre(s): Drama, Fantasy, Seinen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+- [Hang Out Crisis](https://myanimelist.net/manga/95835)
+	- Publication Status: Finished
+	- MAL ID: 95835
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Hanjuku Joshi](https://myanimelist.net/manga/11566)
 	- Publication Status: Finished
 	- MAL ID: 11566
@@ -9100,11 +9000,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 64971
 	- Genre(s): Drama, Erotica, Girls Love
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Happy End no Uragawa](https://myanimelist.net/manga/28739)
-	- Publication Status: Finished
-	- MAL ID: 28739
-	- Genre(s): Drama, Romance, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Happy End wa Iranai: Mikanuji Tanpenshuu](https://myanimelist.net/manga/154939)
 	- Publication Status: Finished
 	- MAL ID: 154939
@@ -9329,7 +9224,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 65883
 	- Genre(s): Romance, School, Shoujo
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
 - [Hatsukoi Harinezumi](https://myanimelist.net/manga/82167)
 	- Publication Status: Finished
 	- MAL ID: 82167
@@ -9410,11 +9305,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 12187
 	- Genre(s): Comedy, Romance, Shoujo
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
-- [He's Dedicated to Roses](https://myanimelist.net/manga/13171)
-	- Publication Status: Finished
-	- MAL ID: 13171
-	- Genre(s): Comedy, Drama, Romance, School, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Heads](https://myanimelist.net/manga/2179)
 	- Publication Status: Finished
 	- MAL ID: 2179
@@ -9440,11 +9330,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 37703
 	- Genre(s): Sci-Fi, Shoujo
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
-- [Heart Stop](https://myanimelist.net/manga/39523)
-	- Publication Status: Finished
-	- MAL ID: 39523
-	- Genre(s): Boys Love, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Heart no Diamond](https://myanimelist.net/manga/16237)
 	- Publication Status: Finished
 	- MAL ID: 16237
@@ -9980,11 +9865,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 156180
 	- Genre(s): Hentai
 	- MRC Participants: [jaeo_k](https://myanimelist.net/profile/jaeo_k)
-- [Himono, Tokidoki, Shanai Renai](https://myanimelist.net/manga/114684)
-	- Publication Status: Finished
-	- MAL ID: 114684
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hina-chan Change](https://myanimelist.net/manga/120499)
 	- Publication Status: Finished
 	- MAL ID: 120499
@@ -10165,11 +10045,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 59263
 	- Genre(s): Comedy, Romance, School, Seinen, Slice of Life
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Hitotsu Yane no Shita no Kedamono](https://myanimelist.net/manga/95626)
-	- Publication Status: Finished
-	- MAL ID: 95626
-	- Genre(s): Boys Love, Comedy, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hitozuma A-san to Musuko no Yuujin N-kun](https://myanimelist.net/manga/114486)
 	- Publication Status: Finished
 	- MAL ID: 114486
@@ -10260,11 +10135,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17412
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo)
-- [Honki ja Nee kara](https://myanimelist.net/manga/2383)
-	- Publication Status: Finished
-	- MAL ID: 2383
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Honnouteki ni Otoko](https://myanimelist.net/manga/2600)
 	- Publication Status: Finished
 	- MAL ID: 2600
@@ -10290,6 +10160,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 156457
 	- Genre(s): Comedy, Ecchi, School, Seinen
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
+- [Hontou ni, Yasashii](https://myanimelist.net/manga/1519)
+	- Publication Status: Finished
+	- MAL ID: 1519
+	- Genre(s): Boys Love, Erotica, Historical, Romance
+	- MRC Participants: [sassss](https://myanimelist.net/profile/sassss)
 - [Honya no Yagi-kun](https://myanimelist.net/manga/144556)
 	- Publication Status: Finished
 	- MAL ID: 144556
@@ -10695,6 +10570,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 123605
 	- Genre(s): Boys Love, Erotica, School
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
+- [Ichido dake demo, Koukai Shitemasu.](https://myanimelist.net/manga/120716)
+	- Publication Status: Finished
+	- MAL ID: 120716
+	- Genre(s): Comedy, Girls Love
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
 - [Ichido dake no Uta](https://myanimelist.net/manga/72737)
 	- Publication Status: Finished
 	- MAL ID: 72737
@@ -10800,11 +10680,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 103895
 	- Genre(s): Hentai, School
 	- MRC Participants: [jaeo_k](https://myanimelist.net/profile/jaeo_k)
-- [Ijimekko no Okada-kun](https://myanimelist.net/manga/35333)
-	- Publication Status: Finished
-	- MAL ID: 35333
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Ijiranaide, Nagatoro-san: Comic Anthology](https://myanimelist.net/manga/136168)
 	- Publication Status: Finished
 	- MAL ID: 136168
@@ -11083,7 +10958,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Ingyaku Kanzokutou](https://myanimelist.net/manga/11333)
 	- Publication Status: Finished
 	- MAL ID: 11333
-	- Genre(s): Hentai, Horror
+	- Genre(s): Gore, Hentai, Horror
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube), [Zandah](https://myanimelist.net/profile/Zandah)
 - [Inio-chan no Cool Japan!](https://myanimelist.net/manga/114522)
 	- Publication Status: Finished
@@ -11189,7 +11064,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 25308
 	- Genre(s): Boys Love, Drama, Erotica, Romance
-	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [RorschachMask](https://myanimelist.net/profile/RorschachMask), [Schlopsi](https://myanimelist.net/profile/Schlopsi), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [RorschachMask](https://myanimelist.net/profile/RorschachMask), [Schlopsi](https://myanimelist.net/profile/Schlopsi)
 - [Iron Doll](https://myanimelist.net/manga/145000)
 	- Publication Status: Finished
 	- MAL ID: 145000
@@ -11285,11 +11160,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 43967
 	- Genre(s): Comedy, School, Shounen, Slice of Life
 	- MRC Participants: [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy)
-- [Isso Mou, Kudokitai!](https://myanimelist.net/manga/2652)
-	- Publication Status: Finished
-	- MAL ID: 2652
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [It Vorspiel](https://myanimelist.net/manga/35635)
 	- Publication Status: Finished
 	- MAL ID: 35635
@@ -11515,11 +11385,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1607
 	- Genre(s): Comedy, Fantasy, Romance, Shounen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [fraideii](https://myanimelist.net/profile/fraideii)
-- [Itsuka Hanayome ni](https://myanimelist.net/manga/7183)
-	- Publication Status: Finished
-	- MAL ID: 7183
-	- Genre(s): Drama, Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Itsuka Kimitachi mo Otona ni Naru](https://myanimelist.net/manga/43749)
 	- Publication Status: Finished
 	- MAL ID: 43749
@@ -11683,7 +11548,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Jigoku no Kisetsu: Gurolism Sengen](https://myanimelist.net/manga/12316)
 	- Publication Status: Finished
 	- MAL ID: 12316
-	- Genre(s): Hentai, Horror
+	- Genre(s): Gore, Hentai, Horror
 	- MRC Participants: [Lutetium](https://myanimelist.net/profile/Lutetium), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood), [yube](https://myanimelist.net/profile/yube)
 - [Jigoku no Komoriuta](https://myanimelist.net/manga/11694)
 	- Publication Status: Finished
@@ -11805,11 +11670,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17418
 	- Genre(s): Action, Fantasy, Shounen
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel)
-- [Jirai Kareshi](https://myanimelist.net/manga/122852)
-	- Publication Status: Finished
-	- MAL ID: 122852
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Jiraishin Diablo](https://myanimelist.net/manga/10444)
 	- Publication Status: Finished
 	- MAL ID: 10444
@@ -11955,11 +11815,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 121391
 	- Genre(s): Erotica, Josei
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Joushi no Okiniiri](https://myanimelist.net/manga/11363)
-	- Publication Status: Finished
-	- MAL ID: 11363
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Jubaku no Stage](https://myanimelist.net/manga/23221)
 	- Publication Status: Finished
 	- MAL ID: 23221
@@ -12180,11 +12035,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 23045
 	- Genre(s): Avant Garde, Comedy, Military
 	- MRC Participants: [Lutetium](https://myanimelist.net/profile/Lutetium)
-- [Kage Aru Tokoro ni](https://myanimelist.net/manga/11546)
-	- Publication Status: Finished
-	- MAL ID: 11546
-	- Genre(s): Boys Love, Comedy, Drama, Erotica, Romance, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kage no Matsuri](https://myanimelist.net/manga/8769)
 	- Publication Status: Finished
 	- MAL ID: 8769
@@ -12300,11 +12150,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 157656
 	- Genre(s): Hentai, Mahou Shoujo, Supernatural
 	- MRC Participants: [Baunilha_](https://myanimelist.net/profile/Baunilha_)
-- [Kaiyuu no Mori](https://myanimelist.net/manga/19463)
-	- Publication Status: Finished
-	- MAL ID: 19463
-	- Genre(s): Drama, Romance, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kakawatte wa Ikenai Type no Musume ga Kanojo ni Natta](https://myanimelist.net/manga/154717)
 	- Publication Status: Finished
 	- MAL ID: 154717
@@ -12399,7 +12244,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 181010
 	- Genre(s): Drama, Psychological, Shounen, Visual Arts
-	- MRC Participants: [Korinaki](https://myanimelist.net/profile/Korinaki)
+	- MRC Participants: [Korinaki](https://myanimelist.net/profile/Korinaki), [Shiroponta](https://myanimelist.net/profile/Shiroponta)
 - [Kami no Kodomo](https://myanimelist.net/manga/24808)
 	- Publication Status: Finished
 	- MAL ID: 24808
@@ -12455,11 +12300,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 3332
 	- Genre(s): Drama, Ecchi, Girls Love, Josei, Romance
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Kamisama ga Uso wo Tsuku.](https://myanimelist.net/manga/50217)
-	- Publication Status: Finished
-	- MAL ID: 50217
-	- Genre(s): Drama, Romance, School, Seinen
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kamisama ga Yadoru Kotoba](https://myanimelist.net/manga/28335)
 	- Publication Status: Finished
 	- MAL ID: 28335
@@ -12580,11 +12420,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 12730
 	- Genre(s): Erotica, Girls Love, Hentai
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Kannou Reminder](https://myanimelist.net/manga/112075)
-	- Publication Status: Finished
-	- MAL ID: 112075
-	- Genre(s): Boys Love, Erotica, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kanojo ga Suki na Mono wa Homo de Atte Boku dewa Nai](https://myanimelist.net/manga/119612)
 	- Publication Status: Finished
 	- MAL ID: 119612
@@ -12710,21 +12545,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2688
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Karasu no Yomeiri](https://myanimelist.net/manga/116002)
-	- Publication Status: Finished
-	- MAL ID: 116002
-	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Karate Shoukoushi Kohinata Minoru](https://myanimelist.net/manga/7075)
 	- Publication Status: Finished
 	- MAL ID: 7075
 	- Genre(s): Combat Sports, Comedy, Romance, Seinen, Sports
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Kare ga Kanojo wo Tsukuranai Riyuu](https://myanimelist.net/manga/61933)
-	- Publication Status: Finished
-	- MAL ID: 61933
-	- Genre(s): Romance, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kare no Satsujin Keikaku](https://myanimelist.net/manga/8803)
 	- Publication Status: Finished
 	- MAL ID: 8803
@@ -12800,11 +12625,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 133996
 	- Genre(s): Boys Love, Drama, Slice of Life
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [skylucario](https://myanimelist.net/profile/skylucario)
-- [Katakoi Opera](https://myanimelist.net/manga/98101)
-	- Publication Status: Finished
-	- MAL ID: 98101
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Katakoi no Tsuki](https://myanimelist.net/manga/3603)
 	- Publication Status: Finished
 	- MAL ID: 3603
@@ -12815,6 +12635,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 104814
 	- Genre(s): Boys Love, Erotica, Romance, School
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
+- [Katate ni Kenjuu, Kokoro ni Hanataba wo](https://myanimelist.net/manga/2443)
+	- Publication Status: Finished
+	- MAL ID: 2443
+	- Genre(s): Action, Boys Love, Erotica
+	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra)
 - [Kataude no Amy](https://myanimelist.net/manga/132589)
 	- Publication Status: Finished
 	- MAL ID: 132589
@@ -12835,11 +12660,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 47
 	- Genre(s): Action, Comedy, Organized Crime, School, Shounen, Super Power
 	- MRC Participants: [KB3](https://myanimelist.net/profile/KB3)
-- [Katsuyoku Scandal](https://myanimelist.net/manga/142941)
-	- Publication Status: Finished
-	- MAL ID: 142941
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kawa yori mo Nagaku Yuruyaka ni](https://myanimelist.net/manga/12991)
 	- Publication Status: Finished
 	- MAL ID: 12991
@@ -12854,7 +12674,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 13090
 	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [CMYK](https://myanimelist.net/profile/CMYK), [fraideii](https://myanimelist.net/profile/fraideii), [Rinarin](https://myanimelist.net/profile/Rinarin), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [CMYK](https://myanimelist.net/profile/CMYK), [fraideii](https://myanimelist.net/profile/fraideii), [Rinarin](https://myanimelist.net/profile/Rinarin)
 - [Kawaii Hito](https://myanimelist.net/manga/96046)
 	- Publication Status: Finished
 	- MAL ID: 96046
@@ -12905,11 +12725,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 106990
 	- Genre(s): Action, Mystery, School, Shounen, Supernatural
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [yube](https://myanimelist.net/profile/yube)
-- [Kaze no Uta wo Kike](https://myanimelist.net/manga/24649)
-	- Publication Status: Finished
-	- MAL ID: 24649
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kazoku ni Narou yo](https://myanimelist.net/manga/104245)
 	- Publication Status: Finished
 	- MAL ID: 104245
@@ -12945,11 +12760,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 133455
 	- Genre(s): Drama, Romance
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Kekkon shite yo... Oujisama!?](https://myanimelist.net/manga/102870)
-	- Publication Status: Finished
-	- MAL ID: 102870
-	- Genre(s): Drama, Romance, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kekkou Kamen](https://myanimelist.net/manga/12709)
 	- Publication Status: Finished
 	- MAL ID: 12709
@@ -12970,11 +12780,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 102498
 	- Genre(s): Action, Fantasy, Seinen, Supernatural
 	- MRC Participants: [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
-- [Kemono no Marking](https://myanimelist.net/manga/113075)
-	- Publication Status: Finished
-	- MAL ID: 113075
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kemonogumi](https://myanimelist.net/manga/45978)
 	- Publication Status: Finished
 	- MAL ID: 45978
@@ -13029,7 +12834,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 3639
 	- Genre(s): Comedy, Fantasy, Mythology, Romance, Shoujo, Super Power, Supernatural, Vampire
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Catexia](https://myanimelist.net/profile/Catexia), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
 - [Key Ring Lock](https://myanimelist.net/manga/115137)
 	- Publication Status: Finished
 	- MAL ID: 115137
@@ -13124,7 +12929,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 121079
 	- Genre(s): Boys Love, Drama, Erotica, Horror, Psychological
-	- MRC Participants: [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [Karinara](https://myanimelist.net/profile/Karinara), [krovv](https://myanimelist.net/profile/krovv), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Omoyak](https://myanimelist.net/profile/Omoyak), [Phigamm](https://myanimelist.net/profile/Phigamm), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy)
+	- MRC Participants: [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [Karinara](https://myanimelist.net/profile/Karinara), [krovv](https://myanimelist.net/profile/krovv), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Omoyak](https://myanimelist.net/profile/Omoyak), [Phigamm](https://myanimelist.net/profile/Phigamm), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Kimetsu no Yaiba](https://myanimelist.net/manga/96792)
 	- Publication Status: Finished
 	- MAL ID: 96792
@@ -13140,11 +12945,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 130388
 	- Genre(s): Action, Fantasy, Historical, Shounen
 	- MRC Participants: [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
-- [Kimi Gazer](https://myanimelist.net/manga/144406)
-	- Publication Status: Finished
-	- MAL ID: 144406
-	- Genre(s): Boys Love, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kimi Koi Limit](https://myanimelist.net/manga/24441)
 	- Publication Status: Finished
 	- MAL ID: 24441
@@ -13239,7 +13039,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 109013
 	- Genre(s): Boys Love, Erotica, Romance, Slice of Life, Super Power
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [Rocy98](https://myanimelist.net/profile/Rocy98), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [Rocy98](https://myanimelist.net/profile/Rocy98)
 - [Kimi to Boku to Sekai no Hotori: Futaribocchi Christmas](https://myanimelist.net/manga/152975)
 	- Publication Status: Finished
 	- MAL ID: 152975
@@ -13285,11 +13085,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 147437
 	- Genre(s): Adult Cast, Boys Love
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Kimi wa Amai Amai](https://myanimelist.net/manga/20259)
-	- Publication Status: Finished
-	- MAL ID: 20259
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kimi wa Boku no Taiyou](https://myanimelist.net/manga/12294)
 	- Publication Status: Finished
 	- MAL ID: 12294
@@ -13314,12 +13109,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 116921
 	- Genre(s): Drama, Girls Love, Psychological, School, Seinen
-	- MRC Participants: [saladass360](https://myanimelist.net/profile/saladass360), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [saladass360](https://myanimelist.net/profile/saladass360)
 - [Kimi wa Midara na Boku no Joou](https://myanimelist.net/manga/44155)
 	- Publication Status: Finished
 	- MAL ID: 44155
 	- Genre(s): Comedy, Ecchi, Romance, School, Seinen, Supernatural
-	- MRC Participants: [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [fraideii](https://myanimelist.net/profile/fraideii), [LyLord](https://myanimelist.net/profile/LyLord), [MetalPower26](https://myanimelist.net/profile/MetalPower26), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube), [Zandah](https://myanimelist.net/profile/Zandah)
+	- MRC Participants: [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [fraideii](https://myanimelist.net/profile/fraideii), [LyLord](https://myanimelist.net/profile/LyLord), [MetalPower26](https://myanimelist.net/profile/MetalPower26), [yube](https://myanimelist.net/profile/yube), [Zandah](https://myanimelist.net/profile/Zandah)
 - [Kimi wa Omega](https://myanimelist.net/manga/144482)
 	- Publication Status: Finished
 	- MAL ID: 144482
@@ -13470,6 +13265,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 51567
 	- Genre(s): Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen, Supernatural
 	- MRC Participants: [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds)
+- [Kiseijuu](https://myanimelist.net/manga/401)
+	- Publication Status: Finished
+	- MAL ID: 401
+	- Genre(s): Action, Award Winning, Gore, Horror, Psychological, Sci-Fi, Seinen
+	- MRC Participants: [Aye-Caramba](https://myanimelist.net/profile/Aye-Caramba)
 - [Kiseki no Koibito](https://myanimelist.net/manga/7246)
 	- Publication Status: Finished
 	- MAL ID: 7246
@@ -13550,6 +13350,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 109882
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
+- [Kizumono Majo wa Deshi ni Amai](https://myanimelist.net/manga/178654)
+	- Publication Status: Finished
+	- MAL ID: 178654
+	- Genre(s): Fantasy, Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Kizuna Baton](https://myanimelist.net/manga/7102)
 	- Publication Status: Finished
 	- MAL ID: 7102
@@ -13685,6 +13490,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 6182
 	- Genre(s): Drama, Romance, School, Shoujo
 	- MRC Participants: [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+- [Koi Kirari, Kage Sururi](https://myanimelist.net/manga/136471)
+	- Publication Status: Finished
+	- MAL ID: 136471
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Koi Tenshi to Shachiku-san](https://myanimelist.net/manga/169429)
 	- Publication Status: Finished
 	- MAL ID: 169429
@@ -13749,7 +13559,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 70251
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Romance, Sci-Fi, Shounen, Slice of Life, Super Power
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
 - [Koi no Kaori](https://myanimelist.net/manga/42841)
 	- Publication Status: Finished
 	- MAL ID: 42841
@@ -13764,12 +13574,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 135065
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [Stardew](https://myanimelist.net/profile/Stardew)
-- [Koi no Shizuku](https://myanimelist.net/manga/8147)
-	- Publication Status: Finished
-	- MAL ID: 8147
-	- Genre(s): Boys Love, Erotica, Romance, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
 - [Koi to Shinzou](https://myanimelist.net/manga/117203)
 	- Publication Status: Finished
 	- MAL ID: 117203
@@ -13795,21 +13600,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2449
 	- Genre(s): Boys Love, Comedy, Drama, Erotica
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Koi wa Maiorita](https://myanimelist.net/manga/13092)
-	- Publication Status: Finished
-	- MAL ID: 13092
-	- Genre(s): Boys Love, Erotica, Historical
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Koi wa Misoji wo Sugite kara](https://myanimelist.net/manga/14146)
 	- Publication Status: Finished
 	- MAL ID: 14146
 	- Genre(s): Comedy, Ecchi, Romance, Seinen
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [LyLord](https://myanimelist.net/profile/LyLord), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Koi wa Nanairo Shichihenge!?](https://myanimelist.net/manga/108685)
-	- Publication Status: Finished
-	- MAL ID: 108685
-	- Genre(s): Boys Love, Crossdressing, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Koi wo Hitokuchi](https://myanimelist.net/manga/89183)
 	- Publication Status: Finished
 	- MAL ID: 89183
@@ -14039,7 +13834,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 11283
 	- Genre(s): Drama, Josei, Romance
-	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
 - [Kono Kimochi wa Koi ni Naru](https://myanimelist.net/manga/4326)
 	- Publication Status: Finished
 	- MAL ID: 4326
@@ -14165,16 +13960,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 932
 	- Genre(s): Action, Drama, Gore, Horror, Psychological, Seinen
 	- MRC Participants: [Salyee](https://myanimelist.net/profile/Salyee)
+- [Koroshiya Power Harassment OJT](https://myanimelist.net/manga/180769)
+	- Publication Status: Finished
+	- MAL ID: 180769
+	- Genre(s): Action, Adult Cast, Comedy, Organized Crime, Shounen, Workplace
+	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri)
 - [Koroshiya to Freeter](https://myanimelist.net/manga/131351)
 	- Publication Status: Finished
 	- MAL ID: 131351
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate)
-- [Korotto Ochita?](https://myanimelist.net/manga/90821)
-	- Publication Status: Finished
-	- MAL ID: 90821
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kotonoha no Miko to Kotodama no Mahou to](https://myanimelist.net/manga/5000)
 	- Publication Status: Finished
 	- MAL ID: 5000
@@ -14279,7 +14074,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 8653
 	- Genre(s): Boys Love, Erotica, Vampire
-	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Koyubi wa Amaku Sasayaku](https://myanimelist.net/manga/2841)
 	- Publication Status: Finished
 	- MAL ID: 2841
@@ -14290,11 +14085,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 44525
 	- Genre(s): Comedy, Ecchi, Shounen
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
-- [Kozure Ω to Boukun Yakuza](https://myanimelist.net/manga/146456)
-	- Publication Status: Finished
-	- MAL ID: 146456
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kuchi ga Saketemo Kimi ni wa](https://myanimelist.net/manga/126801)
 	- Publication Status: Finished
 	- MAL ID: 126801
@@ -14319,7 +14109,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 31393
 	- Genre(s): Adventure, Fantasy, Psychological, Romance, Sci-Fi, Shoujo
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
 - [Kuimonodokoro Akira](https://myanimelist.net/manga/13345)
 	- Publication Status: Finished
 	- MAL ID: 13345
@@ -14485,11 +14275,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 45335
 	- Genre(s): Boys Love, Erotica, Supernatural
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Kuroneko wa Ookami Ouji no Yume wo Miru ka](https://myanimelist.net/manga/137848)
-	- Publication Status: Finished
-	- MAL ID: 137848
-	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kuronekotei Zakkichou](https://myanimelist.net/manga/113033)
 	- Publication Status: Finished
 	- MAL ID: 113033
@@ -14534,7 +14319,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 4512
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Ebo](https://myanimelist.net/profile/Ebo), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [Salyee](https://myanimelist.net/profile/Salyee), [SherlyCat25](https://myanimelist.net/profile/SherlyCat25)
+	- MRC Participants: [Ebo](https://myanimelist.net/profile/Ebo), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [Salyee](https://myanimelist.net/profile/Salyee)
 - [Kusozako Fuuki Iinchou Kaeri-chan](https://myanimelist.net/manga/136243)
 	- Publication Status: Finished
 	- MAL ID: 136243
@@ -14680,11 +14465,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 31237
 	- Genre(s): Drama, Horror, Romance, Shoujo
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Kyoukasho no Koibito](https://myanimelist.net/manga/2467)
-	- Publication Status: Finished
-	- MAL ID: 2467
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kyouki no Sanmyaku nite](https://myanimelist.net/manga/101386)
 	- Publication Status: Finished
 	- MAL ID: 101386
@@ -14954,7 +14734,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 28184
 	- Genre(s): Drama, Horror, Psychological
-	- MRC Participants: [cerealenthusiast](https://myanimelist.net/profile/cerealenthusiast), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [jaeo_k](https://myanimelist.net/profile/jaeo_k), [jeffu](https://myanimelist.net/profile/jeffu), [lubryka](https://myanimelist.net/profile/lubryka), [Lutetium](https://myanimelist.net/profile/Lutetium), [Salyee](https://myanimelist.net/profile/Salyee), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [jaeo_k](https://myanimelist.net/profile/jaeo_k), [jeffu](https://myanimelist.net/profile/jeffu), [lubryka](https://myanimelist.net/profile/lubryka), [Lutetium](https://myanimelist.net/profile/Lutetium), [Salyee](https://myanimelist.net/profile/Salyee), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial)
 - [Life: Senjou no Bokura](https://myanimelist.net/manga/107539)
 	- Publication Status: Finished
 	- MAL ID: 107539
@@ -15005,16 +14785,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 3652
 	- Genre(s): Drama, Romance, Shoujo
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
-- [Lingua Dolce!](https://myanimelist.net/manga/127038)
-	- Publication Status: Finished
-	- MAL ID: 127038
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Link and Ring](https://myanimelist.net/manga/126700)
-	- Publication Status: Finished
-	- MAL ID: 126700
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Links](https://myanimelist.net/manga/86571)
 	- Publication Status: Finished
 	- MAL ID: 86571
@@ -15069,7 +14839,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 5689
 	- Genre(s): Fantasy
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
 - [Little Witch Academia](https://myanimelist.net/manga/104064)
 	- Publication Status: Finished
 	- MAL ID: 104064
@@ -15079,7 +14849,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 117104
 	- Genre(s): Drama, Romance, Supernatural
-	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum), [Rinarin](https://myanimelist.net/profile/Rinarin), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum), [Rinarin](https://myanimelist.net/profile/Rinarin)
 - [Lives](https://myanimelist.net/manga/6912)
 	- Publication Status: Finished
 	- MAL ID: 6912
@@ -15110,11 +14880,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 12943
 	- Genre(s): Boys Love, Comedy, Erotica, Supernatural
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Lonely to Organdy](https://myanimelist.net/manga/100927)
-	- Publication Status: Finished
-	- MAL ID: 100927
-	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Long After the Ending](https://myanimelist.net/manga/147376)
 	- Publication Status: Finished
 	- MAL ID: 147376
@@ -15179,7 +14944,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 1689
 	- Genre(s): Adventure, Sci-Fi
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [fraideii](https://myanimelist.net/profile/fraideii), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [fraideii](https://myanimelist.net/profile/fraideii), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Plate](https://myanimelist.net/profile/Plate)
 - [Lost+Brain](https://myanimelist.net/manga/5802)
 	- Publication Status: Finished
 	- MAL ID: 5802
@@ -15254,7 +15019,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 40415
 	- Genre(s): Comedy, Romance, School, Shoujo
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Love Mission @](https://myanimelist.net/manga/18457)
 	- Publication Status: Finished
 	- MAL ID: 18457
@@ -15405,16 +15170,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2990
 	- Genre(s): Drama, Ecchi, Psychological, Romance, Seinen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Plate](https://myanimelist.net/profile/Plate)
-- [M-ka Chuuihou!](https://myanimelist.net/manga/31409)
-	- Publication Status: Finished
-	- MAL ID: 31409
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [M.A.X.](https://myanimelist.net/manga/17461)
 	- Publication Status: Finished
 	- MAL ID: 17461
 	- Genre(s): Comedy, Romance, School, Shoujo
-	- MRC Participants: [Karinara](https://myanimelist.net/profile/Karinara), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Karinara](https://myanimelist.net/profile/Karinara)
 - [MADK](https://myanimelist.net/manga/115345)
 	- Publication Status: Finished
 	- MAL ID: 115345
@@ -15470,6 +15230,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 121891
 	- Genre(s): Drama, Horror, Romance, Shounen, Supernatural
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [MetalPower26](https://myanimelist.net/profile/MetalPower26)
+- [Machigitsune to Hito no Ko](https://myanimelist.net/manga/129545)
+	- Publication Status: Finished
+	- MAL ID: 129545
+	- Genre(s): Boys Love, Historical, Supernatural
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Machiko no Koi](https://myanimelist.net/manga/178282)
 	- Publication Status: Finished
 	- MAL ID: 178282
@@ -15714,12 +15479,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 57295
 	- Genre(s): Drama, Gore, Horror, Mahou Shoujo, Psychological, Supernatural
-	- MRC Participants: [krovv](https://myanimelist.net/profile/krovv), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [ufogirls](https://myanimelist.net/profile/ufogirls)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [krovv](https://myanimelist.net/profile/krovv), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [ufogirls](https://myanimelist.net/profile/ufogirls)
 - [Mahou Shoujo Site Sept](https://myanimelist.net/manga/113780)
 	- Publication Status: Finished
 	- MAL ID: 113780
 	- Genre(s): Drama, Gore, Mahou Shoujo, Psychological, School, Supernatural
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [ufogirls](https://myanimelist.net/profile/ufogirls)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [milkee](https://myanimelist.net/profile/milkee), [ufogirls](https://myanimelist.net/profile/ufogirls)
 - [Mahou Shoujo Suzune★Magica](https://myanimelist.net/manga/62673)
 	- Publication Status: Finished
 	- MAL ID: 62673
@@ -15793,7 +15558,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Mai-chan no Nichijou](https://myanimelist.net/manga/8937)
 	- Publication Status: Finished
 	- MAL ID: 8937
-	- Genre(s): Hentai, Horror
+	- Genre(s): Gore, Hentai, Horror
 	- MRC Participants: [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [Lutetium](https://myanimelist.net/profile/Lutetium), [Phigamm](https://myanimelist.net/profile/Phigamm)
 - [Mairunovich](https://myanimelist.net/manga/23688)
 	- Publication Status: Finished
@@ -15989,7 +15754,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 111835
 	- Genre(s): Educational, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
 - [Manga of the Dead](https://myanimelist.net/manga/48283)
 	- Publication Status: Finished
 	- MAL ID: 48283
@@ -16184,7 +15949,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 3024
 	- Genre(s): Drama, Girls Love, Mystery, Shoujo
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Mayo Chiki!](https://myanimelist.net/manga/21860)
 	- Publication Status: Finished
 	- MAL ID: 21860
@@ -16265,11 +16030,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 8988
 	- Genre(s): Horror, Psychological, Seinen
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
-- [Me wo Tojite Oide yo](https://myanimelist.net/manga/3612)
-	- Publication Status: Finished
-	- MAL ID: 3612
-	- Genre(s): Boys Love, Drama, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Medicine](https://myanimelist.net/manga/51489)
 	- Publication Status: Finished
 	- MAL ID: 51489
@@ -16309,7 +16069,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 68827
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Megane wa Ai no Ichibu desu.](https://myanimelist.net/manga/131473)
 	- Publication Status: Finished
 	- MAL ID: 131473
@@ -16499,7 +16259,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 5771
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Mezametakunai Kimura-kun.](https://myanimelist.net/manga/158165)
 	- Publication Status: Finished
 	- MAL ID: 158165
@@ -16550,6 +16310,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2469
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Midnight Rain](https://myanimelist.net/manga/113836)
+	- Publication Status: Finished
+	- MAL ID: 113836
+	- Genre(s): Boys Love, Drama, Erotica
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Midnight Secretary](https://myanimelist.net/manga/3554)
 	- Publication Status: Finished
 	- MAL ID: 3554
@@ -16669,7 +16434,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 87363
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
 - [Minus Literacy](https://myanimelist.net/manga/8112)
 	- Publication Status: Finished
 	- MAL ID: 8112
@@ -16720,21 +16485,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 116623
 	- Genre(s): Horror, Seinen
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [FateXBlood](https://myanimelist.net/profile/FateXBlood)
-- [Misekake Oresama-kun](https://myanimelist.net/manga/114202)
-	- Publication Status: Finished
-	- MAL ID: 114202
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Miserarete](https://myanimelist.net/manga/5267)
 	- Publication Status: Finished
 	- MAL ID: 5267
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Mishounen Produce](https://myanimelist.net/manga/15206)
-	- Publication Status: Finished
-	- MAL ID: 15206
-	- Genre(s): Comedy, Romance, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Miss Not-So Sidekick](https://myanimelist.net/manga/147827)
 	- Publication Status: Finished
 	- MAL ID: 147827
@@ -16765,16 +16520,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 121550
 	- Genre(s): Action, Comedy, Gag Humor, Shounen, Supernatural
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Mitasareru Kuchibiru](https://myanimelist.net/manga/2017)
-	- Publication Status: Finished
-	- MAL ID: 2017
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Mitsu no Tsumatta Joushi](https://myanimelist.net/manga/13327)
-	- Publication Status: Finished
-	- MAL ID: 13327
-	- Genre(s): Boys Love, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mitsu x Mitsu Drops](https://myanimelist.net/manga/629)
 	- Publication Status: Finished
 	- MAL ID: 629
@@ -16865,11 +16610,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 134643
 	- Genre(s): Comedy, Fantasy, Romance, School
 	- MRC Participants: [Phanuel](https://myanimelist.net/profile/Phanuel)
-- [Mob-kei Danshi no Yuuutsu](https://myanimelist.net/manga/108821)
-	- Publication Status: Finished
-	- MAL ID: 108821
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mobius Strip](https://myanimelist.net/manga/116495)
 	- Publication Status: Finished
 	- MAL ID: 116495
@@ -16910,11 +16650,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 25319
 	- Genre(s): Adventure, Comedy, Kids, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Momo](https://myanimelist.net/manga/9720)
-	- Publication Status: Finished
-	- MAL ID: 9720
-	- Genre(s): Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Momo no Musume!](https://myanimelist.net/manga/47487)
 	- Publication Status: Finished
 	- MAL ID: 47487
@@ -17225,11 +16960,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1178
 	- Genre(s): Comedy, Seinen
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Hoots__](https://myanimelist.net/profile/Hoots__), [Omoyak](https://myanimelist.net/profile/Omoyak)
-- [Museum](https://myanimelist.net/manga/70405)
-	- Publication Status: Finished
-	- MAL ID: 70405
-	- Genre(s): Horror, Seinen
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mushi to Uta](https://myanimelist.net/manga/36013)
 	- Publication Status: Finished
 	- MAL ID: 36013
@@ -17335,11 +17065,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2951
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [My Young Master](https://myanimelist.net/manga/19233)
+- [Myuutan](https://myanimelist.net/manga/181467)
 	- Publication Status: Finished
-	- MAL ID: 19233
-	- Genre(s): Comedy, Historical, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MAL ID: 181467
+	- Genre(s): Anthropomorphic, Comedy, Gag Humor, Medical, Shounen
+	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri), [Shiroponta](https://myanimelist.net/profile/Shiroponta)
 - [MÄR Omega](https://myanimelist.net/manga/135)
 	- Publication Status: Finished
 	- MAL ID: 135
@@ -17539,7 +17269,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 88087
 	- Genre(s): Boys Love, Comedy, Erotica
-	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nanji no Na wa Ai](https://myanimelist.net/manga/2016)
 	- Publication Status: Finished
 	- MAL ID: 2016
@@ -17555,6 +17285,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 118637
 	- Genre(s): Action, Sci-Fi, Shounen
 	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri)
+- [Nanpa sarete Tsugou no Ii Onaho ni Sareteita Ojousama ga, Kizukeba Dosukebe ni Natteita Ichibushijuu](https://myanimelist.net/manga/180611)
+	- Publication Status: Finished
+	- MAL ID: 180611
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Nanse Usagi wa Koinu ni Muchuu](https://myanimelist.net/manga/157628)
 	- Publication Status: Finished
 	- MAL ID: 157628
@@ -17634,7 +17369,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 84433
 	- Genre(s): Romance, School, Shoujo
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
 - [Natsu no Zenjitsu](https://myanimelist.net/manga/15242)
 	- Publication Status: Finished
 	- MAL ID: 15242
@@ -17880,11 +17615,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 72047
 	- Genre(s): Drama, School, Shoujo
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
-- [Nennen Saisai](https://myanimelist.net/manga/64493)
-	- Publication Status: Finished
-	- MAL ID: 64493
-	- Genre(s): Boys Love, Drama, Erotica, Historical
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Neo Arcadia: Yami ni Saku Niji](https://myanimelist.net/manga/22941)
 	- Publication Status: Finished
 	- MAL ID: 22941
@@ -18210,11 +17940,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 137546
 	- Genre(s): Boys Love, Erotica, Workplace
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [No One's Perfect](https://myanimelist.net/manga/131882)
-	- Publication Status: Finished
-	- MAL ID: 131882
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [No.6](https://myanimelist.net/manga/24308)
 	- Publication Status: Finished
 	- MAL ID: 24308
@@ -18260,11 +17985,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 113085
 	- Genre(s): Detective, Mystery, Seinen, Suspense
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee), [Omoyak](https://myanimelist.net/profile/Omoyak)
-- [Nokori Ichinichi de Hametsu Flag Zenbu Heshiorimasu: Zamaa RTA Kiroku 24Hr.](https://myanimelist.net/manga/155065)
-	- Publication Status: Finished
-	- MAL ID: 155065
-	- Genre(s): Fantasy, Isekai, Villainess
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Nomura Nao to Kyougoku Hina wa](https://myanimelist.net/manga/135047)
 	- Publication Status: Finished
 	- MAL ID: 135047
@@ -18340,11 +18060,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1514
 	- Genre(s): Drama, Psychological, Seinen
 	- MRC Participants: [Schlopsi](https://myanimelist.net/profile/Schlopsi), [yube](https://myanimelist.net/profile/yube)
-- [Nozomu Bekumonai](https://myanimelist.net/manga/54935)
-	- Publication Status: Finished
-	- MAL ID: 54935
-	- Genre(s): Boys Love, Drama, Erotica, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Nozomu Nozomi](https://myanimelist.net/manga/60561)
 	- Publication Status: Finished
 	- MAL ID: 60561
@@ -18469,7 +18184,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 140565
 	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Myanik10](https://myanimelist.net/profile/Myanik10), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Myanik10](https://myanimelist.net/profile/Myanik10)
 - [Ochite Chikachika](https://myanimelist.net/manga/51589)
 	- Publication Status: Finished
 	- MAL ID: 51589
@@ -18495,6 +18210,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 104957
 	- Genre(s): Horror, Seinen
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
+- [Off Stage Love Side](https://myanimelist.net/manga/164042)
+	- Publication Status: Finished
+	- MAL ID: 164042
+	- Genre(s): Boys Love, Erotica, Idols (Male)
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Off Time](https://myanimelist.net/manga/18656)
 	- Publication Status: Finished
 	- MAL ID: 18656
@@ -18524,7 +18244,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 121980
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew), [subliminallydark](https://myanimelist.net/profile/subliminallydark)
+	- MRC Participants: [subliminallydark](https://myanimelist.net/profile/subliminallydark)
 - [Oh! My Maid](https://myanimelist.net/manga/1948)
 	- Publication Status: Finished
 	- MAL ID: 1948
@@ -18625,11 +18345,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 83295
 	- Genre(s): Romance, School, Shoujo, Supernatural
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Okuman Chouja no Kakehiki](https://myanimelist.net/manga/36853)
-	- Publication Status: Finished
-	- MAL ID: 36853
-	- Genre(s): Josei, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Okusama to Maid-san](https://myanimelist.net/manga/64285)
 	- Publication Status: Finished
 	- MAL ID: 64285
@@ -18660,16 +18375,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 114624
 	- Genre(s): Boys Love, Erotica, School
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Omae no Yubi de Toroketara](https://myanimelist.net/manga/140420)
-	- Publication Status: Finished
-	- MAL ID: 140420
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Omamori Himari](https://myanimelist.net/manga/1745)
 	- Publication Status: Finished
 	- MAL ID: 1745
 	- Genre(s): Action, Comedy, Ecchi, Harem, Mythology, Romance, School, Supernatural
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
+- [Omega no Mukotori](https://myanimelist.net/manga/143958)
+	- Publication Status: Finished
+	- MAL ID: 143958
+	- Genre(s): Boys Love, Drama
+	- MRC Participants: [rozewald](https://myanimelist.net/profile/rozewald)
 - [Omerta: Kochou no Yume no Hate](https://myanimelist.net/manga/28837)
 	- Publication Status: Finished
 	- MAL ID: 28837
@@ -18825,6 +18540,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 40741
 	- Genre(s): Boys Love, Drama, Erotica, Supernatural
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
+- [Onihebi Kyuuai Monogatari](https://myanimelist.net/manga/154292)
+	- Publication Status: Finished
+	- MAL ID: 154292
+	- Genre(s): Boys Love, Erotica, Supernatural
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Oniichan☆Control](https://myanimelist.net/manga/13731)
 	- Publication Status: Finished
 	- MAL ID: 13731
@@ -18845,11 +18565,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 122267
 	- Genre(s): Comedy, Mythology, Romance, School, Supernatural
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Only You](https://myanimelist.net/manga/2098)
-	- Publication Status: Finished
-	- MAL ID: 2098
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Onna no Buki ga Tsukaete koso Otoko no Ko desu.](https://myanimelist.net/manga/23858)
 	- Publication Status: Finished
 	- MAL ID: 23858
@@ -18879,7 +18594,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 40761
 	- Genre(s): Childcare, Drama, Fantasy, Romance, Seinen, Slice of Life
-	- MRC Participants: [Phanuel](https://myanimelist.net/profile/Phanuel), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Phanuel](https://myanimelist.net/profile/Phanuel)
 - [Ookami Lover](https://myanimelist.net/manga/18528)
 	- Publication Status: Finished
 	- MAL ID: 18528
@@ -18935,11 +18650,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 129291
 	- Genre(s): Boys Love, Erotica, School, Supernatural
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Ookami-san to Eroi Koto](https://myanimelist.net/manga/109387)
-	- Publication Status: Finished
-	- MAL ID: 109387
-	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Ookamidomo no Shitsukekata](https://myanimelist.net/manga/31857)
 	- Publication Status: Finished
 	- MAL ID: 31857
@@ -19080,6 +18790,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 104690
 	- Genre(s): Comedy, Romance, School, Shounen
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [poisonwill](https://myanimelist.net/profile/poisonwill)
+- [Orenchi no Maid-san](https://myanimelist.net/manga/101234)
+	- Publication Status: Finished
+	- MAL ID: 101234
+	- Genre(s): Comedy, Romance, Slice of Life
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Oresama Ouji](https://myanimelist.net/manga/4626)
 	- Publication Status: Finished
 	- MAL ID: 4626
@@ -19205,11 +18920,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 99930
 	- Genre(s): Ecchi, Fantasy, Romance, School, Shounen
 	- MRC Participants: [CryCamellia](https://myanimelist.net/profile/CryCamellia)
-- [Oshioki Gakuen](https://myanimelist.net/manga/9091)
-	- Publication Status: Finished
-	- MAL ID: 9091
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Oshioki Shaman Musume](https://myanimelist.net/manga/7762)
 	- Publication Status: Finished
 	- MAL ID: 7762
@@ -19220,11 +18930,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 66675
 	- Genre(s): Boys Love, Comedy, Erotica, Romance
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Osuwari, Yoku Dekimashita](https://myanimelist.net/manga/146193)
-	- Publication Status: Finished
-	- MAL ID: 146193
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Otasuke Miko Miko-chan](https://myanimelist.net/manga/32961)
 	- Publication Status: Finished
 	- MAL ID: 32961
@@ -19234,7 +18939,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 95901
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Haylen](https://myanimelist.net/profile/Haylen), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Haylen](https://myanimelist.net/profile/Haylen)
 - [Ote, Osuwari, Kiss](https://myanimelist.net/manga/131815)
 	- Publication Status: Finished
 	- MAL ID: 131815
@@ -19310,11 +19015,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 54517
 	- Genre(s): Erotica, Girls Love, Hentai
 	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate)
-- [Otome Yankee wa Unmei no Hito wo Matsu.](https://myanimelist.net/manga/144341)
-	- Publication Status: Finished
-	- MAL ID: 144341
-	- Genre(s): Boys Love, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Otome no Harawata Hoshi no Iro](https://myanimelist.net/manga/116889)
 	- Publication Status: Finished
 	- MAL ID: 116889
@@ -19355,16 +19055,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 52187
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Otona-chan.](https://myanimelist.net/manga/95983)
-	- Publication Status: Finished
-	- MAL ID: 95983
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Otona♡Pink](https://myanimelist.net/manga/4600)
 	- Publication Status: Finished
 	- MAL ID: 4600
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
+- [Otousan to Kyouko-chan.](https://myanimelist.net/manga/180988)
+	- Publication Status: Finished
+	- MAL ID: 180988
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Otousan wa Warukunai.](https://myanimelist.net/manga/178129)
 	- Publication Status: Finished
 	- MAL ID: 178129
@@ -19400,11 +19100,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 21446
 	- Genre(s): Boys Love, Drama, Romance, Shoujo
 	- MRC Participants: [hinagatari](https://myanimelist.net/profile/hinagatari), [lubryka](https://myanimelist.net/profile/lubryka)
-- [Oujisama ni Narenai](https://myanimelist.net/manga/15700)
-	- Publication Status: Finished
-	- MAL ID: 15700
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Oujisama no Hanryo wa Batsuichi Around 40](https://myanimelist.net/manga/164195)
 	- Publication Status: Finished
 	- MAL ID: 164195
@@ -19534,12 +19229,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 4632
 	- Genre(s): Drama, Psychological, Seinen, Slice of Life
-	- MRC Participants: [Sol](https://myanimelist.net/profile/Sol), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
-- [Oyasuminasai no Ato wa](https://myanimelist.net/manga/103318)
-	- Publication Status: Finished
-	- MAL ID: 103318
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Sol](https://myanimelist.net/profile/Sol), [yube](https://myanimelist.net/profile/yube)
 - [Oyasumi☆Darling](https://myanimelist.net/manga/5687)
 	- Publication Status: Finished
 	- MAL ID: 5687
@@ -19640,11 +19330,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1662
 	- Genre(s): Drama, Psychological, Romance, School, Shoujo
 	- MRC Participants: [Phanuel](https://myanimelist.net/profile/Phanuel)
-- [Paradise View](https://myanimelist.net/manga/67223)
-	- Publication Status: Finished
-	- MAL ID: 67223
-	- Genre(s): Boys Love, Drama, Erotica, Romance, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Parallel](https://myanimelist.net/manga/862)
 	- Publication Status: Finished
 	- MAL ID: 862
@@ -19715,11 +19400,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 124645
 	- Genre(s): Gore, High Stakes Game, School, Sci-Fi, Suspense
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [catgwrl](https://myanimelist.net/profile/catgwrl), [jeffu](https://myanimelist.net/profile/jeffu)
-- [Penthouse XXX](https://myanimelist.net/manga/124746)
-	- Publication Status: Finished
-	- MAL ID: 124746
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Peony Pavilion](https://myanimelist.net/manga/19502)
 	- Publication Status: Finished
 	- MAL ID: 19502
@@ -19754,7 +19434,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 24318
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate)
 - [Pet no Jikan](https://myanimelist.net/manga/49139)
 	- Publication Status: Finished
 	- MAL ID: 49139
@@ -19789,7 +19469,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 42769
 	- Genre(s): Action, High Stakes Game, Mystery, Shounen, Strategy Game
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
 - [Philosophia](https://myanimelist.net/manga/70621)
 	- Publication Status: Finished
 	- MAL ID: 70621
@@ -19895,11 +19575,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 2912
 	- Genre(s): Action, Adventure, Ecchi, Sci-Fi
 	- MRC Participants: [Omoyak](https://myanimelist.net/profile/Omoyak), [yube](https://myanimelist.net/profile/yube)
-- [Platinum Blood](https://myanimelist.net/manga/146424)
-	- Publication Status: Finished
-	- MAL ID: 146424
-	- Genre(s): Boys Love, Erotica, Supernatural, Vampire
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Platinum End](https://myanimelist.net/manga/93180)
 	- Publication Status: Finished
 	- MAL ID: 93180
@@ -20075,16 +19750,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 25297
 	- Genre(s): Award Winning, Comedy, Ecchi, Gag Humor, Romance, School, Seinen
 	- MRC Participants: [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [yube](https://myanimelist.net/profile/yube)
-- [Prisoner](https://myanimelist.net/manga/11010)
-	- Publication Status: Finished
-	- MAL ID: 11010
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo), [Stardew](https://myanimelist.net/profile/Stardew), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Prisoner](https://myanimelist.net/manga/2785)
 	- Publication Status: Finished
 	- MAL ID: 2785
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Prisoner](https://myanimelist.net/manga/11010)
+	- Publication Status: Finished
+	- MAL ID: 11010
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Private Magician](https://myanimelist.net/manga/1986)
 	- Publication Status: Finished
 	- MAL ID: 1986
@@ -20245,11 +19920,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 34393
 	- Genre(s): Seinen
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
-- [Rakka](https://myanimelist.net/manga/117617)
-	- Publication Status: Finished
-	- MAL ID: 117617
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Rakka Sokudo](https://myanimelist.net/manga/293)
 	- Publication Status: Finished
 	- MAL ID: 293
@@ -20264,7 +19934,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 69243
 	- Genre(s): Boys Love, Drama, Erotica, Psychological
-	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
 - [Rakuda ga Warau](https://myanimelist.net/manga/28247)
 	- Publication Status: Finished
 	- MAL ID: 28247
@@ -20480,16 +20150,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 149268
 	- Genre(s): Romance, Shounen
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Renai Junkie](https://myanimelist.net/manga/2100)
-	- Publication Status: Finished
-	- MAL ID: 2100
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Renai Kidou](https://myanimelist.net/manga/26430)
-	- Publication Status: Finished
-	- MAL ID: 26430
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Renai Kyoushuujo](https://myanimelist.net/manga/17217)
 	- Publication Status: Finished
 	- MAL ID: 17217
@@ -20499,7 +20159,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 7836
 	- Genre(s): Comedy, School
-	- MRC Participants: [kjplethodon](https://myanimelist.net/profile/kjplethodon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [Stardew](https://myanimelist.net/profile/Stardew), [tbeans10](https://myanimelist.net/profile/tbeans10), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [kjplethodon](https://myanimelist.net/profile/kjplethodon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [tbeans10](https://myanimelist.net/profile/tbeans10), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Renai Patisserie](https://myanimelist.net/manga/16645)
 	- Publication Status: Finished
 	- MAL ID: 16645
@@ -20575,11 +20235,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 123056
 	- Genre(s): Boys Love, Erotica, Historical
 	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro)
-- [Retsujou Love Cross](https://myanimelist.net/manga/110259)
-	- Publication Status: Finished
-	- MAL ID: 110259
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Return Mama](https://myanimelist.net/manga/176447)
 	- Publication Status: Finished
 	- MAL ID: 176447
@@ -20625,11 +20280,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 16740
 	- Genre(s): Action, Shounen, Supernatural
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
-- [Riht.](https://myanimelist.net/manga/118131)
-	- Publication Status: Finished
-	- MAL ID: 118131
-	- Genre(s): Boys Love, Drama
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Riki-Oh](https://myanimelist.net/manga/3296)
 	- Publication Status: Finished
 	- MAL ID: 3296
@@ -20640,6 +20290,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 10400
 	- Genre(s): Boys Love, Comedy, Erotica, Historical
 	- MRC Participants: [CMYK](https://myanimelist.net/profile/CMYK)
+- [Rikujoubu no Bokukko Doukyuusei ga Chuunen Komon ni Mesu ni Sareru Ichibushijuu](https://myanimelist.net/manga/180972)
+	- Publication Status: Finished
+	- MAL ID: 180972
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Ring](https://myanimelist.net/manga/16501)
 	- Publication Status: Finished
 	- MAL ID: 16501
@@ -20659,12 +20314,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 67597
 	- Genre(s): Psychological, Romance, Shoujo
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Rinjin](https://myanimelist.net/manga/59195)
-	- Publication Status: Finished
-	- MAL ID: 59195
-	- Genre(s): Boys Love, Erotica, Horror, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Hoots__](https://myanimelist.net/profile/Hoots__)
 - [Rinjin 13-gou](https://myanimelist.net/manga/23044)
 	- Publication Status: Finished
 	- MAL ID: 23044
@@ -20684,7 +20334,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 2360
 	- Genre(s): Boys Love, Erotica, Vampire
-	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Ritou no Umi](https://myanimelist.net/manga/41767)
 	- Publication Status: Finished
 	- MAL ID: 41767
@@ -21025,11 +20675,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 58179
 	- Genre(s): Drama, Fantasy, Shoujo, Supernatural
 	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii), [ReidN](https://myanimelist.net/profile/ReidN), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
-- [Ryuujin-sama ni Oyomeiri](https://myanimelist.net/manga/164678)
-	- Publication Status: Finished
-	- MAL ID: 164678
-	- Genre(s): Boys Love, Erotica, Fantasy
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Ryuuko Aiutsu](https://myanimelist.net/manga/144713)
 	- Publication Status: Finished
 	- MAL ID: 144713
@@ -21094,7 +20739,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 54191
 	- Genre(s): Crossdressing, Fantasy, School, Shoujo, Slice of Life
-	- MRC Participants: [gingermoon](https://myanimelist.net/profile/gingermoon), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [gingermoon](https://myanimelist.net/profile/gingermoon)
 - [STONe](https://myanimelist.net/manga/535)
 	- Publication Status: Finished
 	- MAL ID: 535
@@ -21170,11 +20815,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 155215
 	- Genre(s): Seinen, Slice of Life
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [fraideii](https://myanimelist.net/profile/fraideii), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Plate](https://myanimelist.net/profile/Plate)
-- [Saeki-kun ni Tsunagacchau!](https://myanimelist.net/manga/112559)
-	- Publication Status: Finished
-	- MAL ID: 112559
-	- Genre(s): Boys Love, Comedy, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Saeki-san wa Nemutteru](https://myanimelist.net/manga/114627)
 	- Publication Status: Finished
 	- MAL ID: 114627
@@ -21185,11 +20825,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 103567
 	- Genre(s): Adventure, Shounen, Slice of Life
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
-- [Sahara no Kurowashi](https://myanimelist.net/manga/132518)
-	- Publication Status: Finished
-	- MAL ID: 132518
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Saigo no Saiyuuki](https://myanimelist.net/manga/118662)
 	- Publication Status: Finished
 	- MAL ID: 118662
@@ -21545,26 +21180,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 149265
 	- Genre(s): Action, Historical, Seinen, Survival
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel)
-- [Savile Row no Yuuwaku](https://myanimelist.net/manga/113063)
-	- Publication Status: Finished
-	- MAL ID: 113063
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Sawaranaide, Kowareteimasu.](https://myanimelist.net/manga/90432)
-	- Publication Status: Finished
-	- MAL ID: 90432
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Sayonara Boku no Princess Lolita](https://myanimelist.net/manga/45185)
-	- Publication Status: Finished
-	- MAL ID: 45185
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sayonara Eri](https://myanimelist.net/manga/145863)
 	- Publication Status: Finished
 	- MAL ID: 145863
 	- Genre(s): Drama, Shounen
-	- MRC Participants: [saladass360](https://myanimelist.net/profile/saladass360), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [saladass360](https://myanimelist.net/profile/saladass360)
 - [Sayonara Football](https://myanimelist.net/manga/26491)
 	- Publication Status: Finished
 	- MAL ID: 26491
@@ -21694,7 +21314,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 2674
 	- Genre(s): Boys Love, Comedy, Erotica
-	- MRC Participants: [skylucario](https://myanimelist.net/profile/skylucario), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [skylucario](https://myanimelist.net/profile/skylucario)
 - [Secret Kiss](https://myanimelist.net/manga/4195)
 	- Publication Status: Finished
 	- MAL ID: 4195
@@ -21829,7 +21449,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 209
 	- Genre(s): Award Winning, Comedy, Shoujo, Slice of Life
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Sekai de Ichiban Itaranu Koi](https://myanimelist.net/manga/130887)
 	- Publication Status: Finished
 	- MAL ID: 130887
@@ -21849,7 +21469,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 36437
 	- Genre(s): Historical, Romance, Shoujo, Supernatural
-	- MRC Participants: [kjplethodon](https://myanimelist.net/profile/kjplethodon), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [kjplethodon](https://myanimelist.net/profile/kjplethodon)
 - [Sekai ka Kanojo ka Erabenai](https://myanimelist.net/manga/106202)
 	- Publication Status: Finished
 	- MAL ID: 106202
@@ -21905,11 +21525,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 157257
 	- Genre(s): Comedy, Gag Humor, Shounen
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
-- [Seku☆Tsuga](https://myanimelist.net/manga/122570)
-	- Publication Status: Finished
-	- MAL ID: 122570
-	- Genre(s): Boys Love, Comedy, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Self Portrait](https://myanimelist.net/manga/1947)
 	- Publication Status: Finished
 	- MAL ID: 1947
@@ -21950,6 +21565,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 113560
 	- Genre(s): Adult Cast, Comedy, Love Status Quo, Romance, Workplace
 	- MRC Participants: [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Hoots__](https://myanimelist.net/profile/Hoots__)
+- [Senpai! Motto Ore ni Gohoubi Kudasai!](https://myanimelist.net/manga/170319)
+	- Publication Status: Finished
+	- MAL ID: 170319
+	- Genre(s): Hentai, School
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Senpai! Office Love Shimasho♪](https://myanimelist.net/manga/120308)
 	- Publication Status: Finished
 	- MAL ID: 120308
@@ -22005,6 +21625,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 56109
 	- Genre(s): Romance, School, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
+- [Sensei no Okiniiri!](https://myanimelist.net/manga/1633)
+	- Publication Status: Finished
+	- MAL ID: 1633
+	- Genre(s): Romance, School, Shoujo
+	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra)
 - [Sensei no Shiroi Uso](https://myanimelist.net/manga/112933)
 	- Publication Status: Finished
 	- MAL ID: 112933
@@ -22040,11 +21665,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 115507
 	- Genre(s): Horror, Shoujo
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [yube](https://myanimelist.net/profile/yube)
-- [Sentimental](https://myanimelist.net/manga/13247)
-	- Publication Status: Finished
-	- MAL ID: 13247
-	- Genre(s): Comedy, Fantasy, Mythology, Romance, School, Shoujo, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sentirental Girl](https://myanimelist.net/manga/81685)
 	- Publication Status: Finished
 	- MAL ID: 81685
@@ -22460,6 +22080,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 37153
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Liaeves](https://myanimelist.net/profile/Liaeves)
+- [Shinsou no Raputa](https://myanimelist.net/manga/170104)
+	- Publication Status: Finished
+	- MAL ID: 170104
+	- Genre(s): Drama, Romance, Sci-Fi, Shounen
+	- MRC Participants: [Korinaki](https://myanimelist.net/profile/Korinaki)
 - [Shinu hodo Kimi no Shojo ga Hoshii](https://myanimelist.net/manga/129815)
 	- Publication Status: Finished
 	- MAL ID: 129815
@@ -22525,11 +22150,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 118356
 	- Genre(s): Action, Drama, Historical, Military, Seinen
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Shiri Fechi nanka ni Sukarete Tamaru ka](https://myanimelist.net/manga/98579)
-	- Publication Status: Finished
-	- MAL ID: 98579
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shiro](https://myanimelist.net/manga/61427)
 	- Publication Status: Finished
 	- MAL ID: 61427
@@ -22590,11 +22210,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 94375
 	- Genre(s): Comedy, Seinen, Supernatural
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Shirokuro-kun to Anzu-chan.](https://myanimelist.net/manga/65989)
-	- Publication Status: Finished
-	- MAL ID: 65989
-	- Genre(s): Romance, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shirouto dakedo Ari desu ka](https://myanimelist.net/manga/161410)
 	- Publication Status: Finished
 	- MAL ID: 161410
@@ -22739,7 +22354,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 105541
 	- Genre(s): Horror
-	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee)
+	- MRC Participants: [Aye-Caramba](https://myanimelist.net/profile/Aye-Caramba), [milkee](https://myanimelist.net/profile/milkee)
 - [Shokuryou Jinrui Re](https://myanimelist.net/manga/139693)
 	- Publication Status: Finished
 	- MAL ID: 139693
@@ -22765,11 +22380,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1229
 	- Genre(s): Comedy, Ecchi, Parody, Seinen
 	- MRC Participants: [Salyee](https://myanimelist.net/profile/Salyee)
-- [Short Yomikiri](https://myanimelist.net/manga/55591)
-	- Publication Status: Finished
-	- MAL ID: 55591
-	- Genre(s): Boys Love
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shoujo Gensou Necrophilia](https://myanimelist.net/manga/26833)
 	- Publication Status: Finished
 	- MAL ID: 26833
@@ -22795,11 +22405,21 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 125870
 	- Genre(s): Comedy, Girls Love, School, Shounen
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
+- [Shoujo Ningyou](https://myanimelist.net/manga/1007)
+	- Publication Status: Finished
+	- MAL ID: 1007
+	- Genre(s): Drama, Romance, Shoujo
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Shoujo Pandora](https://myanimelist.net/manga/36659)
 	- Publication Status: Finished
 	- MAL ID: 36659
 	- Genre(s): Horror
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Plate](https://myanimelist.net/profile/Plate)
+- [Shoujo Sect](https://myanimelist.net/manga/1394)
+	- Publication Status: Finished
+	- MAL ID: 1394
+	- Genre(s): Drama, Erotica, Girls Love, Hentai, Romance, School
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Shoujo Shiki Fuzoku Ogu Hinyoukika](https://myanimelist.net/manga/55625)
 	- Publication Status: Finished
 	- MAL ID: 55625
@@ -23070,11 +22690,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 115136
 	- Genre(s): Boys Love, Erotica, School
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Sky Link](https://myanimelist.net/manga/23268)
-	- Publication Status: Finished
-	- MAL ID: 23268
-	- Genre(s): Boys Love, Drama, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Skyhigh](https://myanimelist.net/manga/1450)
 	- Publication Status: Finished
 	- MAL ID: 1450
@@ -23085,6 +22700,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 150480
 	- Genre(s): Boys Love, Gore, Horror, Psychological
 	- MRC Participants: [Phanuel](https://myanimelist.net/profile/Phanuel)
+- [Slow Days](https://myanimelist.net/manga/91200)
+	- Publication Status: Finished
+	- MAL ID: 91200
+	- Genre(s): Boys Love, Slice of Life
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Slow Motion wo Mou Ichido](https://myanimelist.net/manga/102296)
 	- Publication Status: Finished
 	- MAL ID: 102296
@@ -23095,6 +22715,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 100504
 	- Genre(s): Romance, Seinen
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel)
+- [Slow Starter](https://myanimelist.net/manga/35691)
+	- Publication Status: Finished
+	- MAL ID: 35691
+	- Genre(s): Boys Love, Slice of Life
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Smarg wa Utawanai](https://myanimelist.net/manga/17912)
 	- Publication Status: Finished
 	- MAL ID: 17912
@@ -23125,11 +22750,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 66185
 	- Genre(s): Girls Love, School, Slice of Life
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Smoker](https://myanimelist.net/manga/34187)
-	- Publication Status: Finished
-	- MAL ID: 34187
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Smother Me](https://myanimelist.net/manga/174752)
 	- Publication Status: Finished
 	- MAL ID: 174752
@@ -23160,7 +22780,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 150573
 	- Genre(s): Childcare, Comedy, Fantasy
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Soba ni Oitene](https://myanimelist.net/manga/1993)
+- [Soba ni Oite ne.](https://myanimelist.net/manga/1993)
 	- Publication Status: Finished
 	- MAL ID: 1993
 	- Genre(s): Boys Love, Comedy, Erotica, School
@@ -23170,11 +22790,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 111220
 	- Genre(s): Boys Love, Drama, Erotica
 	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae)
-- [Soko ni Suwaruna](https://myanimelist.net/manga/19734)
+- [Sojou no Koi wa Nido Haneru](https://myanimelist.net/manga/14120)
 	- Publication Status: Finished
-	- MAL ID: 19734
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
+	- MAL ID: 14120
+	- Genre(s): Boys Love, Drama, Erotica, Josei, Romance
+	- MRC Participants: [Shiroponta](https://myanimelist.net/profile/Shiroponta)
 - [Sokuochi Mayuri-chan](https://myanimelist.net/manga/120296)
 	- Publication Status: Finished
 	- MAL ID: 120296
@@ -23259,7 +22879,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 19570
 	- Genre(s): Boys Love, Drama, School
-	- MRC Participants: [Myanik10](https://myanimelist.net/profile/Myanik10)
+	- MRC Participants: [Myanik10](https://myanimelist.net/profile/Myanik10), [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Sora wo Daite Oyasumi](https://myanimelist.net/manga/21514)
 	- Publication Status: Finished
 	- MAL ID: 21514
@@ -23305,11 +22925,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 18503
 	- Genre(s): Historical, Samurai, Seinen
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia), [Omoyak](https://myanimelist.net/profile/Omoyak)
-- [Sorekara, Kimi wo Kangaeru](https://myanimelist.net/manga/91202)
-	- Publication Status: Finished
-	- MAL ID: 91202
-	- Genre(s): Boys Love
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sorette Honto ni Gal desu ka?](https://myanimelist.net/manga/153012)
 	- Publication Status: Finished
 	- MAL ID: 153012
@@ -23485,11 +23100,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 110725
 	- Genre(s): Boys Love, Detective, Drama, Erotica, Mystery, Psychological, Supernatural
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
-- [Star Blacks](https://myanimelist.net/manga/1718)
-	- Publication Status: Finished
-	- MAL ID: 1718
-	- Genre(s): Fantasy, Shoujo, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Star Strings yori](https://myanimelist.net/manga/110834)
 	- Publication Status: Finished
 	- MAL ID: 110834
@@ -23504,7 +23114,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 61445
 	- Genre(s): Romance, Shoujo
-	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
 - [Stealth Symphony](https://myanimelist.net/manga/66811)
 	- Publication Status: Finished
 	- MAL ID: 66811
@@ -23599,7 +23209,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 7162
 	- Genre(s): Action, Comedy, Shounen, Supernatural
-	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [yube](https://myanimelist.net/profile/yube)
 - [Subete ga Chottozutsu Yasashii Sekai](https://myanimelist.net/manga/82941)
 	- Publication Status: Finished
 	- MAL ID: 82941
@@ -23680,11 +23290,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 155240
 	- Genre(s): Memoir, Slice of Life
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel)
-- [Suki Yanen kedo Dou Yaro ka](https://myanimelist.net/manga/126774)
-	- Publication Status: Finished
-	- MAL ID: 126774
-	- Genre(s): Boys Love, Erotica, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Suki dakedo Suki dakara Uketorenai](https://myanimelist.net/manga/131557)
 	- Publication Status: Finished
 	- MAL ID: 131557
@@ -23720,11 +23325,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 114641
 	- Genre(s): Boys Love, Erotica, School
 	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska)
-- [Suki to Iu no ni Naze Kashira](https://myanimelist.net/manga/22763)
-	- Publication Status: Finished
-	- MAL ID: 22763
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Suki x Suki](https://myanimelist.net/manga/98971)
 	- Publication Status: Finished
 	- MAL ID: 98971
@@ -23780,11 +23380,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 62495
 	- Genre(s): Josei, Romance
 	- MRC Participants: [Rinarin](https://myanimelist.net/profile/Rinarin)
-- [Sunao ni Love](https://myanimelist.net/manga/8210)
-	- Publication Status: Finished
-	- MAL ID: 8210
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sundome](https://myanimelist.net/manga/1501)
 	- Publication Status: Finished
 	- MAL ID: 1501
@@ -23865,11 +23460,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 125324
 	- Genre(s): Seinen, Slice of Life, Supernatural
 	- MRC Participants: [Omoyak](https://myanimelist.net/profile/Omoyak)
-- [Sutenaide My Hero](https://myanimelist.net/manga/108212)
-	- Publication Status: Finished
-	- MAL ID: 108212
-	- Genre(s): Boys Love, Drama, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sweet Black](https://myanimelist.net/manga/3757)
 	- Publication Status: Finished
 	- MAL ID: 3757
@@ -23950,6 +23540,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 23718
 	- Genre(s): Action, Adventure, Fantasy, Romance, Video Game
 	- MRC Participants: [poisonwill](https://myanimelist.net/profile/poisonwill)
+- [Sword Art Online: Integral Factor - Prologue Comic](https://myanimelist.net/manga/113491)
+	- Publication Status: Finished
+	- MAL ID: 113491
+	- Genre(s): Action, Fantasy, Video Game
+	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra)
 - [Sword Art Online: Kirito no Gun Gale Wars](https://myanimelist.net/manga/118123)
 	- Publication Status: Finished
 	- MAL ID: 118123
@@ -24105,11 +23700,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 40167
 	- Genre(s): Action, Comedy, School, Shounen, Super Power, Supernatural
 	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
-- [Takane no Hana wa, Chirasaretai](https://myanimelist.net/manga/117481)
-	- Publication Status: Finished
-	- MAL ID: 117481
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Takara no Vidro](https://myanimelist.net/manga/142011)
 	- Publication Status: Finished
 	- MAL ID: 142011
@@ -24159,7 +23749,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 142600
 	- Genre(s): Drama, Psychological, Sci-Fi, Shounen
-	- MRC Participants: [krovv](https://myanimelist.net/profile/krovv), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [milkee](https://myanimelist.net/profile/milkee), [Omoyak](https://myanimelist.net/profile/Omoyak), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [krovv](https://myanimelist.net/profile/krovv), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [milkee](https://myanimelist.net/profile/milkee), [Omoyak](https://myanimelist.net/profile/Omoyak), [Plate](https://myanimelist.net/profile/Plate), [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Tale of Fairy Tail: Ice Trail](https://myanimelist.net/manga/75497)
 	- Publication Status: Finished
 	- MAL ID: 75497
@@ -24344,7 +23934,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 173098
 	- Genre(s): Historical, Romance, Seinen
-	- MRC Participants: [Omoyak](https://myanimelist.net/profile/Omoyak)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Omoyak](https://myanimelist.net/profile/Omoyak)
 - [Tenjou Tenge](https://myanimelist.net/manga/73)
 	- Publication Status: Finished
 	- MAL ID: 73
@@ -24365,11 +23955,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 63845
 	- Genre(s): Action, Gore, Horror, Mystery, Survival, Suspense
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Tenkyuugi](https://myanimelist.net/manga/3339)
-	- Publication Status: Finished
-	- MAL ID: 3339
-	- Genre(s): Shounen, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tennen Kareshi Host Shiyou](https://myanimelist.net/manga/20069)
 	- Publication Status: Finished
 	- MAL ID: 20069
@@ -24440,11 +24025,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 121077
 	- Genre(s): Drama, Romance, School, Shoujo
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
+- [Teppen no Kaibutsu](https://myanimelist.net/manga/180070)
+	- Publication Status: Finished
+	- MAL ID: 180070
+	- Genre(s): Comedy, Delinquents, Gag Humor, School, Shounen
+	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri)
 - [Teppen!](https://myanimelist.net/manga/10776)
 	- Publication Status: Finished
 	- MAL ID: 10776
 	- Genre(s): Crossdressing, Shoujo
-	- MRC Participants: [LyLord](https://myanimelist.net/profile/LyLord), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [LyLord](https://myanimelist.net/profile/LyLord)
 - [Terror](https://myanimelist.net/manga/5511)
 	- Publication Status: Finished
 	- MAL ID: 5511
@@ -24543,7 +24133,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [The Death Panda](https://myanimelist.net/manga/7164)
 	- Publication Status: Finished
 	- MAL ID: 7164
-	- Genre(s): Hentai, Horror, Mythology, Super Power
+	- Genre(s): Gore, Hentai, Horror, Mythology, Super Power
 	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [chibieska](https://myanimelist.net/profile/chibieska), [fraideii](https://myanimelist.net/profile/fraideii), [Lutetium](https://myanimelist.net/profile/Lutetium), [Phanuel](https://myanimelist.net/profile/Phanuel), [Schlopsi](https://myanimelist.net/profile/Schlopsi)
 - [The Devil Is Spicy](https://myanimelist.net/manga/160089)
 	- Publication Status: Finished
@@ -24565,6 +24155,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 94416
 	- Genre(s): Romance, School, Slice of Life
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Hoots__](https://myanimelist.net/profile/Hoots__)
+- [The God of High School](https://myanimelist.net/manga/111996)
+	- Publication Status: Finished
+	- MAL ID: 111996
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Urban Fantasy
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [The Hellbound](https://myanimelist.net/manga/140567)
 	- Publication Status: Finished
 	- MAL ID: 140567
@@ -24634,7 +24229,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 31371
 	- Genre(s): Action, Adventure, Fantasy, Historical
-	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [AatihoNora](https://myanimelist.net/profile/AatihoNora), [yube](https://myanimelist.net/profile/yube)
+- [The Return of the 8th Class Mage](https://myanimelist.net/manga/148190)
+	- Publication Status: Finished
+	- MAL ID: 148190
+	- Genre(s): Action, Fantasy, Time Travel
+	- MRC Participants: [PhantomQiz](https://myanimelist.net/profile/PhantomQiz)
 - [The Rib of Adam](https://myanimelist.net/manga/147411)
 	- Publication Status: Finished
 	- MAL ID: 147411
@@ -24665,6 +24265,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 8019
 	- Genre(s): Boys Love, Comedy, Erotica, Mythology
 	- MRC Participants: [Catexia](https://myanimelist.net/profile/Catexia)
+- [Thomas no Shinzou](https://myanimelist.net/manga/9152)
+	- Publication Status: Finished
+	- MAL ID: 9152
+	- Genre(s): Boys Love, Drama, Historical, Psychological, Shoujo
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Thoroughbred wa Nabikanai](https://myanimelist.net/manga/122766)
 	- Publication Status: Finished
 	- MAL ID: 122766
@@ -24740,11 +24345,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 105829
 	- Genre(s): Josei, Romance
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Together During Summers, Too!](https://myanimelist.net/manga/7699)
-	- Publication Status: Finished
-	- MAL ID: 7699
-	- Genre(s): Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Toilet no Omocha](https://myanimelist.net/manga/58031)
 	- Publication Status: Finished
 	- MAL ID: 58031
@@ -24959,7 +24559,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 15366
 	- Genre(s): Boys Love, Drama, Shoujo
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Sen1793](https://myanimelist.net/profile/Sen1793), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
 - [Tonari no Furi-san ga Tonikaku Kowai.](https://myanimelist.net/manga/118741)
 	- Publication Status: Finished
 	- MAL ID: 118741
@@ -25145,11 +24745,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 105336
 	- Genre(s): Drama, Fantasy, Psychological
 	- MRC Participants: [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare)
-- [Tousaku no Honey](https://myanimelist.net/manga/84477)
-	- Publication Status: Finished
-	- MAL ID: 84477
-	- Genre(s): Comedy, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tousei Gensou Hakubutsushi](https://myanimelist.net/manga/16739)
 	- Publication Status: Finished
 	- MAL ID: 16739
@@ -25275,11 +24870,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 86232
 	- Genre(s): Action, Fantasy, Shounen
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Tsugai ni Natte, Goshujinsama](https://myanimelist.net/manga/153683)
-	- Publication Status: Finished
-	- MAL ID: 153683
-	- Genre(s): Boys Love, Erotica, Fantasy
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tsugi ni Attara Daku tte Kimeteta node. Saikai shita Hatsukoi no Kare ga Moujuuka shitara....](https://myanimelist.net/manga/142111)
 	- Publication Status: Finished
 	- MAL ID: 142111
@@ -25359,7 +24949,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 151769
 	- Genre(s): Boys Love, Supernatural
-	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
 - [Tsuki wa Yamiyo ni Kakuru ga Gotoku](https://myanimelist.net/manga/3738)
 	- Publication Status: Finished
 	- MAL ID: 3738
@@ -25440,11 +25030,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 169459
 	- Genre(s): Comedy, Girls Love, School, Shounen
 	- MRC Participants: [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne)
-- [Tsume to Toge](https://myanimelist.net/manga/78697)
-	- Publication Status: Finished
-	- MAL ID: 78697
-	- Genre(s): Boys Love, Drama, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tsumetai Kousha no Toki wa Tomaru](https://myanimelist.net/manga/13729)
 	- Publication Status: Finished
 	- MAL ID: 13729
@@ -25614,7 +25199,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 91614
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [yube](https://myanimelist.net/profile/yube)
 - [Uchuu Kankou C-Ark](https://myanimelist.net/manga/126957)
 	- Publication Status: Finished
 	- MAL ID: 126957
@@ -25860,11 +25445,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 87281
 	- Genre(s): Action, Drama, Romance, Shounen, Supernatural
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [KingShadyH](https://myanimelist.net/profile/KingShadyH)
-- [Unmei ja Nai Hito](https://myanimelist.net/manga/108921)
-	- Publication Status: Finished
-	- MAL ID: 108921
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Unmei ni KISS](https://myanimelist.net/manga/3144)
 	- Publication Status: Finished
 	- MAL ID: 3144
@@ -25925,11 +25505,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 123267
 	- Genre(s): Drama, Seinen
 	- MRC Participants: [taynis](https://myanimelist.net/profile/taynis)
-- [Uraomote no Koiwazurai](https://myanimelist.net/manga/160777)
-	- Publication Status: Finished
-	- MAL ID: 160777
-	- Genre(s): Boys Love, Erotica, Workplace
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Uratarou](https://myanimelist.net/manga/100217)
 	- Publication Status: Finished
 	- MAL ID: 100217
@@ -25950,11 +25525,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 54317
 	- Genre(s): Hentai, Supernatural
 	- MRC Participants: [Plate](https://myanimelist.net/profile/Plate)
-- [Urusai kurai no Kokuhaku Kudasai](https://myanimelist.net/manga/113523)
-	- Publication Status: Finished
-	- MAL ID: 113523
-	- Genre(s): Boys Love, Erotica, School, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Usagi Drop](https://myanimelist.net/manga/3468)
 	- Publication Status: Finished
 	- MAL ID: 3468
@@ -26010,11 +25580,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 107636
 	- Genre(s): Girls Love
 	- MRC Participants: [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
-- [Uso ka Makoto ka](https://myanimelist.net/manga/145101)
-	- Publication Status: Finished
-	- MAL ID: 145101
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Uso to Kiss wa Houkago ni](https://myanimelist.net/manga/136055)
 	- Publication Status: Finished
 	- MAL ID: 136055
@@ -26119,7 +25684,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 436
 	- Genre(s): Drama, Horror, Seinen, Supernatural
-	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Katsura](https://myanimelist.net/profile/Katsura), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Sethlans](https://myanimelist.net/profile/Sethlans), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Katsura](https://myanimelist.net/profile/Katsura), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Sethlans](https://myanimelist.net/profile/Sethlans)
 - [Uzumaki Tokubetsu-hen: Ginga](https://myanimelist.net/manga/119534)
 	- Publication Status: Finished
 	- MAL ID: 119534
@@ -26130,11 +25695,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 98759
 	- Genre(s): Comedy, Shounen, Supernatural
 	- MRC Participants: [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze)
-- [Vahlia no Hanamuko](https://myanimelist.net/manga/25148)
-	- Publication Status: Finished
-	- MAL ID: 25148
-	- Genre(s): Fantasy, Romance, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Vampire](https://myanimelist.net/manga/14304)
 	- Publication Status: Finished
 	- MAL ID: 14304
@@ -26254,17 +25814,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 26160
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [yube](https://myanimelist.net/profile/yube)
 - [Venus+](https://myanimelist.net/manga/2820)
 	- Publication Status: Finished
 	- MAL ID: 2820
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [hinagatari](https://myanimelist.net/profile/hinagatari)
-- [Vered no Rosemary](https://myanimelist.net/manga/75459)
-	- Publication Status: Finished
-	- MAL ID: 75459
-	- Genre(s): Fantasy, Romance, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Versailles no Bara](https://myanimelist.net/manga/660)
 	- Publication Status: Finished
 	- MAL ID: 660
@@ -26360,11 +25915,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 91581
 	- Genre(s): Boys Love, School
 	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska)
-- [Wakarazuya no Renai Houteishiki](https://myanimelist.net/manga/96493)
-	- Publication Status: Finished
-	- MAL ID: 96493
-	- Genre(s): Boys Love, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Wakatte Kudasai](https://myanimelist.net/manga/97571)
 	- Publication Status: Finished
 	- MAL ID: 97571
@@ -26475,11 +26025,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 118626
 	- Genre(s): Erotica, Girls Love, School
 	- MRC Participants: [alpacaqn](https://myanimelist.net/profile/alpacaqn)
-- [Warui Otona Mihon](https://myanimelist.net/manga/32263)
-	- Publication Status: Finished
-	- MAL ID: 32263
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Wasurerarenai](https://myanimelist.net/manga/2969)
 	- Publication Status: Finished
 	- MAL ID: 2969
@@ -26584,17 +26129,12 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 11734
 	- Genre(s): Drama, Music, Psychological, Romance, Seinen
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [CoolCatCraze](https://myanimelist.net/profile/CoolCatCraze), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [KingShadyH](https://myanimelist.net/profile/KingShadyH)
 - [Watashitachi no Tamura-kun](https://myanimelist.net/manga/6079)
 	- Publication Status: Finished
 	- MAL ID: 6079
 	- Genre(s): Comedy, Drama, Ecchi, Romance, School
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
-- [Watashitachi wa Koi wo Shiranai](https://myanimelist.net/manga/112261)
-	- Publication Status: Finished
-	- MAL ID: 112261
-	- Genre(s): Comedy, Romance, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Watashitachi, Oyakodon AV Totte Jorei shimashita♥](https://myanimelist.net/manga/174218)
 	- Publication Status: Finished
 	- MAL ID: 174218
@@ -26615,11 +26155,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 20025
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [YayakoChii](https://myanimelist.net/profile/YayakoChii)
-- [Ways of the Jogang Jicheo](https://myanimelist.net/manga/18749)
-	- Publication Status: Finished
-	- MAL ID: 18749
-	- Genre(s): Comedy, Romance
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Waza no Tabibito](https://myanimelist.net/manga/31215)
 	- Publication Status: Finished
 	- MAL ID: 31215
@@ -26650,6 +26185,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 9080
 	- Genre(s): Romance, Shoujo
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [yube](https://myanimelist.net/profile/yube)
+- [Weekend Citron](https://myanimelist.net/manga/140657)
+	- Publication Status: Finished
+	- MAL ID: 140657
+	- Genre(s): Boys Love
+	- MRC Participants: [StarInBetween](https://myanimelist.net/profile/StarInBetween)
 - [Weight Lovers](https://myanimelist.net/manga/71703)
 	- Publication Status: Finished
 	- MAL ID: 71703
@@ -26894,7 +26434,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 110957
 	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee)
 - [Yagyuu Hichou: Kaze no Shou](https://myanimelist.net/manga/5452)
 	- Publication Status: Finished
 	- MAL ID: 5452
@@ -26940,11 +26480,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 653
 	- Genre(s): Award Winning, Comedy, Drama, Fantasy, Gourmet, Parody, Shounen
 	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri)
-- [Yakudate Seishun](https://myanimelist.net/manga/2655)
-	- Publication Status: Finished
-	- MAL ID: 2655
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yakusoku no Neverland](https://myanimelist.net/manga/100128)
 	- Publication Status: Finished
 	- MAL ID: 100128
@@ -27040,11 +26575,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 43737
 	- Genre(s): Romance, School, Shoujo
 	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka)
-- [Yandere Hitotsu Yane no Shita](https://myanimelist.net/manga/106233)
-	- Publication Status: Finished
-	- MAL ID: 106233
-	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yandere Kanojo](https://myanimelist.net/manga/14504)
 	- Publication Status: Finished
 	- MAL ID: 14504
@@ -27110,11 +26640,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 9369
 	- Genre(s): Comedy, Girls Love
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
-- [Yarerumon nara Haramasete Miyagare: Yankee x Omegaverse](https://myanimelist.net/manga/146664)
-	- Publication Status: Finished
-	- MAL ID: 146664
-	- Genre(s): Boys Love, Delinquents, Erotica, School
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yaritaku Nattara Sokuhame ssho!](https://myanimelist.net/manga/92077)
 	- Publication Status: Finished
 	- MAL ID: 92077
@@ -27130,11 +26655,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 12981
 	- Genre(s): Mystery, Shoujo
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii)
-- [Yashio to Mikumo](https://myanimelist.net/manga/18726)
-	- Publication Status: Finished
-	- MAL ID: 18726
-	- Genre(s): Romance, Shoujo, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yasuraka Monsters](https://myanimelist.net/manga/109048)
 	- Publication Status: Finished
 	- MAL ID: 109048
@@ -27215,6 +26735,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 9856
 	- Genre(s): Action, Adventure, Drama, Historical, Romance, Seinen
 	- MRC Participants: [Ebo](https://myanimelist.net/profile/Ebo), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Plate](https://myanimelist.net/profile/Plate)
+- [Yoake ni Yamadori](https://myanimelist.net/manga/131842)
+	- Publication Status: Finished
+	- MAL ID: 131842
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [therandomgeek2](https://myanimelist.net/profile/therandomgeek2)
 - [Yobu Koe](https://myanimelist.net/manga/8198)
 	- Publication Status: Finished
 	- MAL ID: 8198
@@ -27295,16 +26820,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1830
 	- Genre(s): Comedy, Fantasy, Romance, Shoujo
 	- MRC Participants: [gingermoon](https://myanimelist.net/profile/gingermoon)
-- [Yoru Naku Suzume](https://myanimelist.net/manga/19239)
-	- Publication Status: Finished
-	- MAL ID: 19239
-	- Genre(s): Drama, Historical, Shounen, Supernatural
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
-- [Yoru ga Aketemo](https://myanimelist.net/manga/86785)
-	- Publication Status: Finished
-	- MAL ID: 86785
-	- Genre(s): Boys Love, Drama, Erotica, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yoru made Matenai.](https://myanimelist.net/manga/829)
 	- Publication Status: Finished
 	- MAL ID: 829
@@ -27385,11 +26900,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 15821
 	- Genre(s): Drama, Romance
 	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [claricespectro](https://myanimelist.net/profile/claricespectro)
-- [Yotteke! Otoko Mura](https://myanimelist.net/manga/19580)
-	- Publication Status: Finished
-	- MAL ID: 19580
-	- Genre(s): Comedy, Drama, Romance, School, Shoujo, Slice of Life
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Youkai Buster Murakami](https://myanimelist.net/manga/171182)
 	- Publication Status: Finished
 	- MAL ID: 171182
@@ -27875,11 +27385,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 134490
 	- Genre(s): Boys Love, Drama, Erotica, Psychological
 	- MRC Participants: [CMYK](https://myanimelist.net/profile/CMYK), [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
-- [Zetsubou no Trigger](https://myanimelist.net/manga/93325)
-	- Publication Status: Finished
-	- MAL ID: 93325
-	- Genre(s): Drama, Sci-Fi, Shounen
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Zettai Anzen Kamisori](https://myanimelist.net/manga/95978)
 	- Publication Status: Finished
 	- MAL ID: 95978
@@ -27890,11 +27395,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 64699
 	- Genre(s): Comedy, Crossdressing, Ecchi, School
 	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__)
-- [Zettai Fukujuu Idol](https://myanimelist.net/manga/88642)
-	- Publication Status: Finished
-	- MAL ID: 88642
-	- Genre(s): Comedy, School, Shoujo
-	- MRC Participants: [Stardew](https://myanimelist.net/profile/Stardew)
 - [Zettai Kakusei Tenshi Mistress☆Fortune](https://myanimelist.net/manga/7462)
 	- Publication Status: Finished
 	- MAL ID: 7462
@@ -28005,6 +27505,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 112476
 	- Genre(s): Action, Adventure, Historical, Mythology, Samurai, Shounen, Supernatural
 	- MRC Participants: [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
+- [Zutto Issho ni Ite ne](https://myanimelist.net/manga/180754)
+	- Publication Status: Finished
+	- MAL ID: 180754
+	- Genre(s): Hentai
+	- MRC Participants: [Shikae](https://myanimelist.net/profile/Shikae)
 - [Zutto Miteita Mono desu kara](https://myanimelist.net/manga/52429)
 	- Publication Status: Finished
 	- MAL ID: 52429
@@ -28079,7 +27584,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 8456
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Romance, Shounen, Video Game
-	- MRC Participants: [Lutetium](https://myanimelist.net/profile/Lutetium), [Stardew](https://myanimelist.net/profile/Stardew)
+	- MRC Participants: [Lutetium](https://myanimelist.net/profile/Lutetium)
 - [Éclair: Anata ni Hibiku Yuri Anthology](https://myanimelist.net/manga/103012)
 	- Publication Status: Finished
 	- MAL ID: 103012
@@ -28147,6 +27652,8 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Aur0ra](https://myanimelist.net/profile/Aur0ra) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72514972)
 - [AutumnBug](https://myanimelist.net/profile/AutumnBug) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498259)
 - [Awkward-Bean](https://myanimelist.net/profile/Awkward-Bean) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72595809)
+- [Aye-Caramba](https://myanimelist.net/profile/Aye-Caramba) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72693859)
+- [Ballestra](https://myanimelist.net/profile/Ballestra) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72698089)
 - [Baskemtball](https://myanimelist.net/profile/Baskemtball) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72504622)
 - [Baunilha_](https://myanimelist.net/profile/Baunilha_) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72633492)
 - [Bellumbern](https://myanimelist.net/profile/Bellumbern) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72625536)
@@ -28156,6 +27663,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Bri](https://myanimelist.net/profile/Bri) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72455497)
 - [calliopeskies](https://myanimelist.net/profile/calliopeskies) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72671443)
 - [Camchop04](https://myanimelist.net/profile/Camchop04) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72586386)
+- [Caramel-san](https://myanimelist.net/profile/Caramel-san) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72677183)
 - [Catexia](https://myanimelist.net/profile/Catexia) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72529427)
 - [catgwrl](https://myanimelist.net/profile/catgwrl) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72552045)
 - [cerealenthusiast](https://myanimelist.net/profile/cerealenthusiast) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72566295)
@@ -28175,6 +27683,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498723)
 - [Dhameer](https://myanimelist.net/profile/Dhameer) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72597856)
 - [Diaspore](https://myanimelist.net/profile/Diaspore) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498224)
+- [djindjo](https://myanimelist.net/profile/djindjo) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72675220)
 - [dogteeth](https://myanimelist.net/profile/dogteeth) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72499237)
 - [DoubleDee-](https://myanimelist.net/profile/DoubleDee-) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498702)
 - [Drackx](https://myanimelist.net/profile/Drackx) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72514892)
@@ -28237,7 +27746,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [lemonmon](https://myanimelist.net/profile/lemonmon) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72501640)
 - [letsgomeisei](https://myanimelist.net/profile/letsgomeisei) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72516127)
 - [Liaeves](https://myanimelist.net/profile/Liaeves) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72538298)
-- [lid_iii](https://myanimelist.net/profile/lid_iii) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72542415)
+- [lid_iii](https://myanimelist.net/profile/lid_iii) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72542424)
 - [lifeiscrazy](https://myanimelist.net/profile/lifeiscrazy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498265)
 - [lobofm](https://myanimelist.net/profile/lobofm) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72521550)
 - [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498672)
@@ -28318,6 +27827,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72573529)
 - [SherlyCat25](https://myanimelist.net/profile/SherlyCat25) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72500243)
 - [Shikae](https://myanimelist.net/profile/Shikae) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72499412)
+- [Shiroponta](https://myanimelist.net/profile/Shiroponta) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72676361)
 - [shoetax](https://myanimelist.net/profile/shoetax) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72501962)
 - [SilentSympathy](https://myanimelist.net/profile/SilentSympathy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72500298)
 - [skylucario](https://myanimelist.net/profile/skylucario) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72507483)
@@ -28327,6 +27837,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [soyamilktea](https://myanimelist.net/profile/soyamilktea) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72502535)
 - [SozinsDownfall](https://myanimelist.net/profile/SozinsDownfall) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72636292)
 - [Stardew](https://myanimelist.net/profile/Stardew) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72502872)
+- [StarInBetween](https://myanimelist.net/profile/StarInBetween) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72690127)
 - [starsandskies](https://myanimelist.net/profile/starsandskies) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72535020)
 - [subliminallydark](https://myanimelist.net/profile/subliminallydark) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72508411)
 - [SuicidalOtaku](https://myanimelist.net/profile/SuicidalOtaku) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498793)
@@ -28338,6 +27849,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [TheColdMayor](https://myanimelist.net/profile/TheColdMayor) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72511361)
 - [TheEdgelord](https://myanimelist.net/profile/TheEdgelord) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72504913)
 - [thegoishady](https://myanimelist.net/profile/thegoishady) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72527005)
+- [therandomgeek2](https://myanimelist.net/profile/therandomgeek2) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72679733)
 - [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72578602)
 - [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498406)
 - [Tsunamii_](https://myanimelist.net/profile/Tsunamii_) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498675)

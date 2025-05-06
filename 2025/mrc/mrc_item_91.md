@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of April 27, 2025:
+This list contains a list of manga eligible for the following challenge item, as of May 05, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -610,11 +610,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 94493
 	- Genre(s): Adventure, Drama, Fantasy, Historical, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Aitsu no Kanojo](https://myanimelist.net/manga/152219)
-	- Publication Status: Finished
-	- MAL ID: 152219
-	- Genre(s): Ecchi
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Aitsu to Lullaby](https://myanimelist.net/manga/28955)
 	- Publication Status: Finished
 	- MAL ID: 28955
@@ -2605,11 +2600,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 5590
 	- Genre(s): Adventure, Comedy, Sci-Fi, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Cardboard Bachelor](https://myanimelist.net/manga/162484)
-	- Publication Status: Currently Publishing
-	- MAL ID: 162484
-	- Genre(s): Comedy, Romance, Shounen
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Cardcaptor Sakura](https://myanimelist.net/manga/106)
 	- Publication Status: Finished
 	- MAL ID: 106
@@ -2643,7 +2633,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Centaur no Nayami](https://myanimelist.net/manga/43449)
 	- Publication Status: Currently Publishing
 	- MAL ID: 43449
-	- Genre(s): Fantasy, Seinen, Slice of Life, Supernatural
+	- Genre(s): Fantasy, School, Seinen, Slice of Life, Urban Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Cerberus](https://myanimelist.net/manga/20208)
 	- Publication Status: Finished
@@ -3384,6 +3374,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Currently Publishing
 	- MAL ID: 142589
 	- Genre(s): Adventure, Gourmet, Historical, Slice of Life
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Danball Bachelor](https://myanimelist.net/manga/162484)
+	- Publication Status: Finished
+	- MAL ID: 162484
+	- Genre(s): Comedy, Romance, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Danchigai](https://myanimelist.net/manga/86633)
 	- Publication Status: Finished
@@ -10310,11 +10305,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 61191
 	- Genre(s): Horror, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Kouiu no ga Ii](https://myanimelist.net/manga/125807)
-	- Publication Status: Finished
-	- MAL ID: 125807
-	- Genre(s): Comedy, Ecchi, Seinen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kouiu no ga Ii](https://myanimelist.net/manga/131446)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131446
@@ -13674,7 +13664,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 1514
 	- Genre(s): Drama, Psychological, Seinen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Nozomanu Fushi no Boukensha](https://myanimelist.net/manga/111225)
 	- Publication Status: Currently Publishing
 	- MAL ID: 111225
@@ -13770,11 +13760,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 153944
 	- Genre(s): Comedy, Gag Humor, Mythology, School, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Ogeha](https://myanimelist.net/manga/96456)
-	- Publication Status: Finished
-	- MAL ID: 96456
-	- Genre(s): Drama, Josei, Sci-Fi, Slice of Life
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ohayou Psychopath](https://myanimelist.net/manga/145159)
 	- Publication Status: Finished
 	- MAL ID: 145159
@@ -15580,11 +15565,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 14231
 	- Genre(s): Combat Sports, Shounen, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Ringo no Asobikata](https://myanimelist.net/manga/67597)
-	- Publication Status: Finished
-	- MAL ID: 67597
-	- Genre(s): Psychological, Romance, Shoujo
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Rinjin 13-gou](https://myanimelist.net/manga/23044)
 	- Publication Status: Finished
 	- MAL ID: 23044
@@ -15711,7 +15691,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Delinquents, Harem, Romance, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Rokurei: Tenseishi Rinne Kuyakusho Dairokkan-bu Joreika Katsudouki](https://myanimelist.net/manga/154103)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 154103
 	- Genre(s): Comedy, Mystery, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -16836,7 +16816,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Ecchi, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Sexaroid ni AI wo Komete](https://myanimelist.net/manga/153004)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 153004
 	- Genre(s): Comedy, Erotica, Sci-Fi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -17435,11 +17415,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 129279
 	- Genre(s): Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Shitabashiri](https://myanimelist.net/manga/125107)
-	- Publication Status: Finished
-	- MAL ID: 125107
-	- Genre(s): Comedy, Horror, Mystery, Shounen, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Shitsuji-sama no Okiniiri](https://myanimelist.net/manga/4470)
 	- Publication Status: Finished
 	- MAL ID: 4470
@@ -20045,11 +20020,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 158528
 	- Genre(s): Action, Drama, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Ultimate Antihero](https://myanimelist.net/manga/93322)
-	- Publication Status: Finished
-	- MAL ID: 93322
-	- Genre(s): Action, Fantasy
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ultra Heaven](https://myanimelist.net/manga/18570)
 	- Publication Status: On Hiatus
 	- MAL ID: 18570
@@ -20110,11 +20080,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 636
 	- Genre(s): Drama, Horror, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Umi-chan no Otomodachi](https://myanimelist.net/manga/8799)
-	- Publication Status: Finished
-	- MAL ID: 8799
-	- Genre(s): Comedy
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Umi-iro March](https://myanimelist.net/manga/118088)
 	- Publication Status: Finished
 	- MAL ID: 118088
