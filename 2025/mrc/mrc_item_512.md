@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of May 05, 2025:
+This list contains a list of manga eligible for the following challenge item, as of May 18, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1232,7 +1232,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Gore, Horror, Psychological, Suspense
 	- Staff Member(s): [AlexPaulLEWZ](https://myanimelist.net/profile/AlexPaulLEWZ/favorites)
 - [Queen's Quality](https://myanimelist.net/manga/90334)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 90334
 	- Genre(s): Romance, Shoujo, Supernatural
 	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [Meedor](https://myanimelist.net/profile/Meedor/favorites)
