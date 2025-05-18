@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of May 05, 2025:
+This list contains a list of anime eligible for the following challenge item, as of May 18, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -101,6 +101,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 21185
 	- Genre(s): School, Shounen, Sports
 	- Staff Member(s): [Nioxys](https://myanimelist.net/profile/Nioxys/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores)
+- [Bai She: Yuan Qi](https://myanimelist.net/anime/38740)
+	- Publication Status: Finished Airing
+	- MAL ID: 38740
+	- Genre(s): Action, Adventure, Drama, Fantasy, Martial Arts, Mythology, Romance
+	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Bakuten Shoot Beyblade](https://myanimelist.net/anime/288)
 	- Publication Status: Finished Airing
 	- MAL ID: 288
@@ -1026,11 +1031,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 1941
 	- Genre(s): Adventure, Drama, Sci-Fi, Space
 	- Staff Member(s): [Aidan](https://myanimelist.net/profile/Aidan/statistics/anime-scores)
-- [Mori no Densetsu](https://myanimelist.net/anime/2456)
-	- Publication Status: Finished Airing
-	- MAL ID: 2456
-	- Genre(s): Adventure, Award Winning, Drama, Fantasy, Music
-	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores)
 - [Mou Ippon!](https://myanimelist.net/anime/49376)
 	- Publication Status: Finished Airing
 	- MAL ID: 49376
@@ -1226,6 +1226,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 2547
 	- Genre(s): Drama, Historical, School
 	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/statistics/anime-scores)
+- [Project Sekai Movie: Kowareta Sekai to Utaenai Miku](https://myanimelist.net/anime/59419)
+	- Publication Status: Finished Airing
+	- MAL ID: 59419
+	- Genre(s): Music
+	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores)
 - [Raise wa Tanin ga Ii](https://myanimelist.net/anime/56964)
 	- Publication Status: Finished Airing
 	- MAL ID: 56964
@@ -1311,6 +1316,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 7588
 	- Genre(s): Adult Cast, Drama, Historical, Samurai, Seinen
 	- Staff Member(s): [Aiimee](https://myanimelist.net/profile/Aiimee/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores), [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
+- [Sasurai no Shoujo Nell](https://myanimelist.net/anime/3877)
+	- Publication Status: Finished Airing
+	- MAL ID: 3877
+	- Genre(s): Adventure, Historical
+	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores)
 - [Seikaisuru Kado: Ninovo](https://myanimelist.net/anime/35369)
 	- Publication Status: Finished Airing
 	- MAL ID: 35369
@@ -1511,11 +1521,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 56840
 	- Genre(s): Action, Adventure, Historical, Sci-Fi, Time Travel
 	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
-- [Taishou Yakyuu Musume.](https://myanimelist.net/anime/5141)
-	- Publication Status: Finished Airing
-	- MAL ID: 5141
-	- Genre(s): Comedy, Historical, School, Sports, Team Sports
-	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores)
 - [Taiyou no Ko Esteban](https://myanimelist.net/anime/1279)
 	- Publication Status: Finished Airing
 	- MAL ID: 1279
@@ -1766,11 +1771,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 1562
 	- Genre(s): Comedy, Reverse Harem, Shoujo
 	- Staff Member(s): [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/statistics/anime-scores), [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores)
-- [Yaneura no Rudger](https://myanimelist.net/anime/50553)
-	- Publication Status: Finished Airing
-	- MAL ID: 50553
-	- Genre(s): Fantasy
-	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Yasashii Lion](https://myanimelist.net/anime/12789)
 	- Publication Status: Finished Airing
 	- MAL ID: 12789

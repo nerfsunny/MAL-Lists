@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of May 05, 2025:
+This list contains a list of anime eligible for the following challenge item, as of May 18, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1638,17 +1638,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Darker than Black: Kuro no Keiyakusha](https://myanimelist.net/anime/2025)
 	- Publication Status: Finished Airing
 	- MAL ID: 2025
-	- Genre(s): Action, Mystery, Sci-Fi, Super Power
+	- Genre(s): Action, Mystery, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita](https://myanimelist.net/anime/4182)
 	- Publication Status: Finished Airing
 	- MAL ID: 4182
-	- Genre(s): Comedy, Parody, Sci-Fi
+	- Genre(s): Comedy, Parody
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Darker than Black: Ryuusei no Gemini](https://myanimelist.net/anime/6573)
 	- Publication Status: Finished Airing
 	- MAL ID: 6573
-	- Genre(s): Action, Mystery, Sci-Fi, Super Power
+	- Genre(s): Action, Mystery, Super Power
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Darling in the FranXX](https://myanimelist.net/anime/35849)
 	- Publication Status: Finished Airing
@@ -1764,6 +1764,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 34349
 	- Genre(s): School, Shounen, Sports, Team Sports
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Digimon Adventure](https://myanimelist.net/anime/552)
+	- Publication Status: Finished Airing
+	- MAL ID: 552
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Isekai, Kids
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Digimon Adventure 02](https://myanimelist.net/anime/1313)
 	- Publication Status: Finished Airing
@@ -2223,7 +2228,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Flip Flappers](https://myanimelist.net/anime/32979)
 	- Publication Status: Finished Airing
 	- MAL ID: 32979
-	- Genre(s): Adventure, Comedy, Fantasy, Sci-Fi
+	- Genre(s): Adventure, Comedy, Mahou Shoujo, Sci-Fi
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Flying Witch](https://myanimelist.net/anime/31376)
 	- Publication Status: Finished Airing
@@ -3613,7 +3618,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Honobono Log](https://myanimelist.net/anime/33241)
 	- Publication Status: Finished Airing
 	- MAL ID: 33241
-	- Genre(s): Iyashikei, Romance, Slice of Life
+	- Genre(s): Iyashikei, Slice of Life
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen](https://myanimelist.net/anime/39468)
 	- Publication Status: Finished Airing
@@ -4403,7 +4408,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930)
 	- Publication Status: Finished Airing
 	- MAL ID: 41930
-	- Genre(s): Drama, Supernatural
+	- Genre(s): Drama, Super Power
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kamonohashi Ron no Kindan Suiri](https://myanimelist.net/anime/53879)
 	- Publication Status: Finished Airing
@@ -6668,7 +6673,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Natsu e no Tunnel, Sayonara no Deguchi](https://myanimelist.net/anime/50593)
 	- Publication Status: Finished Airing
 	- MAL ID: 50593
-	- Genre(s): Drama, Mystery, Romance, Sci-Fi
+	- Genre(s): Drama, Mystery, Romance, Supernatural
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Natsu-iro Egao de 1, 2, Jump!](https://myanimelist.net/anime/11033)
 	- Publication Status: Finished Airing
@@ -7378,6 +7383,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Patalliro!](https://myanimelist.net/anime/2835)
 	- Publication Status: Finished Airing
 	- MAL ID: 2835
+	- Genre(s): Adventure, Boys Love, Comedy, Shoujo
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Patalliro! Stardust Keikaku](https://myanimelist.net/anime/12663)
+	- Publication Status: Finished Airing
+	- MAL ID: 12663
 	- Genre(s): Adventure, Boys Love, Comedy, Shoujo
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Penguin Highway](https://myanimelist.net/anime/37407)
@@ -8865,6 +8875,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 33834
 	- Genre(s): Action, Adventure, Erotica, Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Sinbi Apartment: Ghost Ball Bimil](https://myanimelist.net/anime/38923)
+	- Publication Status: Finished Airing
+	- MAL ID: 38923
+	- Genre(s): Kids, Mystery, Supernatural
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Sirius](https://myanimelist.net/anime/37569)
 	- Publication Status: Finished Airing
 	- MAL ID: 37569
@@ -9348,7 +9363,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tamako Love Story](https://myanimelist.net/anime/21647)
 	- Publication Status: Finished Airing
 	- MAL ID: 21647
-	- Genre(s): Award Winning, Romance, Slice of Life
+	- Genre(s): Award Winning, Romance
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Tamayura](https://myanimelist.net/anime/9055)
 	- Publication Status: Finished Airing
@@ -9753,6 +9768,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tokyo Revengers: Seiya Kessen-hen](https://myanimelist.net/anime/50608)
 	- Publication Status: Finished Airing
 	- MAL ID: 50608
+	- Genre(s): Action, Delinquents, Drama, Shounen, Time Travel
+	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Tokyo Revengers: Tenjiku-hen](https://myanimelist.net/anime/54918)
+	- Publication Status: Finished Airing
+	- MAL ID: 54918
 	- Genre(s): Action, Delinquents, Drama, Shounen, Time Travel
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Tonari no Kaibutsu-kun](https://myanimelist.net/anime/14227)
