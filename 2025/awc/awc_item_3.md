@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of May 18, 2025:
+This list contains a list of anime eligible for the following challenge item, as of May 25, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -725,6 +725,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1186
 	- Genre(s): Adventure, School, Sci-Fi, Sports
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Be Authentic](https://myanimelist.net/anime/54046)
+	- Publication Status: Finished Airing
+	- MAL ID: 54046
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Beastars](https://myanimelist.net/anime/39195)
 	- Publication Status: Finished Airing
 	- MAL ID: 39195
@@ -914,7 +919,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 54865
 	- Genre(s): Shounen, Sports, Team Sports
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Blue Lock: Episode Nagi](https://myanimelist.net/anime/54866)
 	- Publication Status: Finished Airing
 	- MAL ID: 54866
@@ -2125,6 +2130,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 3167
 	- Genre(s): Sci-Fi, Slice of Life
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Evolution](https://myanimelist.net/anime/56682)
+	- Publication Status: Finished Airing
+	- MAL ID: 56682
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Eyeshield 21](https://myanimelist.net/anime/15)
 	- Publication Status: Finished Airing
 	- MAL ID: 15
@@ -4023,7 +4033,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Jie Yao](https://myanimelist.net/anime/41051)
 	- Publication Status: Finished Airing
 	- MAL ID: 41051
-	- Genre(s): Adult Cast, Boys Love, Comedy
+	- Genre(s): Adult Cast, Boys Love, Slice of Life
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Jigokuraku](https://myanimelist.net/anime/46569)
 	- Publication Status: Finished Airing
@@ -4913,7 +4923,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kobato.](https://myanimelist.net/anime/5678)
 	- Publication Status: Finished Airing
 	- MAL ID: 5678
-	- Genre(s): Adventure, Fantasy, Romance
+	- Genre(s): Drama, Romance, Supernatural
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206)
 	- Publication Status: Finished Airing
@@ -9530,6 +9540,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 885
 	- Genre(s): Avant Garde, Drama, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Tensui no Sakuna-hime](https://myanimelist.net/anime/58357)
+	- Publication Status: Finished Airing
+	- MAL ID: 58357
+	- Genre(s): Action, Fantasy, Mythology
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/41488)
 	- Publication Status: Finished Airing
 	- MAL ID: 41488
