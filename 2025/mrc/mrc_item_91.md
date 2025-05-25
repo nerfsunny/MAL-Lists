@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of May 18, 2025:
+This list contains a list of manga eligible for the following challenge item, as of May 25, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -8860,11 +8860,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 75291
 	- Genre(s): Drama, Romance, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Kanojo wa Mizumizushii](https://myanimelist.net/manga/133003)
-	- Publication Status: Finished
-	- MAL ID: 133003
-	- Genre(s): Comedy, Romance, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kanojo wa Rokurokubi](https://myanimelist.net/manga/90800)
 	- Publication Status: Finished
 	- MAL ID: 90800
@@ -13830,11 +13825,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 111136
 	- Genre(s): Comedy, Ecchi, Harem, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Ojousama to Zubora Meshi](https://myanimelist.net/manga/152420)
-	- Publication Status: Finished
-	- MAL ID: 152420
-	- Genre(s): Gourmet, School, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ojousama wa Oyome-sama.](https://myanimelist.net/manga/4192)
 	- Publication Status: Finished
 	- MAL ID: 4192
@@ -20640,11 +20630,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 129361
 	- Genre(s): Comedy, Fantasy, Girls Love, School, Villainess
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Watashi no Otto wa Reitouko ni Nemutteiru](https://myanimelist.net/manga/143854)
-	- Publication Status: Finished
-	- MAL ID: 143854
-	- Genre(s): Drama, Horror, Mystery, Suspense
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Watashi no Sensei wa Do S de Ecchi na Kedamono](https://myanimelist.net/manga/123199)
 	- Publication Status: Finished
 	- MAL ID: 123199
@@ -21805,11 +21790,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 39
 	- Genre(s): Action, Adventure, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Zombie Shoujo no Fujimi-san](https://myanimelist.net/manga/126478)
-	- Publication Status: Finished
-	- MAL ID: 126478
-	- Genre(s): Comedy, Romance, School, Seinen, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Zombie Shounen to Satsujinki Shoujo](https://myanimelist.net/manga/110921)
 	- Publication Status: Finished
 	- MAL ID: 110921
