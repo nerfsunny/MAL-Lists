@@ -4,7 +4,7 @@ title: AWC2025 72
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of April 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 03, 2025:
 
 (72) Watch an anime with 8 or more main characters listed on MAL (can have any number of supporting characters)
 
@@ -1657,6 +1657,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 28817
 	- Genre(s): Action, Comedy, Girls Love, School, Super Power, Visual Arts
+- [Miru: Watashi no Mirai](https://myanimelist.net/anime/55727)
+	- Publication Status: Finished Airing
+	- MAL ID: 55727
+	- Genre(s): Sci-Fi
 - [Moetan Specials](https://myanimelist.net/anime/4421)
 	- Publication Status: Finished Airing
 	- MAL ID: 4421
@@ -1677,6 +1681,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 5343
 	- Genre(s): Action, Adventure, Comedy, Ecchi, Gag Humor, Parody, Seinen
+- [Monpoke](https://myanimelist.net/anime/60537)
+	- Publication Status: Finished Airing
+	- MAL ID: 60537
+	- Genre(s): Comedy, Kids
 - [Monster Farm: Enbanseki no Himitsu](https://myanimelist.net/anime/1469)
 	- Publication Status: Finished Airing
 	- MAL ID: 1469
@@ -1816,7 +1824,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Occultic;Nine](https://myanimelist.net/anime/32962)
 	- Publication Status: Finished Airing
 	- MAL ID: 32962
-	- Genre(s): Mystery, Sci-Fi
+	- Genre(s): Mystery
 - [Ojamajo Doremi Na-i-sho](https://myanimelist.net/anime/1376)
 	- Publication Status: Finished Airing
 	- MAL ID: 1376
@@ -2277,6 +2285,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 3772
 	- Genre(s): Mecha, Sci-Fi
+- [Saimin Seishidou](https://myanimelist.net/anime/38470)
+	- Publication Status: Finished Airing
+	- MAL ID: 38470
+	- Genre(s): Hentai
 - [Saint Beast: Ikusen no Hiru to Yoru-hen](https://myanimelist.net/anime/3004)
 	- Publication Status: Finished Airing
 	- MAL ID: 3004
@@ -3049,6 +3061,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 39942
 	- Genre(s): Anthropomorphic, Pets, Slice of Life
+- [Umayuru: Pretty Gray](https://myanimelist.net/anime/61579)
+	- Publication Status: Finished Airing
+	- MAL ID: 61579
+	- Genre(s): Anthropomorphic, Comedy
 - [Umineko no Naku Koro ni](https://myanimelist.net/anime/4896)
 	- Publication Status: Finished Airing
 	- MAL ID: 4896

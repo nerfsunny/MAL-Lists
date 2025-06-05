@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of May 25, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 01, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -969,7 +969,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 41587
 	- Genre(s): Action, School, Shounen, Super Power
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Boku no Hero Academia 6th Season](https://myanimelist.net/anime/49918)
 	- Publication Status: Finished Airing
 	- MAL ID: 49918
@@ -5660,6 +5660,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 50709
 	- Genre(s): Action
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Lycoris Recoil: Friends Are Thieves of Time.](https://myanimelist.net/anime/59369)
+	- Publication Status: Finished Airing
+	- MAL ID: 59369
+	- Genre(s): Slice of Life
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [MEMORiES MELODiES](https://myanimelist.net/anime/32030)
 	- Publication Status: Finished Airing
 	- MAL ID: 32030
