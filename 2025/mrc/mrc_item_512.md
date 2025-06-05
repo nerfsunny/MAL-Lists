@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of May 25, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 01, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1176,6 +1176,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 35573
 	- Genre(s): Drama, Love Polygon, Romance, School, Sci-Fi, Shoujo, Time Travel
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites), [CukieMunster](https://myanimelist.net/profile/CukieMunster/favorites), [LiIlie](https://myanimelist.net/profile/LiIlie/favorites)
+- [Otonari ni Ginga](https://myanimelist.net/manga/130641)
+	- Publication Status: Finished
+	- MAL ID: 130641
+	- Genre(s): Comedy, Romance, Seinen, Supernatural
+	- Staff Member(s): [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Otoyomegatari](https://myanimelist.net/manga/11514)
 	- Publication Status: Currently Publishing
 	- MAL ID: 11514

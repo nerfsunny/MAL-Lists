@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of May 25, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 01, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -3465,6 +3465,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 130755
 	- Genre(s): Award Winning, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Dasei 67 Percent](https://myanimelist.net/manga/90498)
+	- Publication Status: Finished
+	- MAL ID: 90498
+	- Genre(s): Comedy, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Date Masamune](https://myanimelist.net/manga/36833)
 	- Publication Status: Finished
 	- MAL ID: 36833
@@ -4255,6 +4260,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 103314
 	- Genre(s): Comedy, Ecchi, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Elfen Lied](https://myanimelist.net/manga/933)
+	- Publication Status: Finished
+	- MAL ID: 933
+	- Genre(s): Action, Drama, Gore, Horror, Psychological, Romance, Seinen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Emblem Take 2](https://myanimelist.net/manga/86734)
 	- Publication Status: Finished
 	- MAL ID: 86734
@@ -11590,6 +11600,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 106204
 	- Genre(s): Action, Adult Cast, Fantasy, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Majo to Youhei](https://myanimelist.net/manga/166626)
+	- Publication Status: Currently Publishing
+	- MAL ID: 166626
+	- Genre(s): Action, Fantasy
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Majo-senpai Nippou](https://myanimelist.net/manga/116957)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116957
@@ -12118,7 +12133,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mieruko-chan](https://myanimelist.net/manga/116790)
 	- Publication Status: Currently Publishing
 	- MAL ID: 116790
-	- Genre(s): Comedy, Horror, Supernatural
+	- Genre(s): Comedy, Horror
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Migi to Dali](https://myanimelist.net/manga/107774)
 	- Publication Status: Finished
@@ -13310,16 +13325,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 105399
 	- Genre(s): Comedy, Fantasy, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Nidome no Jinsei Animator](https://myanimelist.net/manga/118284)
+	- Publication Status: Finished
+	- MAL ID: 118284
+	- Genre(s): Drama, Otaku Culture, School, Time Travel
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nidome no Jinsei wo Isekai de](https://myanimelist.net/manga/102653)
 	- Publication Status: Finished
 	- MAL ID: 102653
 	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Nidome no Jinsei: Animator](https://myanimelist.net/manga/118284)
-	- Publication Status: Currently Publishing
-	- MAL ID: 118284
-	- Genre(s): School, Supernatural
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nidome no Natsu, Nidoto Aenai Kimi](https://myanimelist.net/manga/103656)
 	- Publication Status: Finished
 	- MAL ID: 103656
@@ -13959,6 +13974,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 115133
 	- Genre(s): Comedy, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Omori](https://myanimelist.net/manga/164732)
+	- Publication Status: Currently Publishing
+	- MAL ID: 164732
+	- Genre(s): Horror, Psychological, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Omotteta no to Chigau Ano Ko no Hanashi](https://myanimelist.net/manga/173349)
+	- Publication Status: Finished
+	- MAL ID: 173349
+	- Genre(s): Girls Love, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Onanie Master Kurosawa](https://myanimelist.net/manga/8967)
 	- Publication Status: Finished
@@ -16419,6 +16444,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 20188
 	- Genre(s): Boys Love, Crossdressing, Romance, School, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Sazanami-chou to, Hazama no Ko](https://myanimelist.net/manga/173404)
+	- Publication Status: Currently Publishing
+	- MAL ID: 173404
+	- Genre(s): Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Scandala](https://myanimelist.net/manga/163699)
 	- Publication Status: Currently Publishing
