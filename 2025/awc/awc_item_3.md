@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 01, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 08, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -405,6 +405,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 11737
 	- Genre(s): Action, Mythology, School, Shounen, Supernatural
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Ao no Exorcist: Kyoto Fujouou-hen](https://myanimelist.net/anime/33506)
+	- Publication Status: Finished Airing
+	- MAL ID: 33506
+	- Genre(s): Action, Mythology, School, Shounen, Supernatural
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Ao no Hako](https://myanimelist.net/anime/57181)
 	- Publication Status: Finished Airing
 	- MAL ID: 57181
@@ -974,12 +979,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 49918
 	- Genre(s): Action, School, Shounen, Super Power
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Boku no Hero Academia 7th Season](https://myanimelist.net/anime/54789)
 	- Publication Status: Finished Airing
 	- MAL ID: 54789
 	- Genre(s): Action, School, Shounen, Super Power
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Boku no Hero Academia the Movie 1: Futari no Hero](https://myanimelist.net/anime/36896)
 	- Publication Status: Finished Airing
 	- MAL ID: 36896
@@ -1460,6 +1465,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 34167
 	- Genre(s): Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Cocoon: Aru Natsu no Shoujo-tachi yori](https://myanimelist.net/anime/55779)
+	- Publication Status: Finished Airing
+	- MAL ID: 55779
+	- Genre(s): Drama, Historical, Josei
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita](https://myanimelist.net/anime/8888)
 	- Publication Status: Finished Airing
 	- MAL ID: 8888
@@ -2580,6 +2590,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2775
 	- Genre(s): Action, Gore, Horror, Mecha, Psychological, Sci-Fi, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Gensou Mangekyou: The Memories of Phantasm](https://myanimelist.net/anime/55315)
+	- Publication Status: Finished Airing
+	- MAL ID: 55315
+	- Genre(s): Fantasy
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Gensoumaden Saiyuuki](https://myanimelist.net/anime/129)
 	- Publication Status: Finished Airing
 	- MAL ID: 129
@@ -4745,6 +4760,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40456
 	- Genre(s): Action, Historical, Shounen, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Kimetsu no Yaiba x MLB](https://myanimelist.net/anime/61179)
+	- Publication Status: Finished Airing
+	- MAL ID: 61179
+	- Genre(s): Sports, Team Sports
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime/55701)
 	- Publication Status: Finished Airing
 	- MAL ID: 55701
@@ -5043,7 +5063,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kono Bijutsu-bu ni wa Mondai ga Aru!](https://myanimelist.net/anime/31952)
 	- Publication Status: Finished Airing
 	- MAL ID: 31952
-	- Genre(s): Comedy, Love Status Quo, Romance, School, Seinen, Visual Arts
+	- Genre(s): Comedy, Romance, School, Seinen, Visual Arts
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kono Danshi, Mahou ga Oshigoto desu.](https://myanimelist.net/anime/31815)
 	- Publication Status: Finished Airing
@@ -7970,6 +7990,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 42923
 	- Genre(s): Racing, Sports
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [SK∞ OVA: Extra Part](https://myanimelist.net/anime/49363)
+	- Publication Status: Finished Airing
+	- MAL ID: 49363
+	- Genre(s): Slice of Life
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [SK∞: Crazy Rock Jam](https://myanimelist.net/anime/48456)
 	- Publication Status: Finished Airing
 	- MAL ID: 48456
@@ -8243,17 +8268,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Seikon no Qwaser](https://myanimelist.net/anime/6500)
 	- Publication Status: Finished Airing
 	- MAL ID: 6500
-	- Genre(s): Action, Ecchi, Gore, Harem, School, Seinen, Super Power
+	- Genre(s): Action, Ecchi, Fantasy, Harem, School, Seinen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Seikon no Qwaser II](https://myanimelist.net/anime/10073)
 	- Publication Status: Finished Airing
 	- MAL ID: 10073
-	- Genre(s): Action, Ecchi, Gore, Harem, School, Seinen, Super Power
+	- Genre(s): Action, Ecchi, Fantasy, Harem, School, Seinen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Seikon no Qwaser: Jotei no Shouzou](https://myanimelist.net/anime/9202)
 	- Publication Status: Finished Airing
 	- MAL ID: 9202
-	- Genre(s): Action, Ecchi, Gore, Harem, School, Seinen, Super Power
+	- Genre(s): Action, Ecchi, Fantasy, Harem, School, Seinen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Seirei no Moribito](https://myanimelist.net/anime/1827)
 	- Publication Status: Finished Airing
@@ -9400,6 +9425,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 32093
 	- Genre(s): Iyashikei, School, Slice of Life
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee), [TieboRiri](https://myanimelist.net/profile/TieboRiri)
+- [Tanoshii Muumin Ikka](https://myanimelist.net/anime/2150)
+	- Publication Status: Finished Airing
+	- MAL ID: 2150
+	- Genre(s): Adventure, Fantasy, Iyashikei, Kids, Slice of Life
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Tari Tari](https://myanimelist.net/anime/13333)
 	- Publication Status: Finished Airing
 	- MAL ID: 13333
@@ -10429,6 +10459,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 38250
 	- Genre(s): Boys Love, Comedy, Drama, School, Sci-Fi
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Xiao Lu He Xiao Lan 2nd Season](https://myanimelist.net/anime/53448)
+	- Publication Status: Finished Airing
+	- MAL ID: 53448
+	- Genre(s): Boys Love, Comedy, Drama, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Yahari Ore no Seishun Love Comedy wa Machigatteiru.](https://myanimelist.net/anime/14813)
 	- Publication Status: Finished Airing
