@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 08, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -2986,7 +2986,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Erotica, Girls Love, School
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [City](https://myanimelist.net/manga/101554)
-	- Publication Status: Finished
+	- Publication Status: Currently Publishing
 	- MAL ID: 101554
 	- Genre(s): Comedy, Gag Humor, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -3038,7 +3038,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Code:Breaker](https://myanimelist.net/manga/8341)
 	- Publication Status: Finished
 	- MAL ID: 8341
-	- Genre(s): Action, Comedy, Drama, Mystery, Romance, School, Shounen, Super Power, Supernatural
+	- Genre(s): Action, School, Shounen, Super Power
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Coelacanth](https://myanimelist.net/manga/9777)
 	- Publication Status: Finished
@@ -3113,7 +3113,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Corpse Party: Book of Shadows](https://myanimelist.net/manga/34571)
 	- Publication Status: Finished
 	- MAL ID: 34571
-	- Genre(s): Horror, Mystery, Psychological, Seinen, Supernatural
+	- Genre(s): Horror, Mystery, Psychological, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Corpse Party: Sachiko no Renai Yuugi♥ - Hysteric Birthday 2U](https://myanimelist.net/manga/43937)
 	- Publication Status: Finished
@@ -4026,7 +4026,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Adventure, Fantasy, Shounen
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Dragon Quest: Dai no Daibouken - Xross Blade](https://myanimelist.net/manga/161505)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 161505
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -5923,7 +5923,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hamatora The Comic](https://myanimelist.net/manga/60881)
 	- Publication Status: Finished
 	- MAL ID: 60881
-	- Genre(s): Action, Seinen, Supernatural
+	- Genre(s): Action, Seinen, Super Power
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hameln no Violin-hiki](https://myanimelist.net/manga/706)
 	- Publication Status: Finished
@@ -8391,7 +8391,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Adventure, Comedy, Fantasy, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Juushin no Katana](https://myanimelist.net/manga/164151)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 164151
 	- Genre(s): Action, Fantasy, Samurai, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -9396,7 +9396,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Ecchi, Gore, Sci-Fi, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Killing Line](https://myanimelist.net/manga/159406)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 159406
 	- Genre(s): Drama, Josei, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -10101,7 +10101,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Adventure, Fantasy, Shoujo, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Komori-san wa Kotowarenai!](https://myanimelist.net/manga/65317)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 65317
 	- Genre(s): Comedy, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -12698,7 +12698,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Munou na Nana](https://myanimelist.net/manga/107500)
 	- Publication Status: Currently Publishing
 	- MAL ID: 107500
-	- Genre(s): Psychological, Shounen, Supernatural, Suspense
+	- Genre(s): Psychological, Shounen, Super Power, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Munou no Hito](https://myanimelist.net/manga/19969)
 	- Publication Status: Finished
@@ -13578,7 +13578,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nobunaga no Chef](https://myanimelist.net/manga/49293)
 	- Publication Status: Finished
 	- MAL ID: 49293
-	- Genre(s): Comedy, Gourmet, Historical, Seinen, Time Travel
+	- Genre(s): Gourmet, Historical, Seinen, Time Travel
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nodame Cantabile](https://myanimelist.net/manga/419)
 	- Publication Status: Finished
@@ -15056,7 +15056,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Adventure, High Stakes Game, Psychological, Romance, Sci-Fi, Shounen, Strategy Game, Super Power, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Pujo to Yajuu: JK ga Heel Wrestler ni Koishita Hanashi](https://myanimelist.net/manga/120698)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 120698
 	- Genre(s): Comedy, Romance, Shoujo
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
@@ -17151,7 +17151,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Slice of Life, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Shinigami Ramen](https://myanimelist.net/manga/153014)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 153014
 	- Genre(s): Gourmet, Shounen, Slice of Life, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -18236,7 +18236,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Subete no Jinrui wo Hakai suru. Sorera wa Saisei Dekinai.](https://myanimelist.net/manga/116539)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 116539
 	- Genre(s): School, Shounen, Strategy Game
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -20845,11 +20845,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 1625
 	- Genre(s): Action, Adventure, Fantasy, Sci-Fi, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [XO Sisters](https://myanimelist.net/manga/27629)
-	- Publication Status: Finished
-	- MAL ID: 27629
-	- Genre(s): Action, Comedy, Fantasy, Harem, Martial Arts, Romance, School, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Xenos](https://myanimelist.net/manga/105793)
 	- Publication Status: Finished
 	- MAL ID: 105793
@@ -21848,7 +21843,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [[Oshi no Ko]](https://myanimelist.net/manga/126146)
 	- Publication Status: Finished
 	- MAL ID: 126146
-	- Genre(s): Drama, Reincarnation, Seinen, Showbiz, Supernatural
+	- Genre(s): Drama, Reincarnation, Seinen, Showbiz
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [[Rouhou] Ore no Iinazuke ni Natta Jimiko, Ie dewa Kawaii shika Nai.](https://myanimelist.net/manga/144240)
 	- Publication Status: Finished

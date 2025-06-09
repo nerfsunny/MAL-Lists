@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 08, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -341,11 +341,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 148401
 	- Genre(s): Drama, Psychological, Supernatural
 	- Staff Member(s): [danyelll](https://myanimelist.net/profile/danyelll/favorites)
-- [Debut or Die!](https://myanimelist.net/manga/151061)
-	- Publication Status: Currently Publishing
-	- MAL ID: 151061
-	- Genre(s): Drama, Idols (Male), Psychological, Reincarnation, Time Travel
-	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Define the Relationship](https://myanimelist.net/manga/162525)
 	- Publication Status: Finished
 	- MAL ID: 162525
@@ -675,7 +670,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 113138
 	- Genre(s): Action, School, Shounen, Supernatural
-	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
 - [Junai Tokkou Taichou!](https://myanimelist.net/manga/381)
 	- Publication Status: Finished
 	- MAL ID: 381
@@ -1706,6 +1701,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 25250
 	- Genre(s): Comedy, Ecchi, Horror, Seinen
 	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
+- [Wan Zha Chao Huang](https://myanimelist.net/manga/136866)
+	- Publication Status: Currently Publishing
+	- MAL ID: 136866
+	- Genre(s): Drama, Fantasy, Isekai
+	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!](https://myanimelist.net/manga/28533)
 	- Publication Status: Currently Publishing
 	- MAL ID: 28533
@@ -1819,7 +1819,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [[Oshi no Ko]](https://myanimelist.net/manga/126146)
 	- Publication Status: Finished
 	- MAL ID: 126146
-	- Genre(s): Drama, Reincarnation, Seinen, Showbiz, Supernatural
+	- Genre(s): Drama, Reincarnation, Seinen, Showbiz
 	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
 
 ## <a name="mal_staff">Active MAL Staff</a>
