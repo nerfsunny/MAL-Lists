@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 08, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 15, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -437,7 +437,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Action, Adventure, Award Winning, Drama, Fantasy, Military, Shounen
 	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
 - [Fumetsu no Anata e](https://myanimelist.net/manga/102343)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 102343
 	- Genre(s): Adventure, Award Winning, Drama, Shounen, Supernatural
 	- Staff Member(s): [Mythologically](https://myanimelist.net/profile/Mythologically/favorites)

@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 08, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 15, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -4661,7 +4661,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, School, Shounen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Fumetsu no Anata e](https://myanimelist.net/manga/102343)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 102343
 	- Genre(s): Adventure, Award Winning, Drama, Shounen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -9431,7 +9431,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Psychological, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kimi ga Daredemo Aishiteru](https://myanimelist.net/manga/159408)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 159408
 	- Genre(s): Adult Cast, Drama, Josei, Romance, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
