@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 08, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 15, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -783,22 +783,22 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Binan Koukou Chikyuu Bouei-bu Happy Kiss!](https://myanimelist.net/anime/37036)
 	- Publication Status: Finished Airing
 	- MAL ID: 37036
-	- Genre(s): Comedy, Parody, School
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Binan Koukou Chikyuu Bouei-bu LOVE!](https://myanimelist.net/anime/27727)
 	- Publication Status: Finished Airing
 	- MAL ID: 27727
-	- Genre(s): Comedy, Parody, School
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Binan Koukou Chikyuu Bouei-bu LOVE! LOVE!](https://myanimelist.net/anime/31417)
 	- Publication Status: Finished Airing
 	- MAL ID: 31417
-	- Genre(s): Comedy, Parody, School
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Binan Koukou Chikyuu Bouei-bu LOVE! LOVE! LOVE!](https://myanimelist.net/anime/35182)
 	- Publication Status: Finished Airing
 	- MAL ID: 35182
-	- Genre(s): Comedy, Parody, School
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Binbougami ga!](https://myanimelist.net/anime/13535)
 	- Publication Status: Finished Airing
@@ -4485,6 +4485,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 7411
 	- Genre(s): Harem, Hentai
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Kanojo, Okarishimasu 3rd Season](https://myanimelist.net/anime/53050)
+	- Publication Status: Finished Airing
+	- MAL ID: 53050
+	- Genre(s): Adult Cast, Comedy, Harem, Romance, Shounen
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kanon (2006)](https://myanimelist.net/anime/1530)
 	- Publication Status: Finished Airing
 	- MAL ID: 1530
@@ -5684,7 +5689,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 59369
 	- Genre(s): Slice of Life
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [MEMORiES MELODiES](https://myanimelist.net/anime/32030)
 	- Publication Status: Finished Airing
 	- MAL ID: 32030
@@ -8803,7 +8808,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838)
 	- Publication Status: Finished Airing
 	- MAL ID: 35838
-	- Genre(s): Adventure, CGDCT, Iyashikei, Mystery, Sci-Fi, Slice of Life
+	- Genre(s): Adventure, Iyashikei, Mystery, Sci-Fi, Slice of Life
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Shoujo☆Kageki Revue Starlight Movie](https://myanimelist.net/anime/40664)
 	- Publication Status: Finished Airing
@@ -10634,6 +10639,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 30740
 	- Genre(s): Drama, Historical, Medical, Seinen
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Your Rhapsody](https://myanimelist.net/anime/54047)
+	- Publication Status: Finished Airing
+	- MAL ID: 54047
+	- Genre(s): Idols (Male), Music
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Yousei Ou](https://myanimelist.net/anime/7818)
 	- Publication Status: Finished Airing

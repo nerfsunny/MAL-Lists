@@ -4,7 +4,7 @@ title: AWC2025 08
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 08, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 15, 2025:
 
 (8) Watch an anime a 2025 AWC participant [dropped](https://i.imgur.com/qW5Obtw.png) or put [on-hold](https://i.imgur.com/cGfhreB.png) September 30, 2024 or earlier (participant must have watched at least one episode)
 
@@ -180,7 +180,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii](https://myanimelist.net/anime/55973)
 	- Publication Status: Finished Airing
 	- MAL ID: 55973
-	- Genre(s): Adult Cast, Boys Love, Comedy, Super Power, Workplace
+	- Genre(s): Adult Cast, Boys Love, Comedy, Workplace
 	- AWC Participants (on_hold): [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san)
 	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday)
 - [30-sai no Hoken Taiiku](https://myanimelist.net/anime/9624)
@@ -829,6 +829,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 6547
 	- Genre(s): Drama, Fantasy, School
 	- AWC Participants (on_hold): [Ariies_](https://myanimelist.net/profile/Ariies_), [Bookworm86](https://myanimelist.net/profile/Bookworm86), [Ebo](https://myanimelist.net/profile/Ebo), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [Nyllia](https://myanimelist.net/profile/Nyllia), [tomhannay](https://myanimelist.net/profile/tomhannay)
+	- AWC Participants (dropped): [FDLucy](https://myanimelist.net/profile/FDLucy)
 - [Angel Beats! Specials](https://myanimelist.net/anime/9062)
 	- Publication Status: Finished Airing
 	- MAL ID: 9062
@@ -1021,7 +1022,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 30205
 	- Genre(s): Crossdressing, Shounen, Sports, Team Sports
 	- AWC Participants (on_hold): [Samus](https://myanimelist.net/profile/Samus), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
-	- AWC Participants (dropped): [Plaxsin](https://myanimelist.net/profile/Plaxsin)
+	- AWC Participants (dropped): [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Aoi Bungaku Series](https://myanimelist.net/anime/7193)
 	- Publication Status: Finished Airing
 	- MAL ID: 7193
@@ -1167,13 +1168,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53179
 	- Genre(s): Action, Adventure, Fantasy
 	- AWC Participants (on_hold): [MDTURZA](https://myanimelist.net/profile/MDTURZA)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [Kaylee](https://myanimelist.net/profile/Kaylee), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [Kaylee](https://myanimelist.net/profile/Kaylee), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Arslan Senki (TV)](https://myanimelist.net/anime/28249)
 	- Publication Status: Finished Airing
 	- MAL ID: 28249
 	- Genre(s): Action, Adventure, Drama, Fantasy, Historical, Military, Shounen
 	- AWC Participants (on_hold): [Szrebi](https://myanimelist.net/profile/Szrebi)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Kaylee](https://myanimelist.net/profile/Kaylee)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Kaylee](https://myanimelist.net/profile/Kaylee), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Arslan Senki (TV): Arsen 4-koma Gekijou](https://myanimelist.net/anime/30953)
 	- Publication Status: Finished Airing
 	- MAL ID: 30953
@@ -1405,13 +1406,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40964
 	- Genre(s): Action, Fantasy, Mecha
 	- AWC Participants (on_hold): [Kaylee](https://myanimelist.net/profile/Kaylee), [sodapoplio](https://myanimelist.net/profile/sodapoplio)
-	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday), [renzoushi](https://myanimelist.net/profile/renzoushi)
+	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday), [renzoushi](https://myanimelist.net/profile/renzoushi), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Back Street Girls: Gokudolls](https://myanimelist.net/anime/36873)
 	- Publication Status: Finished Airing
 	- MAL ID: 36873
 	- Genre(s): Comedy, Ecchi, Gag Humor, Magical Sex Shift, Organized Crime, Seinen, Workplace
 	- AWC Participants (on_hold): [just-person](https://myanimelist.net/profile/just-person), [UncertainBeing](https://myanimelist.net/profile/UncertainBeing)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Harisrox](https://myanimelist.net/profile/Harisrox)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Harisrox](https://myanimelist.net/profile/Harisrox), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bai Yao Pu](https://myanimelist.net/anime/41224)
 	- Publication Status: Finished Airing
 	- MAL ID: 41224
@@ -1539,7 +1540,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 36649
 	- Genre(s): Action, Adventure, Delinquents, Drama, Organized Crime, Psychological, Shoujo, Suspense
-	- AWC Participants (on_hold): [archiemouse](https://myanimelist.net/profile/archiemouse), [Bunille](https://myanimelist.net/profile/Bunille), [ClassyPenguino](https://myanimelist.net/profile/ClassyPenguino), [cloudangel64](https://myanimelist.net/profile/cloudangel64), [Dumasop](https://myanimelist.net/profile/Dumasop), [ImElliee](https://myanimelist.net/profile/ImElliee), [Liaeves](https://myanimelist.net/profile/Liaeves), [m3dama_star](https://myanimelist.net/profile/m3dama_star), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nyllia](https://myanimelist.net/profile/Nyllia), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru), [TahZin](https://myanimelist.net/profile/TahZin), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
+	- AWC Participants (on_hold): [archiemouse](https://myanimelist.net/profile/archiemouse), [Bunille](https://myanimelist.net/profile/Bunille), [ClassyPenguino](https://myanimelist.net/profile/ClassyPenguino), [cloudangel64](https://myanimelist.net/profile/cloudangel64), [Dumasop](https://myanimelist.net/profile/Dumasop), [FDLucy](https://myanimelist.net/profile/FDLucy), [ImElliee](https://myanimelist.net/profile/ImElliee), [Liaeves](https://myanimelist.net/profile/Liaeves), [m3dama_star](https://myanimelist.net/profile/m3dama_star), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nyllia](https://myanimelist.net/profile/Nyllia), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru), [TahZin](https://myanimelist.net/profile/TahZin), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
 	- AWC Participants (dropped): [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [just-person](https://myanimelist.net/profile/just-person), [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [Titadou](https://myanimelist.net/profile/Titadou)
 - [Banana ga Suki](https://myanimelist.net/anime/38498)
 	- Publication Status: Finished Airing
@@ -1606,7 +1607,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50953
 	- Genre(s): Action, Adventure, Ecchi, Fantasy, Gore, Seinen
 	- AWC Participants (on_hold): [bubba460z](https://myanimelist.net/profile/bubba460z), [MEW2908](https://myanimelist.net/profile/MEW2908), [teababe27](https://myanimelist.net/profile/teababe27)
-	- AWC Participants (dropped): [AI_MEI](https://myanimelist.net/profile/AI_MEI), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [marcopagot](https://myanimelist.net/profile/marcopagot)
+	- AWC Participants (dropped): [AI_MEI](https://myanimelist.net/profile/AI_MEI), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [marcopagot](https://myanimelist.net/profile/marcopagot), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Battery](https://myanimelist.net/anime/32947)
 	- Publication Status: Finished Airing
 	- MAL ID: 32947
@@ -1648,7 +1649,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39195
 	- Genre(s): Anthropomorphic, Drama, Psychological, School, Shounen, Suspense
 	- AWC Participants (on_hold): [MEW2908](https://myanimelist.net/profile/MEW2908), [Momokolo](https://myanimelist.net/profile/Momokolo), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [Yagami-Zero](https://myanimelist.net/profile/Yagami-Zero), [Zensorium](https://myanimelist.net/profile/Zensorium)
-	- AWC Participants (dropped): [cloudangel64](https://myanimelist.net/profile/cloudangel64)
+	- AWC Participants (dropped): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Beastars 2nd Season](https://myanimelist.net/anime/40935)
 	- Publication Status: Finished Airing
 	- MAL ID: 40935
@@ -1789,12 +1790,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Binan Koukou Chikyuu Bouei-bu Happy Kiss!](https://myanimelist.net/anime/37036)
 	- Publication Status: Finished Airing
 	- MAL ID: 37036
-	- Genre(s): Comedy, Parody, School
-	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000), [hoshi4](https://myanimelist.net/profile/hoshi4)
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
+	- AWC Participants (on_hold): [hoshi4](https://myanimelist.net/profile/hoshi4)
 - [Binan Koukou Chikyuu Bouei-bu LOVE!](https://myanimelist.net/anime/27727)
 	- Publication Status: Finished Airing
 	- MAL ID: 27727
-	- Genre(s): Comedy, Parody, School
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- AWC Participants (on_hold): [Shiruchiru](https://myanimelist.net/profile/Shiruchiru), [teababe27](https://myanimelist.net/profile/teababe27)
 	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kuroha](https://myanimelist.net/profile/Kuroha), [Sbd13](https://myanimelist.net/profile/Sbd13)
 - [Binbougami ga!](https://myanimelist.net/anime/13535)
@@ -1816,6 +1817,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 29373
 	- Genre(s): Adventure, Kids
+	- AWC Participants (on_hold): [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 	- AWC Participants (dropped): [CsillaLoli](https://myanimelist.net/profile/CsillaLoli)
 - [Birdie Wing: Golf Girls' Story](https://myanimelist.net/anime/50248)
 	- Publication Status: Finished Airing
@@ -1959,7 +1961,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 269
 	- Genre(s): Action, Adventure, Shounen, Supernatural
 	- AWC Participants (on_hold): [AI_MEI](https://myanimelist.net/profile/AI_MEI), [AjaxTSS](https://myanimelist.net/profile/AjaxTSS), [anakg](https://myanimelist.net/profile/anakg), [Ariies_](https://myanimelist.net/profile/Ariies_), [blackandwhite_](https://myanimelist.net/profile/blackandwhite_), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [chalko3](https://myanimelist.net/profile/chalko3), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [FeezyWheezy](https://myanimelist.net/profile/FeezyWheezy), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [hinagatari](https://myanimelist.net/profile/hinagatari), [ioio022](https://myanimelist.net/profile/ioio022), [Le_Solo_Guy](https://myanimelist.net/profile/Le_Solo_Guy), [Liaeves](https://myanimelist.net/profile/Liaeves), [lph](https://myanimelist.net/profile/lph), [m3dama_star](https://myanimelist.net/profile/m3dama_star), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [maricharmix](https://myanimelist.net/profile/maricharmix), [MaryJoP10](https://myanimelist.net/profile/MaryJoP10), [nightjasmine](https://myanimelist.net/profile/nightjasmine), [RisaK](https://myanimelist.net/profile/RisaK), [SBK_](https://myanimelist.net/profile/SBK_), [silveraaki](https://myanimelist.net/profile/silveraaki), [skyhei1995](https://myanimelist.net/profile/skyhei1995), [soowo](https://myanimelist.net/profile/soowo), [Szrebi](https://myanimelist.net/profile/Szrebi), [xLunaDragon](https://myanimelist.net/profile/xLunaDragon)
-	- AWC Participants (dropped): [Ebo](https://myanimelist.net/profile/Ebo), [kaisouseiriron](https://myanimelist.net/profile/kaisouseiriron), [Slarkero](https://myanimelist.net/profile/Slarkero), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Sreyso](https://myanimelist.net/profile/Sreyso)
+	- AWC Participants (dropped): [Ebo](https://myanimelist.net/profile/Ebo), [kaisouseiriron](https://myanimelist.net/profile/kaisouseiriron), [Slarkero](https://myanimelist.net/profile/Slarkero), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Sreyso](https://myanimelist.net/profile/Sreyso), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bleach: Sennen Kessen-hen](https://myanimelist.net/anime/41467)
 	- Publication Status: Finished Airing
 	- MAL ID: 41467
@@ -2015,7 +2017,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 58
 	- Genre(s): Action, Adventure, Drama, Gore, Horror, Mecha, Military, Sci-Fi, Space, Survival
 	- AWC Participants (on_hold): [Salyee](https://myanimelist.net/profile/Salyee), [teababe27](https://myanimelist.net/profile/teababe27)
-	- AWC Participants (dropped): [lubryka](https://myanimelist.net/profile/lubryka)
+	- AWC Participants (dropped): [lubryka](https://myanimelist.net/profile/lubryka), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Blue Lock](https://myanimelist.net/anime/49596)
 	- Publication Status: Finished Airing
 	- MAL ID: 49596
@@ -2050,7 +2052,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 47917
 	- Genre(s): CGDCT, Comedy, Music
 	- AWC Participants (on_hold): [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [lagom](https://myanimelist.net/profile/lagom), [noimagination7](https://myanimelist.net/profile/noimagination7), [Tunes](https://myanimelist.net/profile/Tunes)
-	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Plate](https://myanimelist.net/profile/Plate)
+	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Boku dake ga Inai Machi](https://myanimelist.net/anime/31043)
 	- Publication Status: Finished Airing
 	- MAL ID: 31043
@@ -2231,7 +2233,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37451
 	- Genre(s): Avant Garde, Drama, Horror, Mystery, Psychological, Supernatural, Suspense
 	- AWC Participants (on_hold): [bubba460z](https://myanimelist.net/profile/bubba460z), [Ebo](https://myanimelist.net/profile/Ebo), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [just-person](https://myanimelist.net/profile/just-person), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [nyanko](https://myanimelist.net/profile/nyanko), [Salyee](https://myanimelist.net/profile/Salyee)
-	- AWC Participants (dropped): [flaymeariver](https://myanimelist.net/profile/flaymeariver), [goncix3000](https://myanimelist.net/profile/goncix3000), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- AWC Participants (dropped): [flaymeariver](https://myanimelist.net/profile/flaymeariver), [goncix3000](https://myanimelist.net/profile/goncix3000), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Boruto: Naruto Next Generations](https://myanimelist.net/anime/34566)
 	- Publication Status: Finished Airing
 	- MAL ID: 34566
@@ -2248,7 +2250,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53494
 	- Genre(s): Action, Adventure, Fantasy
 	- AWC Participants (on_hold): [Sarada](https://myanimelist.net/profile/Sarada), [T1nyTim](https://myanimelist.net/profile/T1nyTim)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Ixiel](https://myanimelist.net/profile/Ixiel), [Jhiday](https://myanimelist.net/profile/Jhiday), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Sreyso](https://myanimelist.net/profile/Sreyso)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Ixiel](https://myanimelist.net/profile/Ixiel), [Jhiday](https://myanimelist.net/profile/Jhiday), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Sreyso](https://myanimelist.net/profile/Sreyso), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Boukyaku Battery (TV)](https://myanimelist.net/anime/56165)
 	- Publication Status: Finished Airing
 	- MAL ID: 56165
@@ -2353,7 +2355,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 51371
 	- Genre(s): Action, Historical, Samurai
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [rosemagic](https://myanimelist.net/profile/rosemagic)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [rosemagic](https://myanimelist.net/profile/rosemagic), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Bucchigiri?!](https://myanimelist.net/anime/55358)
 	- Publication Status: Finished Airing
 	- MAL ID: 55358
@@ -2371,7 +2373,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53411
 	- Genre(s): Action, Childcare, Comedy, Organized Crime
 	- AWC Participants (on_hold): [Caramel-san](https://myanimelist.net/profile/Caramel-san), [lossetari](https://myanimelist.net/profile/lossetari), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Nymeew](https://myanimelist.net/profile/Nymeew), [quinbe](https://myanimelist.net/profile/quinbe)
-	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Ensen_](https://myanimelist.net/profile/Ensen_), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
+	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Ensen_](https://myanimelist.net/profile/Ensen_), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [Stardew](https://myanimelist.net/profile/Stardew), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
 - [Build Divide: Code Black](https://myanimelist.net/anime/48776)
 	- Publication Status: Finished Airing
 	- MAL ID: 48776
@@ -2755,6 +2757,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 15749
 	- Genre(s): Slice of Life
 	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday)
+- [Chikyuu Bouei Kigyou Dai-Guard](https://myanimelist.net/anime/1312)
+	- Publication Status: Finished Airing
+	- MAL ID: 1312
+	- Genre(s): Adventure, Comedy, Mecha, Military, Sci-Fi
+	- AWC Participants (on_hold): [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Chikyuugai Shounen Shoujo](https://myanimelist.net/anime/37914)
 	- Publication Status: Finished Airing
 	- MAL ID: 37914
@@ -2971,6 +2978,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 35883
 	- Genre(s): Comedy, Idols (Female)
 	- AWC Participants (dropped): [Canaan](https://myanimelist.net/profile/Canaan)
+- [Cinderella Monogatari](https://myanimelist.net/anime/2817)
+	- Publication Status: Finished Airing
+	- MAL ID: 2817
+	- Genre(s): Adventure, Fantasy, Romance
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Circlet Princess](https://myanimelist.net/anime/38157)
 	- Publication Status: Finished Airing
 	- MAL ID: 38157
@@ -3147,7 +3159,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 51680
 	- Genre(s): Adult Cast, Iyashikei, Slice of Life
 	- AWC Participants (on_hold): [Bakunoaato](https://myanimelist.net/profile/Bakunoaato), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [noimagination7](https://myanimelist.net/profile/noimagination7), [TokyoFell](https://myanimelist.net/profile/TokyoFell)
-	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [windyscar](https://myanimelist.net/profile/windyscar)
+	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [Stardew](https://myanimelist.net/profile/Stardew), [windyscar](https://myanimelist.net/profile/windyscar)
 - [Cop Craft](https://myanimelist.net/anime/38940)
 	- Publication Status: Finished Airing
 	- MAL ID: 38940
@@ -3242,7 +3254,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 42310
 	- Genre(s): Action, Gore, Organized Crime, Sci-Fi
 	- AWC Participants (on_hold): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [Caenp17](https://myanimelist.net/profile/Caenp17), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [KrypRem](https://myanimelist.net/profile/KrypRem), [miaxnder](https://myanimelist.net/profile/miaxnder), [scientoast](https://myanimelist.net/profile/scientoast), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Cybersix](https://myanimelist.net/anime/2383)
 	- Publication Status: Finished Airing
 	- MAL ID: 2383
@@ -3280,7 +3292,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 1482
 	- Genre(s): Action, Adventure, Fantasy, Shounen, Urban Fantasy
 	- AWC Participants (on_hold): [Ariies_](https://myanimelist.net/profile/Ariies_), [Bunille](https://myanimelist.net/profile/Bunille), [Ebo](https://myanimelist.net/profile/Ebo), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [leapylee](https://myanimelist.net/profile/leapylee), [Lestat-](https://myanimelist.net/profile/Lestat-), [MDTURZA](https://myanimelist.net/profile/MDTURZA), [nozomemee](https://myanimelist.net/profile/nozomemee), [Szrebi](https://myanimelist.net/profile/Szrebi), [Yterbium](https://myanimelist.net/profile/Yterbium)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [dogwoodbark](https://myanimelist.net/profile/dogwoodbark), [Harisrox](https://myanimelist.net/profile/Harisrox), [HeartonSleeve21](https://myanimelist.net/profile/HeartonSleeve21), [hinagatari](https://myanimelist.net/profile/hinagatari), [kasvke](https://myanimelist.net/profile/kasvke), [lubryka](https://myanimelist.net/profile/lubryka), [orosan](https://myanimelist.net/profile/orosan)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [dogwoodbark](https://myanimelist.net/profile/dogwoodbark), [Harisrox](https://myanimelist.net/profile/Harisrox), [HeartonSleeve21](https://myanimelist.net/profile/HeartonSleeve21), [hinagatari](https://myanimelist.net/profile/hinagatari), [kasvke](https://myanimelist.net/profile/kasvke), [lubryka](https://myanimelist.net/profile/lubryka), [orosan](https://myanimelist.net/profile/orosan), [Stardew](https://myanimelist.net/profile/Stardew)
 - [D.Gray-man Hallow](https://myanimelist.net/anime/32370)
 	- Publication Status: Finished Airing
 	- MAL ID: 32370
@@ -3309,7 +3321,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 48470
 	- Genre(s): Action, Drama, Fantasy
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Da Li Si Rizhi](https://myanimelist.net/anime/38742)
 	- Publication Status: Finished Airing
 	- MAL ID: 38742
@@ -3364,7 +3376,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37597
 	- Genre(s): Adult Cast, Boys Love, Comedy, Drama, Showbiz
 	- AWC Participants (on_hold): [starkitty466](https://myanimelist.net/profile/starkitty466), [TokyoFell](https://myanimelist.net/profile/TokyoFell)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [maricharmix](https://myanimelist.net/profile/maricharmix), [Titadou](https://myanimelist.net/profile/Titadou)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [Devinitas](https://myanimelist.net/profile/Devinitas), [huntingsounds](https://myanimelist.net/profile/huntingsounds), [Jhiday](https://myanimelist.net/profile/Jhiday), [maricharmix](https://myanimelist.net/profile/maricharmix), [Titadou](https://myanimelist.net/profile/Titadou)
 - [Dame x Prince Anime Caravan](https://myanimelist.net/anime/35988)
 	- Publication Status: Finished Airing
 	- MAL ID: 35988
@@ -3387,7 +3399,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 6747
 	- Genre(s): Action, Drama, Romance, Seinen, Supernatural, Vampire
 	- AWC Participants (on_hold): [Ebo](https://myanimelist.net/profile/Ebo)
-	- AWC Participants (dropped): [KingYoshi](https://myanimelist.net/profile/KingYoshi), [lubryka](https://myanimelist.net/profile/lubryka), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood), [trashpanda147](https://myanimelist.net/profile/trashpanda147)
+	- AWC Participants (dropped): [KingYoshi](https://myanimelist.net/profile/KingYoshi), [lubryka](https://myanimelist.net/profile/lubryka), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim), [Stardew](https://myanimelist.net/profile/Stardew), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood), [trashpanda147](https://myanimelist.net/profile/trashpanda147)
 - [Dance with Devils](https://myanimelist.net/anime/29976)
 	- Publication Status: Finished Airing
 	- MAL ID: 29976
@@ -3437,8 +3449,8 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 52505
 	- Genre(s): Gore, Horror, Shounen, Supernatural
-	- AWC Participants (on_hold): [AjaxTSS](https://myanimelist.net/profile/AjaxTSS), [Esperi](https://myanimelist.net/profile/Esperi), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MiniSoleil](https://myanimelist.net/profile/MiniSoleil), [quixi](https://myanimelist.net/profile/quixi)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [marcopagot](https://myanimelist.net/profile/marcopagot), [MIMx32](https://myanimelist.net/profile/MIMx32), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (on_hold): [AjaxTSS](https://myanimelist.net/profile/AjaxTSS), [Esperi](https://myanimelist.net/profile/Esperi), [FDLucy](https://myanimelist.net/profile/FDLucy), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MiniSoleil](https://myanimelist.net/profile/MiniSoleil), [quixi](https://myanimelist.net/profile/quixi)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [marcopagot](https://myanimelist.net/profile/marcopagot), [MIMx32](https://myanimelist.net/profile/MIMx32), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Darker than Black: Kuro no Keiyakusha](https://myanimelist.net/anime/2025)
 	- Publication Status: Finished Airing
 	- MAL ID: 2025
@@ -3455,7 +3467,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 35849
 	- Genre(s): Action, Drama, Mecha, Romance, Sci-Fi
 	- AWC Participants (on_hold): [AjaxTSS](https://myanimelist.net/profile/AjaxTSS), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Snakering](https://myanimelist.net/profile/Snakering), [TahZin](https://myanimelist.net/profile/TahZin), [TokyoFell](https://myanimelist.net/profile/TokyoFell), [zehwpai](https://myanimelist.net/profile/zehwpai)
-	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [Ensen_](https://myanimelist.net/profile/Ensen_), [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [goncix3000](https://myanimelist.net/profile/goncix3000), [Mnemosymnal](https://myanimelist.net/profile/Mnemosymnal), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stargate18](https://myanimelist.net/profile/Stargate18), [starkitty466](https://myanimelist.net/profile/starkitty466)
+	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [Ensen_](https://myanimelist.net/profile/Ensen_), [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [goncix3000](https://myanimelist.net/profile/goncix3000), [Mnemosymnal](https://myanimelist.net/profile/Mnemosymnal), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew), [Stargate18](https://myanimelist.net/profile/Stargate18), [starkitty466](https://myanimelist.net/profile/starkitty466)
 - [Darwin's Game](https://myanimelist.net/anime/38656)
 	- Publication Status: Finished Airing
 	- MAL ID: 38656
@@ -3899,7 +3911,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37520
 	- Genre(s): Action, Adventure, Fantasy, Historical, Mythology, Samurai, Shounen
 	- AWC Participants (on_hold): [Bunille](https://myanimelist.net/profile/Bunille), [Caramel-san](https://myanimelist.net/profile/Caramel-san), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [eirian_j](https://myanimelist.net/profile/eirian_j), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [lemonmon](https://myanimelist.net/profile/lemonmon), [MDTURZA](https://myanimelist.net/profile/MDTURZA), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [TokyoFell](https://myanimelist.net/profile/TokyoFell)
-	- AWC Participants (dropped): [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [goncix3000](https://myanimelist.net/profile/goncix3000), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Dororo to Hyakkimaru](https://myanimelist.net/anime/5760)
 	- Publication Status: Finished Airing
 	- MAL ID: 5760
@@ -3965,7 +3977,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 38691
 	- Genre(s): Adventure, Comedy, Sci-Fi, Shounen
 	- AWC Participants (on_hold): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [archiemouse](https://myanimelist.net/profile/archiemouse), [Ariies_](https://myanimelist.net/profile/Ariies_), [Dumasop](https://myanimelist.net/profile/Dumasop), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Lake-](https://myanimelist.net/profile/Lake-), [MDTURZA](https://myanimelist.net/profile/MDTURZA), [Nyllia](https://myanimelist.net/profile/Nyllia), [Snakering](https://myanimelist.net/profile/Snakering), [starkitty466](https://myanimelist.net/profile/starkitty466)
-	- AWC Participants (dropped): [erstad](https://myanimelist.net/profile/erstad), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [ioio022](https://myanimelist.net/profile/ioio022), [maricharmix](https://myanimelist.net/profile/maricharmix), [thriwien](https://myanimelist.net/profile/thriwien)
+	- AWC Participants (dropped): [erstad](https://myanimelist.net/profile/erstad), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [ioio022](https://myanimelist.net/profile/ioio022), [maricharmix](https://myanimelist.net/profile/maricharmix), [Stardew](https://myanimelist.net/profile/Stardew), [thriwien](https://myanimelist.net/profile/thriwien)
 - [Dr. Stone: New World](https://myanimelist.net/anime/48549)
 	- Publication Status: Finished Airing
 	- MAL ID: 48549
@@ -3985,7 +3997,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 223
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Martial Arts, Shounen
-	- AWC Participants (on_hold): [2Trace-Rail9](https://myanimelist.net/profile/2Trace-Rail9), [cornflakegod](https://myanimelist.net/profile/cornflakegod), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Devinitas](https://myanimelist.net/profile/Devinitas), [Dumasop](https://myanimelist.net/profile/Dumasop), [Gunszq](https://myanimelist.net/profile/Gunszq), [guyanesegoddess](https://myanimelist.net/profile/guyanesegoddess), [hoshi4](https://myanimelist.net/profile/hoshi4), [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [orosan](https://myanimelist.net/profile/orosan), [Squin](https://myanimelist.net/profile/Squin), [T1nyTim](https://myanimelist.net/profile/T1nyTim), [TahZin](https://myanimelist.net/profile/TahZin), [tbeans10](https://myanimelist.net/profile/tbeans10)
+	- AWC Participants (on_hold): [2Trace-Rail9](https://myanimelist.net/profile/2Trace-Rail9), [cornflakegod](https://myanimelist.net/profile/cornflakegod), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Devinitas](https://myanimelist.net/profile/Devinitas), [Dumasop](https://myanimelist.net/profile/Dumasop), [Gunszq](https://myanimelist.net/profile/Gunszq), [guyanesegoddess](https://myanimelist.net/profile/guyanesegoddess), [hoshi4](https://myanimelist.net/profile/hoshi4), [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [orosan](https://myanimelist.net/profile/orosan), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim), [Squin](https://myanimelist.net/profile/Squin), [T1nyTim](https://myanimelist.net/profile/T1nyTim), [TahZin](https://myanimelist.net/profile/TahZin), [tbeans10](https://myanimelist.net/profile/tbeans10)
 	- AWC Participants (dropped): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kaylee](https://myanimelist.net/profile/Kaylee), [nightmaresinclr](https://myanimelist.net/profile/nightmaresinclr)
 - [Dragon Ball GT](https://myanimelist.net/anime/225)
 	- Publication Status: Finished Airing
@@ -4103,7 +4115,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 52701
 	- Genre(s): Adventure, Comedy, Fantasy, Gourmet, Seinen
 	- AWC Participants (on_hold): [_Noel](https://myanimelist.net/profile/_Noel), [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [cloudangel64](https://myanimelist.net/profile/cloudangel64), [jreems](https://myanimelist.net/profile/jreems), [just-person](https://myanimelist.net/profile/just-person), [lagom](https://myanimelist.net/profile/lagom), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Nymeew](https://myanimelist.net/profile/Nymeew), [sodapoplio](https://myanimelist.net/profile/sodapoplio)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Mikatron](https://myanimelist.net/profile/Mikatron), [xMincee](https://myanimelist.net/profile/xMincee)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Mikatron](https://myanimelist.net/profile/Mikatron), [Stardew](https://myanimelist.net/profile/Stardew), [xMincee](https://myanimelist.net/profile/xMincee)
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka](https://myanimelist.net/anime/28121)
 	- Publication Status: Finished Airing
 	- MAL ID: 28121
@@ -4127,6 +4139,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40454
 	- Genre(s): Action, Adventure, Fantasy
 	- AWC Participants (on_hold): [kasvke](https://myanimelist.net/profile/kasvke)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348)
 	- Publication Status: Finished Airing
 	- MAL ID: 56348
@@ -4248,7 +4261,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 39792
 	- Genre(s): Adventure, Award Winning, Comedy, Otaku Culture, School, Seinen
-	- AWC Participants (on_hold): [andreth](https://myanimelist.net/profile/andreth), [Ebo](https://myanimelist.net/profile/Ebo), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [kaisouseiriron](https://myanimelist.net/profile/kaisouseiriron), [Lycan](https://myanimelist.net/profile/Lycan), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Stargate18](https://myanimelist.net/profile/Stargate18)
+	- AWC Participants (on_hold): [andreth](https://myanimelist.net/profile/andreth), [Ebo](https://myanimelist.net/profile/Ebo), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [kaisouseiriron](https://myanimelist.net/profile/kaisouseiriron), [Lycan](https://myanimelist.net/profile/Lycan), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim), [Stargate18](https://myanimelist.net/profile/Stargate18)
 	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [KarmaSlyr](https://myanimelist.net/profile/KarmaSlyr), [Sreyso](https://myanimelist.net/profile/Sreyso), [stupidsunfish](https://myanimelist.net/profile/stupidsunfish)
 - [Element Hunters](https://myanimelist.net/anime/5945)
 	- Publication Status: Finished Airing
@@ -4321,7 +4334,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 790
 	- Genre(s): Adult Cast, Mystery, Psychological, Sci-Fi, Suspense
-	- AWC Participants (on_hold): [Esperi](https://myanimelist.net/profile/Esperi), [ketsueki_randi](https://myanimelist.net/profile/ketsueki_randi), [SodaRoll](https://myanimelist.net/profile/SodaRoll)
+	- AWC Participants (on_hold): [Esperi](https://myanimelist.net/profile/Esperi), [FDLucy](https://myanimelist.net/profile/FDLucy), [ketsueki_randi](https://myanimelist.net/profile/ketsueki_randi), [SodaRoll](https://myanimelist.net/profile/SodaRoll)
 	- AWC Participants (dropped): [dorik77](https://myanimelist.net/profile/dorik77), [narken2254](https://myanimelist.net/profile/narken2254)
 - [Eromanga-sensei](https://myanimelist.net/anime/32901)
 	- Publication Status: Finished Airing
@@ -4339,7 +4352,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50862
 	- Genre(s): Sci-Fi
 	- AWC Participants (on_hold): [2Trace-Rail9](https://myanimelist.net/profile/2Trace-Rail9), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Estima: Sense of Wonder](https://myanimelist.net/anime/33871)
 	- Publication Status: Finished Airing
 	- MAL ID: 33871
@@ -4410,8 +4423,8 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 45665
 	- Genre(s): Action, Fantasy, Slice of Life
-	- AWC Participants (on_hold): [nozomemee](https://myanimelist.net/profile/nozomemee), [Rinarin](https://myanimelist.net/profile/Rinarin)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
+	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000), [nozomemee](https://myanimelist.net/profile/nozomemee), [Rinarin](https://myanimelist.net/profile/Rinarin)
+	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
 - [Fairy Tail](https://myanimelist.net/anime/6702)
 	- Publication Status: Finished Airing
 	- MAL ID: 6702
@@ -4487,6 +4500,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 10087
 	- Genre(s): Action, Fantasy, Urban Fantasy
 	- AWC Participants (on_hold): [hnowak214](https://myanimelist.net/profile/hnowak214)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Fate/Zero 2nd Season](https://myanimelist.net/anime/11741)
 	- Publication Status: Finished Airing
 	- MAL ID: 11741
@@ -4573,7 +4587,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 32979
 	- Genre(s): Adventure, Comedy, Mahou Shoujo, Sci-Fi
 	- AWC Participants (on_hold): [_Noel](https://myanimelist.net/profile/_Noel), [Esperi](https://myanimelist.net/profile/Esperi), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [starkitty466](https://myanimelist.net/profile/starkitty466), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
-	- AWC Participants (dropped): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [DigiCat](https://myanimelist.net/profile/DigiCat), [goncix3000](https://myanimelist.net/profile/goncix3000), [Plate](https://myanimelist.net/profile/Plate)
+	- AWC Participants (dropped): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [DigiCat](https://myanimelist.net/profile/DigiCat), [goncix3000](https://myanimelist.net/profile/goncix3000), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Flying Witch](https://myanimelist.net/anime/31376)
 	- Publication Status: Finished Airing
 	- MAL ID: 31376
@@ -4718,7 +4732,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 121
 	- Genre(s): Action, Adventure, Award Winning, Drama, Fantasy, Military, Shounen
 	- AWC Participants (on_hold): [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [MeiYoko28](https://myanimelist.net/profile/MeiYoko28), [Salyee](https://myanimelist.net/profile/Salyee), [thriwien](https://myanimelist.net/profile/thriwien), [Zensorium](https://myanimelist.net/profile/Zensorium)
-	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [HapHazrD](https://myanimelist.net/profile/HapHazrD), [Naomii94](https://myanimelist.net/profile/Naomii94), [tomhannay](https://myanimelist.net/profile/tomhannay)
+	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [HapHazrD](https://myanimelist.net/profile/HapHazrD), [Naomii94](https://myanimelist.net/profile/Naomii94), [Stardew](https://myanimelist.net/profile/Stardew), [tomhannay](https://myanimelist.net/profile/tomhannay)
 - [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114)
 	- Publication Status: Finished Airing
 	- MAL ID: 5114
@@ -4870,8 +4884,8 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 48649
 	- Genre(s): Action, Detective, Mystery, Seinen, Supernatural
-	- AWC Participants (on_hold): [_Noel](https://myanimelist.net/profile/_Noel), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [goncix3000](https://myanimelist.net/profile/goncix3000)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Nymeew](https://myanimelist.net/profile/Nymeew)
+	- AWC Participants (on_hold): [_Noel](https://myanimelist.net/profile/_Noel), [Devinitas](https://myanimelist.net/profile/Devinitas), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Nymeew](https://myanimelist.net/profile/Nymeew), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Fuuun Ishin Dai☆Shougun](https://myanimelist.net/anime/21821)
 	- Publication Status: Finished Airing
 	- MAL ID: 21821
@@ -5403,7 +5417,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 918
 	- Genre(s): Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi, Shounen
-	- AWC Participants (on_hold): [aifukola](https://myanimelist.net/profile/aifukola), [Aiimee](https://myanimelist.net/profile/Aiimee), [Bakunoaato](https://myanimelist.net/profile/Bakunoaato), [BaronessSandra](https://myanimelist.net/profile/BaronessSandra), [Bleeus](https://myanimelist.net/profile/Bleeus), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Caenp17](https://myanimelist.net/profile/Caenp17), [Campiz06](https://myanimelist.net/profile/Campiz06), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [eamarks](https://myanimelist.net/profile/eamarks), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [hinagatari](https://myanimelist.net/profile/hinagatari), [kagamigensou](https://myanimelist.net/profile/kagamigensou), [lagom](https://myanimelist.net/profile/lagom), [Lake-](https://myanimelist.net/profile/Lake-), [lph](https://myanimelist.net/profile/lph), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Mister_Anime](https://myanimelist.net/profile/Mister_Anime), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [noimagination7](https://myanimelist.net/profile/noimagination7), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nymeew](https://myanimelist.net/profile/Nymeew), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Potato-Chhan](https://myanimelist.net/profile/Potato-Chhan), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [scrouge](https://myanimelist.net/profile/scrouge), [T1nyTim](https://myanimelist.net/profile/T1nyTim), [Tsukemono-san](https://myanimelist.net/profile/Tsukemono-san), [Tunes](https://myanimelist.net/profile/Tunes), [Wispywatch](https://myanimelist.net/profile/Wispywatch), [xLunaDragon](https://myanimelist.net/profile/xLunaDragon), [Yamcha17](https://myanimelist.net/profile/Yamcha17)
+	- AWC Participants (on_hold): [aifukola](https://myanimelist.net/profile/aifukola), [Aiimee](https://myanimelist.net/profile/Aiimee), [Bakunoaato](https://myanimelist.net/profile/Bakunoaato), [BaronessSandra](https://myanimelist.net/profile/BaronessSandra), [Bleeus](https://myanimelist.net/profile/Bleeus), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Caenp17](https://myanimelist.net/profile/Caenp17), [Campiz06](https://myanimelist.net/profile/Campiz06), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [eamarks](https://myanimelist.net/profile/eamarks), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [FDLucy](https://myanimelist.net/profile/FDLucy), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [hinagatari](https://myanimelist.net/profile/hinagatari), [kagamigensou](https://myanimelist.net/profile/kagamigensou), [lagom](https://myanimelist.net/profile/lagom), [Lake-](https://myanimelist.net/profile/Lake-), [lph](https://myanimelist.net/profile/lph), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Mister_Anime](https://myanimelist.net/profile/Mister_Anime), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [noimagination7](https://myanimelist.net/profile/noimagination7), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nymeew](https://myanimelist.net/profile/Nymeew), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Potato-Chhan](https://myanimelist.net/profile/Potato-Chhan), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [scrouge](https://myanimelist.net/profile/scrouge), [T1nyTim](https://myanimelist.net/profile/T1nyTim), [Tsukemono-san](https://myanimelist.net/profile/Tsukemono-san), [Tunes](https://myanimelist.net/profile/Tunes), [Wispywatch](https://myanimelist.net/profile/Wispywatch), [xLunaDragon](https://myanimelist.net/profile/xLunaDragon), [Yamcha17](https://myanimelist.net/profile/Yamcha17)
 	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [Clover](https://myanimelist.net/profile/Clover), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [LyLord](https://myanimelist.net/profile/LyLord), [Phraze](https://myanimelist.net/profile/Phraze), [Tsukaji](https://myanimelist.net/profile/Tsukaji)
 - [Gintama'](https://myanimelist.net/anime/9969)
 	- Publication Status: Finished Airing
@@ -5491,7 +5505,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39533
 	- Genre(s): Boys Love, Drama, Music, School
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MrFluffyBun](https://myanimelist.net/profile/MrFluffyBun), [quixi](https://myanimelist.net/profile/quixi)
-	- AWC Participants (dropped): [juminx](https://myanimelist.net/profile/juminx), [rozewald](https://myanimelist.net/profile/rozewald)
+	- AWC Participants (dropped): [juminx](https://myanimelist.net/profile/juminx), [rozewald](https://myanimelist.net/profile/rozewald), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Glass no Kamen](https://myanimelist.net/anime/506)
 	- Publication Status: Finished Airing
 	- MAL ID: 506
@@ -5572,7 +5586,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 43229
 	- Genre(s): Action, Award Winning, Mecha, Mystery, Sci-Fi
 	- AWC Participants (on_hold): [bigdud24](https://myanimelist.net/profile/bigdud24), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere), [nozomemee](https://myanimelist.net/profile/nozomemee)
-	- AWC Participants (dropped): [CaioOkada](https://myanimelist.net/profile/CaioOkada)
+	- AWC Participants (dropped): [CaioOkada](https://myanimelist.net/profile/CaioOkada), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Gokinjo Monogatari](https://myanimelist.net/anime/852)
 	- Publication Status: Finished Airing
 	- MAL ID: 852
@@ -5716,7 +5730,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 245
 	- Genre(s): Comedy, Delinquents, School, Shounen, Workplace
-	- AWC Participants (on_hold): [d3sast](https://myanimelist.net/profile/d3sast), [Ebo](https://myanimelist.net/profile/Ebo), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere), [NuttySandwich](https://myanimelist.net/profile/NuttySandwich), [windyscar](https://myanimelist.net/profile/windyscar)
+	- AWC Participants (on_hold): [d3sast](https://myanimelist.net/profile/d3sast), [Ebo](https://myanimelist.net/profile/Ebo), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere), [NuttySandwich](https://myanimelist.net/profile/NuttySandwich), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim), [windyscar](https://myanimelist.net/profile/windyscar)
 	- AWC Participants (dropped): [delizu](https://myanimelist.net/profile/delizu), [zehwpai](https://myanimelist.net/profile/zehwpai)
 - [Green Green](https://myanimelist.net/anime/133)
 	- Publication Status: Finished Airing
@@ -5823,7 +5837,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49691
 	- Genre(s): Racing, Sports
 	- AWC Participants (on_hold): [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Gunjou no Magmell](https://myanimelist.net/anime/37806)
 	- Publication Status: Finished Airing
 	- MAL ID: 37806
@@ -5850,7 +5864,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 28791
 	- Genre(s): Action, Sci-Fi
-	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [Kimura](https://myanimelist.net/profile/Kimura), [KingYoshi](https://myanimelist.net/profile/KingYoshi)
+	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [Kimura](https://myanimelist.net/profile/Kimura), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Guomin Laogong Dai Huijia](https://myanimelist.net/anime/34602)
 	- Publication Status: Finished Airing
 	- MAL ID: 34602
@@ -5887,12 +5901,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 31630
 	- Genre(s): Adult Cast, Comedy, Detective, Drama, Mystery, Workplace
 	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [chronochromata](https://myanimelist.net/profile/chronochromata), [Ebo](https://myanimelist.net/profile/Ebo), [goncix3000](https://myanimelist.net/profile/goncix3000), [nozomemee](https://myanimelist.net/profile/nozomemee), [sandro88](https://myanimelist.net/profile/sandro88), [TahZin](https://myanimelist.net/profile/TahZin)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [bigdud24](https://myanimelist.net/profile/bigdud24), [hinagatari](https://myanimelist.net/profile/hinagatari), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Plate](https://myanimelist.net/profile/Plate)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [bigdud24](https://myanimelist.net/profile/bigdud24), [hinagatari](https://myanimelist.net/profile/hinagatari), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2](https://myanimelist.net/anime/37490)
 	- Publication Status: Finished Airing
 	- MAL ID: 37490
 	- Genre(s): Adult Cast, Comedy, Detective, Drama, Mystery, Workplace
-	- AWC Participants (on_hold): [Eyth](https://myanimelist.net/profile/Eyth)
+	- AWC Participants (on_hold): [Eyth](https://myanimelist.net/profile/Eyth), [FDLucy](https://myanimelist.net/profile/FDLucy)
 - [Gyakuten Sekai no Denchi Shoujo](https://myanimelist.net/anime/48644)
 	- Publication Status: Finished Airing
 	- MAL ID: 48644
@@ -5985,6 +5999,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 28891
 	- Genre(s): School, Shounen, Sports, Team Sports
 	- AWC Participants (on_hold): [FateXBlood](https://myanimelist.net/profile/FateXBlood), [inklingboi08](https://myanimelist.net/profile/inklingboi08), [Kuroha](https://myanimelist.net/profile/Kuroha)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Haikyuu!! To the Top Part 2](https://myanimelist.net/anime/40776)
 	- Publication Status: Finished Airing
 	- MAL ID: 40776
@@ -6083,6 +6098,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 9065
 	- Genre(s): Action, Drama, Historical, Josei, Samurai, Supernatural
 	- AWC Participants (on_hold): [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Hakuouki: Otogisoushi](https://myanimelist.net/anime/32011)
 	- Publication Status: Finished Airing
 	- MAL ID: 32011
@@ -6138,11 +6154,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49551
 	- Genre(s): Comedy
 	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas)
-- [Hanada Shounen-shi](https://myanimelist.net/anime/2004)
-	- Publication Status: Finished Airing
-	- MAL ID: 2004
-	- Genre(s): Comedy, Drama, Seinen, Supernatural
-	- AWC Participants (on_hold): [sodapoplio](https://myanimelist.net/profile/sodapoplio)
 - [Hanamaru Youchien](https://myanimelist.net/anime/6574)
 	- Publication Status: Finished Airing
 	- MAL ID: 6574
@@ -6338,7 +6349,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37141
 	- Genre(s): Anthropomorphic, Comedy, Educational, Medical, Shounen
 	- AWC Participants (on_hold): [lemonmon](https://myanimelist.net/profile/lemonmon), [NuttySandwich](https://myanimelist.net/profile/NuttySandwich), [skyhei1995](https://myanimelist.net/profile/skyhei1995), [survivor_girl](https://myanimelist.net/profile/survivor_girl), [TahZin](https://myanimelist.net/profile/TahZin)
-	- AWC Participants (dropped): [_PhantomShark_](https://myanimelist.net/profile/_PhantomShark_), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [Ebo](https://myanimelist.net/profile/Ebo), [goncix3000](https://myanimelist.net/profile/goncix3000), [narken2254](https://myanimelist.net/profile/narken2254), [SodaRoll](https://myanimelist.net/profile/SodaRoll), [Yterbium](https://myanimelist.net/profile/Yterbium)
+	- AWC Participants (dropped): [_PhantomShark_](https://myanimelist.net/profile/_PhantomShark_), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [Ebo](https://myanimelist.net/profile/Ebo), [goncix3000](https://myanimelist.net/profile/goncix3000), [narken2254](https://myanimelist.net/profile/narken2254), [SodaRoll](https://myanimelist.net/profile/SodaRoll), [Stardew](https://myanimelist.net/profile/Stardew), [Yterbium](https://myanimelist.net/profile/Yterbium)
 - [Hataraku Saibou Black](https://myanimelist.net/anime/41694)
 	- Publication Status: Finished Airing
 	- MAL ID: 41694
@@ -6752,6 +6763,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 2037
 	- Genre(s): Comedy, Fantasy, Romance, School, Shoujo
+	- AWC Participants (on_hold): [Stardew](https://myanimelist.net/profile/Stardew)
 	- AWC Participants (dropped): [BredMaker](https://myanimelist.net/profile/BredMaker)
 - [Himegoto](https://myanimelist.net/anime/22835)
 	- Publication Status: Finished Airing
@@ -6881,7 +6893,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 39468
 	- Genre(s): Fantasy, Isekai, Reincarnation
-	- AWC Participants (on_hold): [noimagination7](https://myanimelist.net/profile/noimagination7)
+	- AWC Participants (on_hold): [noimagination7](https://myanimelist.net/profile/noimagination7), [Stardew](https://myanimelist.net/profile/Stardew)
 	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ)
 - [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season](https://myanimelist.net/anime/40815)
 	- Publication Status: Finished Airing
@@ -6938,7 +6950,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50891
 	- Genre(s): Action, Psychological, Seinen, Supernatural
 	- AWC Participants (on_hold): [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Srdzfdxtfyufk](https://myanimelist.net/profile/Srdzfdxtfyufk)
-	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Devinitas](https://myanimelist.net/profile/Devinitas), [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jentheworld](https://myanimelist.net/profile/Jentheworld), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Robertson1](https://myanimelist.net/profile/Robertson1), [Sreyso](https://myanimelist.net/profile/Sreyso), [Tunes](https://myanimelist.net/profile/Tunes)
+	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [ca_nhat38](https://myanimelist.net/profile/ca_nhat38), [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Devinitas](https://myanimelist.net/profile/Devinitas), [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jentheworld](https://myanimelist.net/profile/Jentheworld), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Robertson1](https://myanimelist.net/profile/Robertson1), [Sreyso](https://myanimelist.net/profile/Sreyso), [Tunes](https://myanimelist.net/profile/Tunes)
 - [Hoshiai no Sora](https://myanimelist.net/anime/37972)
 	- Publication Status: Finished Airing
 	- MAL ID: 37972
@@ -7044,13 +7056,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 136
 	- Genre(s): Action, Adventure, Fantasy, Shounen
-	- AWC Participants (on_hold): [LeavesOnFire](https://myanimelist.net/profile/LeavesOnFire), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- AWC Participants (on_hold): [FDLucy](https://myanimelist.net/profile/FDLucy), [LeavesOnFire](https://myanimelist.net/profile/LeavesOnFire), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 	- AWC Participants (dropped): [serfe](https://myanimelist.net/profile/serfe), [stupidsunfish](https://myanimelist.net/profile/stupidsunfish)
 - [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061)
 	- Publication Status: Finished Airing
 	- MAL ID: 11061
 	- Genre(s): Action, Adventure, Fantasy, Shounen
-	- AWC Participants (on_hold): [Bunille](https://myanimelist.net/profile/Bunille), [chronochromata](https://myanimelist.net/profile/chronochromata), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Devil_sorrow](https://myanimelist.net/profile/Devil_sorrow), [Diaspore](https://myanimelist.net/profile/Diaspore), [Ebo](https://myanimelist.net/profile/Ebo), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [fraideii](https://myanimelist.net/profile/fraideii), [Grizz5546](https://myanimelist.net/profile/Grizz5546), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [HimeCrycho](https://myanimelist.net/profile/HimeCrycho), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Menewen](https://myanimelist.net/profile/Menewen), [mossonpizza](https://myanimelist.net/profile/mossonpizza), [nozomemee](https://myanimelist.net/profile/nozomemee), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [Salyee](https://myanimelist.net/profile/Salyee), [SebastianSteyrer](https://myanimelist.net/profile/SebastianSteyrer), [Snakering](https://myanimelist.net/profile/Snakering), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [survivor_girl](https://myanimelist.net/profile/survivor_girl), [veganismo](https://myanimelist.net/profile/veganismo), [xMincee](https://myanimelist.net/profile/xMincee)
+	- AWC Participants (on_hold): [Bunille](https://myanimelist.net/profile/Bunille), [chronochromata](https://myanimelist.net/profile/chronochromata), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Devil_sorrow](https://myanimelist.net/profile/Devil_sorrow), [Diaspore](https://myanimelist.net/profile/Diaspore), [Ebo](https://myanimelist.net/profile/Ebo), [Ennetsu](https://myanimelist.net/profile/Ennetsu), [FDLucy](https://myanimelist.net/profile/FDLucy), [fraideii](https://myanimelist.net/profile/fraideii), [Grizz5546](https://myanimelist.net/profile/Grizz5546), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [HimeCrycho](https://myanimelist.net/profile/HimeCrycho), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Menewen](https://myanimelist.net/profile/Menewen), [mossonpizza](https://myanimelist.net/profile/mossonpizza), [nozomemee](https://myanimelist.net/profile/nozomemee), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [Salyee](https://myanimelist.net/profile/Salyee), [SebastianSteyrer](https://myanimelist.net/profile/SebastianSteyrer), [Snakering](https://myanimelist.net/profile/Snakering), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [survivor_girl](https://myanimelist.net/profile/survivor_girl), [veganismo](https://myanimelist.net/profile/veganismo), [xMincee](https://myanimelist.net/profile/xMincee)
 	- AWC Participants (dropped): [Hyper_Moon](https://myanimelist.net/profile/Hyper_Moon), [LyLord](https://myanimelist.net/profile/LyLord), [TofuTears](https://myanimelist.net/profile/TofuTears)
 - [Hunter x Hunter: Original Video Animation](https://myanimelist.net/anime/137)
 	- Publication Status: Finished Airing
@@ -7125,6 +7137,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 54858
 	- Genre(s): Adult Cast, Music, Sci-Fi
 	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000), [Mikatron](https://myanimelist.net/profile/Mikatron)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [I My Me! Strawberry Eggs](https://myanimelist.net/anime/509)
 	- Publication Status: Finished Airing
 	- MAL ID: 509
@@ -7503,7 +7516,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 34012
 	- Genre(s): Fantasy, Gourmet, Isekai, Slice of Life, Workplace
 	- AWC Participants (on_hold): [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [haruneyuuki](https://myanimelist.net/profile/haruneyuuki), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [quixi](https://myanimelist.net/profile/quixi)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [huntingsounds](https://myanimelist.net/profile/huntingsounds), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere)
 - [Isekai Shokudou 2](https://myanimelist.net/anime/48804)
 	- Publication Status: Finished Airing
 	- MAL ID: 48804
@@ -7520,7 +7533,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 55848
 	- Genre(s): Action, Adult Cast, Fantasy, Isekai
 	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [Caenp17](https://myanimelist.net/profile/Caenp17), [Esperi](https://myanimelist.net/profile/Esperi), [sandro88](https://myanimelist.net/profile/sandro88), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [UncertainBeing](https://myanimelist.net/profile/UncertainBeing)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [wedsa5](https://myanimelist.net/profile/wedsa5)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew), [wedsa5](https://myanimelist.net/profile/wedsa5)
 - [Isekai Yakkyoku](https://myanimelist.net/anime/49438)
 	- Publication Status: Finished Airing
 	- MAL ID: 49438
@@ -7544,7 +7557,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 52359
 	- Genre(s): Adventure, Fantasy, Isekai, Reincarnation
 	- AWC Participants (on_hold): [Lancy12](https://myanimelist.net/profile/Lancy12), [lossetari](https://myanimelist.net/profile/lossetari), [UncertainBeing](https://myanimelist.net/profile/UncertainBeing), [xMincee](https://myanimelist.net/profile/xMincee)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Jhiday](https://myanimelist.net/profile/Jhiday), [Plate](https://myanimelist.net/profile/Plate)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Jhiday](https://myanimelist.net/profile/Jhiday), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Isekai no Seikishi Monogatari](https://myanimelist.net/anime/5781)
 	- Publication Status: Finished Airing
 	- MAL ID: 5781
@@ -7554,7 +7567,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 35203
 	- Genre(s): Adventure, Comedy, Fantasy, Harem, Isekai, Romance
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Hyoko_Yukihime](https://myanimelist.net/profile/Hyoko_Yukihime), [Jhiday](https://myanimelist.net/profile/Jhiday), [somnina](https://myanimelist.net/profile/somnina)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Hyoko_Yukihime](https://myanimelist.net/profile/Hyoko_Yukihime), [Jhiday](https://myanimelist.net/profile/Jhiday), [somnina](https://myanimelist.net/profile/somnina), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Isekai wa Smartphone to Tomo ni. 2](https://myanimelist.net/anime/51632)
 	- Publication Status: Finished Airing
 	- MAL ID: 51632
@@ -7624,7 +7637,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 52031
 	- Genre(s): Drama, Horror, Psychological, Seinen, Supernatural
 	- AWC Participants (on_hold): [MickeyMinaj](https://myanimelist.net/profile/MickeyMinaj), [Salyee](https://myanimelist.net/profile/Salyee), [Senlay](https://myanimelist.net/profile/Senlay), [VonPeco](https://myanimelist.net/profile/VonPeco)
-	- AWC Participants (dropped): [claricespectro](https://myanimelist.net/profile/claricespectro), [Devinitas](https://myanimelist.net/profile/Devinitas), [Nymeew](https://myanimelist.net/profile/Nymeew)
+	- AWC Participants (dropped): [claricespectro](https://myanimelist.net/profile/claricespectro), [Devinitas](https://myanimelist.net/profile/Devinitas), [huntingsounds](https://myanimelist.net/profile/huntingsounds), [Nymeew](https://myanimelist.net/profile/Nymeew)
 - [Itsuka Tenma no Kuro Usagi](https://myanimelist.net/anime/9750)
 	- Publication Status: Finished Airing
 	- MAL ID: 9750
@@ -7647,7 +7660,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39725
 	- Genre(s): Idols (Male), Music, School
 	- AWC Participants (on_hold): [MisaoAino](https://myanimelist.net/profile/MisaoAino), [nozomemee](https://myanimelist.net/profile/nozomemee)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [JAA Meets Yokohama](https://myanimelist.net/anime/30396)
 	- Publication Status: Finished Airing
 	- MAL ID: 30396
@@ -7756,13 +7769,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 46569
 	- Genre(s): Action, Adventure, Gore, Historical, Samurai, Shounen, Supernatural
 	- AWC Participants (on_hold): [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [ElPsyKongrooNSTC](https://myanimelist.net/profile/ElPsyKongrooNSTC), [Gunszq](https://myanimelist.net/profile/Gunszq), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [jreems](https://myanimelist.net/profile/jreems), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Jiisan Baasan Wakagaeru](https://myanimelist.net/anime/56230)
 	- Publication Status: Finished Airing
 	- MAL ID: 56230
 	- Genre(s): Comedy, Romance, Supernatural
 	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [MEW2908](https://myanimelist.net/profile/MEW2908)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kenzoku67](https://myanimelist.net/profile/Kenzoku67), [MIMx32](https://myanimelist.net/profile/MIMx32), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [silveraaki](https://myanimelist.net/profile/silveraaki), [TieboRiri](https://myanimelist.net/profile/TieboRiri)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kenzoku67](https://myanimelist.net/profile/Kenzoku67), [MIMx32](https://myanimelist.net/profile/MIMx32), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [silveraaki](https://myanimelist.net/profile/silveraaki), [Stardew](https://myanimelist.net/profile/Stardew), [TieboRiri](https://myanimelist.net/profile/TieboRiri)
 - [Jijou wo Shiranai Tenkousei ga Guigui Kuru.](https://myanimelist.net/anime/53621)
 	- Publication Status: Finished Airing
 	- MAL ID: 53621
@@ -8241,7 +8254,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40716
 	- Genre(s): Childcare, Comedy, Gag Humor, Otaku Culture, Shounen, Workplace
 	- AWC Participants (on_hold): [guyanesegoddess](https://myanimelist.net/profile/guyanesegoddess), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro)
-	- AWC Participants (dropped): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ)
+	- AWC Participants (dropped): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kakutou Bijin Wulong](https://myanimelist.net/anime/913)
 	- Publication Status: Finished Airing
 	- MAL ID: 913
@@ -8295,7 +8308,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Kami wa Game ni Ueteiru.](https://myanimelist.net/anime/50869)
 	- Publication Status: Finished Airing
 	- MAL ID: 50869
-	- Genre(s): Fantasy, High Stakes Game, Strategy Game, Suspense, Urban Fantasy
+	- Genre(s): Fantasy, High Stakes Game, Strategy Game, Suspense
 	- AWC Participants (on_hold): [guyanesegoddess](https://myanimelist.net/profile/guyanesegoddess), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [T1nyTim](https://myanimelist.net/profile/T1nyTim)
 	- AWC Participants (dropped): [_PhantomShark_](https://myanimelist.net/profile/_PhantomShark_), [andreth](https://myanimelist.net/profile/andreth), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [DebiPS](https://myanimelist.net/profile/DebiPS), [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [Jhiday](https://myanimelist.net/profile/Jhiday), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Netbug](https://myanimelist.net/profile/Netbug), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [xx_Loli_loVer_xx](https://myanimelist.net/profile/xx_Loli_loVer_xx)
 - [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312)
@@ -8369,6 +8382,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 25681
 	- Genre(s): Comedy, Mythology, Romance, Shoujo, Supernatural
 	- AWC Participants (on_hold): [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kamisama Kazoku](https://myanimelist.net/anime/990)
 	- Publication Status: Finished Airing
 	- MAL ID: 990
@@ -8515,6 +8529,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 3935
 	- Genre(s): Action, Adventure, Historical, Mecha
 	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday)
+- [Karakuri Zoushi Ayatsuri Sakon](https://myanimelist.net/anime/2204)
+	- Publication Status: Finished Airing
+	- MAL ID: 2204
+	- Genre(s): Detective, Mystery, Shounen, Suspense
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Karaoke Senshi Mike-tarou](https://myanimelist.net/anime/5140)
 	- Publication Status: Finished Airing
 	- MAL ID: 5140
@@ -8545,6 +8564,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 145
 	- Genre(s): Comedy, Drama, Romance, School, Shoujo
 	- AWC Participants (on_hold): [babadeebadoo](https://myanimelist.net/profile/babadeebadoo), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Hyper_Moon](https://myanimelist.net/profile/Hyper_Moon), [Korrected](https://myanimelist.net/profile/Korrected), [narken2254](https://myanimelist.net/profile/narken2254), [rahillimitci](https://myanimelist.net/profile/rahillimitci)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Karin](https://myanimelist.net/anime/469)
 	- Publication Status: Finished Airing
 	- MAL ID: 469
@@ -8670,7 +8690,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 24439
 	- Genre(s): Action, Fantasy, Shounen, Super Power, Urban Fantasy, Vampire
-	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [Lancy12](https://myanimelist.net/profile/Lancy12), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [nozomemee](https://myanimelist.net/profile/nozomemee), [Plaxsin](https://myanimelist.net/profile/Plaxsin)
+	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [FDLucy](https://myanimelist.net/profile/FDLucy), [Lancy12](https://myanimelist.net/profile/Lancy12), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [nozomemee](https://myanimelist.net/profile/nozomemee), [Plaxsin](https://myanimelist.net/profile/Plaxsin)
 	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [cloudangel64](https://myanimelist.net/profile/cloudangel64), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [Kimura](https://myanimelist.net/profile/Kimura), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [narken2254](https://myanimelist.net/profile/narken2254), [veganismo](https://myanimelist.net/profile/veganismo)
 - [Kekkai Sensen & Beyond](https://myanimelist.net/anime/34451)
 	- Publication Status: Finished Airing
@@ -8831,6 +8851,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 218
 	- Genre(s): Action, Comedy, Mecha, Military, Parody, Romance, Sci-Fi, Space
 	- AWC Participants (on_hold): [Helvian494743](https://myanimelist.net/profile/Helvian494743)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kidou Senshi Gundam](https://myanimelist.net/anime/80)
 	- Publication Status: Finished Airing
 	- MAL ID: 80
@@ -9050,7 +9071,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40595
 	- Genre(s): Action, Fantasy, Military, Romance
 	- AWC Participants (on_hold): [kasvke](https://myanimelist.net/profile/kasvke)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [Lancy12](https://myanimelist.net/profile/Lancy12)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [Lancy12](https://myanimelist.net/profile/Lancy12), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kimi to Boku.](https://myanimelist.net/anime/10460)
 	- Publication Status: Finished Airing
 	- MAL ID: 10460
@@ -9186,7 +9207,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 22535
 	- Genre(s): Action, Gore, Horror, Psychological, Sci-Fi, Seinen, Suspense
-	- AWC Participants (on_hold): [Ariies_](https://myanimelist.net/profile/Ariies_), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu)
+	- AWC Participants (on_hold): [Ariies_](https://myanimelist.net/profile/Ariies_), [FDLucy](https://myanimelist.net/profile/FDLucy), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu)
 	- AWC Participants (dropped): [Plate](https://myanimelist.net/profile/Plate)
 - [Kishibe Rohan wa Ugokanai](https://myanimelist.net/anime/33191)
 	- Publication Status: Finished Airing
@@ -9214,7 +9235,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37475
 	- Genre(s): Action, Comedy, Romance, School, Shounen
 	- AWC Participants (on_hold): [sassss](https://myanimelist.net/profile/sassss)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sarada](https://myanimelist.net/profile/Sarada)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sarada](https://myanimelist.net/profile/Sarada), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kiss x Sis](https://myanimelist.net/anime/5042)
 	- Publication Status: Finished Airing
 	- MAL ID: 5042
@@ -9266,7 +9287,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 34104
 	- Genre(s): Action, Fantasy, Isekai, Mecha, Reincarnation, School
 	- AWC Participants (on_hold): [Senlay](https://myanimelist.net/profile/Senlay), [Yamcha17](https://myanimelist.net/profile/Yamcha17), [Yuki-](https://myanimelist.net/profile/Yuki-)
-	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Devinitas](https://myanimelist.net/profile/Devinitas)
+	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Devinitas](https://myanimelist.net/profile/Devinitas), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kobato.](https://myanimelist.net/anime/5678)
 	- Publication Status: Finished Airing
 	- MAL ID: 5678
@@ -9284,7 +9305,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39247
 	- Genre(s): Slice of Life, Supernatural
 	- AWC Participants (on_hold): [blurubberlizard](https://myanimelist.net/profile/blurubberlizard), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [Lancy12](https://myanimelist.net/profile/Lancy12), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kochouki: Wakaki Nobunaga](https://myanimelist.net/anime/38920)
 	- Publication Status: Finished Airing
 	- MAL ID: 38920
@@ -9317,7 +9338,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40075
 	- Genre(s): Mystery, Reverse Harem, Romance, Sci-Fi, Super Power
 	- AWC Participants (on_hold): [nightfury10](https://myanimelist.net/profile/nightfury10), [nozomemee](https://myanimelist.net/profile/nozomemee), [Robertson1](https://myanimelist.net/profile/Robertson1)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [blackmagemasta](https://myanimelist.net/profile/blackmagemasta), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Punkero](https://myanimelist.net/profile/Punkero)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [blackmagemasta](https://myanimelist.net/profile/blackmagemasta), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Punkero](https://myanimelist.net/profile/Punkero), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Koi to Senkyo to Chocolate](https://myanimelist.net/anime/12175)
 	- Publication Status: Finished Airing
 	- MAL ID: 12175
@@ -9532,7 +9553,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 44516
 	- Genre(s): Action, Adult Cast, Josei, Organized Crime, Romance
 	- AWC Participants (on_hold): [nightjasmine](https://myanimelist.net/profile/nightjasmine)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jhiday](https://myanimelist.net/profile/Jhiday), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [Slarkero](https://myanimelist.net/profile/Slarkero)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jhiday](https://myanimelist.net/profile/Jhiday), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [Slarkero](https://myanimelist.net/profile/Slarkero), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Koroshiya-san: The Hired Gun](https://myanimelist.net/anime/20329)
 	- Publication Status: Finished Airing
 	- MAL ID: 20329
@@ -9598,7 +9619,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50590
 	- Genre(s): Fantasy, Historical, Josei, Mystery, Mythology
 	- AWC Participants (on_hold): [Caenp17](https://myanimelist.net/profile/Caenp17), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [nightjasmine](https://myanimelist.net/profile/nightjasmine), [nozomemee](https://myanimelist.net/profile/nozomemee), [Robertson1](https://myanimelist.net/profile/Robertson1), [thriwien](https://myanimelist.net/profile/thriwien)
-	- AWC Participants (dropped): [Sam565](https://myanimelist.net/profile/Sam565)
+	- AWC Participants (dropped): [Sam565](https://myanimelist.net/profile/Sam565), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Koume-chan ga Iku!](https://myanimelist.net/anime/6571)
 	- Publication Status: Finished Airing
 	- MAL ID: 6571
@@ -9693,7 +9714,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49776
 	- Genre(s): Childcare, Organized Crime, Slice of Life
 	- AWC Participants (on_hold): [Caenp17](https://myanimelist.net/profile/Caenp17), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Sreyso](https://myanimelist.net/profile/Sreyso), [TaffieChan](https://myanimelist.net/profile/TaffieChan)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jhiday](https://myanimelist.net/profile/Jhiday), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [veganismo](https://myanimelist.net/profile/veganismo), [windyscar](https://myanimelist.net/profile/windyscar)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [Devinitas](https://myanimelist.net/profile/Devinitas), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Jhiday](https://myanimelist.net/profile/Jhiday), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [Stardew](https://myanimelist.net/profile/Stardew), [veganismo](https://myanimelist.net/profile/veganismo), [windyscar](https://myanimelist.net/profile/windyscar)
 - [Kumo desu ga, Nani ka?](https://myanimelist.net/anime/37984)
 	- Publication Status: Finished Airing
 	- MAL ID: 37984
@@ -9802,7 +9823,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 55855
 	- Genre(s): Action, Historical, Mystery, Mythology, School, Shounen, Supernatural
-	- AWC Participants (on_hold): [Luffy_15](https://myanimelist.net/profile/Luffy_15), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
+	- AWC Participants (on_hold): [Luffy_15](https://myanimelist.net/profile/Luffy_15), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru), [Stardew](https://myanimelist.net/profile/Stardew)
 	- AWC Participants (dropped): [Plate](https://myanimelist.net/profile/Plate)
 - [Kurozuka](https://myanimelist.net/anime/5039)
 	- Publication Status: Finished Airing
@@ -9864,12 +9885,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 37458
 	- Genre(s): Detective, Drama, Mystery, Workplace
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Sam565](https://myanimelist.net/profile/Sam565), [Titadou](https://myanimelist.net/profile/Titadou)
+	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Sam565](https://myanimelist.net/profile/Sam565), [Stardew](https://myanimelist.net/profile/Stardew), [Titadou](https://myanimelist.net/profile/Titadou)
 - [Kyou kara Maou!](https://myanimelist.net/anime/251)
 	- Publication Status: Finished Airing
 	- MAL ID: 251
 	- Genre(s): Adventure, Comedy, Fantasy, Isekai, Shoujo
-	- AWC Participants (on_hold): [Caramel-san](https://myanimelist.net/profile/Caramel-san), [goncix3000](https://myanimelist.net/profile/goncix3000), [TokyoFell](https://myanimelist.net/profile/TokyoFell)
+	- AWC Participants (on_hold): [Caramel-san](https://myanimelist.net/profile/Caramel-san), [goncix3000](https://myanimelist.net/profile/goncix3000), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [TokyoFell](https://myanimelist.net/profile/TokyoFell)
 	- AWC Participants (dropped): [Ebo](https://myanimelist.net/profile/Ebo), [lubryka](https://myanimelist.net/profile/lubryka)
 - [Kyou kara Maou! R](https://myanimelist.net/anime/2971)
 	- Publication Status: Finished Airing
@@ -9904,7 +9925,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 28423
 	- Genre(s): Comedy, Mythology, School, Shounen, Supernatural
 	- AWC Participants (on_hold): [GarnetTilVII](https://myanimelist.net/profile/GarnetTilVII), [KingYoshi](https://myanimelist.net/profile/KingYoshi)
-	- AWC Participants (dropped): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kimura](https://myanimelist.net/profile/Kimura), [minimiau](https://myanimelist.net/profile/minimiau)
+	- AWC Participants (dropped): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kimura](https://myanimelist.net/profile/Kimura), [minimiau](https://myanimelist.net/profile/minimiau), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kyoukaisenjou no Horizon](https://myanimelist.net/anime/10456)
 	- Publication Status: Finished Airing
 	- MAL ID: 10456
@@ -9962,7 +9983,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 41833
 	- Genre(s): Adult Cast, Comedy, Fantasy, Gag Humor, Shounen, Urban Fantasy, Vampire
 	- AWC Participants (on_hold): [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Mikatron](https://myanimelist.net/profile/Mikatron), [nozomemee](https://myanimelist.net/profile/nozomemee), [quixi](https://myanimelist.net/profile/quixi), [UncertainBeing](https://myanimelist.net/profile/UncertainBeing)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sreyso](https://myanimelist.net/profile/Sreyso)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sreyso](https://myanimelist.net/profile/Sreyso), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Kyuuketsuki Sugu Shinu 2](https://myanimelist.net/anime/50287)
 	- Publication Status: Finished Airing
 	- MAL ID: 50287
@@ -10431,7 +10452,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39071
 	- Genre(s): CGDCT, Comedy, Mahou Shoujo, School
 	- AWC Participants (on_hold): [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Helvian494743](https://myanimelist.net/profile/Helvian494743)
-	- AWC Participants (dropped): [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Slarkero](https://myanimelist.net/profile/Slarkero)
+	- AWC Participants (dropped): [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Slarkero](https://myanimelist.net/profile/Slarkero), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Machikado Mazoku: 2-choume](https://myanimelist.net/anime/42745)
 	- Publication Status: Finished Airing
 	- MAL ID: 42745
@@ -10446,7 +10467,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 1088
 	- Genre(s): Action, Mecha, Military, Music, Romance, Sci-Fi, Space
-	- AWC Participants (on_hold): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [mozgow](https://myanimelist.net/profile/mozgow), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [rahillimitci](https://myanimelist.net/profile/rahillimitci)
+	- AWC Participants (on_hold): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [mozgow](https://myanimelist.net/profile/mozgow), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [rahillimitci](https://myanimelist.net/profile/rahillimitci), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000)
 - [Macross 7](https://myanimelist.net/anime/1397)
 	- Publication Status: Finished Airing
@@ -10511,7 +10532,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 56449
 	- Genre(s): Fantasy, Isekai, Reincarnation, Slice of Life
 	- AWC Participants (on_hold): [Lancy12](https://myanimelist.net/profile/Lancy12), [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [perseii](https://myanimelist.net/profile/perseii), [soowo](https://myanimelist.net/profile/soowo)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [perseii](https://myanimelist.net/profile/perseii), [soowo](https://myanimelist.net/profile/soowo), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Maesetsu!](https://myanimelist.net/anime/40085)
 	- Publication Status: Finished Airing
 	- MAL ID: 40085
@@ -10653,7 +10674,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 36902
 	- Genre(s): Comedy, Idols (Female), Magical Sex Shift, Mahou Shoujo, Parody
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [DeLuieTand](https://myanimelist.net/profile/DeLuieTand), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [HimeCrycho](https://myanimelist.net/profile/HimeCrycho), [Kaylee](https://myanimelist.net/profile/Kaylee), [Shukkets](https://myanimelist.net/profile/Shukkets), [Sreyso](https://myanimelist.net/profile/Sreyso), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [DeLuieTand](https://myanimelist.net/profile/DeLuieTand), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [HimeCrycho](https://myanimelist.net/profile/HimeCrycho), [Kaylee](https://myanimelist.net/profile/Kaylee), [Shukkets](https://myanimelist.net/profile/Shukkets), [Sreyso](https://myanimelist.net/profile/Sreyso), [Stardew](https://myanimelist.net/profile/Stardew), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Mahou Shoujo Site](https://myanimelist.net/anime/36266)
 	- Publication Status: Finished Airing
 	- MAL ID: 36266
@@ -10732,7 +10753,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 48842
 	- Genre(s): Action, Adventure, Anthropomorphic, Comedy, Fantasy
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [NekoEvie](https://myanimelist.net/profile/NekoEvie)
+	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [NekoEvie](https://myanimelist.net/profile/NekoEvie), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mahoutsukai Sally](https://myanimelist.net/anime/3356)
 	- Publication Status: Finished Airing
 	- MAL ID: 3356
@@ -10781,6 +10802,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 99
 	- Genre(s): Comedy, Drama, Fantasy
 	- AWC Participants (on_hold): [tomhannay](https://myanimelist.net/profile/tomhannay)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Maicching Machiko-sensei](https://myanimelist.net/anime/3391)
 	- Publication Status: Finished Airing
 	- MAL ID: 3391
@@ -10854,7 +10876,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 52816
 	- Genre(s): Action, Adult Cast, Fantasy, Gore, Seinen
 	- AWC Participants (on_hold): [SodaRoll](https://myanimelist.net/profile/SodaRoll)
-	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [CLModerno](https://myanimelist.net/profile/CLModerno), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Kaylee](https://myanimelist.net/profile/Kaylee), [narken2254](https://myanimelist.net/profile/narken2254), [zhabnica](https://myanimelist.net/profile/zhabnica)
+	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [CLModerno](https://myanimelist.net/profile/CLModerno), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Kaylee](https://myanimelist.net/profile/Kaylee), [narken2254](https://myanimelist.net/profile/narken2254), [Stardew](https://myanimelist.net/profile/Stardew), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Major 2nd](https://myanimelist.net/anime/36565)
 	- Publication Status: Finished Airing
 	- MAL ID: 36565
@@ -10959,6 +10981,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 55195
 	- Genre(s): Comedy
 	- AWC Participants (on_hold): [Jokobo](https://myanimelist.net/profile/Jokobo)
+- [Mameneko](https://myanimelist.net/anime/36728)
+	- Publication Status: Finished Airing
+	- MAL ID: 36728
+	- Genre(s): Pets, Slice of Life
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mameshi-Pamyu-Pamyu](https://myanimelist.net/anime/33551)
 	- Publication Status: Finished Airing
 	- MAL ID: 33551
@@ -10984,6 +11011,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 31537
 	- Genre(s): Fantasy, Iyashikei, School, Slice of Life
 	- AWC Participants (on_hold): [Helvian494743](https://myanimelist.net/profile/Helvian494743)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mangaka-san to Assistant-san to The Animation](https://myanimelist.net/anime/21863)
 	- Publication Status: Finished Airing
 	- MAL ID: 21863
@@ -11043,7 +11071,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 56400
 	- Genre(s): Action, Adventure, Fantasy, Isekai
-	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Maougun Saikyou no Majutsushi wa Ningen datta](https://myanimelist.net/anime/57876)
 	- Publication Status: Finished Airing
 	- MAL ID: 57876
@@ -11110,7 +11138,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 41265
 	- Genre(s): Action, Adult Cast, Historical, Military, Supernatural, Vampire
 	- AWC Participants (on_hold): [nozomemee](https://myanimelist.net/profile/nozomemee), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [MIMx32](https://myanimelist.net/profile/MIMx32), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [MIMx32](https://myanimelist.net/profile/MIMx32), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Marvel Disk Wars: The Avengers](https://myanimelist.net/anime/21013)
 	- Publication Status: Finished Airing
 	- MAL ID: 21013
@@ -11138,7 +11166,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 42590
 	- Genre(s): Drama, Music, School, Shounen
 	- AWC Participants (on_hold): [hailhellfire](https://myanimelist.net/profile/hailhellfire), [nozomemee](https://myanimelist.net/profile/nozomemee), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru), [Sreyso](https://myanimelist.net/profile/Sreyso)
-	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sam565](https://myanimelist.net/profile/Sam565)
+	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [Sam565](https://myanimelist.net/profile/Sam565), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mashiro-iro Symphony: The Color of Lovers](https://myanimelist.net/anime/10397)
 	- Publication Status: Finished Airing
 	- MAL ID: 10397
@@ -11188,7 +11216,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 50392
 	- Genre(s): Action, Ecchi, Fantasy, Harem, Shounen
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [kjplethodon](https://myanimelist.net/profile/kjplethodon), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [scrouge](https://myanimelist.net/profile/scrouge)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [kjplethodon](https://myanimelist.net/profile/kjplethodon), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [scrouge](https://myanimelist.net/profile/scrouge), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mawaru Penguindrum](https://myanimelist.net/anime/10721)
 	- Publication Status: Finished Airing
 	- MAL ID: 10721
@@ -11394,7 +11422,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 54794
 	- Genre(s): Action, Sci-Fi
 	- AWC Participants (on_hold): [AjaxTSS](https://myanimelist.net/profile/AjaxTSS), [Sreyso](https://myanimelist.net/profile/Sreyso)
-	- AWC Participants (dropped): [bigdud24](https://myanimelist.net/profile/bigdud24), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [CLModerno](https://myanimelist.net/profile/CLModerno), [Devinitas](https://myanimelist.net/profile/Devinitas), [FallowNorth](https://myanimelist.net/profile/FallowNorth), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kuba_35910](https://myanimelist.net/profile/Kuba_35910), [LyLord](https://myanimelist.net/profile/LyLord), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (dropped): [bigdud24](https://myanimelist.net/profile/bigdud24), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [CLModerno](https://myanimelist.net/profile/CLModerno), [Devinitas](https://myanimelist.net/profile/Devinitas), [FallowNorth](https://myanimelist.net/profile/FallowNorth), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kuba_35910](https://myanimelist.net/profile/Kuba_35910), [LyLord](https://myanimelist.net/profile/LyLord), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mewkledreamy](https://myanimelist.net/anime/40327)
 	- Publication Status: Finished Airing
 	- MAL ID: 40327
@@ -11445,7 +11473,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 48483
 	- Genre(s): Comedy, Horror, School
-	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [Ginoza](https://myanimelist.net/profile/Ginoza), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [Le_Solo_Guy](https://myanimelist.net/profile/Le_Solo_Guy), [lemonmon](https://myanimelist.net/profile/lemonmon), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Stargate18](https://myanimelist.net/profile/Stargate18)
+	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [EntameWitchLulu](https://myanimelist.net/profile/EntameWitchLulu), [FDLucy](https://myanimelist.net/profile/FDLucy), [Ginoza](https://myanimelist.net/profile/Ginoza), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [Le_Solo_Guy](https://myanimelist.net/profile/Le_Solo_Guy), [lemonmon](https://myanimelist.net/profile/lemonmon), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Stargate18](https://myanimelist.net/profile/Stargate18)
 	- AWC Participants (dropped): [bigdud24](https://myanimelist.net/profile/bigdud24), [Bunille](https://myanimelist.net/profile/Bunille), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [sassss](https://myanimelist.net/profile/sassss)
 - [Migi to Dali](https://myanimelist.net/anime/50586)
 	- Publication Status: Finished Airing
@@ -11458,6 +11486,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49430
 	- Genre(s): Boys Love, Drama, Vampire
 	- AWC Participants (on_hold): [Rinarin](https://myanimelist.net/profile/Rinarin)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Miira no Kaikata](https://myanimelist.net/anime/35828)
 	- Publication Status: Finished Airing
 	- MAL ID: 35828
@@ -11636,7 +11665,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 32182
 	- Genre(s): Action, Comedy, Supernatural
 	- AWC Participants (on_hold): [Bakunoaato](https://myanimelist.net/profile/Bakunoaato), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [hnowak214](https://myanimelist.net/profile/hnowak214), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
-	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [SebastianSteyrer](https://myanimelist.net/profile/SebastianSteyrer)
+	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [SebastianSteyrer](https://myanimelist.net/profile/SebastianSteyrer), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Mob Psycho 100 II](https://myanimelist.net/anime/37510)
 	- Publication Status: Finished Airing
 	- MAL ID: 37510
@@ -11885,7 +11914,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 50923
 	- Genre(s): Drama, Josei, Romance
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Titadou](https://myanimelist.net/profile/Titadou)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Stardew](https://myanimelist.net/profile/Stardew), [Titadou](https://myanimelist.net/profile/Titadou)
 - [Mushikago no Cagaster](https://myanimelist.net/anime/38663)
 	- Publication Status: Finished Airing
 	- MAL ID: 38663
@@ -12104,7 +12133,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 34577
 	- Genre(s): Action, Adventure, Fantasy, Shounen
 	- AWC Participants (on_hold): [eirian_j](https://myanimelist.net/profile/eirian_j), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [Yagami-Zero](https://myanimelist.net/profile/Yagami-Zero)
-	- AWC Participants (dropped): [Titadou](https://myanimelist.net/profile/Titadou)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew), [Titadou](https://myanimelist.net/profile/Titadou)
 - [Nanatsu no Taizai: Kamigami no Gekirin](https://myanimelist.net/anime/39701)
 	- Publication Status: Finished Airing
 	- MAL ID: 39701
@@ -12138,6 +12167,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Genre(s): Comedy, Ecchi, School, Seinen
 	- AWC Participants (on_hold): [Helvian494743](https://myanimelist.net/profile/Helvian494743)
 	- AWC Participants (dropped): [Geekwriter](https://myanimelist.net/profile/Geekwriter)
+- [Nara-shi x Inoue Ryou](https://myanimelist.net/anime/37335)
+	- Publication Status: Finished Airing
+	- MAL ID: 37335
+	- Genre(s): Comedy, Music
+	- AWC Participants (on_hold): [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Narutaru: Mukuro Naru Hoshi Tama Taru Ko](https://myanimelist.net/anime/838)
 	- Publication Status: Finished Airing
 	- MAL ID: 838
@@ -12722,7 +12756,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 48641
 	- Genre(s): Comedy, Fantasy, Mythology
 	- AWC Participants (on_hold): [Ariies_](https://myanimelist.net/profile/Ariies_), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Obsolete](https://myanimelist.net/anime/40438)
 	- Publication Status: Finished Airing
 	- MAL ID: 40438
@@ -12755,6 +12789,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 46102
 	- Genre(s): Adult Cast, Anthropomorphic, Award Winning, Drama, Mystery, Organized Crime, Suspense
 	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [ClassyPenguino](https://myanimelist.net/profile/ClassyPenguino), [fraideii](https://myanimelist.net/profile/fraideii), [nozomemee](https://myanimelist.net/profile/nozomemee), [Stargate18](https://myanimelist.net/profile/Stargate18), [TofuTears](https://myanimelist.net/profile/TofuTears)
+- [Odekake Kozame](https://myanimelist.net/anime/55463)
+	- Publication Status: Finished Airing
+	- MAL ID: 55463
+	- Genre(s): Anthropomorphic, Slice of Life
+	- AWC Participants (on_hold): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Odoru Mowai-kun](https://myanimelist.net/anime/40040)
 	- Publication Status: Finished Airing
 	- MAL ID: 40040
@@ -13221,7 +13260,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 42282
 	- Genre(s): Comedy, Fantasy, Isekai, Reverse Harem, Romance, School, Shoujo, Villainess
 	- AWC Participants (on_hold): [Mikatron](https://myanimelist.net/profile/Mikatron), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [veganismo](https://myanimelist.net/profile/veganismo)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Otome Youkai Zakuro](https://myanimelist.net/anime/8476)
 	- Publication Status: Finished Airing
 	- MAL ID: 8476
@@ -13325,13 +13364,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 54301
 	- Genre(s): Drama, Racing
 	- AWC Participants (on_hold): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [Gunszq](https://myanimelist.net/profile/Gunszq), [sodapoplio](https://myanimelist.net/profile/sodapoplio), [Sreyso](https://myanimelist.net/profile/Sreyso)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [narken2254](https://myanimelist.net/profile/narken2254)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [narken2254](https://myanimelist.net/profile/narken2254), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Owari no Seraph](https://myanimelist.net/anime/26243)
 	- Publication Status: Finished Airing
 	- MAL ID: 26243
 	- Genre(s): Action, Drama, Fantasy, Military, Shounen, Vampire
 	- AWC Participants (on_hold): [TokyoFell](https://myanimelist.net/profile/TokyoFell)
-	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [kaminoitoko](https://myanimelist.net/profile/kaminoitoko), [Kimura](https://myanimelist.net/profile/Kimura), [nyomdalee](https://myanimelist.net/profile/nyomdalee)
+	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [kaminoitoko](https://myanimelist.net/profile/kaminoitoko), [Kimura](https://myanimelist.net/profile/Kimura), [nyomdalee](https://myanimelist.net/profile/nyomdalee), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Owari no Seraph: Nagoya Kessen-hen](https://myanimelist.net/anime/28927)
 	- Publication Status: Finished Airing
 	- MAL ID: 28927
@@ -13391,7 +13430,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 8795
 	- Genre(s): Action, Comedy, Ecchi, Fantasy, Gag Humor, Parody
 	- AWC Participants (on_hold): [TahZin](https://myanimelist.net/profile/TahZin)
-	- AWC Participants (dropped): [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Liaeves](https://myanimelist.net/profile/Liaeves)
+	- AWC Participants (dropped): [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [Liaeves](https://myanimelist.net/profile/Liaeves), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Papa Katsu!](https://myanimelist.net/anime/49987)
 	- Publication Status: Finished Airing
 	- MAL ID: 49987
@@ -13456,7 +13495,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 42627
 	- Genre(s): Action, Adventure, Fantasy, Gore, Shounen
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Jhiday](https://myanimelist.net/profile/Jhiday), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Thrasher96](https://myanimelist.net/profile/Thrasher96)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Jhiday](https://myanimelist.net/profile/Jhiday), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Stardew](https://myanimelist.net/profile/Stardew), [Thrasher96](https://myanimelist.net/profile/Thrasher96)
 - [Peach Girl](https://myanimelist.net/anime/325)
 	- Publication Status: Finished Airing
 	- MAL ID: 325
@@ -13498,7 +13537,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 36023
 	- Genre(s): Action, School, Super Power
-	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MEW2908](https://myanimelist.net/profile/MEW2908)
+	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MEW2908](https://myanimelist.net/profile/MEW2908), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Cezrye](https://myanimelist.net/profile/Cezrye), [Crimson_Mage](https://myanimelist.net/profile/Crimson_Mage), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [Harisrox](https://myanimelist.net/profile/Harisrox), [jeffu](https://myanimelist.net/profile/jeffu), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [rozewald](https://myanimelist.net/profile/rozewald)
 - [Persona: Trinity Soul](https://myanimelist.net/anime/3366)
 	- Publication Status: Finished Airing
@@ -13653,7 +13692,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 44961
 	- Genre(s): Drama, Mythology, Psychological, Shounen, Supernatural, Survival, Suspense
-	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
+	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [FDLucy](https://myanimelist.net/profile/FDLucy), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [MisaoAino](https://myanimelist.net/profile/MisaoAino), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
 	- AWC Participants (dropped): [Ariies_](https://myanimelist.net/profile/Ariies_), [blackmagemasta](https://myanimelist.net/profile/blackmagemasta), [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [henribellani](https://myanimelist.net/profile/henribellani), [maricharmix](https://myanimelist.net/profile/maricharmix), [Nymeew](https://myanimelist.net/profile/Nymeew), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Plunderer](https://myanimelist.net/anime/37345)
 	- Publication Status: Finished Airing
@@ -13666,6 +13705,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 35737
 	- Genre(s): Action, Detective, Mystery, Psychological, Sci-Fi, Seinen, Suspense
 	- AWC Participants (on_hold): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [Harisrox](https://myanimelist.net/profile/Harisrox), [nyanko](https://myanimelist.net/profile/nyanko)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Pokemon](https://myanimelist.net/anime/527)
 	- Publication Status: Finished Airing
 	- MAL ID: 527
@@ -13702,7 +13742,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 1565
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Kids
-	- AWC Participants (on_hold): [GRASSCIA](https://myanimelist.net/profile/GRASSCIA), [hinagatari](https://myanimelist.net/profile/hinagatari), [inklingboi08](https://myanimelist.net/profile/inklingboi08), [teababe27](https://myanimelist.net/profile/teababe27)
+	- AWC Participants (on_hold): [GRASSCIA](https://myanimelist.net/profile/GRASSCIA), [hinagatari](https://myanimelist.net/profile/hinagatari), [inklingboi08](https://myanimelist.net/profile/inklingboi08), [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [teababe27](https://myanimelist.net/profile/teababe27)
 - [Pokemon Generations](https://myanimelist.net/anime/34514)
 	- Publication Status: Finished Airing
 	- MAL ID: 34514
@@ -13725,6 +13765,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 31592
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Kids
 	- AWC Participants (on_hold): [hackernor](https://myanimelist.net/profile/hackernor)
+- [Pokemon: Mezase Pokemon Master](https://myanimelist.net/anime/53874)
+	- Publication Status: Finished Airing
+	- MAL ID: 53874
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Kids
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Poketoon](https://myanimelist.net/anime/42161)
 	- Publication Status: Finished Airing
 	- MAL ID: 42161
@@ -13969,6 +14014,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Genre(s): Action, Fantasy, Sci-Fi, Super Power
 	- AWC Participants (on_hold): [Esperi](https://myanimelist.net/profile/Esperi)
 	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Plaxsin](https://myanimelist.net/profile/Plaxsin)
+- [Quanzhi Fashi](https://myanimelist.net/anime/34300)
+	- Publication Status: Finished Airing
+	- MAL ID: 34300
+	- Genre(s): Action, Fantasy, School
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Quanzhi Fashi II](https://myanimelist.net/anime/36318)
 	- Publication Status: Finished Airing
 	- MAL ID: 36318
@@ -14073,7 +14123,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 165
 	- Genre(s): Action, Award Winning, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi, Suspense
-	- AWC Participants (on_hold): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [Phraze](https://myanimelist.net/profile/Phraze)
+	- AWC Participants (on_hold): [cloudangel64](https://myanimelist.net/profile/cloudangel64), [Phraze](https://myanimelist.net/profile/Phraze), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000)
 - [Rail Romanesque](https://myanimelist.net/anime/40958)
 	- Publication Status: Finished Airing
@@ -14149,7 +14199,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 25859
 	- Genre(s): CGDCT, Comedy, School, Supernatural
 	- AWC Participants (on_hold): [nozomemee](https://myanimelist.net/profile/nozomemee), [Slarkero](https://myanimelist.net/profile/Slarkero)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [Catexia](https://myanimelist.net/profile/Catexia), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Kimura](https://myanimelist.net/profile/Kimura)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [Catexia](https://myanimelist.net/profile/Catexia), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Kimura](https://myanimelist.net/profile/Kimura), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Re-Main](https://myanimelist.net/anime/48406)
 	- Publication Status: Finished Airing
 	- MAL ID: 48406
@@ -14172,7 +14222,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 56690
 	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [xMincee](https://myanimelist.net/profile/xMincee)
-	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Ebo](https://myanimelist.net/profile/Ebo), [GracefulOnion](https://myanimelist.net/profile/GracefulOnion), [Jhiday](https://myanimelist.net/profile/Jhiday), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Sreyso](https://myanimelist.net/profile/Sreyso)
+	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Ebo](https://myanimelist.net/profile/Ebo), [GracefulOnion](https://myanimelist.net/profile/GracefulOnion), [Jhiday](https://myanimelist.net/profile/Jhiday), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Rage_Beat06](https://myanimelist.net/profile/Rage_Beat06), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim), [Sreyso](https://myanimelist.net/profile/Sreyso), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Re:Petit kara Hajimeru Isekai Seikatsu](https://myanimelist.net/anime/33569)
 	- Publication Status: Finished Airing
 	- MAL ID: 33569
@@ -14345,6 +14395,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 35777
 	- Genre(s): Anthropomorphic, Iyashikei, Kids, Slice of Life
 	- AWC Participants (on_hold): [quinnergy](https://myanimelist.net/profile/quinnergy)
+- [Ring ni Kakero 1](https://myanimelist.net/anime/23)
+	- Publication Status: Finished Airing
+	- MAL ID: 23
+	- Genre(s): Combat Sports, Shounen, Sports
+	- AWC Participants (on_hold): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Rinkai!](https://myanimelist.net/anime/54859)
 	- Publication Status: Finished Airing
 	- MAL ID: 54859
@@ -14399,7 +14454,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 38707
 	- Genre(s): Adventure, Comedy, Sci-Fi, Space
 	- AWC Participants (on_hold): [Luffy_15](https://myanimelist.net/profile/Luffy_15), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [starkitty466](https://myanimelist.net/profile/starkitty466)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devil_sorrow](https://myanimelist.net/profile/Devil_sorrow), [Devinitas](https://myanimelist.net/profile/Devinitas), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Jhiday](https://myanimelist.net/profile/Jhiday), [Monodami](https://myanimelist.net/profile/Monodami)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devil_sorrow](https://myanimelist.net/profile/Devil_sorrow), [Devinitas](https://myanimelist.net/profile/Devinitas), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Jhiday](https://myanimelist.net/profile/Jhiday), [Monodami](https://myanimelist.net/profile/Monodami), [Stardew](https://myanimelist.net/profile/Stardew)
 - [RoboMasters the Animated Series](https://myanimelist.net/anime/34903)
 	- Publication Status: Finished Airing
 	- MAL ID: 34903
@@ -14783,6 +14838,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 1914
 	- Genre(s): Adventure, Fantasy, Historical, Reverse Harem, Romance, Shoujo
 	- AWC Participants (on_hold): [leapylee](https://myanimelist.net/profile/leapylee), [Naru-chan](https://myanimelist.net/profile/Naru-chan)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Saiunkoku Monogatari Recaps](https://myanimelist.net/anime/2193)
 	- Publication Status: Finished Airing
 	- MAL ID: 2193
@@ -15429,7 +15485,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 41456
 	- Genre(s): Action, Comedy, Fantasy, Isekai
 	- AWC Participants (on_hold): [Gwathgor](https://myanimelist.net/profile/Gwathgor), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Lake-](https://myanimelist.net/profile/Lake-), [Le_Solo_Guy](https://myanimelist.net/profile/Le_Solo_Guy), [m3dama_star](https://myanimelist.net/profile/m3dama_star), [nozomemee](https://myanimelist.net/profile/nozomemee), [Stargate18](https://myanimelist.net/profile/Stargate18)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Cezrye](https://myanimelist.net/profile/Cezrye), [Devinitas](https://myanimelist.net/profile/Devinitas), [lubryka](https://myanimelist.net/profile/lubryka)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Cezrye](https://myanimelist.net/profile/Cezrye), [Devinitas](https://myanimelist.net/profile/Devinitas), [lubryka](https://myanimelist.net/profile/lubryka), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Senyoku no Sigrdrifa](https://myanimelist.net/anime/41372)
 	- Publication Status: Finished Airing
 	- MAL ID: 41372
@@ -15460,7 +15516,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 339
 	- Genre(s): Avant Garde, Award Winning, Drama, Mystery, Psychological, Sci-Fi, Supernatural, Suspense
-	- AWC Participants (on_hold): [4RealAngel](https://myanimelist.net/profile/4RealAngel), [Chico_del_este](https://myanimelist.net/profile/Chico_del_este), [dhrvrathre](https://myanimelist.net/profile/dhrvrathre), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [TofuTears](https://myanimelist.net/profile/TofuTears)
+	- AWC Participants (on_hold): [4RealAngel](https://myanimelist.net/profile/4RealAngel), [Chico_del_este](https://myanimelist.net/profile/Chico_del_este), [dhrvrathre](https://myanimelist.net/profile/dhrvrathre), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [FDLucy](https://myanimelist.net/profile/FDLucy), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [TofuTears](https://myanimelist.net/profile/TofuTears)
 	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [fraideii](https://myanimelist.net/profile/fraideii), [Sarexca](https://myanimelist.net/profile/Sarexca), [sassss](https://myanimelist.net/profile/sassss)
 - [Servamp](https://myanimelist.net/anime/31229)
 	- Publication Status: Finished Airing
@@ -15579,12 +15635,13 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 52347
 	- Genre(s): Action, Adventure, Fantasy, Shounen, Video Game
 	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [Ensen_](https://myanimelist.net/profile/Ensen_), [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [sodapoplio](https://myanimelist.net/profile/sodapoplio), [T1nyTim](https://myanimelist.net/profile/T1nyTim)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [MIMx32](https://myanimelist.net/profile/MIMx32)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [kT-Echo](https://myanimelist.net/profile/kT-Echo), [MIMx32](https://myanimelist.net/profile/MIMx32), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shanhe Jian Xin](https://myanimelist.net/anime/44196)
 	- Publication Status: Finished Airing
 	- MAL ID: 44196
 	- Genre(s): Action, Fantasy, Historical, Martial Arts
 	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shaonian Bai Ma Zui Chun Feng 2nd Season](https://myanimelist.net/anime/59246)
 	- Publication Status: Finished Airing
 	- MAL ID: 59246
@@ -15708,7 +15765,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 90
 	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
-	- AWC Participants (on_hold): [battlewaitress](https://myanimelist.net/profile/battlewaitress)
+	- AWC Participants (on_hold): [battlewaitress](https://myanimelist.net/profile/battlewaitress), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 	- AWC Participants (dropped): [GoodForHealth](https://myanimelist.net/profile/GoodForHealth)
 - [Shin Sakura Taisen the Animation](https://myanimelist.net/anime/40403)
 	- Publication Status: Finished Airing
@@ -15896,7 +15953,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 51098
 	- Genre(s): Action, School
-	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Harisrox](https://myanimelist.net/profile/Harisrox), [Jhiday](https://myanimelist.net/profile/Jhiday), [MIMx32](https://myanimelist.net/profile/MIMx32)
+	- AWC Participants (dropped): [barnabasdudda](https://myanimelist.net/profile/barnabasdudda), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [Harisrox](https://myanimelist.net/profile/Harisrox), [Jhiday](https://myanimelist.net/profile/Jhiday), [MIMx32](https://myanimelist.net/profile/MIMx32), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shinpi no Sekai El-Hazard](https://myanimelist.net/anime/117)
 	- Publication Status: Finished Airing
 	- MAL ID: 117
@@ -15958,14 +16015,14 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Shirogane no Ishi: Argevollen](https://myanimelist.net/anime/23325)
 	- Publication Status: Finished Airing
 	- MAL ID: 23325
-	- Genre(s): Action, Mecha
+	- Genre(s): Action, Mecha, Military
 	- AWC Participants (on_hold): [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [SheyCroix](https://myanimelist.net/profile/SheyCroix)
 - [Shiroi Suna no Aquatope](https://myanimelist.net/anime/46093)
 	- Publication Status: Finished Airing
 	- MAL ID: 46093
 	- Genre(s): Drama, Workplace
 	- AWC Participants (on_hold): [chalko3](https://myanimelist.net/profile/chalko3), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Rin_Setsuna](https://myanimelist.net/profile/Rin_Setsuna), [SodaRoll](https://myanimelist.net/profile/SodaRoll), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101)
-	- AWC Participants (dropped): [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Nymeew](https://myanimelist.net/profile/Nymeew), [sassss](https://myanimelist.net/profile/sassss), [thriwien](https://myanimelist.net/profile/thriwien), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- AWC Participants (dropped): [CornFarmer421](https://myanimelist.net/profile/CornFarmer421), [Nymeew](https://myanimelist.net/profile/Nymeew), [sassss](https://myanimelist.net/profile/sassss), [Stardew](https://myanimelist.net/profile/Stardew), [thriwien](https://myanimelist.net/profile/thriwien), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Shirokuma Cafe](https://myanimelist.net/anime/12815)
 	- Publication Status: Finished Airing
 	- MAL ID: 12815
@@ -16042,7 +16099,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838)
 	- Publication Status: Finished Airing
 	- MAL ID: 35838
-	- Genre(s): Adventure, CGDCT, Iyashikei, Mystery, Sci-Fi, Slice of Life
+	- Genre(s): Adventure, Iyashikei, Mystery, Sci-Fi, Slice of Life
 	- AWC Participants (on_hold): [Cauliflower](https://myanimelist.net/profile/Cauliflower), [Gunszq](https://myanimelist.net/profile/Gunszq), [Mikatron](https://myanimelist.net/profile/Mikatron), [MisaoAino](https://myanimelist.net/profile/MisaoAino)
 	- AWC Participants (dropped): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [Ensen_](https://myanimelist.net/profile/Ensen_), [flaymeariver](https://myanimelist.net/profile/flaymeariver), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [sassss](https://myanimelist.net/profile/sassss)
 - [Shoujo-tachi wa Kouya wo Mezasu](https://myanimelist.net/anime/31914)
@@ -16084,7 +16141,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 32175
 	- Genre(s): Iyashikei, Shoujo, Slice of Life
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [nozomemee](https://myanimelist.net/profile/nozomemee), [Yamcha17](https://myanimelist.net/profile/Yamcha17)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [lubryka](https://myanimelist.net/profile/lubryka), [Plate](https://myanimelist.net/profile/Plate)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [lubryka](https://myanimelist.net/profile/lubryka), [Plate](https://myanimelist.net/profile/Plate), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Shounen Onmyouji](https://myanimelist.net/anime/1557)
 	- Publication Status: Finished Airing
 	- MAL ID: 1557
@@ -16095,7 +16152,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 57810
 	- Genre(s): Mystery, School
 	- AWC Participants (on_hold): [_PhantomShark_](https://myanimelist.net/profile/_PhantomShark_), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Tunes](https://myanimelist.net/profile/Tunes)
-	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [marcopagot](https://myanimelist.net/profile/marcopagot), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [zhabnica](https://myanimelist.net/profile/zhabnica)
+	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [marcopagot](https://myanimelist.net/profile/marcopagot), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Shouwa Ahozoushi Akanuke Ichiban!](https://myanimelist.net/anime/17211)
 	- Publication Status: Finished Airing
 	- MAL ID: 17211
@@ -16314,6 +16371,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 6802
 	- Genre(s): CGDCT, Iyashikei, Military, Music, Sci-Fi, Slice of Life
 	- AWC Participants (on_hold): [acestrawbs](https://myanimelist.net/profile/acestrawbs), [teababe27](https://myanimelist.net/profile/teababe27)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Softenni](https://myanimelist.net/anime/10109)
 	- Publication Status: Finished Airing
 	- MAL ID: 10109
@@ -16339,7 +16397,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 39575
 	- Genre(s): Adventure, Anthropomorphic, Childcare, Drama, Fantasy
 	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [Helvian494743](https://myanimelist.net/profile/Helvian494743), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [narken2254](https://myanimelist.net/profile/narken2254), [nightfury10](https://myanimelist.net/profile/nightfury10), [Sreyso](https://myanimelist.net/profile/Sreyso)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Stardew](https://myanimelist.net/profile/Stardew)
 - [SoniAni: Super Sonico The Animation](https://myanimelist.net/anime/20555)
 	- Publication Status: Finished Airing
 	- MAL ID: 20555
@@ -16357,7 +16415,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 48849
 	- Genre(s): Award Winning, Isekai, Mystery, Super Power
 	- AWC Participants (on_hold): [AngieOnPluto](https://myanimelist.net/profile/AngieOnPluto), [battlewaitress](https://myanimelist.net/profile/battlewaitress), [m3dama_star](https://myanimelist.net/profile/m3dama_star), [Nymeew](https://myanimelist.net/profile/Nymeew), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [Kerhs](https://myanimelist.net/profile/Kerhs), [Robertson1](https://myanimelist.net/profile/Robertson1), [thriwien](https://myanimelist.net/profile/thriwien)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [Kerhs](https://myanimelist.net/profile/Kerhs), [Robertson1](https://myanimelist.net/profile/Robertson1), [Stardew](https://myanimelist.net/profile/Stardew), [thriwien](https://myanimelist.net/profile/thriwien)
 - [Sono Bisque Doll wa Koi wo Suru](https://myanimelist.net/anime/48736)
 	- Publication Status: Finished Airing
 	- MAL ID: 48736
@@ -16474,6 +16532,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 21507
 	- Genre(s): Action, Comedy, Fantasy, School, Shounen
+	- AWC Participants (on_hold): [FDLucy](https://myanimelist.net/profile/FDLucy)
 	- AWC Participants (dropped): [Slarkero](https://myanimelist.net/profile/Slarkero)
 - [Sounan desu ka?](https://myanimelist.net/anime/39456)
 	- Publication Status: Finished Airing
@@ -16606,6 +16665,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 8934
 	- Genre(s): Action, Mecha, Romance, School, Sci-Fi
 	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000), [hinagatari](https://myanimelist.net/profile/hinagatari)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Star Ocean EX](https://myanimelist.net/anime/1005)
 	- Publication Status: Finished Airing
 	- MAL ID: 1005
@@ -16621,7 +16681,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 30375
 	- Genre(s): Idols (Male), Music, Performing Arts, School, Slice of Life
 	- AWC Participants (on_hold): [jul42](https://myanimelist.net/profile/jul42), [Shiruchiru](https://myanimelist.net/profile/Shiruchiru)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Starmyu 3rd Season](https://myanimelist.net/anime/36536)
 	- Publication Status: Finished Airing
 	- MAL ID: 36536
@@ -16773,7 +16833,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 54234
 	- Genre(s): Comedy, Love Status Quo, Romance, School, Shounen
 	- AWC Participants (on_hold): [Gunszq](https://myanimelist.net/profile/Gunszq), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [nozomemee](https://myanimelist.net/profile/nozomemee)
-	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Lancy12](https://myanimelist.net/profile/Lancy12), [MIMx32](https://myanimelist.net/profile/MIMx32), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [silveraaki](https://myanimelist.net/profile/silveraaki)
+	- AWC Participants (dropped): [aflyingjackie](https://myanimelist.net/profile/aflyingjackie), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [Lancy12](https://myanimelist.net/profile/Lancy12), [MIMx32](https://myanimelist.net/profile/MIMx32), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [silveraaki](https://myanimelist.net/profile/silveraaki), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Suki na Mono wa Suki Dakara Shou ga Nai!!](https://myanimelist.net/anime/1532)
 	- Publication Status: Finished Airing
 	- MAL ID: 1532
@@ -16874,7 +16934,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 8986
 	- Genre(s): Action, Adult Cast, Horror, Mythology, Supernatural
-	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Jhiday](https://myanimelist.net/profile/Jhiday), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama)
+	- AWC Participants (dropped): [Catexia](https://myanimelist.net/profile/Catexia), [Jhiday](https://myanimelist.net/profile/Jhiday), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Sushi Police](https://myanimelist.net/anime/31633)
 	- Publication Status: Finished Airing
 	- MAL ID: 31633
@@ -16922,7 +16982,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 11757
 	- Genre(s): Action, Adventure, Fantasy, Love Polygon, Romance, Video Game
 	- AWC Participants (on_hold): [Esperi](https://myanimelist.net/profile/Esperi), [Kristiwazhere](https://myanimelist.net/profile/Kristiwazhere), [Liaeves](https://myanimelist.net/profile/Liaeves), [nozomemee](https://myanimelist.net/profile/nozomemee), [rosemagic](https://myanimelist.net/profile/rosemagic)
-	- AWC Participants (dropped): [Ebo](https://myanimelist.net/profile/Ebo), [Eyth](https://myanimelist.net/profile/Eyth), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Hisui91](https://myanimelist.net/profile/Hisui91), [lubryka](https://myanimelist.net/profile/lubryka), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Samus](https://myanimelist.net/profile/Samus)
+	- AWC Participants (dropped): [Ebo](https://myanimelist.net/profile/Ebo), [Eyth](https://myanimelist.net/profile/Eyth), [FDLucy](https://myanimelist.net/profile/FDLucy), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Hisui91](https://myanimelist.net/profile/Hisui91), [lubryka](https://myanimelist.net/profile/lubryka), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Samus](https://myanimelist.net/profile/Samus)
 - [Sword Art Online Alternative: Gun Gale Online](https://myanimelist.net/anime/36475)
 	- Publication Status: Finished Airing
 	- MAL ID: 36475
@@ -17021,7 +17081,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 56768
 	- Genre(s): Boys Love, Childcare, Drama
-	- AWC Participants (on_hold): [nozomemee](https://myanimelist.net/profile/nozomemee)
+	- AWC Participants (on_hold): [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew)
 	- AWC Participants (dropped): [Jhiday](https://myanimelist.net/profile/Jhiday), [Nymeew](https://myanimelist.net/profile/Nymeew)
 - [Tai Yi Jian Xian Chuan](https://myanimelist.net/anime/56958)
 	- Publication Status: Finished Airing
@@ -17069,13 +17129,18 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 45055
 	- Genre(s): Comedy, Drama, Historical, Romance, Shounen
 	- AWC Participants (on_hold): [Gwathgor](https://myanimelist.net/profile/Gwathgor)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Bunille](https://myanimelist.net/profile/Bunille), [Catexia](https://myanimelist.net/profile/Catexia), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [perseii](https://myanimelist.net/profile/perseii)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Bunille](https://myanimelist.net/profile/Bunille), [Catexia](https://myanimelist.net/profile/Catexia), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [perseii](https://myanimelist.net/profile/perseii), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Taisou Zamurai](https://myanimelist.net/anime/42668)
 	- Publication Status: Finished Airing
 	- MAL ID: 42668
 	- Genre(s): Sports
 	- AWC Participants (on_hold): [bigdud24](https://myanimelist.net/profile/bigdud24)
 	- AWC Participants (dropped): [fraideii](https://myanimelist.net/profile/fraideii), [goncix3000](https://myanimelist.net/profile/goncix3000)
+- [Takahashi Rumiko Gekijou Ningyo no Mori](https://myanimelist.net/anime/620)
+	- Publication Status: Finished Airing
+	- MAL ID: 620
+	- Genre(s): Drama, Fantasy, Horror, Mystery, Shounen
+	- AWC Participants (on_hold): [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Takamiya Nasuno desu! Teekyuu Spin-off](https://myanimelist.net/anime/28861)
 	- Publication Status: Finished Airing
 	- MAL ID: 28861
@@ -17130,7 +17195,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 32093
 	- Genre(s): Iyashikei, School, Slice of Life
 	- AWC Participants (on_hold): [Luffy_15](https://myanimelist.net/profile/Luffy_15), [nozomemee](https://myanimelist.net/profile/nozomemee), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [TenObok](https://myanimelist.net/profile/TenObok)
-	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [narken2254](https://myanimelist.net/profile/narken2254), [Plaxsin](https://myanimelist.net/profile/Plaxsin)
+	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [narken2254](https://myanimelist.net/profile/narken2254), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tanaka-kun wa Kyou mo Kedaruge](https://myanimelist.net/anime/33004)
 	- Publication Status: Finished Airing
 	- MAL ID: 33004
@@ -17326,7 +17391,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53393
 	- Genre(s): Adventure, Mystery, Sci-Fi, Seinen
 	- AWC Participants (on_hold): [archiemouse](https://myanimelist.net/profile/archiemouse), [chalko3](https://myanimelist.net/profile/chalko3), [dhrvrathre](https://myanimelist.net/profile/dhrvrathre), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [quixi](https://myanimelist.net/profile/quixi), [T1nyTim](https://myanimelist.net/profile/T1nyTim)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [thriwien](https://myanimelist.net/profile/thriwien)
+	- AWC Participants (dropped): [thriwien](https://myanimelist.net/profile/thriwien)
 - [Tenjou Tenge](https://myanimelist.net/anime/174)
 	- Publication Status: Finished Airing
 	- MAL ID: 174
@@ -17419,7 +17484,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49891
 	- Genre(s): Action, Adventure, Fantasy, Isekai, Reincarnation
 	- AWC Participants (on_hold): [_PhantomShark_](https://myanimelist.net/profile/_PhantomShark_)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430)
 	- Publication Status: Finished Airing
 	- MAL ID: 37430
@@ -17441,7 +17506,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 53580
 	- Genre(s): Action, Comedy, Fantasy, Isekai, Reincarnation, Shounen
-	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [Lancy12](https://myanimelist.net/profile/Lancy12), [Plaxsin](https://myanimelist.net/profile/Plaxsin)
+	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [Lancy12](https://myanimelist.net/profile/Lancy12), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [Stardew](https://myanimelist.net/profile/Stardew)
 	- AWC Participants (dropped): [CaioOkada](https://myanimelist.net/profile/CaioOkada), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Thrasher96](https://myanimelist.net/profile/Thrasher96)
 - [Tensei shitara Slime Datta Ken OVA](https://myanimelist.net/anime/38793)
 	- Publication Status: Finished Airing
@@ -17471,7 +17536,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 41488
 	- Genre(s): Comedy, Fantasy, Isekai, Reincarnation, Shounen
 	- AWC Participants (on_hold): [Caramel-san](https://myanimelist.net/profile/Caramel-san), [nyomdalee](https://myanimelist.net/profile/nyomdalee)
-	- AWC Participants (dropped): [HapHazrD](https://myanimelist.net/profile/HapHazrD), [MIMx32](https://myanimelist.net/profile/MIMx32), [veganismo](https://myanimelist.net/profile/veganismo), [windyscar](https://myanimelist.net/profile/windyscar)
+	- AWC Participants (dropped): [HapHazrD](https://myanimelist.net/profile/HapHazrD), [MIMx32](https://myanimelist.net/profile/MIMx32), [Stardew](https://myanimelist.net/profile/Stardew), [veganismo](https://myanimelist.net/profile/veganismo), [windyscar](https://myanimelist.net/profile/windyscar)
 - [Tentai Senshi Sunred](https://myanimelist.net/anime/5005)
 	- Publication Status: Finished Airing
 	- MAL ID: 5005
@@ -17574,7 +17639,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 55911
 	- Genre(s): Adult Cast, Comedy, Organized Crime, Seinen, Suspense
-	- AWC Participants (on_hold): [perseii](https://myanimelist.net/profile/perseii)
 	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [HaruhiZ](https://myanimelist.net/profile/HaruhiZ), [Ixiel](https://myanimelist.net/profile/Ixiel), [Jhiday](https://myanimelist.net/profile/Jhiday), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
 - [The God of High School](https://myanimelist.net/anime/41353)
 	- Publication Status: Finished Airing
@@ -17688,12 +17752,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 43693
 	- Genre(s): Adult Cast, Comedy, Historical, Seinen, Time Travel
 	- AWC Participants (on_hold): [nightjasmine](https://myanimelist.net/profile/nightjasmine)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tian Guan Cifu](https://myanimelist.net/anime/40730)
 	- Publication Status: Finished Airing
 	- MAL ID: 40730
 	- Genre(s): Action, Adventure, Drama, Fantasy, Historical, Mythology
 	- AWC Participants (on_hold): [chronochromata](https://myanimelist.net/profile/chronochromata), [EmiFumiko](https://myanimelist.net/profile/EmiFumiko), [MisaoAino](https://myanimelist.net/profile/MisaoAino)
+- [Tian Guan Cifu Er](https://myanimelist.net/anime/50399)
+	- Publication Status: Finished Airing
+	- MAL ID: 50399
+	- Genre(s): Action, Adventure, Drama, Fantasy, Historical, Mythology
+	- AWC Participants (on_hold): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tian Mei De Yao Hen](https://myanimelist.net/anime/44390)
 	- Publication Status: Finished Airing
 	- MAL ID: 44390
@@ -17708,7 +17777,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 9941
 	- Genre(s): Action, Adult Cast, Comedy, Mystery, Sci-Fi, Super Power
-	- AWC Participants (on_hold): [jreems](https://myanimelist.net/profile/jreems), [Yukio8](https://myanimelist.net/profile/Yukio8)
+	- AWC Participants (on_hold): [FDLucy](https://myanimelist.net/profile/FDLucy), [jreems](https://myanimelist.net/profile/jreems), [Yukio8](https://myanimelist.net/profile/Yukio8)
 	- AWC Participants (dropped): [CMYK](https://myanimelist.net/profile/CMYK), [Plaxsin](https://myanimelist.net/profile/Plaxsin), [windyscar](https://myanimelist.net/profile/windyscar)
 - [Tiger & Bunny 2](https://myanimelist.net/anime/41595)
 	- Publication Status: Finished Airing
@@ -17719,7 +17788,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 52291
 	- Genre(s): Action, Adult Cast, Comedy, Mystery, Super Power
-	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000)
+	- AWC Participants (on_hold): [goncix3000](https://myanimelist.net/profile/goncix3000), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tiger Mask Nisei](https://myanimelist.net/anime/5832)
 	- Publication Status: Finished Airing
 	- MAL ID: 5832
@@ -17949,7 +18018,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 51461
 	- Genre(s): Drama, Fantasy, Mythology, Urban Fantasy
 	- AWC Participants (on_hold): [bbeneduzib](https://myanimelist.net/profile/bbeneduzib), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [DigiCat](https://myanimelist.net/profile/DigiCat)
+	- AWC Participants (dropped): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [Catexia](https://myanimelist.net/profile/Catexia), [DigiCat](https://myanimelist.net/profile/DigiCat), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tondemo Senshi Muteking](https://myanimelist.net/anime/5833)
 	- Publication Status: Finished Airing
 	- MAL ID: 5833
@@ -17960,7 +18029,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53446
 	- Genre(s): Adventure, Comedy, Fantasy, Gourmet, Isekai
 	- AWC Participants (on_hold): [lossetari](https://myanimelist.net/profile/lossetari), [Zensorium](https://myanimelist.net/profile/Zensorium)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Jhiday](https://myanimelist.net/profile/Jhiday), [matheus_pikalolo](https://myanimelist.net/profile/matheus_pikalolo), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [GoodForHealth](https://myanimelist.net/profile/GoodForHealth), [Jhiday](https://myanimelist.net/profile/Jhiday), [matheus_pikalolo](https://myanimelist.net/profile/matheus_pikalolo), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tonikaku Kawaii](https://myanimelist.net/anime/41389)
 	- Publication Status: Finished Airing
 	- MAL ID: 41389
@@ -18069,7 +18138,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 49969
 	- Genre(s): Sci-Fi, Sports, Team Sports
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
-	- AWC Participants (dropped): [bigdud24](https://myanimelist.net/profile/bigdud24), [Chaemochii](https://myanimelist.net/profile/Chaemochii), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [hinagatari](https://myanimelist.net/profile/hinagatari)
+	- AWC Participants (dropped): [bigdud24](https://myanimelist.net/profile/bigdud24), [Chaemochii](https://myanimelist.net/profile/Chaemochii), [Devinitas](https://myanimelist.net/profile/Devinitas), [goncix3000](https://myanimelist.net/profile/goncix3000), [hinagatari](https://myanimelist.net/profile/hinagatari), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Trickster: Edogawa Ranpo "Shounen Tanteidan" yori](https://myanimelist.net/anime/33377)
 	- Publication Status: Finished Airing
 	- MAL ID: 33377
@@ -18143,7 +18212,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 58059
 	- Genre(s): Action, Fantasy, School, Shounen
 	- AWC Participants (on_hold): [LeGoldenWolf](https://myanimelist.net/profile/LeGoldenWolf), [soowo](https://myanimelist.net/profile/soowo), [T1nyTim](https://myanimelist.net/profile/T1nyTim)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [zhabnica](https://myanimelist.net/profile/zhabnica)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Jhiday](https://myanimelist.net/profile/Jhiday), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [Stardew](https://myanimelist.net/profile/Stardew), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Tsugu Tsugumomo](https://myanimelist.net/anime/39469)
 	- Publication Status: Finished Airing
 	- MAL ID: 39469
@@ -18165,7 +18234,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 43523
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Isekai
 	- AWC Participants (on_hold): [jeffu](https://myanimelist.net/profile/jeffu), [NickWilks](https://myanimelist.net/profile/NickWilks), [Snakering](https://myanimelist.net/profile/Snakering)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [narken2254](https://myanimelist.net/profile/narken2254), [sassss](https://myanimelist.net/profile/sassss)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Epic_Doughnut](https://myanimelist.net/profile/Epic_Doughnut), [narken2254](https://myanimelist.net/profile/narken2254), [sassss](https://myanimelist.net/profile/sassss), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Tsuki ga Michibiku Isekai Douchuu 2nd Season](https://myanimelist.net/anime/49889)
 	- Publication Status: Finished Airing
 	- MAL ID: 49889
@@ -18450,7 +18519,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 54790
 	- Genre(s): Adult Cast, Detective, Fantasy, Historical, Mystery, Urban Fantasy, Vampire
 	- AWC Participants (on_hold): [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Mega_Mega](https://myanimelist.net/profile/Mega_Mega), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [Yoko_k](https://myanimelist.net/profile/Yoko_k)
-	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Robertson1](https://myanimelist.net/profile/Robertson1), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (dropped): [goncix3000](https://myanimelist.net/profile/goncix3000), [Robertson1](https://myanimelist.net/profile/Robertson1), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Undead Unluck](https://myanimelist.net/anime/52741)
 	- Publication Status: Finished Airing
 	- MAL ID: 52741
@@ -18507,7 +18576,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 32924
 	- Genre(s): CGDCT, Comedy, Fantasy, Seinen
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Urasekai Picnic](https://myanimelist.net/anime/41392)
 	- Publication Status: Finished Airing
 	- MAL ID: 41392
@@ -18979,7 +19048,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 7
 	- Genre(s): Action, Detective, Drama, Mystery, Supernatural
-	- AWC Participants (dropped): [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (dropped): [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Witchblade](https://myanimelist.net/anime/935)
 	- Publication Status: Finished Airing
 	- MAL ID: 935
@@ -18991,6 +19060,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Genre(s): Action, Fantasy, Mecha, Urban Fantasy
 	- AWC Participants (on_hold): [ColdBlackTeaFan](https://myanimelist.net/profile/ColdBlackTeaFan)
 	- AWC Participants (dropped): [Harisrox](https://myanimelist.net/profile/Harisrox), [Jhiday](https://myanimelist.net/profile/Jhiday), [kasvke](https://myanimelist.net/profile/kasvke), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [lubryka](https://myanimelist.net/profile/lubryka)
+- [Wo Jia Da Shixiong Naozi You Keng](https://myanimelist.net/anime/37293)
+	- Publication Status: Finished Airing
+	- MAL ID: 37293
+	- Genre(s): Action, Adventure, Comedy, Historical, Martial Arts
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Wo Kai Dongwuyuan Naxie Nian](https://myanimelist.net/anime/40208)
 	- Publication Status: Finished Airing
 	- MAL ID: 40208
@@ -19006,7 +19080,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 202
 	- Genre(s): Action, Adventure, Drama, Fantasy, Mystery
 	- AWC Participants (on_hold): [Bookworm86](https://myanimelist.net/profile/Bookworm86), [KingYoshi](https://myanimelist.net/profile/KingYoshi), [quinbe](https://myanimelist.net/profile/quinbe), [Sarada](https://myanimelist.net/profile/Sarada)
-	- AWC Participants (dropped): [kT-Echo](https://myanimelist.net/profile/kT-Echo), [Samus](https://myanimelist.net/profile/Samus)
+	- AWC Participants (dropped): [kT-Echo](https://myanimelist.net/profile/kT-Echo), [Samus](https://myanimelist.net/profile/Samus), [satyrelfheim](https://myanimelist.net/profile/satyrelfheim)
 - [Wolverine](https://myanimelist.net/anime/6918)
 	- Publication Status: Finished Airing
 	- MAL ID: 6918
@@ -19061,7 +19135,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 24405
 	- Genre(s): Action, Sci-Fi, Shounen
 	- AWC Participants (on_hold): [Ebo](https://myanimelist.net/profile/Ebo), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [kakacat](https://myanimelist.net/profile/kakacat), [Lancy12](https://myanimelist.net/profile/Lancy12), [nightjasmine](https://myanimelist.net/profile/nightjasmine)
-	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Wotaku ni Koi wa Muzukashii](https://myanimelist.net/anime/35968)
 	- Publication Status: Finished Airing
 	- MAL ID: 35968
@@ -19235,7 +19309,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 53126
 	- Genre(s): Romance, Video Game
 	- AWC Participants (on_hold): [Albatrossical](https://myanimelist.net/profile/Albatrossical), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [marcopagot](https://myanimelist.net/profile/marcopagot), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [scientoast](https://myanimelist.net/profile/scientoast), [thriwien](https://myanimelist.net/profile/thriwien), [Umandsf](https://myanimelist.net/profile/Umandsf)
-	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [fraideii](https://myanimelist.net/profile/fraideii), [matheus_pikalolo](https://myanimelist.net/profile/matheus_pikalolo), [narken2254](https://myanimelist.net/profile/narken2254), [sorasfishing](https://myanimelist.net/profile/sorasfishing)
+	- AWC Participants (dropped): [Cezrye](https://myanimelist.net/profile/Cezrye), [fraideii](https://myanimelist.net/profile/fraideii), [matheus_pikalolo](https://myanimelist.net/profile/matheus_pikalolo), [narken2254](https://myanimelist.net/profile/narken2254), [sorasfishing](https://myanimelist.net/profile/sorasfishing), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yamato Nadeshiko Shichihenge♥](https://myanimelist.net/anime/1562)
 	- Publication Status: Finished Airing
 	- MAL ID: 1562
@@ -19352,7 +19426,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50346
 	- Genre(s): Romance, Shounen, Supernatural, Vampire
 	- AWC Participants (on_hold): [_Noel](https://myanimelist.net/profile/_Noel), [Albatrossical](https://myanimelist.net/profile/Albatrossical), [chalko3](https://myanimelist.net/profile/chalko3), [Gunszq](https://myanimelist.net/profile/Gunszq), [lemonmon](https://myanimelist.net/profile/lemonmon), [MDTURZA](https://myanimelist.net/profile/MDTURZA), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [NuttySandwich](https://myanimelist.net/profile/NuttySandwich)
-	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [marcopagot](https://myanimelist.net/profile/marcopagot), [Nymeew](https://myanimelist.net/profile/Nymeew)
+	- AWC Participants (dropped): [Bunille](https://myanimelist.net/profile/Bunille), [Catexia](https://myanimelist.net/profile/Catexia), [goncix3000](https://myanimelist.net/profile/goncix3000), [lubryka](https://myanimelist.net/profile/lubryka), [marcopagot](https://myanimelist.net/profile/marcopagot), [Nymeew](https://myanimelist.net/profile/Nymeew), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yoiko](https://myanimelist.net/anime/4591)
 	- Publication Status: Finished Airing
 	- MAL ID: 4591
@@ -19457,7 +19531,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 35220
 	- Genre(s): Mythology, School, Slice of Life, Supernatural
 	- AWC Participants (on_hold): [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [fatedhiji](https://myanimelist.net/profile/fatedhiji), [Gwathgor](https://myanimelist.net/profile/Gwathgor), [mozgow](https://myanimelist.net/profile/mozgow)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kuroha](https://myanimelist.net/profile/Kuroha), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Shukkets](https://myanimelist.net/profile/Shukkets)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [fraideii](https://myanimelist.net/profile/fraideii), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Jhiday](https://myanimelist.net/profile/Jhiday), [Kuroha](https://myanimelist.net/profile/Kuroha), [Neko-Hoshishima](https://myanimelist.net/profile/Neko-Hoshishima), [Shukkets](https://myanimelist.net/profile/Shukkets), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Youkai Ningen Bem](https://myanimelist.net/anime/4044)
 	- Publication Status: Finished Airing
 	- MAL ID: 4044
@@ -19507,6 +19581,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 18179
 	- Genre(s): Racing, Shounen, Sports
 	- AWC Participants (on_hold): [Ebo](https://myanimelist.net/profile/Ebo), [nyanko](https://myanimelist.net/profile/nyanko)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yowamushi Pedal: Limit Break](https://myanimelist.net/anime/50552)
 	- Publication Status: Finished Airing
 	- MAL ID: 50552
@@ -19550,7 +19625,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 55866
 	- Genre(s): Adult Cast, Romance, Shoujo
 	- AWC Participants (on_hold): [archiemouse](https://myanimelist.net/profile/archiemouse), [DynamicDonut](https://myanimelist.net/profile/DynamicDonut), [MegaManBK7](https://myanimelist.net/profile/MegaManBK7), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [scientoast](https://myanimelist.net/profile/scientoast), [survivor_girl](https://myanimelist.net/profile/survivor_girl)
-	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [goncix3000](https://myanimelist.net/profile/goncix3000), [rozewald](https://myanimelist.net/profile/rozewald)
+	- AWC Participants (dropped): [best_bunyip](https://myanimelist.net/profile/best_bunyip), [boredrandomguy](https://myanimelist.net/profile/boredrandomguy), [goncix3000](https://myanimelist.net/profile/goncix3000), [rozewald](https://myanimelist.net/profile/rozewald), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yubisaki to Renren Mini Anime](https://myanimelist.net/anime/57782)
 	- Publication Status: Finished Airing
 	- MAL ID: 57782
@@ -19581,7 +19656,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 6586
 	- Genre(s): Gourmet, School, Shoujo
 	- AWC Participants (on_hold): [Liaeves](https://myanimelist.net/profile/Liaeves)
-	- AWC Participants (dropped): [Canaan](https://myanimelist.net/profile/Canaan), [Ensen_](https://myanimelist.net/profile/Ensen_), [survivor_girl](https://myanimelist.net/profile/survivor_girl)
+	- AWC Participants (dropped): [Canaan](https://myanimelist.net/profile/Canaan), [Ensen_](https://myanimelist.net/profile/Ensen_), [Stardew](https://myanimelist.net/profile/Stardew), [survivor_girl](https://myanimelist.net/profile/survivor_girl)
 - [Yume-iro Pâtissière SP Professional](https://myanimelist.net/anime/9441)
 	- Publication Status: Finished Airing
 	- MAL ID: 9441
@@ -19715,7 +19790,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 50175
 	- Genre(s): Action, Adventure, Comedy, Fantasy
 	- AWC Participants (on_hold): [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Stargate18](https://myanimelist.net/profile/Stargate18)
-	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [narken2254](https://myanimelist.net/profile/narken2254)
+	- AWC Participants (dropped): [Devinitas](https://myanimelist.net/profile/Devinitas), [Jhiday](https://myanimelist.net/profile/Jhiday), [narken2254](https://myanimelist.net/profile/narken2254), [Stardew](https://myanimelist.net/profile/Stardew)
 - [Yuusha-Ou GaoGaiGar](https://myanimelist.net/anime/890)
 	- Publication Status: Finished Airing
 	- MAL ID: 890
@@ -19942,6 +20017,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40174
 	- Genre(s): Comedy, Idols (Female), Music, Parody, Supernatural
 	- AWC Participants (on_hold): [MegaManBK7](https://myanimelist.net/profile/MegaManBK7)
+	- AWC Participants (dropped): [Stardew](https://myanimelist.net/profile/Stardew)
 - [Zuihou de Zhaohuan Shi](https://myanimelist.net/anime/41915)
 	- Publication Status: Finished Airing
 	- MAL ID: 41915
@@ -20213,7 +20289,9 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [FarCritical](https://myanimelist.net/profile/FarCritical) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72259800)
 - [fatedhiji](https://myanimelist.net/profile/fatedhiji) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72260467)
 - [FateXBlood](https://myanimelist.net/profile/FateXBlood) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72259900)
+- [FDLucy](https://myanimelist.net/profile/FDLucy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72837259)
 - [FeezyWheezy](https://myanimelist.net/profile/FeezyWheezy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72260051)
+- [Femmyy](https://myanimelist.net/profile/Femmyy) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72843186)
 - [FestiveWave](https://myanimelist.net/profile/FestiveWave) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72787442)
 - [flaymeariver](https://myanimelist.net/profile/flaymeariver) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72300123)
 - [foxxykat1223](https://myanimelist.net/profile/foxxykat1223) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72263008)
@@ -20353,7 +20431,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Kiri-gouter](https://myanimelist.net/profile/Kiri-gouter) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72296016)
 - [KittygirlMei](https://myanimelist.net/profile/KittygirlMei) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72441164)
 - [kittyrave](https://myanimelist.net/profile/kittyrave) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72396448)
-- [KiwiLord_the_2nd](https://myanimelist.net/profile/KiwiLord_the_2nd) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72836809)
 - [kjplethodon](https://myanimelist.net/profile/kjplethodon) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72261363)
 - [Kojiamko](https://myanimelist.net/profile/Kojiamko) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72259833)
 - [KookiBun](https://myanimelist.net/profile/KookiBun) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72304495)
@@ -20517,6 +20594,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [PhantomQiz](https://myanimelist.net/profile/PhantomQiz) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72625709)
 - [phievee](https://myanimelist.net/profile/phievee) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72510148)
 - [Phraze](https://myanimelist.net/profile/Phraze) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72262449)
+- [pilveke](https://myanimelist.net/profile/pilveke) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72855478)
 - [planetmaocitizen](https://myanimelist.net/profile/planetmaocitizen) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72277287)
 - [Plate](https://myanimelist.net/profile/Plate) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72259784)
 - [Plaxsin](https://myanimelist.net/profile/Plaxsin) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72613818)
@@ -20584,6 +20662,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Sarinya](https://myanimelist.net/profile/Sarinya) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72260618)
 - [sashalat42](https://myanimelist.net/profile/sashalat42) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72327514)
 - [sassss](https://myanimelist.net/profile/sassss) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72281139)
+- [satyrelfheim](https://myanimelist.net/profile/satyrelfheim) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72851826)
 - [sawamura02](https://myanimelist.net/profile/sawamura02) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72298890)
 - [Sbd13](https://myanimelist.net/profile/Sbd13) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72437510)
 - [SBK_](https://myanimelist.net/profile/SBK_) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2196122&id=72291377)

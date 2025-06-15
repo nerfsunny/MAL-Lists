@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 08, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 15, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -24,7 +24,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii](https://myanimelist.net/anime/55973)
 	- Publication Status: Finished Airing
 	- MAL ID: 55973
-	- Genre(s): Adult Cast, Boys Love, Comedy, Super Power, Workplace
+	- Genre(s): Adult Cast, Boys Love, Comedy, Workplace
 	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores), [lil-pie](https://myanimelist.net/profile/lil-pie/statistics/anime-scores)
 - [ACCA: 13-ku Kansatsu-ka](https://myanimelist.net/anime/33337)
 	- Publication Status: Finished Airing
@@ -444,7 +444,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Happy Birthday: Inochi Kagayaku Toki](https://myanimelist.net/anime/9931)
 	- Publication Status: Finished Airing
 	- MAL ID: 9931
-	- Genre(s): Iyashikei, Kids, Slice of Life
+	- Genre(s): Drama, Kids
 	- Staff Member(s): [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores)
 - [Hatenkou Yuugi](https://myanimelist.net/anime/3298)
 	- Publication Status: Finished Airing
