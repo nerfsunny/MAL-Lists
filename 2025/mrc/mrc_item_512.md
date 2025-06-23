@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 15, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 22, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -160,7 +160,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 103701
 	- Genre(s): Anthropomorphic, Award Winning, Drama, Psychological, Shounen, Slice of Life
-	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites), [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [danyelll](https://myanimelist.net/profile/danyelll/favorites)
+	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [danyelll](https://myanimelist.net/profile/danyelll/favorites)
 - [Beelzebub](https://myanimelist.net/manga/10010)
 	- Publication Status: Finished
 	- MAL ID: 10010
@@ -521,6 +521,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 57
 	- Genre(s): Comedy, Crossdressing, Drama, Love Polygon, Romance, School, Shoujo
 	- Staff Member(s): [Kunii](https://myanimelist.net/profile/Kunii/favorites)
+- [Hanma Baki](https://myanimelist.net/manga/7760)
+	- Publication Status: Finished
+	- MAL ID: 7760
+	- Genre(s): Action, Adventure, Gore, Martial Arts
+	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
 - [Harumatsu Bokura](https://myanimelist.net/manga/72949)
 	- Publication Status: Finished
 	- MAL ID: 72949
@@ -720,7 +725,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 144267
 	- Genre(s): Drama, Romance, School
-	- Staff Member(s): [KTGita22](https://myanimelist.net/profile/KTGita22/favorites), [Phloup](https://myanimelist.net/profile/Phloup/favorites)
+	- Staff Member(s): [KTGita22](https://myanimelist.net/profile/KTGita22/favorites), [Meedor](https://myanimelist.net/profile/Meedor/favorites), [Phloup](https://myanimelist.net/profile/Phloup/favorites)
 - [Karaoke Iko!](https://myanimelist.net/manga/130181)
 	- Publication Status: Finished
 	- MAL ID: 130181
@@ -1239,7 +1244,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Radio Storm](https://myanimelist.net/manga/161200)
 	- Publication Status: Finished
 	- MAL ID: 161200
-	- Genre(s): Boys Love, Drama, Erotica, Supernatural
+	- Genre(s): Boys Love, Drama, Erotica, Supernatural, Survival
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Raise wa Tanin ga Ii](https://myanimelist.net/manga/109229)
 	- Publication Status: Currently Publishing

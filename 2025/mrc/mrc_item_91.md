@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 15, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 22, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -8580,6 +8580,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 19634
 	- Genre(s): Action, Adventure, Fantasy, Mystery, Romance, Sci-Fi, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Kaira](https://myanimelist.net/manga/23593)
+	- Publication Status: Finished
+	- MAL ID: 23593
+	- Genre(s): Drama, Fantasy, Horror, Psychological, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kaitai Shinsho Ø](https://myanimelist.net/manga/18736)
 	- Publication Status: Finished
 	- MAL ID: 18736
@@ -13836,7 +13841,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ojousama no Shimobe](https://myanimelist.net/manga/111136)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 111136
 	- Genre(s): Comedy, Ecchi, Harem, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -17040,7 +17045,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 16839
 	- Genre(s): Comedy, Girls Love, School
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Shimanami Potapota](https://myanimelist.net/manga/159691)
+- [Shimanami Potapota: Setouchi Chari Sanpo](https://myanimelist.net/manga/159691)
 	- Publication Status: Currently Publishing
 	- MAL ID: 159691
 	- Genre(s): CGDCT, School, Slice of Life
@@ -19791,7 +19796,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Fantasy, Historical, Military, Romance, Space, Urban Fantasy, Vampire
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tsukiatte Agetemo Ii kana](https://myanimelist.net/manga/117020)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 117020
 	- Genre(s): Girls Love
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
