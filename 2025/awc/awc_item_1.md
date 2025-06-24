@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 15, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 22, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -66,11 +66,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 56647
 	- Genre(s): Action, Historical, Samurai, Shounen
 	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores)
-- [Appare-Ranman!](https://myanimelist.net/anime/40532)
-	- Publication Status: Finished Airing
-	- MAL ID: 40532
-	- Genre(s): Adult Cast, Comedy, Historical, Racing
-	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Arashi no Yoru ni: Himitsu no Tomodachi](https://myanimelist.net/anime/13029)
 	- Publication Status: Finished Airing
 	- MAL ID: 13029
@@ -96,6 +91,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 55310
 	- Genre(s): Adult Cast, Iyashikei, Slice of Life, Workplace
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/statistics/anime-scores)
+- [Ayakashi: Japanese Classic Horror](https://myanimelist.net/anime/586)
+	- Publication Status: Finished Airing
+	- MAL ID: 586
+	- Genre(s): Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense
+	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Baby Steps](https://myanimelist.net/anime/21185)
 	- Publication Status: Finished Airing
 	- MAL ID: 21185
@@ -605,7 +605,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 16664
 	- Genre(s): Award Winning, Fantasy, Historical
-	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores), [KTGita22](https://myanimelist.net/profile/KTGita22/statistics/anime-scores), [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores), [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores), [KTGita22](https://myanimelist.net/profile/KTGita22/statistics/anime-scores), [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
 - [Kaiba](https://myanimelist.net/anime/3701)
 	- Publication Status: Finished Airing
 	- MAL ID: 3701
@@ -630,7 +630,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 16009
 	- Genre(s): Adventure, Drama, Fantasy, Mystery
-	- Staff Member(s): [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/statistics/anime-scores), [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
+	- Staff Member(s): [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/statistics/anime-scores)
 - [Kamisama no Memochou](https://myanimelist.net/anime/10568)
 	- Publication Status: Finished Airing
 	- MAL ID: 10568
@@ -656,11 +656,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 30922
 	- Genre(s): Fantasy, Supernatural
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
-- [Kemono Friends](https://myanimelist.net/anime/33089)
-	- Publication Status: Finished Airing
-	- MAL ID: 33089
-	- Genre(s): Adventure, Anthropomorphic, Award Winning, Comedy, Fantasy
-	- Staff Member(s): [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores)
 - [Kemono no Souja Erin](https://myanimelist.net/anime/5420)
 	- Publication Status: Finished Airing
 	- MAL ID: 5420

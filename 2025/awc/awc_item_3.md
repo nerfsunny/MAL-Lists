@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 15, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 22, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -90,6 +90,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 33337
 	- Genre(s): Adult Cast, Detective, Drama, Mystery, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [AKB0048](https://myanimelist.net/anime/12149)
+	- Publication Status: Finished Airing
+	- MAL ID: 12149
+	- Genre(s): Idols (Female), Music, Sci-Fi
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Aa! Megami-sama!](https://myanimelist.net/anime/49)
 	- Publication Status: Finished Airing
 	- MAL ID: 49
@@ -4055,6 +4060,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 46569
 	- Genre(s): Action, Adventure, Gore, Historical, Samurai, Shounen, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Jiisan Baasan Wakagaeru](https://myanimelist.net/anime/56230)
+	- Publication Status: Finished Airing
+	- MAL ID: 56230
+	- Genre(s): Comedy, Romance, Supernatural
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Jijou wo Shiranai Tenkousei ga Guigui Kuru.](https://myanimelist.net/anime/53621)
 	- Publication Status: Finished Airing
 	- MAL ID: 53621
@@ -4814,7 +4824,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 57616
 	- Genre(s): Comedy, Harem, Parody, Romance, School, Seinen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kimi no Na wa.](https://myanimelist.net/anime/32281)
 	- Publication Status: Finished Airing
 	- MAL ID: 32281
@@ -8685,6 +8695,16 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 36684
 	- Genre(s): Idols (Male), Music
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Shinmai Maou no Testament](https://myanimelist.net/anime/23233)
+	- Publication Status: Finished Airing
+	- MAL ID: 23233
+	- Genre(s): Action, Ecchi, Harem, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou](https://myanimelist.net/anime/29027)
+	- Publication Status: Finished Airing
+	- MAL ID: 29027
+	- Genre(s): Action, Ecchi, Harem, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Shinpi no Sekai El-Hazard](https://myanimelist.net/anime/117)
 	- Publication Status: Finished Airing
 	- MAL ID: 117
