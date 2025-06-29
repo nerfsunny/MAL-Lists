@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 22, 2025:
+This list contains a list of anime eligible for the following challenge item, as of June 29, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -440,6 +440,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1233
 	- Genre(s): Action, Comedy, Military, Romance, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Apocalypse Hotel](https://myanimelist.net/anime/59675)
+	- Publication Status: Finished Airing
+	- MAL ID: 59675
+	- Genre(s): Sci-Fi
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Araburu Kisetsu no Otome-domo yo.](https://myanimelist.net/anime/38753)
 	- Publication Status: Finished Airing
 	- MAL ID: 38753
@@ -2010,6 +2015,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40453
 	- Genre(s): Adventure, Comedy, Ecchi, Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III](https://myanimelist.net/anime/40454)
+	- Publication Status: Finished Airing
+	- MAL ID: 40454
+	- Genre(s): Action, Adventure, Fantasy
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen](https://myanimelist.net/anime/47164)
 	- Publication Status: Finished Airing
 	- MAL ID: 47164
@@ -4505,6 +4515,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1530
 	- Genre(s): Drama, Romance, Supernatural
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru](https://myanimelist.net/anime/60157)
+	- Publication Status: Finished Airing
+	- MAL ID: 60157
+	- Genre(s): Fantasy, Romance
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kappa no Coo to Natsuyasumi](https://myanimelist.net/anime/2848)
 	- Publication Status: Finished Airing
 	- MAL ID: 2848
@@ -7950,6 +7965,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 13599
 	- Genre(s): Drama, Mecha, Mystery, School, Sci-Fi
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Rock wa Lady no Tashinami deshite](https://myanimelist.net/anime/59360)
+	- Publication Status: Finished Airing
+	- MAL ID: 59360
+	- Genre(s): Comedy, Music, School, Seinen
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Rokka no Yuusha](https://myanimelist.net/anime/28497)
 	- Publication Status: Finished Airing
 	- MAL ID: 28497
@@ -8300,6 +8320,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1827
 	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Seisenshi Dunbine](https://myanimelist.net/anime/929)
+	- Publication Status: Finished Airing
+	- MAL ID: 929
+	- Genre(s): Action, Adventure, Drama, Fantasy, Isekai, Mecha, Sci-Fi
+	- Staff Member(s): [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://myanimelist.net/anime/37450)
 	- Publication Status: Finished Airing
 	- MAL ID: 37450
