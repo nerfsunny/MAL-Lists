@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 22, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 29, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -329,7 +329,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Deadman Wonderland](https://myanimelist.net/manga/3986)
 	- Publication Status: Finished
 	- MAL ID: 3986
-	- Genre(s): Action, Adventure, Drama, Gore, High Stakes Game, Sci-Fi, Shounen, Supernatural, Survival
+	- Genre(s): Action, Gore, High Stakes Game, Sci-Fi, Shounen, Supernatural, Survival, Suspense
 	- Staff Member(s): [Jicetus](https://myanimelist.net/profile/Jicetus/favorites)
 - [Death Game Manga no Kuromaku Satsujinki no Imouto ni Tensei shite Shippai shita](https://myanimelist.net/manga/149259)
 	- Publication Status: Finished
@@ -1401,6 +1401,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 101
 	- Genre(s): Award Winning, Comedy, Mahou Shoujo, Romance, School, Shoujo, Supernatural
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites)
+- [Skill? Nee yo Sonna Mon! Fuguusha-tachi no Sainou Kaika](https://myanimelist.net/manga/181972)
+	- Publication Status: Finished
+	- MAL ID: 181972
+	- Genre(s): Action, Fantasy, Isekai
+	- Staff Member(s): [phren](https://myanimelist.net/profile/phren/favorites)
 - [Skip to Loafer](https://myanimelist.net/manga/118289)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118289
@@ -1445,7 +1450,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 126287
 	- Genre(s): Adventure, Award Winning, Drama, Fantasy, Shounen
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites)
+	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [Naitik7897](https://myanimelist.net/profile/Naitik7897/favorites)
 - [Spiral: Suiri no Kizuna](https://myanimelist.net/manga/534)
 	- Publication Status: Finished
 	- MAL ID: 534
@@ -1691,6 +1696,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 132678
 	- Genre(s): Historical, Romance, Slice of Life
 	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+- [Velvet Kiss](https://myanimelist.net/manga/22638)
+	- Publication Status: Finished
+	- MAL ID: 22638
+	- Genre(s): Drama, Erotica, Romance, Seinen
+	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Villains Are Destined to Die](https://myanimelist.net/manga/133641)
 	- Publication Status: Currently Publishing
 	- MAL ID: 133641
@@ -1878,6 +1888,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Mako995](https://myanimelist.net/profile/Mako995/favorites)
 - [Meedor](https://myanimelist.net/profile/Meedor/favorites)
 - [Mythologically](https://myanimelist.net/profile/Mythologically/favorites)
+- [Naitik7897](https://myanimelist.net/profile/Naitik7897/favorites)
 - [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
 - [Nioxys](https://myanimelist.net/profile/Nioxys/favorites)
 - [Phloup](https://myanimelist.net/profile/Phloup/favorites)
@@ -1889,6 +1900,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
 - [Snow](https://myanimelist.net/profile/Snow/favorites)
 - [stinghy](https://myanimelist.net/profile/stinghy/favorites)
+- [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Tensho](https://myanimelist.net/profile/Tensho/favorites)
 - [Timcampy](https://myanimelist.net/profile/Timcampy/favorites)
 - [tingy](https://myanimelist.net/profile/tingy/favorites)

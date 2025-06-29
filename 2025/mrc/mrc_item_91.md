@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 22, 2025:
+This list contains a list of manga eligible for the following challenge item, as of June 29, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -3005,6 +3005,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 119738
 	- Genre(s): Adventure, Erotica, Fantasy, Harem, Romance, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta](https://myanimelist.net/manga/149804)
+	- Publication Status: Currently Publishing
+	- MAL ID: 149804
+	- Genre(s): Comedy, Romance, School
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Classmate, Kamimura Yuuka wa Kou Itta.](https://myanimelist.net/manga/28537)
 	- Publication Status: Finished
 	- MAL ID: 28537
@@ -3911,7 +3916,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Comedy, Detective, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Doubutsu Ningen](https://myanimelist.net/manga/155889)
-	- Publication Status: Finished
+	- Publication Status: Currently Publishing
 	- MAL ID: 155889
 	- Genre(s): Anthropomorphic, Horror, Seinen, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -8251,7 +8256,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Romance, Visual Arts
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Josei Senyou.](https://myanimelist.net/manga/161059)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 161059
 	- Genre(s): Drama, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -17113,7 +17118,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Shin Takarajima](https://myanimelist.net/manga/11273)
 	- Publication Status: Finished
 	- MAL ID: 11273
-	- Genre(s): Adventure, Shounen
+	- Genre(s): Adventure
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita](https://myanimelist.net/manga/114175)
 	- Publication Status: Finished
@@ -18816,7 +18821,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Ecchi, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Te no Geka](https://myanimelist.net/manga/159110)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 159110
 	- Genre(s): Drama, Medical, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
