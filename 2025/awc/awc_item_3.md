@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 29, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 06, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -264,7 +264,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 57719
 	- Genre(s): Comedy, Fantasy, Isekai, School, Seinen, Villainess
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Akuyaku Reijou nanode Last Boss wo Kattemimashita](https://myanimelist.net/anime/49979)
 	- Publication Status: Finished Airing
 	- MAL ID: 49979
@@ -444,7 +444,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 59675
 	- Genre(s): Sci-Fi
-	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Araburu Kisetsu no Otome-domo yo.](https://myanimelist.net/anime/38753)
 	- Publication Status: Finished Airing
 	- MAL ID: 38753
@@ -2024,12 +2024,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 47164
 	- Genre(s): Action, Adventure, Fantasy
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen](https://myanimelist.net/anime/53111)
 	- Publication Status: Finished Airing
 	- MAL ID: 53111
 	- Genre(s): Action, Adventure, Fantasy
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen](https://myanimelist.net/anime/57066)
 	- Publication Status: Finished Airing
 	- MAL ID: 57066
@@ -3423,37 +3423,37 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Hibike! Euphonium](https://myanimelist.net/anime/27989)
 	- Publication Status: Finished Airing
 	- MAL ID: 27989
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium 2](https://myanimelist.net/anime/31988)
 	- Publication Status: Finished Airing
 	- MAL ID: 31988
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium 3](https://myanimelist.net/anime/39894)
 	- Publication Status: Finished Airing
 	- MAL ID: 39894
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium Movie 1: Kitauji Koukou Suisougaku-bu e Youkoso](https://myanimelist.net/anime/31989)
 	- Publication Status: Finished Airing
 	- MAL ID: 31989
-	- Genre(s): Music, School
+	- Genre(s): Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium Movie 2: Todoketai Melody](https://myanimelist.net/anime/35082)
 	- Publication Status: Finished Airing
 	- MAL ID: 35082
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium Movie 3: Chikai no Finale](https://myanimelist.net/anime/35678)
 	- Publication Status: Finished Airing
 	- MAL ID: 35678
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hibike! Euphonium: Ensemble Contest-hen](https://myanimelist.net/anime/51995)
 	- Publication Status: Finished Airing
 	- MAL ID: 51995
-	- Genre(s): Drama, Music, School
+	- Genre(s): Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hidamari Sketch](https://myanimelist.net/anime/1852)
 	- Publication Status: Finished Airing
@@ -4720,6 +4720,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 33221
 	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Kidou Senshi Gundam: GQuuuuuuX](https://myanimelist.net/anime/60449)
+	- Publication Status: Finished Airing
+	- MAL ID: 60449
+	- Genre(s): Action, Mecha, Sci-Fi, Space
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam: Suisei no Majo](https://myanimelist.net/anime/49828)
 	- Publication Status: Finished Airing
 	- MAL ID: 49828
@@ -5118,12 +5123,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kono Oto Tomare!](https://myanimelist.net/anime/38080)
 	- Publication Status: Finished Airing
 	- MAL ID: 38080
-	- Genre(s): Drama, Music, School, Shounen
+	- Genre(s): Drama, Music, Performing Arts, School, Shounen
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kono Oto Tomare! Part 2](https://myanimelist.net/anime/38889)
 	- Publication Status: Finished Airing
 	- MAL ID: 38889
-	- Genre(s): Drama, Music, School, Shounen
+	- Genre(s): Drama, Music, Performing Arts, School, Shounen
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kono Sekai no Katasumi ni](https://myanimelist.net/anime/15227)
 	- Publication Status: Finished Airing
@@ -5220,6 +5225,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 34544
 	- Genre(s): Action, Fantasy, Gore, Historical, Horror, Survival, Suspense
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Kowloon Generic Romance](https://myanimelist.net/anime/60083)
+	- Publication Status: Finished Airing
+	- MAL ID: 60083
+	- Genre(s): Adult Cast, Mystery, Romance, Sci-Fi, Seinen, Workplace
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Koyomimonogatari](https://myanimelist.net/anime/32268)
 	- Publication Status: Finished Airing
 	- MAL ID: 32268
@@ -5420,6 +5430,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 54492
 	- Genre(s): Drama, Historical, Medical, Mystery
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Kusuriya no Hitorigoto 2nd Season](https://myanimelist.net/anime/58514)
+	- Publication Status: Finished Airing
+	- MAL ID: 58514
+	- Genre(s): Drama, Historical, Medical, Mystery
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kuuchuu Buranko](https://myanimelist.net/anime/6774)
 	- Publication Status: Finished Airing
 	- MAL ID: 6774
@@ -5568,7 +5583,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Liz to Aoi Tori](https://myanimelist.net/anime/35677)
 	- Publication Status: Finished Airing
 	- MAL ID: 35677
-	- Genre(s): Award Winning, Drama, Music, School
+	- Genre(s): Award Winning, Drama, Music, Performing Arts, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Lodoss-tou Senki](https://myanimelist.net/anime/207)
 	- Publication Status: Finished Airing
@@ -6373,7 +6388,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Midori no Hibi](https://myanimelist.net/anime/330)
 	- Publication Status: Finished Airing
 	- MAL ID: 330
-	- Genre(s): Comedy, Delinquents, Drama, Ecchi, Romance, School, Shounen
+	- Genre(s): Comedy, Delinquents, Ecchi, Romance, School, Shounen, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Mieruko-chan](https://myanimelist.net/anime/48483)
 	- Publication Status: Finished Airing
@@ -6479,6 +6494,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 10389
 	- Genre(s): Award Winning, Drama, Supernatural
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Mono](https://myanimelist.net/anime/58492)
+	- Publication Status: Finished Airing
+	- MAL ID: 58492
+	- Genre(s): CGDCT, Comedy
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)
 	- Publication Status: Finished Airing
@@ -8015,6 +8035,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 34549
 	- Genre(s): Adventure, Fantasy
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473)
+	- Publication Status: Finished Airing
+	- MAL ID: 58473
+	- Genre(s): Action, Adventure, Comedy, Ecchi, Fantasy, Reincarnation, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [SKET Dance](https://myanimelist.net/anime/9863)
 	- Publication Status: Finished Airing
 	- MAL ID: 9863
@@ -8445,6 +8470,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 53770
 	- Genre(s): Action, Fantasy, Shounen, Urban Fantasy
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Sentai Daishikkaku 2nd Season](https://myanimelist.net/anime/59189)
+	- Publication Status: Finished Airing
+	- MAL ID: 59189
+	- Genre(s): Action, Fantasy, Shounen, Urban Fantasy
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Senyuu.](https://myanimelist.net/anime/15751)
 	- Publication Status: Finished Airing
 	- MAL ID: 15751
@@ -8725,6 +8755,16 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 23233
 	- Genre(s): Action, Ecchi, Harem, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Shinmai Maou no Testament Burst](https://myanimelist.net/anime/30363)
+	- Publication Status: Finished Airing
+	- MAL ID: 30363
+	- Genre(s): Action, Ecchi, Harem, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou](https://myanimelist.net/anime/30365)
+	- Publication Status: Finished Airing
+	- MAL ID: 30365
+	- Genre(s): Action, Ecchi, Harem, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou](https://myanimelist.net/anime/29027)
 	- Publication Status: Finished Airing
 	- MAL ID: 29027
@@ -8888,6 +8928,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shoushimin Series](https://myanimelist.net/anime/57810)
 	- Publication Status: Finished Airing
 	- MAL ID: 57810
+	- Genre(s): Mystery, School
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Shoushimin Series 2nd Season](https://myanimelist.net/anime/59828)
+	- Publication Status: Finished Airing
+	- MAL ID: 59828
 	- Genre(s): Mystery, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shouwa Genroku Rakugo Shinjuu](https://myanimelist.net/anime/28735)
@@ -10130,6 +10175,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 58333
 	- Genre(s): Historical
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Uma Musume: Cinderella Gray](https://myanimelist.net/anime/59636)
+	- Publication Status: Finished Airing
+	- MAL ID: 59636
+	- Genre(s): Anthropomorphic, Drama, Racing, Seinen, Sports
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Uma Musume: Pretty Derby - Road to the Top](https://myanimelist.net/anime/51761)
 	- Publication Status: Finished Airing
 	- MAL ID: 51761
@@ -10310,6 +10360,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 201
 	- Genre(s): Comedy, Drama, Ecchi, Love Polygon, Romance, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Vigilante: Boku no Hero Academia Illegals](https://myanimelist.net/anime/60593)
+	- Publication Status: Finished Airing
+	- MAL ID: 60593
+	- Genre(s): Action, Shounen, Super Power
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Vinland Saga](https://myanimelist.net/anime/37521)
 	- Publication Status: Finished Airing
 	- MAL ID: 37521
@@ -10420,6 +10475,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51552
 	- Genre(s): Adult Cast, Drama, Fantasy, Historical, Romance
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Watashi no Shiawase na Kekkon 2nd Season](https://myanimelist.net/anime/56701)
+	- Publication Status: Finished Airing
+	- MAL ID: 56701
+	- Genre(s): Adult Cast, Drama, Fantasy, Historical, Romance
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi](https://myanimelist.net/anime/55889)
 	- Publication Status: Finished Airing
 	- MAL ID: 55889

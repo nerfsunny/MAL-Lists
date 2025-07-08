@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 29, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 06, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -135,7 +135,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 41780
 	- Genre(s): Music
-	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Syureria](https://myanimelist.net/profile/Syureria/statistics/anime-scores), [cyruz](https://myanimelist.net/profile/cyruz/statistics/anime-scores)
+	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/statistics/anime-scores), [cyruz](https://myanimelist.net/profile/cyruz/statistics/anime-scores)
 - [Beelzebub-jou no Okinimesu mama.](https://myanimelist.net/anime/37716)
 	- Publication Status: Finished Airing
 	- MAL ID: 37716
@@ -330,7 +330,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 41361
 	- Genre(s): Comedy, Drama, Showbiz
-	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/statistics/anime-scores), [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
+	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/statistics/anime-scores), [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [Exception](https://myanimelist.net/anime/49163)
 	- Publication Status: Finished Airing
 	- MAL ID: 49163
@@ -395,7 +395,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 7472
 	- Genre(s): Action, Comedy, Historical, Parody, Samurai, Sci-Fi, Shounen
-	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
+	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Girls Band Cry](https://myanimelist.net/anime/55102)
 	- Publication Status: Finished Airing
 	- MAL ID: 55102
@@ -419,7 +419,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Guimi Zhi Zhu: Xiaochou Pian](https://myanimelist.net/anime/49818)
 	- Publication Status: Currently Airing
 	- MAL ID: 49818
-	- Genre(s): Action, Fantasy, Isekai, Mystery, Suspense, Urban Fantasy
+	- Genre(s): Action, Adult Cast, Fantasy, Isekai, Mystery, Suspense, Urban Fantasy
 	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores)
 - [Hachigatsu no Cinderella Nine](https://myanimelist.net/anime/38091)
 	- Publication Status: Finished Airing
@@ -545,7 +545,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 61595
 	- Genre(s): Adult Cast, Romance, Sci-Fi, Space
-	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores)
 - [ID-0](https://myanimelist.net/anime/33797)
 	- Publication Status: Finished Airing
 	- MAL ID: 33797
@@ -900,7 +900,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 1412
 	- Genre(s): Action, Adult Cast, Adventure, Comedy, Mystery, Seinen
-	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores)
+	- Staff Member(s): [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
 - [Lupin III vs. Cat's Eye](https://myanimelist.net/anime/53109)
 	- Publication Status: Finished Airing
 	- MAL ID: 53109
@@ -1165,7 +1165,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 5040
 	- Genre(s): Adult Cast, Psychological, Seinen, Sports, Suspense, Team Sports
-	- Staff Member(s): [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores), [Kunii](https://myanimelist.net/profile/Kunii/statistics/anime-scores), [Snow](https://myanimelist.net/profile/Snow/statistics/anime-scores), [Tensho](https://myanimelist.net/profile/Tensho/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
+	- Staff Member(s): [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores), [Kunii](https://myanimelist.net/profile/Kunii/statistics/anime-scores), [Snow](https://myanimelist.net/profile/Snow/statistics/anime-scores), [Tensho](https://myanimelist.net/profile/Tensho/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [One Piece Movie 09: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura](https://myanimelist.net/anime/3848)
 	- Publication Status: Finished Airing
 	- MAL ID: 3848
@@ -1350,7 +1350,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 1827
 	- Genre(s): Action, Adventure, Fantasy
-	- Staff Member(s): [Aiimee](https://myanimelist.net/profile/Aiimee/statistics/anime-scores), [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
+	- Staff Member(s): [Aiimee](https://myanimelist.net/profile/Aiimee/statistics/anime-scores), [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [Seireitsukai no Blade Dance](https://myanimelist.net/anime/22877)
 	- Publication Status: Finished Airing
 	- MAL ID: 22877
@@ -1385,7 +1385,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 1033
 	- Genre(s): Action, Adult Cast, Adventure, Award Winning, Drama, Fantasy, Historical, Romance, Showbiz
-	- Staff Member(s): [Aidan](https://myanimelist.net/profile/Aidan/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores), [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores), [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores), [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
+	- Staff Member(s): [Aidan](https://myanimelist.net/profile/Aidan/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Denji](https://myanimelist.net/profile/Denji/statistics/anime-scores), [Leknaat](https://myanimelist.net/profile/Leknaat/statistics/anime-scores), [Maffy](https://myanimelist.net/profile/Maffy/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
 - [Servant x Service](https://myanimelist.net/anime/18119)
 	- Publication Status: Finished Airing
 	- MAL ID: 18119
@@ -1440,7 +1440,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 57810
 	- Genre(s): Mystery, School
-	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores)
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores)
 - [Shuumatsu Train Doko e Iku?](https://myanimelist.net/anime/53356)
 	- Publication Status: Finished Airing
 	- MAL ID: 53356
@@ -1476,11 +1476,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 58066
 	- Genre(s): CGDCT, Sports
 	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores)
-- [Soratobu Yuureisen](https://myanimelist.net/anime/2811)
-	- Publication Status: Finished Airing
-	- MAL ID: 2811
-	- Genre(s): Adventure, Drama, Mecha, Sci-Fi
-	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Souten Kouro](https://myanimelist.net/anime/5226)
 	- Publication Status: Finished Airing
 	- MAL ID: 5226
@@ -1531,11 +1526,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 2965
 	- Genre(s): Mystery, Sci-Fi, Shounen
 	- Staff Member(s): [Kineta](https://myanimelist.net/profile/Kineta/statistics/anime-scores)
-- [T.P BON](https://myanimelist.net/anime/56840)
+- [Suu-funkan no Yell wo](https://myanimelist.net/anime/57915)
 	- Publication Status: Finished Airing
-	- MAL ID: 56840
-	- Genre(s): Action, Adventure, Historical, Sci-Fi, Time Travel
-	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
+	- MAL ID: 57915
+	- Genre(s): Music
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores)
 - [Ta ga Tame no Alchemist](https://myanimelist.net/anime/37262)
 	- Publication Status: Finished Airing
 	- MAL ID: 37262
@@ -1556,11 +1551,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 2486
 	- Genre(s): Comedy, Drama, Romance, Seinen, Supernatural
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/statistics/anime-scores)
-- [Tales of Luminaria: The Fateful Crossroad](https://myanimelist.net/anime/49942)
-	- Publication Status: Finished Airing
-	- MAL ID: 49942
-	- Genre(s): Fantasy
-	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Tales of Vesperia: The First Strike](https://myanimelist.net/anime/6046)
 	- Publication Status: Finished Airing
 	- MAL ID: 6046
@@ -1796,11 +1786,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 57390
 	- Genre(s): Action, Mahou Shoujo
 	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
-- [Xin Shen Bang: Nezha Chongsheng](https://myanimelist.net/anime/44061)
-	- Publication Status: Finished Airing
-	- MAL ID: 44061
-	- Genre(s): Action, Fantasy, Sci-Fi
-	- Staff Member(s): [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Ya She](https://myanimelist.net/anime/49573)
 	- Publication Status: Finished Airing
 	- MAL ID: 49573
@@ -1885,7 +1870,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Aidan](https://myanimelist.net/profile/Aidan/statistics/anime-scores)
 - [Aiimee](https://myanimelist.net/profile/Aiimee/statistics/anime-scores)
 - [AlexPaulLEWZ](https://myanimelist.net/profile/AlexPaulLEWZ/statistics/anime-scores)
-- [anime-prime](https://myanimelist.net/profile/anime-prime/statistics/anime-scores)
 - [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores)
 - [aquatar](https://myanimelist.net/profile/aquatar/statistics/anime-scores)
 - [azazel_lns](https://myanimelist.net/profile/azazel_lns/statistics/anime-scores)
