@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 29, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 07, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -20,7 +20,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 32081
 	- Genre(s): School, Shounen, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
-- ["Bungaku Shoujo" to Shi ni Tagari no Pierrot](https://myanimelist.net/manga/11776)
+- ["Bungaku Shoujo" to Shinitagari no Pierrot](https://myanimelist.net/manga/11776)
 	- Publication Status: Finished
 	- MAL ID: 11776
 	- Genre(s): Drama, Mystery, Romance
@@ -3756,7 +3756,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Doctor Price](https://myanimelist.net/manga/156626)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 156626
 	- Genre(s): Drama, Medical, Seinen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -6156,7 +6156,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Drama, Harem, Romance, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hariawazu ni Otonashiku Ningyou wo Tsukuru Koto ni Shimashita.](https://myanimelist.net/manga/155063)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 155063
 	- Genre(s): Fantasy, Isekai, Josei, Romance, Villainess
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -15575,10 +15575,10 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 159900
 	- Genre(s): Comedy, Romance, School, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Rikon Shinai Otoko](https://myanimelist.net/manga/157196)
-	- Publication Status: Currently Publishing
+- [Rikon shinai Otoko](https://myanimelist.net/manga/157196)
+	- Publication Status: Finished
 	- MAL ID: 157196
-	- Genre(s): Childcare, Comedy, Drama
+	- Genre(s): Childcare, Comedy, Drama, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Rikudou](https://myanimelist.net/manga/78477)
 	- Publication Status: Finished
@@ -20298,7 +20298,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Usotoki Rhetoric](https://myanimelist.net/manga/99575)
 	- Publication Status: Finished
 	- MAL ID: 99575
-	- Genre(s): Historical, Mystery, Romance, Shoujo
+	- Genre(s): Detective, Historical, Mystery, Romance, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Usotsuki Android](https://myanimelist.net/manga/132327)
 	- Publication Status: Finished

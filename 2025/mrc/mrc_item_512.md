@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of June 29, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 07, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1401,11 +1401,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 101
 	- Genre(s): Award Winning, Comedy, Mahou Shoujo, Romance, School, Shoujo, Supernatural
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites)
-- [Skill? Nee yo Sonna Mon! Fuguusha-tachi no Sainou Kaika](https://myanimelist.net/manga/181972)
-	- Publication Status: Finished
-	- MAL ID: 181972
-	- Genre(s): Action, Fantasy, Isekai
-	- Staff Member(s): [phren](https://myanimelist.net/profile/phren/favorites)
 - [Skip to Loafer](https://myanimelist.net/manga/118289)
 	- Publication Status: Currently Publishing
 	- MAL ID: 118289
@@ -1845,7 +1840,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Aidan](https://myanimelist.net/profile/Aidan/favorites)
 - [Aiimee](https://myanimelist.net/profile/Aiimee/favorites)
 - [AlexPaulLEWZ](https://myanimelist.net/profile/AlexPaulLEWZ/favorites)
-- [anime-prime](https://myanimelist.net/profile/anime-prime/favorites)
 - [Aquarius](https://myanimelist.net/profile/Aquarius/favorites)
 - [aquatar](https://myanimelist.net/profile/aquatar/favorites)
 - [azazel_lns](https://myanimelist.net/profile/azazel_lns/favorites)
