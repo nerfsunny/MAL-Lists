@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 13, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -810,6 +810,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 35182
 	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Binbou Shimai Monogatari](https://myanimelist.net/anime/1214)
+	- Publication Status: Finished Airing
+	- MAL ID: 1214
+	- Genre(s): Seinen, Slice of Life
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Binbougami ga!](https://myanimelist.net/anime/13535)
 	- Publication Status: Finished Airing
 	- MAL ID: 13535
@@ -1170,6 +1175,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 11103
 	- Genre(s): Action, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Busou Shinki: Install x Dream](https://myanimelist.net/anime/16614)
+	- Publication Status: Finished Airing
+	- MAL ID: 16614
+	- Genre(s): Action, Mecha, Sci-Fi
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689)
 	- Publication Status: Finished Airing
 	- MAL ID: 1689
@@ -1344,6 +1354,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 2255
 	- Genre(s): Action, Mecha, Sci-Fi, Space
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Choujuu Kishin Dancougar: God Bless Dancougar](https://myanimelist.net/anime/5266)
+	- Publication Status: Finished Airing
+	- MAL ID: 5266
+	- Genre(s): Action, Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Choujuu Kishin Dancougar: Juusenki-tai Songs](https://myanimelist.net/anime/17002)
 	- Publication Status: Finished Airing
@@ -2784,7 +2799,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 6945
 	- Genre(s): Action, Comedy, Historical, Parody, Sci-Fi
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Gintama: The Final](https://myanimelist.net/anime/39486)
 	- Publication Status: Finished Airing
 	- MAL ID: 39486
@@ -10515,6 +10530,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 54900
 	- Genre(s): Action, Delinquents, School
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Wind Breaker Season 2](https://myanimelist.net/anime/59160)
+	- Publication Status: Finished Airing
+	- MAL ID: 59160
+	- Genre(s): Action, Delinquents, School
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Wolf's Rain](https://myanimelist.net/anime/202)
 	- Publication Status: Finished Airing
 	- MAL ID: 202
@@ -10689,7 +10709,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 51692
 	- Genre(s): Comedy, Pets
-	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Yosuga no Sora](https://myanimelist.net/anime/8861)
 	- Publication Status: Finished Airing
 	- MAL ID: 8861

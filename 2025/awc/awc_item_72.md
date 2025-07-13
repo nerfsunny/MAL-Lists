@@ -4,7 +4,7 @@ title: AWC2025 72
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of June 03, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 12, 2025:
 
 (72) Watch an anime with 8 or more main characters listed on MAL (can have any number of supporting characters)
 
@@ -13,6 +13,10 @@ The list of eligible anime can be found under the [Anime List](#anime_list) sect
 It is commonnly recommended to take a screenshot of the character list so that in the event that a MAL Anime DB mod modifies the character list (e.g. adds or removes a character; changes the role of a character) sometime between when you completed the anime and when it gets inspected by the AWC staff, it will not invalidate your challenge. Also, it is commonly recommended to have your MAL username appear somewhere in the screenshot.
 
 ## <a name="anime_list">Anime List</a>
+- [#Compass 2.0: Sentou Setsuri Kaiseki System](https://myanimelist.net/anime/53762)
+	- Publication Status: Finished Airing
+	- MAL ID: 53762
+	- Genre(s): Action, Strategy Game
 - [009 Re:Cyborg](https://myanimelist.net/anime/11755)
 	- Publication Status: Finished Airing
 	- MAL ID: 11755
@@ -244,6 +248,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Bishoujo Senshi Sailor Moon](https://myanimelist.net/anime/530)
 	- Publication Status: Finished Airing
 	- MAL ID: 530
+	- Genre(s): Mahou Shoujo, Romance, Shoujo
+- [Bishoujo Senshi Sailor Moon Cosmos Movie](https://myanimelist.net/anime/51716)
+	- Publication Status: Finished Airing
+	- MAL ID: 51716
 	- Genre(s): Mahou Shoujo, Romance, Shoujo
 - [Bishoujo Senshi Sailor Moon Crystal Season III](https://myanimelist.net/anime/31733)
 	- Publication Status: Finished Airing
@@ -665,6 +673,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 892
 	- Genre(s): Action, Adventure, Comedy, Fantasy, Sci-Fi, Shounen
+- [Dream Believers (Sakura Ver.)](https://myanimelist.net/anime/61802)
+	- Publication Status: Finished Airing
+	- MAL ID: 61802
+	- Genre(s): Idols (Female), Music
 - [Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials](https://myanimelist.net/anime/16508)
 	- Publication Status: Finished Airing
 	- MAL ID: 16508
@@ -1101,6 +1113,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 60273
 	- Genre(s): Adult Cast, Music, Sci-Fi
+- [I Do Me!](https://myanimelist.net/anime/62012)
+	- Publication Status: Finished Airing
+	- MAL ID: 62012
+	- Genre(s): Idols (Female), Music
 - [IDOLiSH7 Vibrato](https://myanimelist.net/anime/36963)
 	- Publication Status: Finished Airing
 	- MAL ID: 36963
@@ -1356,11 +1372,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Kono Oto Tomare!](https://myanimelist.net/anime/38080)
 	- Publication Status: Finished Airing
 	- MAL ID: 38080
-	- Genre(s): Drama, Music, School, Shounen
+	- Genre(s): Drama, Music, Performing Arts, School, Shounen
 - [Kono Oto Tomare! Part 2](https://myanimelist.net/anime/38889)
 	- Publication Status: Finished Airing
 	- MAL ID: 38889
-	- Genre(s): Drama, Music, School, Shounen
+	- Genre(s): Drama, Music, Performing Arts, School, Shounen
 - [Kounai Shasei](https://myanimelist.net/anime/4164)
 	- Publication Status: Finished Airing
 	- MAL ID: 4164
@@ -1401,6 +1417,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 6379
 	- Genre(s): Comedy, Ecchi, School, Seinen
+- [Kyou, Watashi no Monogatari ga Hashirimasu.](https://myanimelist.net/anime/54352)
+	- Publication Status: Finished Airing
+	- MAL ID: 54352
+	- Genre(s): Racing, Slice of Life, Sports
 - [Kyouran Kazoku Nikki](https://myanimelist.net/anime/3577)
 	- Publication Status: Finished Airing
 	- MAL ID: 3577
@@ -1636,7 +1656,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Mekakucity Actors](https://myanimelist.net/anime/21603)
 	- Publication Status: Finished Airing
 	- MAL ID: 21603
-	- Genre(s): Sci-Fi, Super Power, Supernatural
+	- Genre(s): Drama, Mystery, Sci-Fi, Super Power
 - [Mewkledreamy](https://myanimelist.net/anime/40327)
 	- Publication Status: Finished Airing
 	- MAL ID: 40327
@@ -1777,7 +1797,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 39689
 	- Genre(s): Comedy, Ecchi, School, Seinen
-- [Nani mo Shite Agerarenai](https://myanimelist.net/anime/40147)
+- [Nanimo Shite Agerarenai](https://myanimelist.net/anime/40147)
 	- Publication Status: Finished Airing
 	- MAL ID: 40147
 	- Genre(s): Idols (Female), Music
@@ -2985,6 +3005,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 8961
 	- Genre(s): Comedy, Samurai, Seinen
+- [Toshi Densetsu Series](https://myanimelist.net/anime/32355)
+	- Publication Status: Finished Airing
+	- MAL ID: 32355
+	- Genre(s): Hentai
 - [Tottoko Hamtarou](https://myanimelist.net/anime/508)
 	- Publication Status: Finished Airing
 	- MAL ID: 508

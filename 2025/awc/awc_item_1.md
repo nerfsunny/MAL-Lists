@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 13, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -201,11 +201,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 49165
 	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/statistics/anime-scores)
-- [Bullbuster](https://myanimelist.net/anime/53633)
-	- Publication Status: Finished Airing
-	- MAL ID: 53633
-	- Genre(s): Action, Adult Cast, Mecha, Sci-Fi, Workplace
-	- Staff Member(s): [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores)
 - [Candy Candy](https://myanimelist.net/anime/2800)
 	- Publication Status: Finished Airing
 	- MAL ID: 2800
@@ -241,6 +236,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 38390
 	- Genre(s): Comedy, School
 	- Staff Member(s): [Kookerz](https://myanimelist.net/profile/Kookerz/statistics/anime-scores), [danyelll](https://myanimelist.net/profile/danyelll/statistics/anime-scores)
+- [Classic★Stars](https://myanimelist.net/anime/59199)
+	- Publication Status: Finished Airing
+	- MAL ID: 59199
+	- Genre(s): Music, School
+	- Staff Member(s): [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores)
 - [Colorful (Movie)](https://myanimelist.net/anime/8142)
 	- Publication Status: Finished Airing
 	- MAL ID: 8142
@@ -566,6 +566,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 40842
 	- Genre(s): Drama, Idols (Female), Music
 	- Staff Member(s): [KTGita22](https://myanimelist.net/profile/KTGita22/statistics/anime-scores)
+- [Ikebukuro West Gate Park](https://myanimelist.net/anime/40359)
+	- Publication Status: Finished Airing
+	- MAL ID: 40359
+	- Genre(s): Delinquents, Drama, Mystery
+	- Staff Member(s): [Mako995](https://myanimelist.net/profile/Mako995/statistics/anime-scores)
 - [Ikoku Meiro no Croisée The Animation](https://myanimelist.net/anime/9938)
 	- Publication Status: Finished Airing
 	- MAL ID: 9938
@@ -806,11 +811,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 50590
 	- Genre(s): Fantasy, Historical, Josei, Mystery, Mythology
 	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
-- [Kowloon Generic Romance](https://myanimelist.net/anime/60083)
-	- Publication Status: Finished Airing
-	- MAL ID: 60083
-	- Genre(s): Adult Cast, Mystery, Romance, Sci-Fi, Seinen, Workplace
-	- Staff Member(s): [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
 - [Kujira no Chouyaku](https://myanimelist.net/anime/1204)
 	- Publication Status: Finished Airing
 	- MAL ID: 1204
@@ -931,6 +931,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 33299
 	- Genre(s): Fantasy, Music, Reverse Harem, Romance, School, Visual Arts
 	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/statistics/anime-scores)
+- [Mahou Shoujo Magical Destroyers](https://myanimelist.net/anime/48981)
+	- Publication Status: Finished Airing
+	- MAL ID: 48981
+	- Genre(s): Action, Mahou Shoujo, Otaku Culture, Psychological, Suspense
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Mahoujin Guruguru (2017)](https://myanimelist.net/anime/34745)
 	- Publication Status: Finished Airing
 	- MAL ID: 34745
@@ -951,11 +956,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 8372
 	- Genre(s): Comedy, Shounen
 	- Staff Member(s): [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores)
-- [Maou 2099](https://myanimelist.net/anime/54853)
-	- Publication Status: Finished Airing
-	- MAL ID: 54853
-	- Genre(s): Action, Fantasy, Sci-Fi, Urban Fantasy
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Mary to Majo no Hana](https://myanimelist.net/anime/34541)
 	- Publication Status: Finished Airing
 	- MAL ID: 34541
@@ -1315,7 +1315,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 34494
 	- Genre(s): Adult Cast, Slice of Life, Workplace
-	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores)
+	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
 - [Samurai Girl Real Bout High School](https://myanimelist.net/anime/1098)
 	- Publication Status: Finished Airing
 	- MAL ID: 1098
@@ -1511,11 +1511,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 48453
 	- Genre(s): Action, Adult Cast, Drama, Super Power, Suspense
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/statistics/anime-scores)
-- [Super Cub](https://myanimelist.net/anime/40685)
-	- Publication Status: Finished Airing
-	- MAL ID: 40685
-	- Genre(s): CGDCT, Iyashikei, School, Slice of Life
-	- Staff Member(s): [Mako995](https://myanimelist.net/profile/Mako995/statistics/anime-scores)
 - [Super Lovers](https://myanimelist.net/anime/31680)
 	- Publication Status: Finished Airing
 	- MAL ID: 31680
