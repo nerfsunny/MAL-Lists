@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of July 07, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 13, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -3083,7 +3083,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Comic Girls](https://myanimelist.net/manga/96240)
 	- Publication Status: Finished
 	- MAL ID: 96240
-	- Genre(s): CGDCT, Comedy, Otaku Culture, Slice of Life
+	- Genre(s): CGDCT, Otaku Culture, Slice of Life
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Comics Underground Japan](https://myanimelist.net/manga/19088)
 	- Publication Status: Finished
@@ -8073,7 +8073,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Jesus](https://myanimelist.net/manga/20130)
 	- Publication Status: Finished
 	- MAL ID: 20130
-	- Genre(s): Action, Drama, Parody, Shounen
+	- Genre(s): Action, Drama, Organized Crime, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Jiangshi Kaitan Blood](https://myanimelist.net/manga/164026)
 	- Publication Status: Currently Publishing
@@ -8421,9 +8421,9 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Mystery, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kabushikigaisha Magi-Lumière](https://myanimelist.net/manga/142224)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 142224
-	- Genre(s): Action, Fantasy, Mahou Shoujo, Shounen, Workplace
+	- Genre(s): Action, Fantasy, Mahou Shoujo, Shounen, Urban Fantasy, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kacchu no Senshi Gamu!](https://myanimelist.net/manga/7197)
 	- Publication Status: Finished
@@ -8773,7 +8773,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kamui Jihen](https://myanimelist.net/manga/120470)
 	- Publication Status: Finished
 	- MAL ID: 120470
-	- Genre(s): Action, Adventure, Fantasy, Horror, Mystery, Sci-Fi
+	- Genre(s): Action, Adventure, Fantasy, Horror, Mystery, Sci-Fi, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kanan-sama wa Akumade Choroi](https://myanimelist.net/manga/147494)
 	- Publication Status: Currently Publishing
@@ -12151,7 +12151,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Mystery, Seinen, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mii-chan wa Kawaretai](https://myanimelist.net/manga/157084)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 157084
 	- Genre(s): Comedy, Romance, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -13486,7 +13486,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Fantasy, Romance, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ningen no Inai Kuni](https://myanimelist.net/manga/123710)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 123710
 	- Genre(s): Horror, Sci-Fi, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -14158,7 +14158,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Oogiri](https://myanimelist.net/manga/88354)
 	- Publication Status: Finished
 	- MAL ID: 88354
-	- Genre(s): Comedy, Martial Arts, Sports
+	- Genre(s): Comedy, Martial Arts, Shounen, Sports
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ookami Buka-kun to Hitsuji Joushi-san](https://myanimelist.net/manga/138319)
 	- Publication Status: Currently Publishing
@@ -20530,6 +20530,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 147831
 	- Genre(s): Comedy, Ecchi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Wakusei Closet](https://myanimelist.net/manga/108691)
+	- Publication Status: Finished
+	- MAL ID: 108691
+	- Genre(s): Seinen, Supernatural
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Walking Cat](https://myanimelist.net/manga/130169)
 	- Publication Status: Finished
 	- MAL ID: 130169
@@ -20751,7 +20756,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Fantasy, Reincarnation
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Wind Breaker](https://myanimelist.net/manga/103237)
-	- Publication Status: Currently Publishing
+	- Publication Status: Discontinued
 	- MAL ID: 103237
 	- Genre(s): Action, Drama, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)

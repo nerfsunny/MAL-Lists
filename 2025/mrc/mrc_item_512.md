@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of July 07, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 13, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -102,7 +102,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Drama, Mystery, Psychological, Romance, School, Seinen
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites), [Maffy](https://myanimelist.net/profile/Maffy/favorites)
 - [Ao Ashi](https://myanimelist.net/manga/102256)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 102256
 	- Genre(s): Award Winning, Seinen, Sports, Team Sports
 	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
@@ -590,7 +590,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 44489
 	- Genre(s): Action, Anthropomorphic, Drama, Fantasy, Seinen
-	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Jinbou](https://myanimelist.net/profile/Jinbou/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
+	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
 - [Hunter x Hunter](https://myanimelist.net/manga/26)
 	- Publication Status: Currently Publishing
 	- MAL ID: 26
@@ -676,6 +676,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 113138
 	- Genre(s): Action, School, Shounen, Supernatural
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
+- [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://myanimelist.net/manga/100448)
+	- Publication Status: Finished
+	- MAL ID: 100448
+	- Genre(s): Drama, Shounen
+	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Junai Tokkou Taichou!](https://myanimelist.net/manga/381)
 	- Publication Status: Finished
 	- MAL ID: 381
@@ -901,6 +906,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 134707
 	- Genre(s): Drama, Fantasy, Romance
 	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites)
+- [Liv](https://myanimelist.net/manga/117104)
+	- Publication Status: Finished
+	- MAL ID: 117104
+	- Genre(s): Drama, Romance, Supernatural
+	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Love Stage!!](https://myanimelist.net/manga/25081)
 	- Publication Status: Finished
 	- MAL ID: 25081
@@ -1166,6 +1176,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 44347
 	- Genre(s): Action, Comedy, Parody, Seinen, Super Power
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
+- [Only Virgins Left Alive](https://myanimelist.net/manga/175686)
+	- Publication Status: Finished
+	- MAL ID: 175686
+	- Genre(s): Boys Love, Comedy, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Opposites Attract](https://myanimelist.net/manga/171810)
 	- Publication Status: Finished
 	- MAL ID: 171810
@@ -1200,7 +1215,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 139429
 	- Genre(s): Boys Love, Erotica, Historical
-	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites), [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
+	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
 - [Pandora Hearts](https://myanimelist.net/manga/3031)
 	- Publication Status: Finished
 	- MAL ID: 3031
@@ -1361,6 +1376,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 146798
 	- Genre(s): Boys Love
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
+- [Semete, Ano Yuki no You ni](https://myanimelist.net/manga/57711)
+	- Publication Status: Finished
+	- MAL ID: 57711
+	- Genre(s): Drama, Romance, School
+	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Serial Experiments Lain: The Nightmare of Fabrication](https://myanimelist.net/manga/5461)
 	- Publication Status: Finished
 	- MAL ID: 5461
@@ -1410,7 +1430,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 51
 	- Genre(s): Award Winning, School, Shounen, Sports, Team Sports
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Pipe](https://myanimelist.net/profile/Pipe/favorites)
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Jinbou](https://myanimelist.net/profile/Jinbou/favorites), [Pipe](https://myanimelist.net/profile/Pipe/favorites)
 - [Smells Like Green Spirit](https://myanimelist.net/manga/64047)
 	- Publication Status: Finished
 	- MAL ID: 64047
@@ -1727,7 +1747,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Drama, Seinen
 	- Staff Member(s): [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
 - [Wind Breaker](https://myanimelist.net/manga/103237)
-	- Publication Status: Currently Publishing
+	- Publication Status: Discontinued
 	- MAL ID: 103237
 	- Genre(s): Action, Drama, Sports
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites)
