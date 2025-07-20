@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 13, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 20, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -49,7 +49,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Aki no Kanade](https://myanimelist.net/anime/29513)
 	- Publication Status: Finished Airing
 	- MAL ID: 29513
-	- Genre(s): Music, School, Slice of Life
+	- Genre(s): Music, Performing Arts, School, Slice of Life
 	- Staff Member(s): [LiIlie](https://myanimelist.net/profile/LiIlie/statistics/anime-scores), [Mythologically](https://myanimelist.net/profile/Mythologically/statistics/anime-scores)
 - [Aku no Hana](https://myanimelist.net/anime/16201)
 	- Publication Status: Finished Airing
@@ -66,11 +66,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 7610
 	- Genre(s): Fantasy, Historical
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores)
-- [Ao no Miburo](https://myanimelist.net/anime/56647)
-	- Publication Status: Finished Airing
-	- MAL ID: 56647
-	- Genre(s): Action, Historical, Samurai, Shounen
-	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores)
 - [Arashi no Yoru ni: Himitsu no Tomodachi](https://myanimelist.net/anime/13029)
 	- Publication Status: Finished Airing
 	- MAL ID: 13029
@@ -219,7 +214,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Chimimo](https://myanimelist.net/anime/50985)
 	- Publication Status: Finished Airing
 	- MAL ID: 50985
-	- Genre(s): Comedy, Mythology
+	- Genre(s): Comedy, Mythology, Supernatural
 	- Staff Member(s): [Dancho](https://myanimelist.net/profile/Dancho/statistics/anime-scores), [Kineta](https://myanimelist.net/profile/Kineta/statistics/anime-scores), [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [Chirin no Suzu](https://myanimelist.net/anime/2199)
 	- Publication Status: Finished Airing
@@ -541,6 +536,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 39730
 	- Genre(s): CGDCT, Gourmet, Iyashikei, School, Seinen, Slice of Life
 	- Staff Member(s): [AlexPaulLEWZ](https://myanimelist.net/profile/AlexPaulLEWZ/statistics/anime-scores)
+- [Hyouge Mono](https://myanimelist.net/anime/9996)
+	- Publication Status: Finished Airing
+	- MAL ID: 9996
+	- Genre(s): Adult Cast, Historical, Samurai, Seinen, Visual Arts
+	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores)
 - [I Byeol-e Pil-yohan](https://myanimelist.net/anime/61595)
 	- Publication Status: Finished Airing
 	- MAL ID: 61595
@@ -951,6 +951,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 23945
 	- Genre(s): Comedy, Ecchi, School, Shounen, Supernatural
 	- Staff Member(s): [beeped5](https://myanimelist.net/profile/beeped5/statistics/anime-scores)
+- [Majokko Shimai no Yoyo to Nene](https://myanimelist.net/anime/15813)
+	- Publication Status: Finished Airing
+	- MAL ID: 15813
+	- Genre(s): Fantasy
+	- Staff Member(s): [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores)
 - [Makoto-chan](https://myanimelist.net/anime/8372)
 	- Publication Status: Finished Airing
 	- MAL ID: 8372
@@ -1451,6 +1456,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 19775
 	- Genre(s): Action, Mecha, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Mako995](https://myanimelist.net/profile/Mako995/statistics/anime-scores)
+- [Sketchbook: Full Color's](https://myanimelist.net/anime/2942)
+	- Publication Status: Finished Airing
+	- MAL ID: 2942
+	- Genre(s): CGDCT, Iyashikei, Slice of Life, Visual Arts
+	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores)
 - [So Ra No Wo To](https://myanimelist.net/anime/6802)
 	- Publication Status: Finished Airing
 	- MAL ID: 6802
@@ -1746,11 +1756,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 338
 	- Genre(s): Crossdressing, Drama, Historical, Military, Romance, Shoujo
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/statistics/anime-scores), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Pipe](https://myanimelist.net/profile/Pipe/statistics/anime-scores)
-- [Versailles no Bara (Movie)](https://myanimelist.net/anime/52967)
-	- Publication Status: Finished Airing
-	- MAL ID: 52967
-	- Genre(s): Crossdressing, Drama, Historical, Military, Romance, Shoujo
-	- Staff Member(s): [Vindstot](https://myanimelist.net/profile/Vindstot/statistics/anime-scores)
 - [Wakaokami wa Shougakusei! Movie](https://myanimelist.net/anime/37682)
 	- Publication Status: Finished Airing
 	- MAL ID: 37682
@@ -1846,11 +1851,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 51706
 	- Genre(s): Action, Comedy, Ecchi, Fantasy, Harem, Parody
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/statistics/anime-scores)
-- [Zatsu Tabi: That's Journey](https://myanimelist.net/anime/55514)
-	- Publication Status: Finished Airing
-	- MAL ID: 55514
-	- Genre(s): Adventure, Iyashikei, Seinen, Slice of Life
-	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores)
 - [number24](https://myanimelist.net/anime/39583)
 	- Publication Status: Finished Airing
 	- MAL ID: 39583
@@ -1906,6 +1906,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [MagicPolly](https://myanimelist.net/profile/MagicPolly/statistics/anime-scores)
 - [Mako995](https://myanimelist.net/profile/Mako995/statistics/anime-scores)
 - [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores)
+- [mobulidae](https://myanimelist.net/profile/mobulidae/statistics/anime-scores)
 - [Mythologically](https://myanimelist.net/profile/Mythologically/statistics/anime-scores)
 - [Naitik7897](https://myanimelist.net/profile/Naitik7897/statistics/anime-scores)
 - [Naruleach](https://myanimelist.net/profile/Naruleach/statistics/anime-scores)
