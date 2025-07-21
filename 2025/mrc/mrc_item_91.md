@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of July 13, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 20, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1831,9 +1831,9 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Drama
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Billion Dolar Slave](https://myanimelist.net/manga/162867)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 162867
-	- Genre(s): Action, Drama, Shounen
+	- Genre(s): Action, Drama
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Billionaire Girl](https://myanimelist.net/manga/23588)
 	- Publication Status: Finished
@@ -2436,7 +2436,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Josei
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Brave Bell](https://myanimelist.net/manga/159851)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 159851
 	- Genre(s): Action, Drama, Organized Crime, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -6606,7 +6606,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Love Status Quo, Romance, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hige wo Soru. Soshite Joshikousei wo Hirou.](https://myanimelist.net/manga/116766)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 116766
 	- Genre(s): Drama, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -8546,7 +8546,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Ecchi, Gore, Shounen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kaijuu 8-gou](https://myanimelist.net/manga/127907)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 127907
 	- Genre(s): Action, Adult Cast, Fantasy, Sci-Fi, Shounen, Urban Fantasy
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
@@ -9221,7 +9221,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, Seinen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kemutai Ane to Zurui Imouto](https://myanimelist.net/manga/147403)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 147403
 	- Genre(s): Drama, Josei, Romance
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -18811,7 +18811,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Girls Love
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari](https://myanimelist.net/manga/109906)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 109906
 	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
