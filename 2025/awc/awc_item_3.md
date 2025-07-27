@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 20, 2025:
+This list contains a list of anime eligible for the following challenge item, as of July 27, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -269,7 +269,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 57719
 	- Genre(s): Comedy, Fantasy, Isekai, School, Seinen, Villainess
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Akuyaku Reijou nanode Last Boss wo Kattemimashita](https://myanimelist.net/anime/49979)
 	- Publication Status: Finished Airing
 	- MAL ID: 49979
@@ -458,7 +458,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Arakawa Under the Bridge](https://myanimelist.net/anime/7647)
 	- Publication Status: Finished Airing
 	- MAL ID: 7647
-	- Genre(s): Comedy, Romance, Seinen
+	- Genre(s): Adult Cast, Comedy, Romance, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [TieboRiri](https://myanimelist.net/profile/TieboRiri)
 - [Arashi no Yoru ni](https://myanimelist.net/anime/1961)
 	- Publication Status: Finished Airing
@@ -545,7 +545,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 791
 	- Genre(s): Action, Adventure, Drama, Fantasy, Mythology, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
-- [Arknights: Reimei Zensou](https://myanimelist.net/anime/50205)
+- [Arknights: Prelude to Dawn](https://myanimelist.net/anime/50205)
 	- Publication Status: Finished Airing
 	- MAL ID: 50205
 	- Genre(s): Action, Fantasy
@@ -2059,7 +2059,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 57066
 	- Genre(s): Action, Adventure, Fantasy
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Dungeon no Naka no Hito](https://myanimelist.net/anime/56348)
 	- Publication Status: Finished Airing
 	- MAL ID: 56348
@@ -5658,7 +5658,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Lost Song](https://myanimelist.net/anime/34338)
 	- Publication Status: Finished Airing
 	- MAL ID: 34338
-	- Genre(s): Drama, Fantasy
+	- Genre(s): Drama, Fantasy, Music
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Lostorage Conflated WIXOSS](https://myanimelist.net/anime/34607)
 	- Publication Status: Finished Airing
@@ -6244,7 +6244,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 55318
 	- Genre(s): Drama, Performing Arts, Seinen, Sports
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Medarot](https://myanimelist.net/anime/1138)
 	- Publication Status: Finished Airing
 	- MAL ID: 1138
@@ -6718,7 +6718,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [NHK ni Youkoso!](https://myanimelist.net/anime/1210)
 	- Publication Status: Finished Airing
 	- MAL ID: 1210
-	- Genre(s): Adult Cast, Comedy, Drama, Otaku Culture, Psychological, Romance, Suspense
+	- Genre(s): Comedy, Drama, Otaku Culture, Psychological, Romance
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Nabari no Ou](https://myanimelist.net/anime/3655)
 	- Publication Status: Finished Airing
@@ -7033,37 +7033,37 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Nodame Cantabile](https://myanimelist.net/anime/1698)
 	- Publication Status: Finished Airing
 	- MAL ID: 1698
-	- Genre(s): Adult Cast, Comedy, Josei, Music, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Music, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Nodame Cantabile Finale](https://myanimelist.net/anime/5690)
 	- Publication Status: Finished Airing
 	- MAL ID: 5690
-	- Genre(s): Adult Cast, Comedy, Josei, Music, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Music, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Nodame Cantabile Finale OVA](https://myanimelist.net/anime/8190)
 	- Publication Status: Finished Airing
 	- MAL ID: 8190
-	- Genre(s): Adult Cast, Comedy, Josei, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nodame Cantabile OVA](https://myanimelist.net/anime/6187)
 	- Publication Status: Finished Airing
 	- MAL ID: 6187
-	- Genre(s): Adult Cast, Comedy, Josei, Music, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Music, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nodame Cantabile: Finale - Mine to Kiyora no Saikai](https://myanimelist.net/anime/8038)
 	- Publication Status: Finished Airing
 	- MAL ID: 8038
-	- Genre(s): Adult Cast, Comedy, Josei, Music, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Music, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nodame Cantabile: Nodame to Chiaki no Umi Monogatari](https://myanimelist.net/anime/3965)
 	- Publication Status: Finished Airing
 	- MAL ID: 3965
-	- Genre(s): Adult Cast, Comedy, Josei, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nodame Cantabile: Paris-hen](https://myanimelist.net/anime/4477)
 	- Publication Status: Finished Airing
 	- MAL ID: 4477
-	- Genre(s): Adult Cast, Comedy, Josei, Music, Romance
+	- Genre(s): Adult Cast, Comedy, Josei, Music, Performing Arts, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Noein: Mou Hitori no Kimi e](https://myanimelist.net/anime/584)
 	- Publication Status: Finished Airing
@@ -7358,7 +7358,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Osomatsu-san](https://myanimelist.net/anime/31174)
 	- Publication Status: Finished Airing
 	- MAL ID: 31174
-	- Genre(s): Comedy, Gag Humor, Parody
+	- Genre(s): Adult Cast, Comedy, Gag Humor, Parody
 	- Staff Member(s): [TieboRiri](https://myanimelist.net/profile/TieboRiri)
 - [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...](https://myanimelist.net/anime/38555)
 	- Publication Status: Finished Airing
@@ -7568,17 +7568,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Piano no Mori](https://myanimelist.net/anime/2594)
 	- Publication Status: Finished Airing
 	- MAL ID: 2594
-	- Genre(s): Drama, Music, School, Seinen
+	- Genre(s): Drama, Music, Performing Arts, School, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Piano no Mori (TV)](https://myanimelist.net/anime/36652)
 	- Publication Status: Finished Airing
 	- MAL ID: 36652
-	- Genre(s): Drama, Music, School, Seinen
+	- Genre(s): Drama, Music, Performing Arts, School, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Piano no Mori (TV) 2nd Season](https://myanimelist.net/anime/37975)
 	- Publication Status: Finished Airing
 	- MAL ID: 37975
-	- Genre(s): Drama, Music, School, Seinen
+	- Genre(s): Drama, Music, Performing Arts, School, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Pig: Oka no Ue no Dam Keeper](https://myanimelist.net/anime/34346)
 	- Publication Status: Finished Airing
@@ -7870,6 +7870,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 37202
 	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
+- [Radiant 2nd Season](https://myanimelist.net/anime/39355)
+	- Publication Status: Finished Airing
+	- MAL ID: 39355
+	- Genre(s): Action, Adventure, Fantasy
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [RahXephon](https://myanimelist.net/anime/165)
 	- Publication Status: Finished Airing
 	- MAL ID: 165
@@ -7904,7 +7909,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 210
 	- Genre(s): Action, Comedy, Ecchi, Magical Sex Shift, Martial Arts, Romance, School, Shounen
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Ranma ½ (2024)](https://myanimelist.net/anime/59145)
 	- Publication Status: Finished Airing
 	- MAL ID: 59145
@@ -8623,7 +8628,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shigatsu wa Kimi no Uso](https://myanimelist.net/anime/23273)
 	- Publication Status: Finished Airing
 	- MAL ID: 23273
-	- Genre(s): Drama, Love Polygon, Music, Romance, School, Shounen
+	- Genre(s): Drama, Love Polygon, Music, Performing Arts, Romance, School, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shigofumi](https://myanimelist.net/anime/3420)
 	- Publication Status: Finished Airing
@@ -9583,7 +9588,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tari Tari](https://myanimelist.net/anime/13333)
 	- Publication Status: Finished Airing
 	- MAL ID: 13333
-	- Genre(s): Music, School, Slice of Life
+	- Genre(s): Music, Performing Arts, School, Slice of Life
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Tasogare Otome x Amnesia](https://myanimelist.net/anime/12445)
 	- Publication Status: Finished Airing
