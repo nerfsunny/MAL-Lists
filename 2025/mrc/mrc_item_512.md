@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of July 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 27, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1486,6 +1486,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 30779
 	- Genre(s): Drama, Performing Arts, School, Shounen, Slice of Life
 	- Staff Member(s): [Tensho](https://myanimelist.net/profile/Tensho/favorites)
+- [The Art of Reincarnation](https://myanimelist.net/manga/150549)
+	- Publication Status: Currently Publishing
+	- MAL ID: 150549
+	- Genre(s): Action, Fantasy, Reincarnation
+	- Staff Member(s): [KayKimii](https://myanimelist.net/profile/KayKimii/favorites)
 - [The Boxer](https://myanimelist.net/manga/141120)
 	- Publication Status: Finished
 	- MAL ID: 141120
@@ -1662,7 +1667,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Drama, Fantasy, Reverse Harem, Romance, Villainess
 	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/favorites), [KayKimii](https://myanimelist.net/profile/KayKimii/favorites)
 - [Vinland Saga](https://myanimelist.net/manga/642)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 642
 	- Genre(s): Action, Adventure, Award Winning, Drama, Historical, Seinen
 	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites)
@@ -1689,7 +1694,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Wind Breaker](https://myanimelist.net/manga/103237)
 	- Publication Status: Discontinued
 	- MAL ID: 103237
-	- Genre(s): Action, Drama, Sports
+	- Genre(s): Drama, Sports
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites)
 - [Wind Breaker](https://myanimelist.net/manga/133081)
 	- Publication Status: Currently Publishing

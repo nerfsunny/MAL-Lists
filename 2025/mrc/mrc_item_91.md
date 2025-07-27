@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of July 20, 2025:
+This list contains a list of manga eligible for the following challenge item, as of July 27, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -903,7 +903,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ame to Kimi to](https://myanimelist.net/manga/129418)
 	- Publication Status: Currently Publishing
 	- MAL ID: 129418
-	- Genre(s): Comedy, Seinen, Slice of Life
+	- Genre(s): Adult Cast, Pets, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Amon Game](https://myanimelist.net/manga/16759)
 	- Publication Status: Finished
@@ -4265,11 +4265,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 103314
 	- Genre(s): Comedy, Ecchi, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Elfen Lied](https://myanimelist.net/manga/933)
-	- Publication Status: Finished
-	- MAL ID: 933
-	- Genre(s): Action, Drama, Gore, Horror, Psychological, Romance, Seinen, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Emblem Take 2](https://myanimelist.net/manga/86734)
 	- Publication Status: Finished
 	- MAL ID: 86734
@@ -9496,7 +9491,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kimi to Barairo no Hibi](https://myanimelist.net/manga/159028)
-	- Publication Status: On Hiatus
+	- Publication Status: Currently Publishing
 	- MAL ID: 159028
 	- Genre(s): Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -20441,7 +20436,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Vinland Saga](https://myanimelist.net/manga/642)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 642
 	- Genre(s): Action, Adventure, Award Winning, Drama, Historical, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
@@ -20758,7 +20753,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Wind Breaker](https://myanimelist.net/manga/103237)
 	- Publication Status: Discontinued
 	- MAL ID: 103237
-	- Genre(s): Action, Drama, Sports
+	- Genre(s): Drama, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Wingman](https://myanimelist.net/manga/3390)
 	- Publication Status: Finished
@@ -21336,9 +21331,9 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Music, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yozakura Quartet](https://myanimelist.net/manga/2060)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 2060
-	- Genre(s): Action, Comedy, Shounen, Slice of Life, Super Power, Supernatural
+	- Genre(s): Action, Comedy, Shounen, Super Power, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yozakura-san Chi no Daisakusen](https://myanimelist.net/manga/121426)
 	- Publication Status: Finished
