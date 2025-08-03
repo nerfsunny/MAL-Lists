@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 27, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 03, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1100,6 +1100,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1681
 	- Genre(s): Action, Adventure, Fantasy, Isekai
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Brave Witches: Petersburg Daisenryaku](https://myanimelist.net/anime/34644)
+	- Publication Status: Finished Airing
+	- MAL ID: 34644
+	- Genre(s): Action, Ecchi, Military, Sci-Fi
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Break Blade Movie 1: Kakusei no Toki](https://myanimelist.net/anime/6772)
 	- Publication Status: Finished Airing
 	- MAL ID: 6772
@@ -9020,6 +9025,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40763
 	- Genre(s): Comedy, Fantasy, Music
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Shugo Chara!](https://myanimelist.net/anime/2923)
+	- Publication Status: Finished Airing
+	- MAL ID: 2923
+	- Genre(s): Comedy, Mahou Shoujo, School, Shoujo
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Shukufuku](https://myanimelist.net/anime/53286)
 	- Publication Status: Finished Airing
 	- MAL ID: 53286
@@ -9358,7 +9368,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sumikko Gurashi Movie 2: Aoi Tsukiyo no Mahou no Ko](https://myanimelist.net/anime/43780)
 	- Publication Status: Finished Airing
 	- MAL ID: 43780
-	- Genre(s): Comedy
+	- Genre(s): Anthropomorphic, Comedy
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Summer Ghost](https://myanimelist.net/anime/48171)
 	- Publication Status: Finished Airing
@@ -9530,6 +9540,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1279
 	- Genre(s): Adventure, Historical, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Takopii no Genzai](https://myanimelist.net/anime/60489)
+	- Publication Status: Finished Airing
+	- MAL ID: 60489
+	- Genre(s): Drama, Psychological, Sci-Fi, Shounen, Time Travel
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Takt Op. Destiny](https://myanimelist.net/anime/48556)
 	- Publication Status: Finished Airing
 	- MAL ID: 48556
