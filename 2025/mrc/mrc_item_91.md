@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 03, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 10, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -991,7 +991,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Horror, Mystery, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Ani no Yome to Kurashiteimasu.](https://myanimelist.net/manga/94342)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 94342
 	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)

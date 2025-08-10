@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 03, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 10, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -60,7 +60,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 4571
 	- Genre(s): Drama, Fantasy, Romance, Shoujo
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [Kookerz](https://myanimelist.net/profile/Kookerz/favorites)
+	- Staff Member(s): [Kookerz](https://myanimelist.net/profile/Kookerz/favorites)
 - [Akane-banashi](https://myanimelist.net/manga/144034)
 	- Publication Status: Currently Publishing
 	- MAL ID: 144034
@@ -254,7 +254,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Chihayafuru](https://myanimelist.net/manga/13245)
 	- Publication Status: Finished
 	- MAL ID: 13245
-	- Genre(s): Award Winning, Drama, Josei, Love Polygon, Strategy Game
+	- Genre(s): Award Winning, Drama, Josei, Love Polygon, Romance, Strategy Game
 	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
 - [Chikan Otoko](https://myanimelist.net/manga/46282)
 	- Publication Status: Finished
@@ -336,6 +336,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 148401
 	- Genre(s): Drama, Psychological, Supernatural
 	- Staff Member(s): [danyelll](https://myanimelist.net/profile/danyelll/favorites)
+- [Define the Relationship](https://myanimelist.net/manga/162525)
+	- Publication Status: Finished
+	- MAL ID: 162525
+	- Genre(s): Boys Love, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Dengeki Daisy](https://myanimelist.net/manga/5255)
 	- Publication Status: Finished
 	- MAL ID: 5255
@@ -781,6 +786,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 16765
 	- Genre(s): Action, Award Winning, Historical, Military, Seinen
 	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Jicetus](https://myanimelist.net/profile/Jicetus/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+- [Kiss Me If You Can](https://myanimelist.net/manga/184890)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184890
+	- Genre(s): Boys Love, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Koe no Katachi](https://myanimelist.net/manga/56805)
 	- Publication Status: Finished
 	- MAL ID: 56805
@@ -901,6 +911,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 25081
 	- Genre(s): Boys Love, Comedy, Erotica
 	- Staff Member(s): [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites)
+- [Low Tide in Twilight](https://myanimelist.net/manga/166205)
+	- Publication Status: Currently Publishing
+	- MAL ID: 166205
+	- Genre(s): Boys Love, Drama, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Lv999 no Murabito](https://myanimelist.net/manga/106785)
 	- Publication Status: Currently Publishing
 	- MAL ID: 106785
@@ -961,11 +976,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 119588
 	- Genre(s): Historical, Mystery, Shounen, Supernatural, Time Travel
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/favorites)
-- [Maoujou de Oyasumi](https://myanimelist.net/manga/98639)
-	- Publication Status: Currently Publishing
-	- MAL ID: 98639
-	- Genre(s): Comedy, Fantasy, Parody, Shounen
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites)
 - [Maru Is a Puppy](https://myanimelist.net/manga/162807)
 	- Publication Status: Finished
 	- MAL ID: 162807
@@ -1000,7 +1010,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 129621
 	- Genre(s): Award Winning, Drama, Seinen, Sports
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
 - [Meitantei Conan](https://myanimelist.net/manga/1061)
 	- Publication Status: Currently Publishing
 	- MAL ID: 1061
@@ -1191,6 +1201,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 3031
 	- Genre(s): Adventure, Fantasy, Mystery, Shounen
 	- Staff Member(s): [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites), [Maffy](https://myanimelist.net/profile/Maffy/favorites), [Mythologically](https://myanimelist.net/profile/Mythologically/favorites), [stinghy](https://myanimelist.net/profile/stinghy/favorites), [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [Paws & Claws](https://myanimelist.net/manga/184882)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184882
+	- Genre(s): Anthropomorphic, Boys Love, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Piano no Mori](https://myanimelist.net/manga/2895)
 	- Publication Status: Finished
 	- MAL ID: 2895
@@ -1220,7 +1235,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 90334
 	- Genre(s): Romance, Shoujo, Supernatural
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [Meedor](https://myanimelist.net/profile/Meedor/favorites)
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites)
 - [Raise wa Tanin ga Ii](https://myanimelist.net/manga/109229)
 	- Publication Status: Currently Publishing
 	- MAL ID: 109229
@@ -1231,6 +1246,21 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 78523
 	- Genre(s): Comedy, Drama, Romance, School, Slice of Life
 	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [Mako995](https://myanimelist.net/profile/Mako995/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
+- [Red Thread Quest](https://myanimelist.net/manga/184893)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184893
+	- Genre(s): Boys Love, Erotica, Supernatural
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
+- [Regas](https://myanimelist.net/manga/184863)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184863
+	- Genre(s): Boys Love, Fantasy, Reincarnation
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
+- [Reunion](https://myanimelist.net/manga/184875)
+	- Publication Status: Finished
+	- MAL ID: 184875
+	- Genre(s): Boys Love, Drama, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Revenge of the Baskerville Bloodhound](https://myanimelist.net/manga/157888)
 	- Publication Status: Currently Publishing
 	- MAL ID: 157888
@@ -1316,6 +1346,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 18896
 	- Genre(s): Drama, Romance, Slice of Life
 	- Staff Member(s): [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
+- [Semantic Error](https://myanimelist.net/manga/146798)
+	- Publication Status: Finished
+	- MAL ID: 146798
+	- Genre(s): Boys Love
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Semete, Ano Yuki no You ni](https://myanimelist.net/manga/57711)
 	- Publication Status: Finished
 	- MAL ID: 57711
@@ -1405,7 +1440,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 126287
 	- Genre(s): Adventure, Award Winning, Drama, Fantasy, Shounen
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites), [Naitik7897](https://myanimelist.net/profile/Naitik7897/favorites)
+	- Staff Member(s): [Naitik7897](https://myanimelist.net/profile/Naitik7897/favorites)
 - [Spiral: Suiri no Kizuna](https://myanimelist.net/manga/534)
 	- Publication Status: Finished
 	- MAL ID: 534
@@ -1506,6 +1541,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 1268
 	- Genre(s): Drama, Fantasy, Romance, Shoujo
 	- Staff Member(s): [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
+- [The Dangerous Convenience Store](https://myanimelist.net/manga/153714)
+	- Publication Status: Finished
+	- MAL ID: 153714
+	- Genre(s): Boys Love, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [The Flowers of Evil](https://myanimelist.net/manga/5767)
 	- Publication Status: Finished
 	- MAL ID: 5767
@@ -1521,6 +1561,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 154063
 	- Genre(s): Fantasy, Romance, Villainess
 	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+- [The S-Class Guide as Sweet as Honey](https://myanimelist.net/manga/183967)
+	- Publication Status: Currently Publishing
+	- MAL ID: 183967
+	- Genre(s): Boys Love, Fantasy, Urban Fantasy
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [The Villainess Lives Again](https://myanimelist.net/manga/147205)
 	- Publication Status: Finished
 	- MAL ID: 147205
@@ -1531,6 +1576,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 111532
 	- Genre(s): Boys Love, Erotica
 	- Staff Member(s): [Kookerz](https://myanimelist.net/profile/Kookerz/favorites)
+- [Third Ending](https://myanimelist.net/manga/184899)
+	- Publication Status: Finished
+	- MAL ID: 184899
+	- Genre(s): Boys Love, Erotica
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Time Slip Ota-Girl](https://myanimelist.net/manga/111341)
 	- Publication Status: Finished
 	- MAL ID: 111341
@@ -1560,12 +1610,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 100035
 	- Genre(s): Fantasy, Seinen
-	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Illyxa](https://myanimelist.net/profile/Illyxa/favorites)
-- [Toshokan no Daimajutsushi](https://myanimelist.net/manga/110771)
-	- Publication Status: Currently Publishing
-	- MAL ID: 110771
-	- Genre(s): Fantasy, Seinen
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/favorites)
+	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites)
 - [Touhou Sangetsusei: Strange and Bright Nature Deity](https://myanimelist.net/manga/11929)
 	- Publication Status: Finished
 	- MAL ID: 11929
@@ -1711,6 +1756,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 89087
 	- Genre(s): Adult Cast, Comedy, Otaku Culture, Romance, Workplace
 	- Staff Member(s): [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/favorites), [beeped5](https://myanimelist.net/profile/beeped5/favorites)
+- [XXX Buddy](https://myanimelist.net/manga/183968)
+	- Publication Status: Finished
+	- MAL ID: 183968
+	- Genre(s): Adult Cast, Boys Love, Erotica, Workplace
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Yagate Kimi ni Naru](https://myanimelist.net/manga/88660)
 	- Publication Status: Finished
 	- MAL ID: 88660
@@ -1741,6 +1791,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 133591
 	- Genre(s): Drama, Fantasy, Seinen
 	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites), [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
+- [You Get Me Going](https://myanimelist.net/manga/184876)
+	- Publication Status: Finished
+	- MAL ID: 184876
+	- Genre(s): Boys Love, Erotica, Workplace
+	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Youjo Senki](https://myanimelist.net/manga/98436)
 	- Publication Status: Currently Publishing
 	- MAL ID: 98436
@@ -1818,7 +1873,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Gilrin](https://myanimelist.net/profile/Gilrin/favorites)
 - [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
-- [Illyxa](https://myanimelist.net/profile/Illyxa/favorites)
 - [iShipMyFriends](https://myanimelist.net/profile/iShipMyFriends/favorites)
 - [Jicetus](https://myanimelist.net/profile/Jicetus/favorites)
 - [Jinbou](https://myanimelist.net/profile/Jinbou/favorites)
