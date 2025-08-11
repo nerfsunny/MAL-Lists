@@ -4,7 +4,7 @@ title: AWC2025 72
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of July 12, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 09, 2025:
 
 (72) Watch an anime with 8 or more main characters listed on MAL (can have any number of supporting characters)
 
@@ -16,7 +16,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [#Compass 2.0: Sentou Setsuri Kaiseki System](https://myanimelist.net/anime/53762)
 	- Publication Status: Finished Airing
 	- MAL ID: 53762
-	- Genre(s): Action, Strategy Game
+	- Genre(s): Action, Video Game
 - [009 Re:Cyborg](https://myanimelist.net/anime/11755)
 	- Publication Status: Finished Airing
 	- MAL ID: 11755
@@ -772,11 +772,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Fushigi Yuugi OVA](https://myanimelist.net/anime/380)
 	- Publication Status: Finished Airing
 	- MAL ID: 380
-	- Genre(s): Adventure, Fantasy, Historical, Isekai, Martial Arts, Romance, Shoujo
+	- Genre(s): Action, Adventure, Fantasy, Historical, Isekai, Martial Arts, Romance, Shoujo
 - [Fushigi Yuugi: Dai Ni Bu](https://myanimelist.net/anime/381)
 	- Publication Status: Finished Airing
 	- MAL ID: 381
-	- Genre(s): Adventure, Fantasy, Historical, Isekai, Martial Arts, Romance, Shoujo
+	- Genre(s): Action, Adventure, Fantasy, Historical, Isekai, Martial Arts, Romance, Shoujo
 - [Fushigi Yuugi: Eikouden](https://myanimelist.net/anime/124)
 	- Publication Status: Finished Airing
 	- MAL ID: 124
@@ -1021,6 +1021,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 23787
 	- Genre(s): Comedy, Parody, Video Game
+- [Hibike! Euphonium 3: Extra Episodes](https://myanimelist.net/anime/58856)
+	- Publication Status: Finished Airing
+	- MAL ID: 58856
+	- Genre(s): Drama, Music, Performing Arts, School
 - [High School DxD BorN](https://myanimelist.net/anime/24703)
 	- Publication Status: Finished Airing
 	- MAL ID: 24703
@@ -1980,10 +1984,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...](https://myanimelist.net/anime/38555)
 	- Publication Status: Finished Airing
 	- MAL ID: 38555
-	- Genre(s): Comedy, Fantasy, Isekai, Reverse Harem, Romance, School, Shoujo, Villainess
-- [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... Movie](https://myanimelist.net/anime/49842)
-	- Publication Status: Finished Airing
-	- MAL ID: 49842
 	- Genre(s): Comedy, Fantasy, Isekai, Reverse Harem, Romance, School, Shoujo, Villainess
 - [Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X](https://myanimelist.net/anime/42282)
 	- Publication Status: Finished Airing

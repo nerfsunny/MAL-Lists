@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 03, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 10, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -30,7 +30,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 33337
 	- Genre(s): Adult Cast, Detective, Drama, Mystery, Seinen
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores), [Kineta](https://myanimelist.net/profile/Kineta/statistics/anime-scores), [LiIlie](https://myanimelist.net/profile/LiIlie/statistics/anime-scores), [Mythologically](https://myanimelist.net/profile/Mythologically/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
+	- Staff Member(s): [Kineta](https://myanimelist.net/profile/Kineta/statistics/anime-scores), [LiIlie](https://myanimelist.net/profile/LiIlie/statistics/anime-scores), [Mythologically](https://myanimelist.net/profile/Mythologically/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
 - [Acro Trip](https://myanimelist.net/anime/53723)
 	- Publication Status: Finished Airing
 	- MAL ID: 53723
@@ -291,6 +291,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 18689
 	- Genre(s): School, Shounen, Sports, Team Sports
 	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/statistics/anime-scores)
+- [Dive!!](https://myanimelist.net/anime/34543)
+	- Publication Status: Finished Airing
+	- MAL ID: 34543
+	- Genre(s): Drama, Sports
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Do It Yourself!!](https://myanimelist.net/anime/48542)
 	- Publication Status: Finished Airing
 	- MAL ID: 48542
@@ -491,11 +496,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 135
 	- Genre(s): Comedy, Drama, School, Shounen, Strategy Game, Supernatural
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
-- [Hirogaru Sky! Precure](https://myanimelist.net/anime/53716)
-	- Publication Status: Finished Airing
-	- MAL ID: 53716
-	- Genre(s): Action, Mahou Shoujo
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
 - [Hitorijime My Hero](https://myanimelist.net/anime/33654)
 	- Publication Status: Finished Airing
 	- MAL ID: 33654
@@ -505,7 +505,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 55115
 	- Genre(s): Anthropomorphic, Fantasy, Seinen, Slice of Life, Workplace
-	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores)
+	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/statistics/anime-scores)
 - [Hoozuki no Reitetsu](https://myanimelist.net/anime/20431)
 	- Publication Status: Finished Airing
 	- MAL ID: 20431
@@ -790,7 +790,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 15227
 	- Genre(s): Award Winning, Drama, Historical, Seinen
-	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores), [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores), [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
+	- Staff Member(s): [Dreik55](https://myanimelist.net/profile/Dreik55/statistics/anime-scores), [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Red-Comet](https://myanimelist.net/profile/Red-Comet/statistics/anime-scores), [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
 - [Kono Sekai no Tanoshimikata: Secret Story Film](https://myanimelist.net/anime/42750)
 	- Publication Status: Finished Airing
 	- MAL ID: 42750
@@ -936,11 +936,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 98
 	- Genre(s): Action, Fantasy, Girls Love, Mahou Shoujo, School
 	- Staff Member(s): [cyruz](https://myanimelist.net/profile/cyruz/statistics/anime-scores)
-- [Majimoji Rurumo](https://myanimelist.net/anime/23945)
-	- Publication Status: Finished Airing
-	- MAL ID: 23945
-	- Genre(s): Comedy, Ecchi, School, Shounen, Supernatural
-	- Staff Member(s): [beeped5](https://myanimelist.net/profile/beeped5/statistics/anime-scores)
 - [Majokko Shimai no Yoyo to Nene](https://myanimelist.net/anime/15813)
 	- Publication Status: Finished Airing
 	- MAL ID: 15813
@@ -956,11 +951,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 34541
 	- Genre(s): Adventure, Fantasy
 	- Staff Member(s): [stinghy](https://myanimelist.net/profile/stinghy/statistics/anime-scores)
-- [Mayonaka Punch](https://myanimelist.net/anime/57947)
-	- Publication Status: Finished Airing
-	- MAL ID: 57947
-	- Genre(s): Comedy, Supernatural, Vampire
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/statistics/anime-scores)
 - [Mecha-ude](https://myanimelist.net/anime/37760)
 	- Publication Status: Finished Airing
 	- MAL ID: 37760
@@ -970,7 +960,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 55318
 	- Genre(s): Drama, Performing Arts, Seinen, Sports
-	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores), [LiIlie](https://myanimelist.net/profile/LiIlie/statistics/anime-scores), [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores), [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores)
+	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/statistics/anime-scores), [LiIlie](https://myanimelist.net/profile/LiIlie/statistics/anime-scores), [Meedor](https://myanimelist.net/profile/Meedor/statistics/anime-scores), [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores)
 - [Meiken Lassie](https://myanimelist.net/anime/3425)
 	- Publication Status: Finished Airing
 	- MAL ID: 3425
@@ -1091,11 +1081,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 1209
 	- Genre(s): Racing, Seinen, Sports
 	- Staff Member(s): [Aquarius](https://myanimelist.net/profile/Aquarius/statistics/anime-scores), [kekekeKaj](https://myanimelist.net/profile/kekekeKaj/statistics/anime-scores)
-- [Natsu e no Tunnel, Sayonara no Deguchi](https://myanimelist.net/anime/50593)
-	- Publication Status: Finished Airing
-	- MAL ID: 50593
-	- Genre(s): Drama, Mystery, Romance, Supernatural
-	- Staff Member(s): [Naitik7897](https://myanimelist.net/profile/Naitik7897/statistics/anime-scores)
 - [Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha](https://myanimelist.net/anime/42894)
 	- Publication Status: Finished Airing
 	- MAL ID: 42894
@@ -1226,11 +1211,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 37578
 	- Genre(s): Action, Mecha, Sci-Fi
 	- Staff Member(s): [Phloup](https://myanimelist.net/profile/Phloup/statistics/anime-scores)
-- [Precure All Stars Movie F](https://myanimelist.net/anime/54650)
-	- Publication Status: Finished Airing
-	- MAL ID: 54650
-	- Genre(s): Action, Mahou Shoujo
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
 - [Princess Lover!](https://myanimelist.net/anime/6201)
 	- Publication Status: Finished Airing
 	- MAL ID: 6201
@@ -1415,7 +1395,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 35503
 	- Genre(s): Drama, Music, Performing Arts, School
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores), [KTGita22](https://myanimelist.net/profile/KTGita22/statistics/anime-scores), [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores)
+	- Staff Member(s): [KTGita22](https://myanimelist.net/profile/KTGita22/statistics/anime-scores), [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores)
 - [Shounen Hollywood: Holly Stage for 49](https://myanimelist.net/anime/23151)
 	- Publication Status: Finished Airing
 	- MAL ID: 23151
@@ -1440,7 +1420,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 6802
 	- Genre(s): CGDCT, Iyashikei, Military, Music, Sci-Fi, Slice of Life
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores), [Tensho](https://myanimelist.net/profile/Tensho/statistics/anime-scores)
+	- Staff Member(s): [Tensho](https://myanimelist.net/profile/Tensho/statistics/anime-scores)
 - [Solty Rei](https://myanimelist.net/anime/152)
 	- Publication Status: Finished Airing
 	- MAL ID: 152
@@ -1510,7 +1490,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 57915
 	- Genre(s): Music
-	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores)
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/statistics/anime-scores), [Timcampy](https://myanimelist.net/profile/Timcampy/statistics/anime-scores)
 - [Ta ga Tame no Alchemist](https://myanimelist.net/anime/37262)
 	- Publication Status: Finished Airing
 	- MAL ID: 37262
@@ -1531,6 +1511,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 2486
 	- Genre(s): Comedy, Drama, Romance, Seinen, Supernatural
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/statistics/anime-scores)
+- [Takopii no Genzai](https://myanimelist.net/anime/60489)
+	- Publication Status: Finished Airing
+	- MAL ID: 60489
+	- Genre(s): Drama, Psychological, Sci-Fi, Shounen, Time Travel
+	- Staff Member(s): [Naitik7897](https://myanimelist.net/profile/Naitik7897/statistics/anime-scores)
 - [Tales of Vesperia: The First Strike](https://myanimelist.net/anime/6046)
 	- Publication Status: Finished Airing
 	- MAL ID: 6046
@@ -1605,7 +1590,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 51536
 	- Genre(s): Idols (Female), Music, Slice of Life
-	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores), [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
+	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/statistics/anime-scores)
 - [Tian Guan Cifu](https://myanimelist.net/anime/40730)
 	- Publication Status: Finished Airing
 	- MAL ID: 40730
@@ -1686,11 +1671,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 32673
 	- Genre(s): Anthropomorphic, Childcare, Iyashikei, Seinen, Slice of Life, Supernatural
 	- Staff Member(s): [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
-- [Uma Musume: Pretty Derby - Shin Jidai no Tobira](https://myanimelist.net/anime/57647)
+- [Uma Musume: Pretty Derby - Road to the Top (Movie)](https://myanimelist.net/anime/58517)
 	- Publication Status: Finished Airing
-	- MAL ID: 57647
+	- MAL ID: 58517
 	- Genre(s): Anthropomorphic, Racing, Sports
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
+	- Staff Member(s): [beeped5](https://myanimelist.net/profile/beeped5/statistics/anime-scores)
 - [Umi no Triton](https://myanimelist.net/anime/2718)
 	- Publication Status: Finished Airing
 	- MAL ID: 2718
@@ -1756,11 +1741,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 20053
 	- Genre(s): Action, Fantasy, Mecha, Urban Fantasy
 	- Staff Member(s): [Jicetus](https://myanimelist.net/profile/Jicetus/statistics/anime-scores)
-- [Wonderful Precure!](https://myanimelist.net/anime/57390)
-	- Publication Status: Finished Airing
-	- MAL ID: 57390
-	- Genre(s): Action, Mahou Shoujo
-	- Staff Member(s): [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
 - [Ya She](https://myanimelist.net/anime/49573)
 	- Publication Status: Finished Airing
 	- MAL ID: 49573
@@ -1858,7 +1838,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
 - [Gilrin](https://myanimelist.net/profile/Gilrin/statistics/anime-scores)
 - [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores)
-- [Illyxa](https://myanimelist.net/profile/Illyxa/statistics/anime-scores)
 - [iShipMyFriends](https://myanimelist.net/profile/iShipMyFriends/statistics/anime-scores)
 - [Jicetus](https://myanimelist.net/profile/Jicetus/statistics/anime-scores)
 - [Jinbou](https://myanimelist.net/profile/Jinbou/statistics/anime-scores)
