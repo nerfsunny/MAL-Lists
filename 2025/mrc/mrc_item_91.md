@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 10, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -2258,7 +2258,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Bokura no Kiseki](https://myanimelist.net/manga/16686)
 	- Publication Status: Currently Publishing
 	- MAL ID: 16686
-	- Genre(s): Fantasy, Josei, Mystery, Romance, School, Supernatural
+	- Genre(s): Fantasy, Josei, Reincarnation, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Bokura no Tranquilizer](https://myanimelist.net/manga/108030)
 	- Publication Status: Finished
@@ -11996,7 +11996,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Drama, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Meiten Restaurant](https://myanimelist.net/manga/163273)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 163273
 	- Genre(s): Gourmet, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)

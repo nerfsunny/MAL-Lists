@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 10, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -26,6 +26,16 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 1224
 	- Genre(s): Award Winning, Childcare, Drama, Iyashikei, Seinen, Slice of Life, Strategy Game
 	- Staff Member(s): [Phloup](https://myanimelist.net/profile/Phloup/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites)
+- [5-toubun no Hanayome](https://myanimelist.net/manga/103851)
+	- Publication Status: Finished
+	- MAL ID: 103851
+	- Genre(s): Award Winning, Comedy, Harem, Romance, School, Shounen
+	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
+- [A Cat's Tale](https://myanimelist.net/manga/185470)
+	- Publication Status: Finished
+	- MAL ID: 185470
+	- Genre(s): Drama, Psychological, Suspense
+	- Staff Member(s): [stinghy](https://myanimelist.net/profile/stinghy/favorites)
 - [A Stepmother's Märchen](https://myanimelist.net/manga/131008)
 	- Publication Status: Currently Publishing
 	- MAL ID: 131008
@@ -714,7 +724,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Kanojo mo Kanojo](https://myanimelist.net/manga/124940)
 	- Publication Status: Finished
 	- MAL ID: 124940
-	- Genre(s): Comedy, Romance, School, Shounen
+	- Genre(s): Comedy, Harem, Romance, School, Shounen
 	- Staff Member(s): [AlexPaulLEWZ](https://myanimelist.net/profile/AlexPaulLEWZ/favorites)
 - [Kanojo wa Uso wo Aishisugiteru](https://myanimelist.net/manga/12418)
 	- Publication Status: Finished
@@ -1086,11 +1096,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 199
 	- Genre(s): Horror, Romance, Shounen, Supernatural
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/favorites)
-- [Nisekoi](https://myanimelist.net/manga/31499)
-	- Publication Status: Finished
-	- MAL ID: 31499
-	- Genre(s): Comedy, Harem, Romance, School, Shounen
-	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
 - [No Home](https://myanimelist.net/manga/147769)
 	- Publication Status: Finished
 	- MAL ID: 147769
@@ -1913,4 +1918,5 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Tensho](https://myanimelist.net/profile/Tensho/favorites)
 - [Timcampy](https://myanimelist.net/profile/Timcampy/favorites)
 - [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [ToumaTachibana](https://myanimelist.net/profile/ToumaTachibana/favorites)
 - [Vindstot](https://myanimelist.net/profile/Vindstot/favorites)

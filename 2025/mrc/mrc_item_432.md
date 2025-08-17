@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 10, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -508,7 +508,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kanojo mo Kanojo](https://myanimelist.net/manga/124940)
 	- Publication Status: Finished
 	- MAL ID: 124940
-	- Genre(s): Comedy, Romance, School, Shounen
+	- Genre(s): Comedy, Harem, Romance, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kanojo wa Itsumo Kagayaiteita](https://myanimelist.net/manga/121587)
 	- Publication Status: Finished
