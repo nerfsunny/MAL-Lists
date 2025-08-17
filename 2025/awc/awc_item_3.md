@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 10, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 17, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -55,6 +55,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 35180
 	- Genre(s): Childcare, Drama, Seinen, Strategy Game
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee)
+- [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii](https://myanimelist.net/anime/55973)
+	- Publication Status: Finished Airing
+	- MAL ID: 55973
+	- Genre(s): Adult Cast, Boys Love, Comedy, Workplace
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [4-nin wa Sorezore Uso wo Tsuku](https://myanimelist.net/anime/51464)
 	- Publication Status: Finished Airing
 	- MAL ID: 51464
@@ -1205,6 +1210,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1689
 	- Genre(s): Drama, Romance
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Byston Well Monogatari: Garzey no Tsubasa](https://myanimelist.net/anime/1657)
+	- Publication Status: Finished Airing
+	- MAL ID: 1657
+	- Genre(s): Action, Fantasy, Isekai
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [C Danchi](https://myanimelist.net/anime/51306)
 	- Publication Status: Finished Airing
 	- MAL ID: 51306
@@ -1309,6 +1319,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 32483
 	- Genre(s): Adult Cast, Performing Arts, Sports
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Cherry Mahou Mini Gekijou](https://myanimelist.net/anime/57600)
+	- Publication Status: Finished Airing
+	- MAL ID: 57600
+	- Genre(s): Adult Cast, Boys Love, Comedy, Supernatural, Workplace
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Chi's Sweet Home](https://myanimelist.net/anime/3841)
 	- Publication Status: Finished Airing
@@ -4375,6 +4390,16 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 3701
 	- Genre(s): Adventure, Avant Garde, Award Winning, Mystery, Psychological, Romance, Sci-Fi
 	- Staff Member(s): [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
+- [Kaichou wa Maid-sama!](https://myanimelist.net/anime/7054)
+	- Publication Status: Finished Airing
+	- MAL ID: 7054
+	- Genre(s): Comedy, Romance, School, Shoujo
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Kaichou wa Maid-sama!: Omake da yo!](https://myanimelist.net/anime/9366)
+	- Publication Status: Finished Airing
+	- MAL ID: 9366
+	- Genre(s): Comedy, School, Shoujo
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Kaifuku Jutsushi no Yarinaoshi](https://myanimelist.net/anime/40750)
 	- Publication Status: Finished Airing
 	- MAL ID: 40750
@@ -7545,6 +7570,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 10445
 	- Genre(s): Music
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Period Color](https://myanimelist.net/anime/51741)
+	- Publication Status: Finished Airing
+	- MAL ID: 51741
+	- Genre(s): Idols (Male), Music, Video Game
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Persona 3 the Movie 1: Spring of Birth](https://myanimelist.net/anime/14407)
 	- Publication Status: Finished Airing
 	- MAL ID: 14407
