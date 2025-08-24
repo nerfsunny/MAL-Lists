@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 24, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -633,7 +633,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Liar Game](https://myanimelist.net/manga/1649)
 	- Publication Status: Finished
 	- MAL ID: 1649
-	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game
+	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mada, Ikiteru](https://myanimelist.net/manga/20310)
 	- Publication Status: Finished

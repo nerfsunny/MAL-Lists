@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 24, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -181,6 +181,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 86337
 	- Genre(s): Action, Fantasy, Shounen
 	- Staff Member(s): [beeped5](https://myanimelist.net/profile/beeped5/favorites)
+- [Bleach](https://myanimelist.net/manga/12)
+	- Publication Status: Finished
+	- MAL ID: 12
+	- Genre(s): Action, Adventure, Award Winning, Shounen, Supernatural
+	- Staff Member(s): [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites)
 - [Bloody†Mary](https://myanimelist.net/manga/67169)
 	- Publication Status: Finished
 	- MAL ID: 67169
@@ -240,7 +245,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 106
 	- Genre(s): Adventure, Award Winning, Comedy, Fantasy, Mahou Shoujo, Romance, Shoujo
-	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites)
+	- Staff Member(s): [CC](https://myanimelist.net/profile/CC/favorites), [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites)
 - [Caste Heaven](https://myanimelist.net/manga/68831)
 	- Publication Status: Finished
 	- MAL ID: 68831
@@ -391,6 +396,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 85781
 	- Genre(s): Award Winning, Comedy, Fantasy, Gourmet, Seinen
 	- Staff Member(s): [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
+- [Egret: The Great Sage](https://myanimelist.net/manga/149029)
+	- Publication Status: Finished
+	- MAL ID: 149029
+	- Genre(s): Fantasy, Reincarnation, School
+	- Staff Member(s): [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites)
 - [Elfen Lied](https://myanimelist.net/manga/933)
 	- Publication Status: Finished
 	- MAL ID: 933
@@ -425,7 +435,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 102
 	- Genre(s): Award Winning, Drama, Love Polygon, Romance, School, Shoujo, Supernatural
-	- Staff Member(s): [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/favorites), [Kineta](https://myanimelist.net/profile/Kineta/favorites), [LiIlie](https://myanimelist.net/profile/LiIlie/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
+	- Staff Member(s): [CC](https://myanimelist.net/profile/CC/favorites), [Kaguyachinchin](https://myanimelist.net/profile/Kaguyachinchin/favorites), [Kineta](https://myanimelist.net/profile/Kineta/favorites), [LiIlie](https://myanimelist.net/profile/LiIlie/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Fukigen na Mononokean](https://myanimelist.net/manga/67401)
 	- Publication Status: Finished
 	- MAL ID: 67401
@@ -451,6 +461,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 102343
 	- Genre(s): Adventure, Award Winning, Drama, Shounen, Supernatural
 	- Staff Member(s): [Mythologically](https://myanimelist.net/profile/Mythologically/favorites)
+- [Gachiakuta](https://myanimelist.net/manga/144180)
+	- Publication Status: Currently Publishing
+	- MAL ID: 144180
+	- Genre(s): Action, Fantasy, Shounen
+	- Staff Member(s): [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
 - [Gaksital](https://myanimelist.net/manga/82943)
 	- Publication Status: Finished
 	- MAL ID: 82943
@@ -631,6 +646,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 17207
 	- Genre(s): Comedy, Mystery, Shounen, Supernatural
 	- Staff Member(s): [Kineta](https://myanimelist.net/profile/Kineta/favorites)
+- [InuYasha](https://myanimelist.net/manga/676)
+	- Publication Status: Finished
+	- MAL ID: 676
+	- Genre(s): Action, Adventure, Award Winning, Fantasy, Historical, Love Polygon, Mythology, Romance, Shounen, Time Travel
+	- Staff Member(s): [CC](https://myanimelist.net/profile/CC/favorites)
 - [Irony Dress ni Sayonara](https://myanimelist.net/manga/101637)
 	- Publication Status: Finished
 	- MAL ID: 101637
@@ -899,7 +919,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Liar Game](https://myanimelist.net/manga/1649)
 	- Publication Status: Finished
 	- MAL ID: 1649
-	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game
+	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game, Suspense
 	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
 - [Life](https://myanimelist.net/manga/407)
 	- Publication Status: Finished
@@ -955,7 +975,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 61189
 	- Genre(s): Drama, Fantasy, Mythology, Romance, Shounen, Urban Fantasy
-	- Staff Member(s): [Mythologically](https://myanimelist.net/profile/Mythologically/favorites)
+	- Staff Member(s): [CC](https://myanimelist.net/profile/CC/favorites), [Mythologically](https://myanimelist.net/profile/Mythologically/favorites)
 - [Maiko-san Chi no Makanai-san](https://myanimelist.net/manga/107239)
 	- Publication Status: Finished
 	- MAL ID: 107239
@@ -1571,6 +1591,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 183967
 	- Genre(s): Boys Love, Fantasy, Urban Fantasy
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
+- [The Skeleton Soldier Failed to Defend the Dungeon](https://myanimelist.net/manga/146761)
+	- Publication Status: Currently Publishing
+	- MAL ID: 146761
+	- Genre(s): Action, Adventure, Fantasy, Time Travel
+	- Staff Member(s): [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites)
 - [The Villainess Lives Again](https://myanimelist.net/manga/147205)
 	- Publication Status: Finished
 	- MAL ID: 147205
@@ -1851,6 +1876,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 126146
 	- Genre(s): Drama, Reincarnation, Seinen, Showbiz
 	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
+- [xxxHOLiC](https://myanimelist.net/manga/10)
+	- Publication Status: Finished
+	- MAL ID: 10
+	- Genre(s): Comedy, Drama, Mystery, Seinen, Supernatural
+	- Staff Member(s): [CC](https://myanimelist.net/profile/CC/favorites)
 
 ## <a name="mal_staff">Active MAL Staff</a>
 
@@ -1865,6 +1895,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [azazel_lns](https://myanimelist.net/profile/azazel_lns/favorites)
 - [beeped5](https://myanimelist.net/profile/beeped5/favorites)
 - [BlizZar](https://myanimelist.net/profile/BlizZar/favorites)
+- [CC](https://myanimelist.net/profile/CC/favorites)
 - [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites)
 - [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
 - [CukieMunster](https://myanimelist.net/profile/CukieMunster/favorites)
@@ -1912,8 +1943,10 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites)
 - [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
+- [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites)
 - [Snow](https://myanimelist.net/profile/Snow/favorites)
 - [stinghy](https://myanimelist.net/profile/stinghy/favorites)
+- [SushiRoe](https://myanimelist.net/profile/SushiRoe/favorites)
 - [Syureria](https://myanimelist.net/profile/Syureria/favorites)
 - [Tensho](https://myanimelist.net/profile/Tensho/favorites)
 - [Timcampy](https://myanimelist.net/profile/Timcampy/favorites)

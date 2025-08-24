@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 17, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 24, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1089,6 +1089,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 92991
 	- Genre(s): Historical, Seinen
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Aoi no Heya ni Mata Haru ga Kita](https://myanimelist.net/manga/180391)
+	- Publication Status: Finished
+	- MAL ID: 180391
+	- Genre(s): Drama, Pets, Reincarnation, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Aozakura: Bouei Daigakukou Monogatari](https://myanimelist.net/manga/98725)
 	- Publication Status: Currently Publishing
@@ -10908,7 +10913,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Liar Game](https://myanimelist.net/manga/1649)
 	- Publication Status: Finished
 	- MAL ID: 1649
-	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game
+	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game, Suspense
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Liar x Liar](https://myanimelist.net/manga/24744)
 	- Publication Status: Finished
@@ -16490,6 +16495,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 120414
 	- Genre(s): Action, Sci-Fi
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
+- [Secchan](https://myanimelist.net/manga/119377)
+	- Publication Status: Finished
+	- MAL ID: 119377
+	- Genre(s): Drama, Romance, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Secret](https://myanimelist.net/manga/69407)
 	- Publication Status: Finished
 	- MAL ID: 69407
@@ -18335,6 +18345,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 69351
 	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Sukeban to Tenkousei](https://myanimelist.net/manga/145258)
+	- Publication Status: Finished
+	- MAL ID: 145258
+	- Genre(s): Comedy, Girls Love, School
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Suki na Ko ga Megane wo Wasureta](https://myanimelist.net/manga/117332)
 	- Publication Status: Finished
 	- MAL ID: 117332
