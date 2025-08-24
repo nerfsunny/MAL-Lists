@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 17, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 24, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -10690,6 +10690,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 53448
 	- Genre(s): Boys Love, Comedy, Drama, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Ya She](https://myanimelist.net/anime/49573)
+	- Publication Status: Finished Airing
+	- MAL ID: 49573
+	- Genre(s): Adult Cast, Mystery, Mythology, Supernatural, Workplace
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Yahari Ore no Seishun Love Comedy wa Machigatteiru.](https://myanimelist.net/anime/14813)
 	- Publication Status: Finished Airing
 	- MAL ID: 14813
@@ -10814,7 +10819,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 54974
 	- Genre(s): Comedy, Fantasy
-	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [You Shou Yan 2nd Season](https://myanimelist.net/anime/55821)
 	- Publication Status: Finished Airing
 	- MAL ID: 55821
