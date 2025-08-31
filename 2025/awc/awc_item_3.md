@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 24, 2025:
+This list contains a list of anime eligible for the following challenge item, as of August 31, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -463,7 +463,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Apocalypse Hotel](https://myanimelist.net/anime/59675)
 	- Publication Status: Finished Airing
 	- MAL ID: 59675
-	- Genre(s): Sci-Fi
+	- Genre(s): Comedy, Sci-Fi
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Araburu Kisetsu no Otome-domo yo.](https://myanimelist.net/anime/38753)
 	- Publication Status: Finished Airing
@@ -2908,7 +2908,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Glass no Kamen](https://myanimelist.net/anime/506)
 	- Publication Status: Finished Airing
 	- MAL ID: 506
-	- Genre(s): Drama, Performing Arts, Romance, Shoujo
+	- Genre(s): Drama, Performing Arts, Romance, Shoujo, Showbiz
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Gleipnir](https://myanimelist.net/anime/39463)
 	- Publication Status: Finished Airing
@@ -5509,7 +5509,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58514
 	- Genre(s): Drama, Historical, Medical, Mystery
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kuuchuu Buranko](https://myanimelist.net/anime/6774)
 	- Publication Status: Finished Airing
 	- MAL ID: 6774
@@ -5518,7 +5518,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kuutei Dragons](https://myanimelist.net/anime/39531)
 	- Publication Status: Finished Airing
 	- MAL ID: 39531
-	- Genre(s): Adventure, Fantasy, Seinen
+	- Genre(s): Adventure, Fantasy, Gourmet, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kuzu no Honkai](https://myanimelist.net/anime/32949)
 	- Publication Status: Finished Airing
@@ -6895,6 +6895,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 11665
 	- Genre(s): Iyashikei, Mythology, Shoujo, Slice of Life, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Natsume Yuujinchou Shichi](https://myanimelist.net/anime/55823)
+	- Publication Status: Finished Airing
+	- MAL ID: 55823
+	- Genre(s): Iyashikei, Mythology, Shoujo, Slice of Life, Supernatural
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha](https://myanimelist.net/anime/42894)
 	- Publication Status: Finished Airing
 	- MAL ID: 42894
@@ -8293,7 +8298,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sakura-sou no Pet na Kanojo](https://myanimelist.net/anime/13759)
 	- Publication Status: Finished Airing
 	- MAL ID: 13759
-	- Genre(s): Drama, Romance, School, Visual Arts
+	- Genre(s): Drama, Romance, School
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Sakurada Reset](https://myanimelist.net/anime/34102)
 	- Publication Status: Finished Airing
@@ -8983,12 +8988,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shoujo Kakumei Utena](https://myanimelist.net/anime/440)
 	- Publication Status: Finished Airing
 	- MAL ID: 440
-	- Genre(s): Award Winning, Drama, Fantasy, Mahou Shoujo, Mystery, Psychological, School, Suspense
+	- Genre(s): Award Winning, Drama, Mahou Shoujo, Psychological, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shoujo Kakumei Utena: Adolescence Mokushiroku](https://myanimelist.net/anime/441)
 	- Publication Status: Finished Airing
 	- MAL ID: 441
-	- Genre(s): Avant Garde, Drama, Fantasy, Girls Love, Mahou Shoujo, School
+	- Genre(s): Avant Garde, Drama, Girls Love, Mahou Shoujo, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shoujo Shuumatsu Ryokou](https://myanimelist.net/anime/35838)
 	- Publication Status: Finished Airing
@@ -9038,7 +9043,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shouwa Genroku Rakugo Shinjuu](https://myanimelist.net/anime/28735)
 	- Publication Status: Finished Airing
 	- MAL ID: 28735
-	- Genre(s): Drama, Historical, Josei, Love Polygon, Performing Arts
+	- Genre(s): Adult Cast, Drama, Historical, Josei, Love Polygon, Performing Arts
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen](https://myanimelist.net/anime/33095)
 	- Publication Status: Finished Airing
@@ -9299,7 +9304,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 53887
 	- Genre(s): Action, Childcare, Comedy, Shounen, Super Power
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Stand By Me Doraemon](https://myanimelist.net/anime/21469)
 	- Publication Status: Finished Airing
 	- MAL ID: 21469
