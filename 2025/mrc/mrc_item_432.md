@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 24, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 31, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -93,7 +93,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Annarasumanara](https://myanimelist.net/manga/30079)
 	- Publication Status: Finished
 	- MAL ID: 30079
-	- Genre(s): Drama, Mystery, Psychological, Romance, School, Seinen
+	- Genre(s): Drama, Mystery, Psychological, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Anne no Aijou](https://myanimelist.net/manga/19473)
 	- Publication Status: Finished
@@ -198,7 +198,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Can't See Can't Hear But Love](https://myanimelist.net/manga/35171)
 	- Publication Status: Finished
 	- MAL ID: 35171
-	- Genre(s): Drama, Romance, Seinen
+	- Genre(s): Drama, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Chi no Wadachi](https://myanimelist.net/manga/104271)
 	- Publication Status: Finished
@@ -248,7 +248,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dragon Head](https://myanimelist.net/manga/229)
 	- Publication Status: Finished
 	- MAL ID: 229
-	- Genre(s): Action, Award Winning, Drama, Horror, Psychological, Seinen
+	- Genre(s): Action, Award Winning, Drama, Horror, Psychological, Seinen, Survival
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dragon Quest: Dai no Daibouken](https://myanimelist.net/manga/871)
 	- Publication Status: Finished
@@ -483,7 +483,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou](https://myanimelist.net/manga/115710)
 	- Publication Status: Finished
 	- MAL ID: 115710
-	- Genre(s): Action, Shounen, Supernatural
+	- Genre(s): Action, School, Shounen, Supernatural
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.](https://myanimelist.net/manga/100448)
 	- Publication Status: Finished
@@ -998,7 +998,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Transfer Student Storm Bringer](https://myanimelist.net/manga/30457)
 	- Publication Status: Finished
 	- MAL ID: 30457
-	- Genre(s): Action, Comedy, School, Seinen
+	- Genre(s): Action, Comedy, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Tsurebito](https://myanimelist.net/manga/737)
 	- Publication Status: Finished

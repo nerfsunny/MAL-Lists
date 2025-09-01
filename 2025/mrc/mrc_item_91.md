@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 24, 2025:
+This list contains a list of manga eligible for the following challenge item, as of August 31, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -861,7 +861,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Amagami-san Chi no Enmusubi](https://myanimelist.net/manga/134028)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 134028
 	- Genre(s): Comedy, Harem, Romance, Shounen, Supernatural
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
@@ -1018,7 +1018,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Annarasumanara](https://myanimelist.net/manga/30079)
 	- Publication Status: Finished
 	- MAL ID: 30079
-	- Genre(s): Drama, Mystery, Psychological, Romance, School, Seinen
+	- Genre(s): Drama, Mystery, Psychological, Romance, School
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ano Hito no I ni wa Boku ga Tarinai](https://myanimelist.net/manga/113442)
 	- Publication Status: Finished
@@ -2213,7 +2213,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku wa Ai wo Shoumei Shiyou to Omou.](https://myanimelist.net/manga/118816)
 	- Publication Status: Finished
 	- MAL ID: 118816
-	- Genre(s): Drama, Ecchi, Romance, Seinen
+	- Genre(s): Drama, Erotica, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boku wa Beatles](https://myanimelist.net/manga/23231)
 	- Publication Status: Finished
@@ -3878,7 +3878,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dorei-ku: Boku to 23-nin no Dorei](https://myanimelist.net/manga/57063)
 	- Publication Status: Finished
 	- MAL ID: 57063
-	- Genre(s): Drama, Psychological
+	- Genre(s): Adult Cast, Drama, High Stakes Game, Psychological, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dorohedoro](https://myanimelist.net/manga/1133)
 	- Publication Status: Finished
@@ -4023,7 +4023,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dragon Head](https://myanimelist.net/manga/229)
 	- Publication Status: Finished
 	- MAL ID: 229
-	- Genre(s): Action, Award Winning, Drama, Horror, Psychological, Seinen
+	- Genre(s): Action, Award Winning, Drama, Horror, Psychological, Seinen, Survival
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Dragon Kishidan](https://myanimelist.net/manga/303)
 	- Publication Status: Finished
@@ -5103,7 +5103,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Gantz](https://myanimelist.net/manga/564)
 	- Publication Status: Finished
 	- MAL ID: 564
-	- Genre(s): Action, Drama, Gore, Horror, Psychological, Sci-Fi, Seinen, Supernatural, Survival
+	- Genre(s): Action, Drama, Gore, High Stakes Game, Horror, Psychological, Sci-Fi, Seinen, Supernatural, Survival
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Gan☆Kon](https://myanimelist.net/manga/32337)
 	- Publication Status: Finished
@@ -6731,7 +6731,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Himesama "Goumon" no Jikan desu](https://myanimelist.net/manga/119375)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 119375
 	- Genre(s): Comedy, Fantasy, Gourmet, Mythology, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -7053,7 +7053,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hoozuki no Shima](https://myanimelist.net/manga/5119)
 	- Publication Status: Finished
 	- MAL ID: 5119
-	- Genre(s): Action, Drama, Ecchi, Horror, Mystery, Psychological, Seinen, Suspense
+	- Genre(s): Ecchi, Horror, Mystery, Psychological, Seinen, Survival, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Hoozuki-san Chi no Aneki](https://myanimelist.net/manga/17169)
 	- Publication Status: Finished
@@ -7298,7 +7298,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hyouryuu Kyoushitsu](https://myanimelist.net/manga/970)
 	- Publication Status: Finished
 	- MAL ID: 970
-	- Genre(s): Horror, Mystery, Sci-Fi, Shounen
+	- Genre(s): Horror, Mystery, Sci-Fi, Shounen, Survival
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hyouryuu Net Cafe](https://myanimelist.net/manga/28303)
 	- Publication Status: Finished
@@ -8728,7 +8728,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kamigami no Itadaki](https://myanimelist.net/manga/4625)
 	- Publication Status: Finished
 	- MAL ID: 4625
-	- Genre(s): Adventure, Award Winning, Drama, Mystery, Seinen, Sports
+	- Genre(s): Adult Cast, Adventure, Award Winning, Drama, Mystery, Seinen, Sports
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kamikujimura](https://myanimelist.net/manga/129923)
 	- Publication Status: Finished
@@ -9713,7 +9713,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kirisuke to Johnny 499-giri](https://myanimelist.net/manga/32771)
 	- Publication Status: Finished
 	- MAL ID: 32771
-	- Genre(s): Action, Samurai, Seinen
+	- Genre(s): Action, Adult Cast, Gore, Historical, Samurai, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kiriwo Terrible](https://myanimelist.net/manga/69823)
 	- Publication Status: Finished
@@ -9803,7 +9803,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Knight Run](https://myanimelist.net/manga/39969)
 	- Publication Status: Currently Publishing
 	- MAL ID: 39969
-	- Genre(s): Action, Adventure, Drama, Fantasy, Sci-Fi, Shounen
+	- Genre(s): Action, Adventure, Drama, Fantasy, Sci-Fi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Knights](https://myanimelist.net/manga/6916)
 	- Publication Status: Finished
@@ -10578,7 +10578,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kuroi Fubuki](https://myanimelist.net/manga/16822)
 	- Publication Status: Finished
 	- MAL ID: 16822
-	- Genre(s): Drama
+	- Genre(s): Adult Cast, Drama
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kuroi Sailor Fuku](https://myanimelist.net/manga/115687)
 	- Publication Status: Finished
@@ -12603,7 +12603,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mouryou no Yurikago](https://myanimelist.net/manga/19844)
 	- Publication Status: Finished
 	- MAL ID: 19844
-	- Genre(s): Action, Drama, Ecchi, Horror, Mystery, Seinen
+	- Genre(s): Action, Drama, Ecchi, Horror, Mystery, Seinen, Survival
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mousou Telepathy](https://myanimelist.net/manga/101711)
 	- Publication Status: Finished
@@ -12853,7 +12853,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [My Heart Is Beating](https://myanimelist.net/manga/35459)
 	- Publication Status: Finished
 	- MAL ID: 35459
-	- Genre(s): Comedy, Crossdressing, Drama, Psychological, Romance, School, Seinen, Slice of Life, Sports
+	- Genre(s): Comedy, Crossdressing, Drama, Psychological, Romance, School, Sports
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [My Home](https://myanimelist.net/manga/114106)
 	- Publication Status: Finished
@@ -14233,7 +14233,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Orange Marmalade](https://myanimelist.net/manga/54897)
 	- Publication Status: Finished
 	- MAL ID: 54897
-	- Genre(s): Drama, Romance, School, Shoujo, Vampire
+	- Genre(s): Drama, Romance, School, Vampire
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Orange Yane no Chiisana Ie](https://myanimelist.net/manga/11180)
 	- Publication Status: Finished
@@ -14703,7 +14703,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Panorama Toukitan](https://myanimelist.net/manga/10675)
 	- Publication Status: Finished
 	- MAL ID: 10675
-	- Genre(s): Award Winning, Historical, Psychological, Seinen
+	- Genre(s): Adult Cast, Award Winning, Historical, Psychological, Seinen
 	- Staff Member(s): [denvicar](https://myanimelist.net/profile/denvicar)
 - [Panty & Stocking with Garterbelt](https://myanimelist.net/manga/40419)
 	- Publication Status: Finished
@@ -14808,7 +14808,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Pet Diary](https://myanimelist.net/manga/35595)
 	- Publication Status: Finished
 	- MAL ID: 35595
-	- Genre(s): Comedy, School, Shoujo, Slice of Life
+	- Genre(s): School, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Peter Grill to Kenja no Jikan](https://myanimelist.net/manga/109840)
 	- Publication Status: Finished
@@ -15028,7 +15028,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Prison Lab](https://myanimelist.net/manga/97320)
 	- Publication Status: Finished
 	- MAL ID: 97320
-	- Genre(s): Horror, Psychological
+	- Genre(s): Gore, Horror, Psychological
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Prison School](https://myanimelist.net/manga/25297)
 	- Publication Status: Finished
@@ -16218,7 +16218,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Samurai 8: Hachimaru Den](https://myanimelist.net/manga/117133)
 	- Publication Status: Finished
 	- MAL ID: 117133
-	- Genre(s): Action, Samurai, Sci-Fi, Shounen
+	- Genre(s): Action, Samurai, Sci-Fi, Shounen, Space
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Samurai Champloo](https://myanimelist.net/manga/512)
 	- Publication Status: Finished
@@ -16628,7 +16628,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Seitokai Sousenkyo](https://myanimelist.net/manga/68979)
 	- Publication Status: Finished
 	- MAL ID: 68979
-	- Genre(s): Comedy, Slice of Life
+	- Genre(s): CGDCT, Comedy, School
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Seitokai Tantei Kirika](https://myanimelist.net/manga/39327)
 	- Publication Status: Finished
@@ -17913,7 +17913,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sono Otoko, Amatou ni Tsuki](https://myanimelist.net/manga/57491)
 	- Publication Status: Finished
 	- MAL ID: 57491
-	- Genre(s): Seinen
+	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sono Takusan ga Ai no Naka.](https://myanimelist.net/manga/114904)
 	- Publication Status: Finished
@@ -18478,7 +18478,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Survival: Another Story](https://myanimelist.net/manga/17928)
 	- Publication Status: Finished
 	- MAL ID: 17928
-	- Genre(s): Drama, Shounen
+	- Genre(s): Drama, Shounen, Survival
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Survival: Shounen S no Kiroku](https://myanimelist.net/manga/89413)
 	- Publication Status: Finished
@@ -19133,7 +19133,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [The Dragon Next Door](https://myanimelist.net/manga/64675)
 	- Publication Status: Finished
 	- MAL ID: 64675
-	- Genre(s): Comedy, Fantasy, Seinen
+	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [The Fable](https://myanimelist.net/manga/87844)
 	- Publication Status: Finished
@@ -19723,7 +19723,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Travel](https://myanimelist.net/manga/14207)
 	- Publication Status: Finished
 	- MAL ID: 14207
-	- Genre(s): Psychological, Slice of Life
+	- Genre(s): Avant Garde, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Trillion Game](https://myanimelist.net/manga/132071)
 	- Publication Status: Currently Publishing
@@ -20953,7 +20953,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Yakushoku Distopiary](https://myanimelist.net/manga/86981)
 	- Publication Status: Finished
 	- MAL ID: 86981
-	- Genre(s): Action, Fantasy, Psychological, Seinen, Supernatural
+	- Genre(s): Action, Fantasy, Gore, Psychological, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yakyuukyou no Uta](https://myanimelist.net/manga/82433)
 	- Publication Status: Finished
