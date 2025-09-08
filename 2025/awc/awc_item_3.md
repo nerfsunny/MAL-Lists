@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 31, 2025:
+This list contains a list of anime eligible for the following challenge item, as of September 07, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -59,6 +59,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 55973
 	- Genre(s): Adult Cast, Boys Love, Comedy, Workplace
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [30-sai made Doutei dato Mahoutsukai ni Nareru Rashii Movie](https://myanimelist.net/anime/58549)
+	- Publication Status: Finished Airing
+	- MAL ID: 58549
+	- Genre(s): Adult Cast, Boys Love, Comedy, Super Power, Workplace
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [4-nin wa Sorezore Uso wo Tsuku](https://myanimelist.net/anime/51464)
 	- Publication Status: Finished Airing
@@ -610,6 +615,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 55310
 	- Genre(s): Adult Cast, Iyashikei, Slice of Life, Workplace
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
+- [Atri: My Dear Moments](https://myanimelist.net/anime/53128)
+	- Publication Status: Finished Airing
+	- MAL ID: 53128
+	- Genre(s): Drama, Romance, Sci-Fi
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Attakai, Fuyu Canada](https://myanimelist.net/anime/36404)
 	- Publication Status: Finished Airing
 	- MAL ID: 36404
@@ -710,6 +720,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 43756
 	- Genre(s): Performing Arts, School, Sports
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Bakuten!! Movie](https://myanimelist.net/anime/49283)
+	- Publication Status: Finished Airing
+	- MAL ID: 49283
+	- Genre(s): Performing Arts, School, Sports
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Ballroom e Youkoso](https://myanimelist.net/anime/34636)
 	- Publication Status: Finished Airing
 	- MAL ID: 34636
@@ -2895,6 +2910,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40421
 	- Genre(s): Boys Love, Drama, Music
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
+- [Given Movie 2: Hiiragi Mix](https://myanimelist.net/anime/54791)
+	- Publication Status: Finished Airing
+	- MAL ID: 54791
+	- Genre(s): Boys Love, Drama, Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Given: Uragawa no Sonzai](https://myanimelist.net/anime/49053)
 	- Publication Status: Finished Airing
 	- MAL ID: 49053
@@ -4524,7 +4544,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 39198
 	- Genre(s): Adventure, Award Winning, Mystery, Sci-Fi, Shounen, Space, Survival, Suspense
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kannagi](https://myanimelist.net/anime/3958)
 	- Publication Status: Finished Airing
 	- MAL ID: 3958
@@ -4559,7 +4579,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 32491
 	- Genre(s): Pets, Slice of Life
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kanojo x Kanojo x Kanojo: Sanshimai to no Dokidoki Kyoudou Seikatsu](https://myanimelist.net/anime/7411)
 	- Publication Status: Finished Airing
 	- MAL ID: 7411
@@ -5924,7 +5944,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 25517
 	- Genre(s): Adventure, Comedy, Romance, Shounen
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Magic Knight Rayearth](https://myanimelist.net/anime/435)
 	- Publication Status: Finished Airing
 	- MAL ID: 435
@@ -7195,6 +7215,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40178
 	- Genre(s): Comedy, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Nunchi Eobsneun Dolsoe](https://myanimelist.net/anime/55724)
+	- Publication Status: Finished Airing
+	- MAL ID: 55724
+	- Genre(s): Boys Love, Comedy, Gag Humor, Historical
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nurarihyon no Mago](https://myanimelist.net/anime/7592)
 	- Publication Status: Finished Airing
 	- MAL ID: 7592
@@ -9388,12 +9413,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sugar Apple Fairy Tale](https://myanimelist.net/anime/49980)
 	- Publication Status: Finished Airing
 	- MAL ID: 49980
-	- Genre(s): Adventure, Drama, Fantasy, Romance, Shoujo, Visual Arts
+	- Genre(s): Adventure, Drama, Fantasy, Romance, Visual Arts
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Sugar Apple Fairy Tale Part 2](https://myanimelist.net/anime/54842)
 	- Publication Status: Finished Airing
 	- MAL ID: 54842
-	- Genre(s): Adventure, Drama, Fantasy, Romance, Shoujo, Visual Arts
+	- Genre(s): Adventure, Drama, Fantasy, Romance, Visual Arts
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Suisei no Gargantia](https://myanimelist.net/anime/16524)
 	- Publication Status: Finished Airing
@@ -11093,7 +11118,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Zetsuen no Tempest](https://myanimelist.net/anime/14075)
 	- Publication Status: Finished Airing
 	- MAL ID: 14075
-	- Genre(s): Action, Drama, Fantasy, Mystery, Psychological, Shounen, Suspense, Urban Fantasy
+	- Genre(s): Action, Drama, Fantasy, Mystery, Psychological, Shounen, Urban Fantasy
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Zoku Natsume Yuujinchou](https://myanimelist.net/anime/5300)
 	- Publication Status: Finished Airing

@@ -4,7 +4,7 @@ title: AWC2025 72
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of August 09, 2025:
+This list contains a list of anime eligible for the following challenge item, as of September 06, 2025:
 
 (72) Watch an anime with 8 or more main characters listed on MAL (can have any number of supporting characters)
 
@@ -29,7 +29,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 40148
 	- Genre(s): Drama, Idols (Female), Music
-- [22/7: 8＋3=?](https://myanimelist.net/anime/40924)
+- [22/7: 8+3=?](https://myanimelist.net/anime/40924)
 	- Publication Status: Finished Airing
 	- MAL ID: 40924
 	- Genre(s): Idols (Female), Music
@@ -64,10 +64,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Aikatsu Friends!: Kagayaki no Jewel](https://myanimelist.net/anime/39078)
 	- Publication Status: Finished Airing
 	- MAL ID: 39078
-	- Genre(s): Idols (Female), Music, School, Slice of Life
-- [Aikatsu on Parade!](https://myanimelist.net/anime/40266)
-	- Publication Status: Finished Airing
-	- MAL ID: 40266
 	- Genre(s): Idols (Female), Music, School, Slice of Life
 - [Aikatsu Planet!](https://myanimelist.net/anime/42653)
 	- Publication Status: Finished Airing
@@ -1213,10 +1209,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2281
 	- Genre(s): Adventure, Comedy, Fantasy, Mystery, Sci-Fi, Time Travel
-- [JK to Orc Heidan: Aku Buta Oni ni Ryougyaku Sareta Seijo Gakuen](https://myanimelist.net/anime/18653)
-	- Publication Status: Finished Airing
-	- MAL ID: 18653
-	- Genre(s): Hentai, Mythology, Supernatural
 - [JoJo no Kimyou na Bouken Part 5: Ougon no Kaze](https://myanimelist.net/anime/37991)
 	- Publication Status: Finished Airing
 	- MAL ID: 37991
@@ -1257,6 +1249,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 33219
 	- Genre(s): Comedy, Romance, Sci-Fi, Supernatural
+- [Kaijuu 8-gou The Game](https://myanimelist.net/anime/62390)
+	- Publication Status: Finished Airing
+	- MAL ID: 62390
+	- Genre(s): Slice of Life, Video Game
 - [Kakurenbo](https://myanimelist.net/anime/1192)
 	- Publication Status: Finished Airing
 	- MAL ID: 1192
@@ -3213,6 +3209,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 58644
 	- Genre(s): Comedy, Shounen
+- [Yu-Gi-Oh! Card Game: The Chronicles PV](https://myanimelist.net/anime/58018)
+	- Publication Status: Finished Airing
+	- MAL ID: 58018
+	- Genre(s): Action, Strategy Game
+- [Yuanshen: Kongyue Zhi Ge PV - Yueye de Xishishi](https://myanimelist.net/anime/62107)
+	- Publication Status: Finished Airing
+	- MAL ID: 62107
+	- Genre(s): Fantasy, Isekai
 - [Yume Oukoku to Nemureru 100-nin no Oujisama: Short Stories](https://myanimelist.net/anime/34961)
 	- Publication Status: Finished Airing
 	- MAL ID: 34961
