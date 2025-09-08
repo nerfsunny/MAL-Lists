@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 31, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 07, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -393,7 +393,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [High Score Girl](https://myanimelist.net/manga/44501)
 	- Publication Status: Finished
 	- MAL ID: 44501
-	- Genre(s): Comedy, Love Polygon, Romance, School, Seinen
+	- Genre(s): Comedy, Love Polygon, Romance, School, Seinen, Video Game
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Homunculus](https://myanimelist.net/manga/936)
 	- Publication Status: Finished

@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of August 31, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 07, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -936,7 +936,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Anan-san wa Deatte 3-byou de Gattai Shitai!](https://myanimelist.net/manga/159866)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 159866
 	- Genre(s): Adult Cast, Comedy, Ecchi, Romance, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -2118,7 +2118,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Boku no Futatsu no Tsubasa](https://myanimelist.net/manga/1147)
 	- Publication Status: Finished
 	- MAL ID: 1147
-	- Genre(s): Comedy, Ecchi, Romance
+	- Genre(s): Comedy, Ecchi, Romance, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boku no Kanojo wa Dekkawaii](https://myanimelist.net/manga/168045)
 	- Publication Status: Finished
@@ -2476,7 +2476,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Comedy, Delinquents, School, Shounen, Sports, Team Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Bucchigiri Stitch](https://myanimelist.net/manga/154419)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 154419
 	- Genre(s): Action, Comedy, Delinquents, School
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -3493,7 +3493,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dawn of the Dead](https://myanimelist.net/manga/36281)
 	- Publication Status: Finished
 	- MAL ID: 36281
-	- Genre(s): Drama
+	- Genre(s): Drama, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Dead Days](https://myanimelist.net/manga/148827)
 	- Publication Status: Finished
@@ -4088,7 +4088,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dungeon Seeker](https://myanimelist.net/manga/98820)
 	- Publication Status: Finished
 	- MAL ID: 98820
-	- Genre(s): Action, Fantasy
+	- Genre(s): Action, Fantasy, Isekai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Dungeon de Ohanatsumi nanka Yurushimasen!!](https://myanimelist.net/manga/120717)
 	- Publication Status: Finished
@@ -5368,7 +5368,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Girls & Panzer](https://myanimelist.net/manga/42223)
 	- Publication Status: Finished
 	- MAL ID: 42223
-	- Genre(s): Comedy, Military, School
+	- Genre(s): Comedy, Military, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Girls Go Around](https://myanimelist.net/manga/58299)
 	- Publication Status: Finished
@@ -5423,7 +5423,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [GoGo★Heaven](https://myanimelist.net/manga/8500)
 	- Publication Status: Finished
 	- MAL ID: 8500
-	- Genre(s): Supernatural
+	- Genre(s): Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Goblin Slayer](https://myanimelist.net/manga/98720)
 	- Publication Status: Currently Publishing
@@ -5603,7 +5603,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Grand Blue](https://myanimelist.net/manga/70345)
 	- Publication Status: Currently Publishing
 	- MAL ID: 70345
-	- Genre(s): Comedy, Seinen
+	- Genre(s): Adult Cast, Comedy, Gag Humor, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Grashros](https://myanimelist.net/manga/107909)
 	- Publication Status: Finished
@@ -6273,7 +6273,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hawkwood](https://myanimelist.net/manga/78795)
 	- Publication Status: Finished
 	- MAL ID: 78795
-	- Genre(s): Action, Historical
+	- Genre(s): Action, Historical, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hayachine!](https://myanimelist.net/manga/57507)
 	- Publication Status: Finished
@@ -6623,7 +6623,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [High Score Girl](https://myanimelist.net/manga/44501)
 	- Publication Status: Finished
 	- MAL ID: 44501
-	- Genre(s): Comedy, Love Polygon, Romance, School, Seinen
+	- Genre(s): Comedy, Love Polygon, Romance, School, Seinen, Video Game
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [High Spec Lovers](https://myanimelist.net/manga/52135)
 	- Publication Status: Finished
@@ -7513,7 +7513,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ikebukuro West Gate Park](https://myanimelist.net/manga/258)
 	- Publication Status: Finished
 	- MAL ID: 258
-	- Genre(s): Delinquents, Drama, Mystery, Romance
+	- Genre(s): Delinquents, Drama, Mystery, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Ikemasen Ojousama!](https://myanimelist.net/manga/15604)
 	- Publication Status: Finished
@@ -11813,7 +11813,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Maria†Holic](https://myanimelist.net/manga/7342)
 	- Publication Status: Finished
 	- MAL ID: 7342
-	- Genre(s): Comedy, Crossdressing, Girls Love, School
+	- Genre(s): Comedy, Crossdressing, Girls Love, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Marie no Kanaderu Ongaku](https://myanimelist.net/manga/1766)
 	- Publication Status: Finished
@@ -13698,7 +13698,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Nozomi Witches](https://myanimelist.net/manga/16963)
 	- Publication Status: Finished
 	- MAL ID: 16963
-	- Genre(s): Combat Sports, Comedy, Sports
+	- Genre(s): Combat Sports, Comedy, Seinen, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Nozomu Nozomi](https://myanimelist.net/manga/60561)
 	- Publication Status: Finished
@@ -20528,7 +20528,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Wahhaman](https://myanimelist.net/manga/13720)
 	- Publication Status: Finished
 	- MAL ID: 13720
-	- Genre(s): N/A
+	- Genre(s): Action, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Wakarasero! Namaikitsune-sama](https://myanimelist.net/manga/163028)
 	- Publication Status: Finished
