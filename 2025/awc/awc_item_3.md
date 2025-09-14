@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of September 07, 2025:
+This list contains a list of anime eligible for the following challenge item, as of September 14, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1075,6 +1075,21 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1690
 	- Genre(s): Action, Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival, Suspense
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Bokura wa Minna Kawai-sou](https://myanimelist.net/anime/21405)
+	- Publication Status: Finished Airing
+	- MAL ID: 21405
+	- Genre(s): Love Status Quo, Romance, School, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Bokura wa Minna Kawai-sou Specials](https://myanimelist.net/anime/24973)
+	- Publication Status: Finished Airing
+	- MAL ID: 24973
+	- Genre(s): Comedy, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Bokura wa Minna Kawai-sou: Hajimete no](https://myanimelist.net/anime/24913)
+	- Publication Status: Finished Airing
+	- MAL ID: 24913
+	- Genre(s): Love Status Quo, Romance, School, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Bokutachi no Remake](https://myanimelist.net/anime/40904)
 	- Publication Status: Finished Airing
 	- MAL ID: 40904
@@ -3494,7 +3509,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 41061
 	- Genre(s): CGDCT, Iyashikei, Slice of Life
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Hibike! Euphonium](https://myanimelist.net/anime/27989)
 	- Publication Status: Finished Airing
 	- MAL ID: 27989
@@ -5755,17 +5770,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 31598
 	- Genre(s): Action, Fantasy, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
-- [Luo Xiao Hei Zhan Ji](https://myanimelist.net/anime/33443)
+- [Luo Xiaohei Zhanji](https://myanimelist.net/anime/33443)
 	- Publication Status: Finished Airing
 	- MAL ID: 33443
 	- Genre(s): Comedy, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
-- [Luo Xiao Hei Zhan Ji (Movie)](https://myanimelist.net/anime/40211)
+- [Luo Xiaohei Zhanji (Movie)](https://myanimelist.net/anime/40211)
 	- Publication Status: Finished Airing
 	- MAL ID: 40211
 	- Genre(s): Adventure, Drama, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee), [Lestat-](https://myanimelist.net/profile/Lestat-)
-- [Luo Xiao Hei Zhan Ji: Fan Wai](https://myanimelist.net/anime/36588)
+- [Luo Xiaohei Zhanji Fanwai](https://myanimelist.net/anime/36588)
 	- Publication Status: Finished Airing
 	- MAL ID: 36588
 	- Genre(s): Comedy, Music, Parody, School
@@ -7205,6 +7220,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 20767
 	- Genre(s): Comedy, Mythology, School, Shounen, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Now & Then](https://myanimelist.net/anime/55006)
+	- Publication Status: Finished Airing
+	- MAL ID: 55006
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Nozomanu Fushi no Boukensha](https://myanimelist.net/anime/51648)
 	- Publication Status: Finished Airing
 	- MAL ID: 51648
@@ -8380,6 +8400,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51440
 	- Genre(s): Boys Love, Otaku Culture, School
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
+- [Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.](https://myanimelist.net/anime/50672)
+	- Publication Status: Finished Airing
+	- MAL ID: 50672
+	- Genre(s): Boys Love, Otaku Culture, School
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Satsujin Kippu wa Heart-iro](https://myanimelist.net/anime/16247)
 	- Publication Status: Finished Airing
 	- MAL ID: 16247
@@ -9163,7 +9188,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sketchbook: Full Color's](https://myanimelist.net/anime/2942)
 	- Publication Status: Finished Airing
 	- MAL ID: 2942
-	- Genre(s): CGDCT, Iyashikei, Slice of Life, Visual Arts
+	- Genre(s): CGDCT, Iyashikei, Shounen, Slice of Life, Visual Arts
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Skip Beat!](https://myanimelist.net/anime/4722)
 	- Publication Status: Finished Airing
@@ -9460,6 +9485,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2424
 	- Genre(s): Comedy, Mahou Shoujo, Shoujo
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!](https://myanimelist.net/anime/58522)
+	- Publication Status: Finished Airing
+	- MAL ID: 58522
+	- Genre(s): Idols (Male), Music, School
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Suzuka](https://myanimelist.net/anime/390)
 	- Publication Status: Finished Airing
 	- MAL ID: 390
@@ -9540,6 +9570,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 50275
 	- Genre(s): Action, Adventure, Fantasy, Romance, Video Game
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
+- [THE POLiCY](https://myanimelist.net/anime/53396)
+	- Publication Status: Finished Airing
+	- MAL ID: 53396
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [TO](https://myanimelist.net/anime/7279)
 	- Publication Status: Finished Airing
 	- MAL ID: 7279
