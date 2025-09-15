@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 07, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 14, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -195,7 +195,12 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 12
 	- Genre(s): Action, Adventure, Award Winning, Shounen, Supernatural
-	- Staff Member(s): [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites)
+	- Staff Member(s): [ScaryOwl](https://myanimelist.net/profile/ScaryOwl/favorites), [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites)
+- [Bleach: Gokui Meimei-hen](https://myanimelist.net/manga/139152)
+	- Publication Status: Finished
+	- MAL ID: 139152
+	- Genre(s): Action, Shounen, Super Power, Supernatural
+	- Staff Member(s): [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites)
 - [Bloody†Mary](https://myanimelist.net/manga/67169)
 	- Publication Status: Finished
 	- MAL ID: 67169
@@ -1290,7 +1295,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 78523
 	- Genre(s): Comedy, Drama, Romance, School, Slice of Life
-	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [Mako995](https://myanimelist.net/profile/Mako995/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
+	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [Mako995](https://myanimelist.net/profile/Mako995/favorites), [Snow](https://myanimelist.net/profile/Snow/favorites), [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Red Thread Quest](https://myanimelist.net/manga/184893)
 	- Publication Status: Currently Publishing
 	- MAL ID: 184893
@@ -1957,4 +1962,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Timcampy](https://myanimelist.net/profile/Timcampy/favorites)
 - [tingy](https://myanimelist.net/profile/tingy/favorites)
 - [ToumaTachibana](https://myanimelist.net/profile/ToumaTachibana/favorites)
+- [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon/favorites)
 - [Vindstot](https://myanimelist.net/profile/Vindstot/favorites)
+- [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites)

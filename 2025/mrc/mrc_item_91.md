@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 07, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 14, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -5628,7 +5628,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Green Worldz](https://myanimelist.net/manga/65647)
 	- Publication Status: Finished
 	- MAL ID: 65647
-	- Genre(s): Action, Drama, Horror, Sci-Fi, Supernatural
+	- Genre(s): Action, Gore, Horror, Sci-Fi, Survival
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Gringo 2061](https://myanimelist.net/manga/58309)
 	- Publication Status: Finished
@@ -9966,9 +9966,9 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Erotica, Romance, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Koibito Ijou Yuujin Miman](https://myanimelist.net/manga/140155)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 140155
-	- Genre(s): Comedy, Romance
+	- Genre(s): Comedy, Romance, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Koibito Play](https://myanimelist.net/manga/17322)
 	- Publication Status: Finished
@@ -14463,7 +14463,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Otokojuku Gaiden: Daigouin Jaki](https://myanimelist.net/manga/118299)
 	- Publication Status: Finished
 	- MAL ID: 118299
-	- Genre(s): Action, Martial Arts, School
+	- Genre(s): Action, Martial Arts, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Otokojuku Gaiden: Date Omito](https://myanimelist.net/manga/88037)
 	- Publication Status: Finished
@@ -15968,7 +15968,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [SSSS.Gridman](https://myanimelist.net/manga/123613)
 	- Publication Status: Finished
 	- MAL ID: 123613
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [STONe](https://myanimelist.net/manga/535)
 	- Publication Status: Finished
@@ -16461,7 +16461,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Scandala](https://myanimelist.net/manga/163699)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 163699
 	- Genre(s): Drama, Erotica, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -17763,7 +17763,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Sketchbook](https://myanimelist.net/manga/4576)
 	- Publication Status: Finished
 	- MAL ID: 4576
-	- Genre(s): CGDCT, Comedy, Iyashikei, Slice of Life, Visual Arts
+	- Genre(s): CGDCT, Iyashikei, Shounen, Slice of Life, Visual Arts
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Skill of Lure](https://myanimelist.net/manga/88991)
 	- Publication Status: Finished
