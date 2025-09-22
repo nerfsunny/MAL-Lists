@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of September 14, 2025:
+This list contains a list of anime eligible for the following challenge item, as of September 21, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -830,6 +830,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51819
 	- Genre(s): Music
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Binan Koukou Chikyuu Bouei-bu Eternal Love!](https://myanimelist.net/anime/59406)
+	- Publication Status: Finished Airing
+	- MAL ID: 59406
+	- Genre(s): Comedy, Fantasy, Parody, School, Super Power
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Binan Koukou Chikyuu Bouei-bu Happy Kiss!](https://myanimelist.net/anime/37036)
 	- Publication Status: Finished Airing
 	- MAL ID: 37036
@@ -1550,6 +1555,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1818
 	- Genre(s): Action, Adventure, Fantasy, Gore, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205)
+	- Publication Status: Finished Airing
+	- MAL ID: 59205
+	- Genre(s): Action, Fantasy
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Cocolors](https://myanimelist.net/anime/34167)
 	- Publication Status: Finished Airing
 	- MAL ID: 34167
@@ -1675,6 +1685,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 36136
 	- Genre(s): Music, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Crz Love](https://myanimelist.net/anime/60479)
+	- Publication Status: Finished Airing
+	- MAL ID: 60479
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Cyber City Oedo 808](https://myanimelist.net/anime/1352)
 	- Publication Status: Finished Airing
 	- MAL ID: 1352
@@ -1725,6 +1740,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 57334
 	- Genre(s): Action, Comedy, Shounen, Supernatural
 	- Staff Member(s): [BLIJF](https://myanimelist.net/profile/BLIJF), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Dandadan 2nd Season](https://myanimelist.net/anime/60543)
+	- Publication Status: Finished Airing
+	- MAL ID: 60543
+	- Genre(s): Action, Comedy, Shounen, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen](https://myanimelist.net/anime/34103)
 	- Publication Status: Finished Airing
 	- MAL ID: 34103
@@ -4895,6 +4915,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 38000
 	- Genre(s): Action, Award Winning, Historical, Shounen, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai](https://myanimelist.net/anime/59192)
+	- Publication Status: Finished Airing
+	- MAL ID: 59192
+	- Genre(s): Action, Historical, Shounen, Supernatural
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kimetsu no Yaiba Movie: Mugen Ressha-hen](https://myanimelist.net/anime/40456)
 	- Publication Status: Finished Airing
 	- MAL ID: 40456
@@ -5929,7 +5954,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 22097
 	- Genre(s): Action, Adventure, Fantasy, Shounen
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Magi: Sinbad no Bouken (TV)](https://myanimelist.net/anime/31741)
 	- Publication Status: Finished Airing
 	- MAL ID: 31741
@@ -6049,7 +6074,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 54722
 	- Genre(s): Action, Comedy, Ecchi, Girls Love, Mahou Shoujo
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Mahou Shoujo-tai Arusu](https://myanimelist.net/anime/872)
 	- Publication Status: Finished Airing
 	- MAL ID: 872
@@ -7899,7 +7924,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 37442
 	- Genre(s): Action, Adult Cast, Detective, Mystery, Psychological, Sci-Fi, Suspense
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Puchi Pri*Yucie](https://myanimelist.net/anime/327)
 	- Publication Status: Finished Airing
 	- MAL ID: 327
@@ -8185,6 +8210,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 34549
 	- Genre(s): Adventure, Fantasy
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Ryuu to Sobakasu no Hime](https://myanimelist.net/anime/44807)
+	- Publication Status: Finished Airing
+	- MAL ID: 44807
+	- Genre(s): Drama, Fantasy, Music, Sci-Fi
+	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu](https://myanimelist.net/anime/58473)
 	- Publication Status: Finished Airing
 	- MAL ID: 58473
@@ -8310,6 +8340,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 58939
 	- Genre(s): Action, Adult Cast, Comedy, Organized Crime, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Sakamoto Days Part 2](https://myanimelist.net/anime/60285)
+	- Publication Status: Finished Airing
+	- MAL ID: 60285
+	- Genre(s): Action, Adult Cast, Comedy, Organized Crime, Shounen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Sakamoto desu ga?](https://myanimelist.net/anime/32542)
 	- Publication Status: Finished Airing
 	- MAL ID: 32542
@@ -10294,6 +10329,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 54745
 	- Genre(s): Music, Supernatural
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Twisted-Wonderland: Glorious Masquerade PV](https://myanimelist.net/anime/57746)
+	- Publication Status: Finished Airing
+	- MAL ID: 57746
+	- Genre(s): Music, Mythology, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Uchi Tama?! Uchi no Tama Shirimasen ka?](https://myanimelist.net/anime/39942)
 	- Publication Status: Finished Airing
