@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 14, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -263,7 +263,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [5-fungo no Sekai](https://myanimelist.net/manga/114406)
 	- Publication Status: Finished
 	- MAL ID: 114406
-	- Genre(s): Action, Horror, Shounen, Survival, Time Travel
+	- Genre(s): Action, Horror, Shounen, Supernatural, Survival, Time Travel
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [5-toubun no Hanayome](https://myanimelist.net/manga/103851)
 	- Publication Status: Finished
@@ -3443,7 +3443,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dareka wo Norowazu ni Irarenai Kono Sekai de](https://myanimelist.net/manga/122396)
 	- Publication Status: Finished
 	- MAL ID: 122396
-	- Genre(s): Horror, Psychological, School, Supernatural
+	- Genre(s): Detective, Gore, Horror, Mystery, Psychological, Supernatural
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Daremo Shiranai Heya](https://myanimelist.net/manga/93944)
 	- Publication Status: Finished
@@ -3833,7 +3833,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Dolly♥Kill Kill](https://myanimelist.net/manga/78121)
 	- Publication Status: Finished
 	- MAL ID: 78121
-	- Genre(s): Action, Horror
+	- Genre(s): Action, Horror, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Domestic na Kanojo](https://myanimelist.net/manga/70941)
 	- Publication Status: Finished
@@ -4935,11 +4935,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 105328
 	- Genre(s): Action, Fantasy, Isekai
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx)
-- [Gaikotsu to Koi wa Dekiru no ka?](https://myanimelist.net/manga/147037)
-	- Publication Status: Finished
-	- MAL ID: 147037
-	- Genre(s): Fantasy, Romance, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Gainen Dorobou](https://myanimelist.net/manga/118515)
 	- Publication Status: Finished
 	- MAL ID: 118515
@@ -7503,7 +7498,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Ijiranaide, Nagatoro-san](https://myanimelist.net/manga/110737)
 	- Publication Status: Finished
 	- MAL ID: 110737
-	- Genre(s): Comedy, Love Status Quo, Romance, School, Visual Arts
+	- Genre(s): Comedy, Love Status Quo, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Ijousha no Ai](https://myanimelist.net/manga/105901)
 	- Publication Status: Finished
@@ -8599,7 +8594,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 108948
 	- Genre(s): Horror, Psychological, Seinen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kaiten One](https://myanimelist.net/manga/106789)
 	- Publication Status: Finished
 	- MAL ID: 106789
@@ -9331,7 +9326,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Mecha, Military, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Kidou Senshi Gundam Burai](https://myanimelist.net/manga/148194)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 148194
 	- Genre(s): Action, Drama, Mecha, Samurai, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -15525,11 +15520,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 152612
 	- Genre(s): Action, Fantasy, Isekai, Time Travel
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Revenge Game](https://myanimelist.net/manga/83435)
-	- Publication Status: Finished
-	- MAL ID: 83435
-	- Genre(s): Horror, Mystery, Romance, Shoujo
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Revenge of the Baskerville Bloodhound](https://myanimelist.net/manga/157888)
 	- Publication Status: Currently Publishing
 	- MAL ID: 157888
@@ -16005,11 +15995,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 23070
 	- Genre(s): Comedy, School, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Sadako-san to Sadako-chan](https://myanimelist.net/manga/122776)
-	- Publication Status: Finished
-	- MAL ID: 122776
-	- Genre(s): Comedy, Slice of Life, Supernatural
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Sadosuto na Fujiwara-kun](https://myanimelist.net/manga/102532)
 	- Publication Status: Finished
 	- MAL ID: 102532
@@ -16404,7 +16389,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 145863
 	- Genre(s): Drama, Shounen
-	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Sayonara Karada](https://myanimelist.net/manga/82089)
 	- Publication Status: Finished
 	- MAL ID: 82089
@@ -17714,7 +17699,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 122890
 	- Genre(s): Josei, Slice of Life, Supernatural
-	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx)
+	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Shuumatsu no Tenki](https://myanimelist.net/manga/91601)
 	- Publication Status: Finished
 	- MAL ID: 91601

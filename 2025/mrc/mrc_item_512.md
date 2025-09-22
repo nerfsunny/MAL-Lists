@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 14, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -511,6 +511,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 25096
 	- Genre(s): Award Winning, Comedy, Drama, School, Shounen
 	- Staff Member(s): [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [Girl Crush](https://myanimelist.net/manga/142097)
+	- Publication Status: Currently Publishing
+	- MAL ID: 142097
+	- Genre(s): Idols (Female)
+	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites)
 - [Given](https://myanimelist.net/manga/79085)
 	- Publication Status: Finished
 	- MAL ID: 79085
@@ -676,11 +681,21 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 101637
 	- Genre(s): Boys Love, Crossdressing
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
+- [Isshou Senkin](https://myanimelist.net/manga/158356)
+	- Publication Status: Currently Publishing
+	- MAL ID: 158356
+	- Genre(s): Action, Martial Arts
+	- Staff Member(s): [KOTFTW](https://myanimelist.net/profile/KOTFTW/favorites)
 - [J no Subete](https://myanimelist.net/manga/16276)
 	- Publication Status: Finished
 	- MAL ID: 16276
 	- Genre(s): Boys Love, Crossdressing, Drama, Erotica, Romance
 	- Staff Member(s): [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
+- [Jack: The American Ghost](https://myanimelist.net/manga/184995)
+	- Publication Status: Finished
+	- MAL ID: 184995
+	- Genre(s): Drama, Horror, Romance, Supernatural
+	- Staff Member(s): [stinghy](https://myanimelist.net/profile/stinghy/favorites)
 - [Jibaku Shounen Hanako-kun](https://myanimelist.net/manga/105084)
 	- Publication Status: Currently Publishing
 	- MAL ID: 105084
@@ -1929,6 +1944,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [kekekeKaj](https://myanimelist.net/profile/kekekeKaj/favorites)
 - [Kineta](https://myanimelist.net/profile/Kineta/favorites)
 - [Kookerz](https://myanimelist.net/profile/Kookerz/favorites)
+- [KOTFTW](https://myanimelist.net/profile/KOTFTW/favorites)
 - [KTGita22](https://myanimelist.net/profile/KTGita22/favorites)
 - [Kunii](https://myanimelist.net/profile/Kunii/favorites)
 - [KuroDubZero](https://myanimelist.net/profile/KuroDubZero/favorites)

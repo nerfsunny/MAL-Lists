@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 14, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -305,6 +305,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 336
 	- Genre(s): Action, Award Winning, Comedy, Delinquents, Drama, Ecchi, School, Shounen, Workplace
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Gaikotsu to Koi wa Dekiru no ka?](https://myanimelist.net/manga/147037)
+	- Publication Status: Finished
+	- MAL ID: 147037
+	- Genre(s): Fantasy, Romance, Shounen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Gamble Fish](https://myanimelist.net/manga/15167)
 	- Publication Status: Finished
 	- MAL ID: 15167
@@ -490,6 +495,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 100448
 	- Genre(s): Drama, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
+- [Kaitai Zanuff](https://myanimelist.net/manga/108948)
+	- Publication Status: Finished
+	- MAL ID: 108948
+	- Genre(s): Horror, Psychological, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kakukaku Shikajika](https://myanimelist.net/manga/44307)
 	- Publication Status: Finished
 	- MAL ID: 44307
@@ -1025,6 +1035,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 7747
 	- Genre(s): Action, Award Winning, Comedy, Mythology, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Usotsuki Chocolate Syrup](https://myanimelist.net/manga/68805)
+	- Publication Status: Finished
+	- MAL ID: 68805
+	- Genre(s): Romance, School, Shoujo
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Uzumaki](https://myanimelist.net/manga/436)
 	- Publication Status: Finished
 	- MAL ID: 436
