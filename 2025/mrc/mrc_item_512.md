@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 28, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -336,11 +336,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 135496
 	- Genre(s): Action, Comedy, Shounen, Supernatural
 	- Staff Member(s): [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites)
-- [Daughter of the Emperor](https://myanimelist.net/manga/115751)
-	- Publication Status: Finished
-	- MAL ID: 115751
-	- Genre(s): Comedy, Drama, Fantasy
-	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/favorites)
 - [Daytime Star](https://myanimelist.net/manga/149493)
 	- Publication Status: Finished
 	- MAL ID: 149493
@@ -596,6 +591,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 84255
 	- Genre(s): Boys Love, School, Slice of Life
 	- Staff Member(s): [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [Hikaru ga Shinda Natsu](https://myanimelist.net/manga/141833)
+	- Publication Status: Currently Publishing
+	- MAL ID: 141833
+	- Genre(s): Horror, Mystery, Supernatural
+	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Hinamatsuri](https://myanimelist.net/manga/36413)
 	- Publication Status: Finished
 	- MAL ID: 36413
@@ -1861,6 +1861,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 87192
 	- Genre(s): Boys Love, Erotica, School, Slice of Life
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
+- [Your Eternal Lies](https://myanimelist.net/manga/184866)
+	- Publication Status: Finished
+	- MAL ID: 184866
+	- Genre(s): Fantasy, Romance
+	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/favorites)
 - [Your Letter](https://myanimelist.net/manga/120875)
 	- Publication Status: Finished
 	- MAL ID: 120875
@@ -1974,6 +1979,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [stinghy](https://myanimelist.net/profile/stinghy/favorites)
 - [SushiRoe](https://myanimelist.net/profile/SushiRoe/favorites)
 - [Syureria](https://myanimelist.net/profile/Syureria/favorites)
+- [SyverenWaterlow](https://myanimelist.net/profile/SyverenWaterlow/favorites)
 - [Tensho](https://myanimelist.net/profile/Tensho/favorites)
 - [Timcampy](https://myanimelist.net/profile/Timcampy/favorites)
 - [tingy](https://myanimelist.net/profile/tingy/favorites)

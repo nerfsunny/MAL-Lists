@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 28, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 

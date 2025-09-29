@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 21, 2025:
+This list contains a list of manga eligible for the following challenge item, as of September 28, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -12438,7 +12438,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Momoiro Sabbath](https://myanimelist.net/manga/4562)
 	- Publication Status: Finished
 	- MAL ID: 4562
-	- Genre(s): Comedy, Ecchi, Romance, Supernatural
+	- Genre(s): Comedy, Ecchi, Romance, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Momoiro Shoten e Youkoso](https://myanimelist.net/manga/50055)
 	- Publication Status: Finished
