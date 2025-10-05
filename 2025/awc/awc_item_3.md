@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of September 28, 2025:
+This list contains a list of anime eligible for the following challenge item, as of October 05, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1520,6 +1520,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 30818
 	- Genre(s): Action, Comedy, Detective, Mystery
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [City The Animation](https://myanimelist.net/anime/59898)
+	- Publication Status: Finished Airing
+	- MAL ID: 59898
+	- Genre(s): Comedy, Gag Humor, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Clannad](https://myanimelist.net/anime/2167)
 	- Publication Status: Finished Airing
 	- MAL ID: 2167
@@ -2215,6 +2220,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 226
 	- Genre(s): Action, Drama, Gore, Horror, Psychological, Romance, Seinen, Super Power, Suspense
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Emiya-san Chi no Kyou no Gohan](https://myanimelist.net/anime/37033)
+	- Publication Status: Finished Airing
+	- MAL ID: 37033
+	- Genre(s): Gourmet, Iyashikei, Slice of Life
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Endless Vide](https://myanimelist.net/anime/49122)
 	- Publication Status: Finished Airing
 	- MAL ID: 49122
@@ -4654,6 +4664,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 60157
 	- Genre(s): Fantasy, Romance
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Kaoru Hana wa Rin to Saku](https://myanimelist.net/anime/59845)
+	- Publication Status: Finished Airing
+	- MAL ID: 59845
+	- Genre(s): Drama, Romance, School
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kappa no Coo to Natsuyasumi](https://myanimelist.net/anime/2848)
 	- Publication Status: Finished Airing
@@ -8589,7 +8604,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 57433
 	- Genre(s): Drama, Romance, School, Supernatural
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai](https://myanimelist.net/anime/38329)
 	- Publication Status: Finished Airing
 	- MAL ID: 38329
@@ -9230,6 +9245,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 24893
 	- Genre(s): Action, Mecha, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459)
+	- Publication Status: Finished Airing
+	- MAL ID: 59459
+	- Genre(s): Fantasy, School
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Simoun](https://myanimelist.net/anime/879)
 	- Publication Status: Finished Airing
 	- MAL ID: 879
@@ -9349,7 +9369,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 48736
 	- Genre(s): Otaku Culture, Romance, School, Seinen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi](https://myanimelist.net/anime/7748)
 	- Publication Status: Finished Airing
 	- MAL ID: 7748
@@ -9598,7 +9618,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sword Art Online](https://myanimelist.net/anime/11757)
 	- Publication Status: Finished Airing
 	- MAL ID: 11757
-	- Genre(s): Action, Adventure, Fantasy, Love Polygon, Romance, Video Game
+	- Genre(s): Action, Adventure, Fantasy, Romance, Video Game
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Sword Art Online Alternative: Gun Gale Online](https://myanimelist.net/anime/36475)
 	- Publication Status: Finished Airing
@@ -9618,7 +9638,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sword Art Online II](https://myanimelist.net/anime/21881)
 	- Publication Status: Finished Airing
 	- MAL ID: 21881
-	- Genre(s): Action, Adventure, Fantasy, Love Polygon, Romance, Video Game
+	- Genre(s): Action, Adventure, Fantasy, Romance, Video Game
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Sword Art Online Movie: Ordinal Scale](https://myanimelist.net/anime/31765)
 	- Publication Status: Finished Airing
@@ -10440,6 +10460,16 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51761
 	- Genre(s): Anthropomorphic, Racing, Sports
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Uma Musume: Pretty Derby - Road to the Top (Movie)](https://myanimelist.net/anime/58517)
+	- Publication Status: Finished Airing
+	- MAL ID: 58517
+	- Genre(s): Anthropomorphic, Racing, Sports
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Uma Musume: Pretty Derby - Shin Jidai no Tobira](https://myanimelist.net/anime/57647)
+	- Publication Status: Finished Airing
+	- MAL ID: 57647
+	- Genre(s): Anthropomorphic, Racing, Sports
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Uma Musume: Pretty Derby Season 2](https://myanimelist.net/anime/42941)
 	- Publication Status: Finished Airing
 	- MAL ID: 42941
@@ -10925,6 +10955,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 50346
 	- Genre(s): Romance, Shounen, Supernatural, Vampire
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Yofukashi no Uta Season 2](https://myanimelist.net/anime/58390)
+	- Publication Status: Finished Airing
+	- MAL ID: 58390
+	- Genre(s): Romance, Shounen, Supernatural, Vampire
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785)
 	- Publication Status: Finished Airing
 	- MAL ID: 7785
