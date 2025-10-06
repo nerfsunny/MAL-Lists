@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 28, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 05, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -181,6 +181,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 2
 	- Genre(s): Action, Adventure, Award Winning, Drama, Fantasy, Gore, Horror, Military, Psychological, Seinen
 	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Karinara](https://myanimelist.net/profile/Karinara/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [Ryzor](https://myanimelist.net/profile/Ryzor/favorites), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
+- [Beware the Ides of March](https://myanimelist.net/manga/184938)
+	- Publication Status: Finished
+	- MAL ID: 184938
+	- Genre(s): Boys Love, Erotica, Organized Crime
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Black Bird](https://myanimelist.net/manga/3116)
 	- Publication Status: Finished
 	- MAL ID: 3116
@@ -371,6 +376,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 5255
 	- Genre(s): Comedy, Drama, Romance, Shoujo
 	- Staff Member(s): [aquatar](https://myanimelist.net/profile/aquatar/favorites)
+- [Diss Love](https://myanimelist.net/manga/184939)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184939
+	- Genre(s): Boys Love, Erotica, Showbiz
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Dorohedoro](https://myanimelist.net/manga/1133)
 	- Publication Status: Finished
 	- MAL ID: 1133
@@ -401,6 +411,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 42
 	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Shounen
 	- Staff Member(s): [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+- [Dreaming of the Dokkaebi](https://myanimelist.net/manga/187330)
+	- Publication Status: Currently Publishing
+	- MAL ID: 187330
+	- Genre(s): Boys Love, Erotica, Mythology, Reincarnation, Supernatural
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Dungeon Meshi](https://myanimelist.net/manga/85781)
 	- Publication Status: Finished
 	- MAL ID: 85781
@@ -1511,6 +1526,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 119161
 	- Genre(s): Action, Childcare, Comedy, Shounen
 	- Staff Member(s): [BlizZar](https://myanimelist.net/profile/BlizZar/favorites)
+- [Sugar Trap](https://myanimelist.net/manga/185133)
+	- Publication Status: Currently Publishing
+	- MAL ID: 185133
+	- Genre(s): Boys Love, Erotica, Workplace
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [Surviving Romance](https://myanimelist.net/manga/147276)
 	- Publication Status: Finished
 	- MAL ID: 147276
@@ -1701,6 +1721,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 556
 	- Genre(s): Action, Drama, Fantasy, Horror, Sci-Fi, Shoujo, Vampire
 	- Staff Member(s): [Karinara](https://myanimelist.net/profile/Karinara/favorites)
+- [Turning](https://myanimelist.net/manga/184906)
+	- Publication Status: Currently Publishing
+	- MAL ID: 184906
+	- Genre(s): Boys Love, Erotica, Fantasy, Reincarnation, Time Travel
+	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
 - [UQ Holder!](https://myanimelist.net/manga/57765)
 	- Publication Status: Finished
 	- MAL ID: 57765

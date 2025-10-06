@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of September 28, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 05, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -3123,7 +3123,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Corpse Party: Book of Shadows](https://myanimelist.net/manga/34571)
 	- Publication Status: Finished
 	- MAL ID: 34571
-	- Genre(s): Horror, Mystery, Psychological, Seinen
+	- Genre(s): Gore, Horror, Mystery, Psychological, School, Seinen
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [Corpse Party: Sachiko no Renai Yuugi♥ - Hysteric Birthday 2U](https://myanimelist.net/manga/43937)
 	- Publication Status: Finished
