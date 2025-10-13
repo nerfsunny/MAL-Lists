@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 05, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 12, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -375,6 +375,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 152675
 	- Genre(s): Drama, Fantasy, Shounen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Heisei Haizanhei☆Sumire-chan (31)](https://myanimelist.net/manga/156640)
+	- Publication Status: Finished
+	- MAL ID: 156640
+	- Genre(s): Ecchi, Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Hells Angels](https://myanimelist.net/manga/1853)
 	- Publication Status: Finished
 	- MAL ID: 1853
@@ -645,6 +650,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 1649
 	- Genre(s): Drama, High Stakes Game, Psychological, Seinen, Strategy Game, Suspense
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Machigatteita no wa Ore Datta n da.](https://myanimelist.net/manga/121891)
+	- Publication Status: Finished
+	- MAL ID: 121891
+	- Genre(s): Drama, Horror, Romance, Shounen, Supernatural
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Mada, Ikiteru](https://myanimelist.net/manga/20310)
 	- Publication Status: Finished
 	- MAL ID: 20310

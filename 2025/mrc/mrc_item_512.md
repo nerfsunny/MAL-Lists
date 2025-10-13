@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 05, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 12, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -285,7 +285,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 104271
 	- Genre(s): Drama, Psychological, Seinen, Suspense
-	- Staff Member(s): [Jinbou](https://myanimelist.net/profile/Jinbou/favorites)
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Jinbou](https://myanimelist.net/profile/Jinbou/favorites)
 - [Chihayafuru](https://myanimelist.net/manga/13245)
 	- Publication Status: Finished
 	- MAL ID: 13245
@@ -419,7 +419,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Dungeon Meshi](https://myanimelist.net/manga/85781)
 	- Publication Status: Finished
 	- MAL ID: 85781
-	- Genre(s): Award Winning, Comedy, Fantasy, Gourmet, Seinen
+	- Genre(s): Adventure, Award Winning, Comedy, Fantasy, Gourmet, Seinen
 	- Staff Member(s): [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
 - [Egret: The Great Sage](https://myanimelist.net/manga/149029)
 	- Publication Status: Finished
@@ -679,7 +679,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [Imawa no Kuni no Alice](https://myanimelist.net/manga/33031)
 	- Publication Status: Finished
 	- MAL ID: 33031
-	- Genre(s): Action, Gore, High Stakes Game, Horror, Psychological, Shounen, Supernatural, Survival
+	- Genre(s): Action, Gore, High Stakes Game, Horror, Psychological, Shounen, Supernatural, Survival, Suspense
 	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
 - [Inu x Boku SS](https://myanimelist.net/manga/17207)
 	- Publication Status: Finished
@@ -1244,7 +1244,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [One Punch-Man](https://myanimelist.net/manga/44347)
 	- Publication Status: Currently Publishing
 	- MAL ID: 44347
-	- Genre(s): Action, Comedy, Parody, Seinen, Super Power
+	- Genre(s): Action, Adult Cast, Comedy, Parody, Seinen, Super Power
 	- Staff Member(s): [Ryzor](https://myanimelist.net/profile/Ryzor/favorites)
 - [Orange](https://myanimelist.net/manga/35573)
 	- Publication Status: Finished

@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 05, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 12, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -7598,7 +7598,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Imawa no Kuni no Alice](https://myanimelist.net/manga/33031)
 	- Publication Status: Finished
 	- MAL ID: 33031
-	- Genre(s): Action, Gore, High Stakes Game, Horror, Psychological, Shounen, Supernatural, Survival
+	- Genre(s): Action, Gore, High Stakes Game, Horror, Psychological, Shounen, Supernatural, Survival, Suspense
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Imomushi](https://myanimelist.net/manga/15589)
 	- Publication Status: Finished
@@ -10113,7 +10113,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Kondo koso Shiawase ni Narimasu!](https://myanimelist.net/manga/119489)
 	- Publication Status: Finished
 	- MAL ID: 119489
-	- Genre(s): Fantasy, Josei, Romance
+	- Genre(s): Fantasy, Josei, Reincarnation, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Kondo wa Zettai ni Jama Shimasen!](https://myanimelist.net/manga/116720)
 	- Publication Status: Currently Publishing
@@ -13205,6 +13205,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 113869
 	- Genre(s): Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Neko no Kohana](https://myanimelist.net/manga/92031)
+	- Publication Status: Finished
+	- MAL ID: 92031
+	- Genre(s): Pets, Seinen, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Neko no Otera no Chion-san](https://myanimelist.net/manga/102458)
 	- Publication Status: Finished
 	- MAL ID: 102458
@@ -14013,7 +14018,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [One Punch-Man](https://myanimelist.net/manga/44347)
 	- Publication Status: Currently Publishing
 	- MAL ID: 44347
-	- Genre(s): Action, Comedy, Parody, Seinen, Super Power
+	- Genre(s): Action, Adult Cast, Comedy, Parody, Seinen, Super Power
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
 - [One Room Angel](https://myanimelist.net/manga/119931)
 	- Publication Status: Finished
