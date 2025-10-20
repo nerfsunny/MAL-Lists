@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of October 05, 2025:
+This list contains a list of anime eligible for the following challenge item, as of October 19, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -93,12 +93,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [86](https://myanimelist.net/anime/41457)
 	- Publication Status: Finished Airing
 	- MAL ID: 41457
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Drama, Mecha, Military, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [86 Part 2](https://myanimelist.net/anime/48569)
 	- Publication Status: Finished Airing
 	- MAL ID: 48569
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Drama, Mecha, Military, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [91 Days](https://myanimelist.net/anime/32998)
 	- Publication Status: Finished Airing
@@ -340,6 +340,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 3359
 	- Genre(s): Action, Historical, Josei, Mythology, Supernatural, Time Travel
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Ame to Kimi to](https://myanimelist.net/anime/59619)
+	- Publication Status: Finished Airing
+	- MAL ID: 59619
+	- Genre(s): Adult Cast, Pets, Seinen, Slice of Life
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Ameku Takao no Suiri Karte](https://myanimelist.net/anime/58600)
 	- Publication Status: Finished Airing
 	- MAL ID: 58600
@@ -390,6 +395,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 39959
 	- Genre(s): Comedy, School
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Anne Shirley](https://myanimelist.net/anime/60334)
+	- Publication Status: Finished Airing
+	- MAL ID: 60334
+	- Genre(s): Drama, Historical
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.](https://myanimelist.net/anime/9989)
 	- Publication Status: Finished Airing
 	- MAL ID: 9989
@@ -513,7 +523,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Argento Soma](https://myanimelist.net/anime/285)
 	- Publication Status: Finished Airing
 	- MAL ID: 285
-	- Genre(s): Action, Adventure, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Adventure, Drama, Mecha, Military, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Argonavis from BanG Dream!](https://myanimelist.net/anime/40677)
 	- Publication Status: Finished Airing
@@ -578,7 +588,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Armitage III](https://myanimelist.net/anime/1079)
 	- Publication Status: Finished Airing
 	- MAL ID: 1079
-	- Genre(s): Action, Detective, Mecha, Mystery, Romance, Sci-Fi
+	- Genre(s): Detective, Mecha, Mystery, Romance, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Arslan Senki](https://myanimelist.net/anime/1762)
 	- Publication Status: Finished Airing
@@ -830,6 +840,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51819
 	- Genre(s): Music
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Bigbang Reflection!!](https://myanimelist.net/anime/48531)
+	- Publication Status: Finished Airing
+	- MAL ID: 48531
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Binan Koukou Chikyuu Bouei-bu Eternal Love!](https://myanimelist.net/anime/59406)
 	- Publication Status: Finished Airing
 	- MAL ID: 59406
@@ -933,7 +948,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Blame! Movie](https://myanimelist.net/anime/32086)
 	- Publication Status: Finished Airing
 	- MAL ID: 32086
-	- Genre(s): Action, Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival, Suspense
+	- Genre(s): Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Bleach Movie 1: Memories of Nobody](https://myanimelist.net/anime/1686)
 	- Publication Status: Finished Airing
@@ -1078,7 +1093,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Bokura no](https://myanimelist.net/anime/1690)
 	- Publication Status: Finished Airing
 	- MAL ID: 1690
-	- Genre(s): Action, Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival, Suspense
+	- Genre(s): Drama, Mecha, Psychological, Sci-Fi, Seinen, Survival, Suspense
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Bokura wa Minna Kawai-sou](https://myanimelist.net/anime/21405)
 	- Publication Status: Finished Airing
@@ -1148,12 +1163,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Break Blade Movie 1: Kakusei no Toki](https://myanimelist.net/anime/6772)
 	- Publication Status: Finished Airing
 	- MAL ID: 6772
-	- Genre(s): Action, Adult Cast, Fantasy, Mecha, Military, Shounen
+	- Genre(s): Adult Cast, Fantasy, Mecha, Military, Shounen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Break Blade Movie 6: Doukoku no Toride](https://myanimelist.net/anime/10092)
 	- Publication Status: Finished Airing
 	- MAL ID: 10092
-	- Genre(s): Action, Adult Cast, Fantasy, Mecha, Military, Shounen
+	- Genre(s): Adult Cast, Fantasy, Mecha, Military, Shounen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Brothers Conflict](https://myanimelist.net/anime/15605)
 	- Publication Status: Finished Airing
@@ -1178,12 +1193,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Bubblegum Crash](https://myanimelist.net/anime/1348)
 	- Publication Status: Finished Airing
 	- MAL ID: 1348
-	- Genre(s): Action, Adult Cast, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adult Cast, Adventure, Mecha, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Bubblegum Crisis](https://myanimelist.net/anime/1347)
 	- Publication Status: Finished Airing
 	- MAL ID: 1347
-	- Genre(s): Action, Adult Cast, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adult Cast, Adventure, Mecha, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Buddy Daddies](https://myanimelist.net/anime/53411)
 	- Publication Status: Finished Airing
@@ -1233,7 +1248,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Busou Shinki: Install x Dream](https://myanimelist.net/anime/16614)
 	- Publication Status: Finished Airing
 	- MAL ID: 16614
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Busou Shoujo Machiavellianism](https://myanimelist.net/anime/33475)
 	- Publication Status: Finished Airing
@@ -1343,7 +1358,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Change!! Getter Robo: Sekai Saigo no Hi](https://myanimelist.net/anime/978)
 	- Publication Status: Finished Airing
 	- MAL ID: 978
-	- Genre(s): Action, Adventure, Horror, Mecha, Psychological, Sci-Fi, Shounen
+	- Genre(s): Adventure, Horror, Mecha, Psychological, Sci-Fi, Shounen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Charlotte: Tsuyoimono-tachi](https://myanimelist.net/anime/31553)
 	- Publication Status: Finished Airing
@@ -1423,17 +1438,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Choujuu Kishin Dancougar](https://myanimelist.net/anime/2255)
 	- Publication Status: Finished Airing
 	- MAL ID: 2255
-	- Genre(s): Action, Mecha, Sci-Fi, Space
+	- Genre(s): Mecha, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Choujuu Kishin Dancougar: God Bless Dancougar](https://myanimelist.net/anime/5266)
 	- Publication Status: Finished Airing
 	- MAL ID: 5266
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Choujuu Kishin Dancougar: Juusenki-tai Songs](https://myanimelist.net/anime/17002)
 	- Publication Status: Finished Airing
 	- MAL ID: 17002
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741)
 	- Publication Status: Finished Airing
@@ -1578,37 +1593,37 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita](https://myanimelist.net/anime/8888)
 	- Publication Status: Finished Airing
 	- MAL ID: 8888
-	- Genre(s): Action, Mecha, Military, Sci-Fi
+	- Genre(s): Mecha, Military, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu](https://myanimelist.net/anime/15197)
 	- Publication Status: Finished Airing
 	- MAL ID: 15197
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu](https://myanimelist.net/anime/15199)
 	- Publication Status: Finished Airing
 	- MAL ID: 15199
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara](https://myanimelist.net/anime/15201)
 	- Publication Status: Finished Airing
 	- MAL ID: 15201
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e](https://myanimelist.net/anime/30711)
 	- Publication Status: Finished Airing
 	- MAL ID: 30711
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Hangyaku no Lelouch](https://myanimelist.net/anime/1575)
 	- Publication Status: Finished Airing
 	- MAL ID: 1575
-	- Genre(s): Action, Award Winning, Drama, Mecha, Military, School, Sci-Fi, Super Power
+	- Genre(s): Award Winning, Drama, Mecha, Military, School, Sci-Fi, Super Power
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Code Geass: Hangyaku no Lelouch R2](https://myanimelist.net/anime/2904)
 	- Publication Status: Finished Airing
 	- MAL ID: 2904
-	- Genre(s): Action, Award Winning, Drama, Mecha, Military, Sci-Fi, Super Power
+	- Genre(s): Award Winning, Drama, Mecha, Military, Sci-Fi, Super Power
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Colorful (Movie)](https://myanimelist.net/anime/8142)
 	- Publication Status: Finished Airing
@@ -1618,7 +1633,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Comet Lucifer](https://myanimelist.net/anime/31318)
 	- Publication Status: Finished Airing
 	- MAL ID: 31318
-	- Genre(s): Action, Adventure, Fantasy, Mecha
+	- Genre(s): Adventure, Fantasy, Mecha
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Comic Girls](https://myanimelist.net/anime/35756)
 	- Publication Status: Finished Airing
@@ -1778,7 +1793,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Darling in the FranXX](https://myanimelist.net/anime/35849)
 	- Publication Status: Finished Airing
 	- MAL ID: 35849
-	- Genre(s): Action, Drama, Mecha, Romance, Sci-Fi
+	- Genre(s): Drama, Mecha, Romance, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Date A Bullet: Dead or Bullet](https://myanimelist.net/anime/40416)
 	- Publication Status: Finished Airing
@@ -1790,6 +1805,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 52196
 	- Genre(s): Action, Fantasy, Harem, Romance, School, Sci-Fi, Urban Fantasy
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [Day/Night DiSCO](https://myanimelist.net/anime/55617)
+	- Publication Status: Finished Airing
+	- MAL ID: 55617
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Daybreak Interlude](https://myanimelist.net/anime/36289)
 	- Publication Status: Finished Airing
 	- MAL ID: 36289
@@ -1799,7 +1819,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58883
 	- Genre(s): Drama, School, Sci-Fi, Seinen
-	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Dead Dead Demons Dededede Destruction (ONA) Episode 0](https://myanimelist.net/anime/58920)
 	- Publication Status: Finished Airing
 	- MAL ID: 58920
@@ -1808,7 +1828,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Deaimon](https://myanimelist.net/anime/48779)
 	- Publication Status: Finished Airing
 	- MAL ID: 48779
-	- Genre(s): Childcare, Seinen, Slice of Life, Workplace
+	- Genre(s): Seinen, Slice of Life, Workplace
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Death Billiards](https://myanimelist.net/anime/14353)
 	- Publication Status: Finished Airing
@@ -1865,6 +1885,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2355
 	- Genre(s): Gore, Horror, Mythology, Sci-Fi, Shounen, Supernatural
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [DiSCOVER THE FUTURE](https://myanimelist.net/anime/43601)
+	- Publication Status: Finished Airing
+	- MAL ID: 43601
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Diamond Fusion](https://myanimelist.net/anime/37863)
 	- Publication Status: Finished Airing
 	- MAL ID: 37863
@@ -2248,17 +2273,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Evangelion Movie 1: Jo](https://myanimelist.net/anime/2759)
 	- Publication Status: Finished Airing
 	- MAL ID: 2759
-	- Genre(s): Action, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Evangelion Movie 2: Ha](https://myanimelist.net/anime/3784)
 	- Publication Status: Finished Airing
 	- MAL ID: 3784
-	- Genre(s): Action, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Evangelion Movie 3: Q](https://myanimelist.net/anime/3785)
 	- Publication Status: Finished Airing
 	- MAL ID: 3785
-	- Genre(s): Action, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Eve no Jikan](https://myanimelist.net/anime/3167)
 	- Publication Status: Finished Airing
@@ -2278,7 +2303,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [FLCL](https://myanimelist.net/anime/227)
 	- Publication Status: Finished Airing
 	- MAL ID: 227
-	- Genre(s): Action, Avant Garde, Comedy, Mecha, Parody, Psychological, Sci-Fi, Suspense
+	- Genre(s): Avant Garde, Comedy, Mecha, Parody, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu](https://myanimelist.net/anime/45665)
 	- Publication Status: Finished Airing
@@ -2368,7 +2393,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Five Star Stories](https://myanimelist.net/anime/2042)
 	- Publication Status: Finished Airing
 	- MAL ID: 2042
-	- Genre(s): Action, Drama, Fantasy, Mecha, Sci-Fi
+	- Genre(s): Drama, Fantasy, Mecha, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Flip Flappers](https://myanimelist.net/anime/32979)
 	- Publication Status: Finished Airing
@@ -2478,17 +2503,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Full Metal Panic!](https://myanimelist.net/anime/71)
 	- Publication Status: Finished Airing
 	- MAL ID: 71
-	- Genre(s): Action, Comedy, Mecha, Military, Sci-Fi
+	- Genre(s): Comedy, Mecha, Military, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic! Invisible Victory](https://myanimelist.net/anime/31931)
 	- Publication Status: Finished Airing
 	- MAL ID: 31931
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic! The Second Raid](https://myanimelist.net/anime/73)
 	- Publication Status: Finished Airing
 	- MAL ID: 73
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72)
 	- Publication Status: Finished Airing
@@ -2713,17 +2738,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Genma Taisen](https://myanimelist.net/anime/1626)
 	- Publication Status: Finished Airing
 	- MAL ID: 1626
-	- Genre(s): Action, Adventure, Drama, Mecha, Sci-Fi, Shounen, Supernatural
+	- Genre(s): Adventure, Drama, Mecha, Sci-Fi, Shounen, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Genmu Senki Leda](https://myanimelist.net/anime/2196)
 	- Publication Status: Finished Airing
 	- MAL ID: 2196
-	- Genre(s): Action, Adventure, Fantasy, Isekai, Mecha, Sci-Fi
+	- Genre(s): Adventure, Fantasy, Isekai, Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Genocyber](https://myanimelist.net/anime/2775)
 	- Publication Status: Finished Airing
 	- MAL ID: 2775
-	- Genre(s): Action, Gore, Horror, Mecha, Psychological, Sci-Fi, Seinen
+	- Genre(s): Gore, Horror, Mecha, Psychological, Sci-Fi, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Gensou Mangekyou: The Memories of Phantasm](https://myanimelist.net/anime/55315)
 	- Publication Status: Finished Airing
@@ -2835,6 +2860,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 3907
 	- Genre(s): Adventure, Romance, Sci-Fi, Shounen, Space
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Ginga Tokkyuu Milky☆Subway](https://myanimelist.net/anime/61274)
+	- Publication Status: Finished Airing
+	- MAL ID: 61274
+	- Genre(s): Comedy, Sci-Fi, Space
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Giniro no Kami no Agito](https://myanimelist.net/anime/1140)
 	- Publication Status: Finished Airing
 	- MAL ID: 1140
@@ -2898,7 +2928,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi](https://myanimelist.net/anime/2951)
 	- Publication Status: Finished Airing
 	- MAL ID: 2951
-	- Genre(s): Action, Comedy, Historical, Mecha, Parody, Samurai, Sci-Fi, Shounen
+	- Genre(s): Comedy, Historical, Mecha, Parody, Samurai, Sci-Fi, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Gintama: Shiroyasha Koutan](https://myanimelist.net/anime/6945)
 	- Publication Status: Finished Airing
@@ -3028,7 +3058,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Godzilla: S.P](https://myanimelist.net/anime/43229)
 	- Publication Status: Finished Airing
 	- MAL ID: 43229
-	- Genre(s): Action, Award Winning, Mecha, Mystery, Sci-Fi
+	- Genre(s): Award Winning, Mecha, Mystery, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Gokukoku no Brynhildr](https://myanimelist.net/anime/21431)
 	- Publication Status: Finished Airing
@@ -3133,7 +3163,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Guilty Crown](https://myanimelist.net/anime/10793)
 	- Publication Status: Finished Airing
 	- MAL ID: 10793
-	- Genre(s): Action, Drama, Mecha, Sci-Fi, Super Power
+	- Genre(s): Drama, Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Guin Saga](https://myanimelist.net/anime/5041)
 	- Publication Status: Finished Airing
@@ -3148,7 +3178,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Gundam Build Fighters](https://myanimelist.net/anime/19319)
 	- Publication Status: Finished Airing
 	- MAL ID: 19319
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Gungrave](https://myanimelist.net/anime/267)
 	- Publication Status: Finished Airing
@@ -3848,7 +3878,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Hoshi no Koe](https://myanimelist.net/anime/256)
 	- Publication Status: Finished Airing
 	- MAL ID: 256
-	- Genre(s): Action, Award Winning, Drama, Mecha, Romance, Sci-Fi, Space
+	- Genre(s): Award Winning, Drama, Mecha, Romance, Sci-Fi, Space
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Hoshi wo Ou Kodomo](https://myanimelist.net/anime/9760)
 	- Publication Status: Finished Airing
@@ -3929,7 +3959,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 5043
 	- Genre(s): Adult Cast, Music
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Hurricane Live! 2033](https://myanimelist.net/anime/5036)
 	- Publication Status: Finished Airing
 	- MAL ID: 5036
@@ -4068,7 +4098,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Innocence](https://myanimelist.net/anime/468)
 	- Publication Status: Finished Airing
 	- MAL ID: 468
-	- Genre(s): Action, Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Psychological, Sci-Fi, Seinen, Suspense
+	- Genre(s): Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Psychological, Sci-Fi, Seinen, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Interstella5555: The 5tory of The 5ecret 5tar 5ystem](https://myanimelist.net/anime/731)
 	- Publication Status: Finished Airing
@@ -4233,7 +4263,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Jinzou Ningen Kikaider The Animation](https://myanimelist.net/anime/598)
 	- Publication Status: Finished Airing
 	- MAL ID: 598
-	- Genre(s): Action, Drama, Mecha, Sci-Fi, Shounen
+	- Genre(s): Drama, Mecha, Sci-Fi, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [JoJo no Kimyou na Bouken](https://myanimelist.net/anime/666)
 	- Publication Status: Finished Airing
@@ -4495,6 +4525,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 52588
 	- Genre(s): Action, Adult Cast, Fantasy, Military, Sci-Fi, Shounen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Kaijuu 8-gou 2nd Season](https://myanimelist.net/anime/59177)
+	- Publication Status: Finished Airing
+	- MAL ID: 59177
+	- Genre(s): Action, Adult Cast, Fantasy, Military, Sci-Fi, Shounen, Urban Fantasy
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kaijuu 8-gou Movie](https://myanimelist.net/anime/59489)
 	- Publication Status: Finished Airing
 	- MAL ID: 59489
@@ -4523,12 +4558,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kakumeiki Valvrave](https://myanimelist.net/anime/16668)
 	- Publication Status: Finished Airing
 	- MAL ID: 16668
-	- Genre(s): Action, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kakumeiki Valvrave 2nd Season](https://myanimelist.net/anime/18295)
 	- Publication Status: Finished Airing
 	- MAL ID: 18295
-	- Genre(s): Action, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kakuriyo no Yadomeshi](https://myanimelist.net/anime/36754)
 	- Publication Status: Finished Airing
@@ -4604,7 +4639,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 53879
 	- Genre(s): Adult Cast, Comedy, Detective, Mystery, Shounen
-	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Kanata no Astra](https://myanimelist.net/anime/39198)
 	- Publication Status: Finished Airing
 	- MAL ID: 39198
@@ -4778,7 +4813,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kaze ga Tsuyoku Fuiteiru](https://myanimelist.net/anime/37965)
 	- Publication Status: Finished Airing
 	- MAL ID: 37965
-	- Genre(s): Adult Cast, Drama, Racing, Sports
+	- Genre(s): Adult Cast, Drama, Sports
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Kaze no Tani no Nausicaä](https://myanimelist.net/anime/572)
 	- Publication Status: Finished Airing
@@ -4838,67 +4873,67 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Key the Metal Idol](https://myanimelist.net/anime/1457)
 	- Publication Status: Finished Airing
 	- MAL ID: 1457
-	- Genre(s): Action, Award Winning, Drama, Mecha, Music, Psychological, Sci-Fi
+	- Genre(s): Award Winning, Drama, Mecha, Music, Psychological, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Butouden G Gundam](https://myanimelist.net/anime/96)
 	- Publication Status: Finished Airing
 	- MAL ID: 96
-	- Genre(s): Action, Drama, Martial Arts, Mecha, Romance, Sci-Fi, Space
+	- Genre(s): Drama, Martial Arts, Mecha, Romance, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kidou Keisatsu Patlabor](https://myanimelist.net/anime/1288)
 	- Publication Status: Finished Airing
 	- MAL ID: 1288
-	- Genre(s): Action, Adult Cast, Comedy, Mecha, Sci-Fi, Workplace
+	- Genre(s): Adult Cast, Comedy, Mecha, Sci-Fi, Workplace
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Keisatsu Patlabor 2 the Movie](https://myanimelist.net/anime/1096)
 	- Publication Status: Finished Airing
 	- MAL ID: 1096
-	- Genre(s): Action, Award Winning, Detective, Drama, Mecha, Military, Mystery, Sci-Fi
+	- Genre(s): Award Winning, Detective, Drama, Mecha, Military, Mystery, Sci-Fi
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Kidou Keisatsu Patlabor the Movie](https://myanimelist.net/anime/1095)
 	- Publication Status: Finished Airing
 	- MAL ID: 1095
-	- Genre(s): Action, Adult Cast, Drama, Mecha, Military
+	- Genre(s): Adult Cast, Drama, Mecha, Military
 	- Staff Member(s): [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam](https://myanimelist.net/anime/80)
 	- Publication Status: Finished Airing
 	- MAL ID: 80
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kidou Senshi Gundam 00](https://myanimelist.net/anime/2581)
 	- Publication Status: Finished Airing
 	- MAL ID: 2581
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kidou Senshi Gundam Thunderbolt: December Sky](https://myanimelist.net/anime/33221)
 	- Publication Status: Finished Airing
 	- MAL ID: 33221
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Seinen, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kidou Senshi Gundam: GQuuuuuuX](https://myanimelist.net/anime/60449)
 	- Publication Status: Finished Airing
 	- MAL ID: 60449
-	- Genre(s): Action, Mecha, Sci-Fi, Space
+	- Genre(s): Mecha, Sci-Fi, Space
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam: Suisei no Majo](https://myanimelist.net/anime/49828)
 	- Publication Status: Finished Airing
 	- MAL ID: 49828
-	- Genre(s): Action, Mecha, School, Sci-Fi, Space
+	- Genre(s): Mecha, School, Sci-Fi, Space
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam: Suisei no Majo - Prologue](https://myanimelist.net/anime/52168)
 	- Publication Status: Finished Airing
 	- MAL ID: 52168
-	- Genre(s): Action, Mecha, Sci-Fi, Space
+	- Genre(s): Mecha, Sci-Fi, Space
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam: Suisei no Majo Season 2](https://myanimelist.net/anime/53199)
 	- Publication Status: Finished Airing
 	- MAL ID: 53199
-	- Genre(s): Action, Mecha, School, Sci-Fi, Space
+	- Genre(s): Mecha, School, Sci-Fi, Space
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kidou Senshi Gundam: The Origin](https://myanimelist.net/anime/10937)
 	- Publication Status: Finished Airing
 	- MAL ID: 10937
-	- Genre(s): Action, Mecha, Military, Sci-Fi, Shounen, Space
+	- Genre(s): Mecha, Military, Sci-Fi, Shounen, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kigyou Senshi Arslan](https://myanimelist.net/anime/32412)
 	- Publication Status: Finished Airing
@@ -4908,12 +4943,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kikaider 01 The Animation](https://myanimelist.net/anime/1768)
 	- Publication Status: Finished Airing
 	- MAL ID: 1768
-	- Genre(s): Action, Adventure, Drama, Mecha, Sci-Fi, Shounen
+	- Genre(s): Adventure, Drama, Mecha, Sci-Fi, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kikou Souseiki Mospeada](https://myanimelist.net/anime/3670)
 	- Publication Status: Finished Airing
 	- MAL ID: 3670
-	- Genre(s): Action, Mecha, Military
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kikoushi Enma](https://myanimelist.net/anime/1556)
 	- Publication Status: Finished Airing
@@ -5098,7 +5133,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kinoko Inu](https://myanimelist.net/anime/58854)
 	- Publication Status: Finished Airing
 	- MAL ID: 58854
-	- Genre(s): Adult Cast, Pets, Seinen, Slice of Life, Supernatural
+	- Genre(s): Adult Cast, Pets, Seinen, Slice of Life
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kinpatsu no Jeanie](https://myanimelist.net/anime/6012)
 	- Publication Status: Finished Airing
@@ -5363,22 +5398,22 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Koukaku Kidoutai](https://myanimelist.net/anime/43)
 	- Publication Status: Finished Airing
 	- MAL ID: 43
-	- Genre(s): Action, Adult Cast, Award Winning, Detective, Mecha, Mystery, Psychological, Sci-Fi, Seinen, Suspense
+	- Genre(s): Adult Cast, Award Winning, Detective, Mecha, Mystery, Psychological, Sci-Fi, Seinen, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Koukaku Kidoutai: Stand Alone Complex](https://myanimelist.net/anime/467)
 	- Publication Status: Finished Airing
 	- MAL ID: 467
-	- Genre(s): Action, Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
+	- Genre(s): Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Koukaku Kidoutai: Stand Alone Complex - Solid State Society](https://myanimelist.net/anime/1566)
 	- Publication Status: Finished Airing
 	- MAL ID: 1566
-	- Genre(s): Action, Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
+	- Genre(s): Adult Cast, Award Winning, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Koukaku Kidoutai: Stand Alone Complex 2nd GIG](https://myanimelist.net/anime/801)
 	- Publication Status: Finished Airing
 	- MAL ID: 801
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
+	- Genre(s): Adult Cast, Detective, Mecha, Military, Mystery, Sci-Fi, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Koukyuu no Karasu](https://myanimelist.net/anime/50590)
 	- Publication Status: Finished Airing
@@ -5533,7 +5568,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kuromukuro](https://myanimelist.net/anime/32245)
 	- Publication Status: Finished Airing
 	- MAL ID: 32245
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Kuroshitsuji](https://myanimelist.net/anime/4898)
 	- Publication Status: Finished Airing
@@ -5898,7 +5933,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Lycoris Recoil: Friends Are Thieves of Time.](https://myanimelist.net/anime/59369)
 	- Publication Status: Finished Airing
 	- MAL ID: 59369
-	- Genre(s): Slice of Life
+	- Genre(s): Comedy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [MEMORiES MELODiES](https://myanimelist.net/anime/32030)
 	- Publication Status: Finished Airing
@@ -5933,17 +5968,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Macross 7](https://myanimelist.net/anime/1397)
 	- Publication Status: Finished Airing
 	- MAL ID: 1397
-	- Genre(s): Action, Adventure, Comedy, Drama, Mecha, Military, Music, Romance, Sci-Fi, Space
+	- Genre(s): Adventure, Comedy, Drama, Mecha, Military, Music, Romance, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Macross 7 Movie: Ginga ga Ore wo Yondeiru!](https://myanimelist.net/anime/1400)
 	- Publication Status: Finished Airing
 	- MAL ID: 1400
-	- Genre(s): Action, Adventure, Comedy, Drama, Mecha, Music, Sci-Fi
+	- Genre(s): Adventure, Comedy, Drama, Mecha, Music, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Macross Dynamite 7](https://myanimelist.net/anime/1398)
 	- Publication Status: Finished Airing
 	- MAL ID: 1398
-	- Genre(s): Action, Adventure, Comedy, Mecha, Music, Sci-Fi, Space
+	- Genre(s): Adventure, Comedy, Mecha, Music, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Macross F Music Clip Shuu: Nyankuri](https://myanimelist.net/anime/10050)
 	- Publication Status: Finished Airing
@@ -5953,12 +5988,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Macross Plus](https://myanimelist.net/anime/474)
 	- Publication Status: Finished Airing
 	- MAL ID: 474
-	- Genre(s): Action, Adult Cast, Drama, Mecha, Military, Romance, Sci-Fi, Space
+	- Genre(s): Adult Cast, Drama, Mecha, Military, Romance, Sci-Fi, Space
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Macross: Do You Remember Love?](https://myanimelist.net/anime/1089)
 	- Publication Status: Finished Airing
 	- MAL ID: 1089
-	- Genre(s): Action, Mecha, Military, Music, Romance, Sci-Fi, Space
+	- Genre(s): Mecha, Military, Music, Romance, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Made in Abyss](https://myanimelist.net/anime/34599)
 	- Publication Status: Finished Airing
@@ -6023,12 +6058,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Magic Knight Rayearth](https://myanimelist.net/anime/435)
 	- Publication Status: Finished Airing
 	- MAL ID: 435
-	- Genre(s): Action, Adventure, Comedy, Drama, Fantasy, Isekai, Mecha, Shoujo
+	- Genre(s): Adventure, Comedy, Drama, Fantasy, Isekai, Mecha, Shoujo
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Magic Knight Rayearth II](https://myanimelist.net/anime/1563)
 	- Publication Status: Finished Airing
 	- MAL ID: 1563
-	- Genre(s): Action, Adventure, Drama, Fantasy, Isekai, Mahou Shoujo, Mecha, Romance, Shoujo
+	- Genre(s): Adventure, Drama, Fantasy, Isekai, Mahou Shoujo, Mecha, Romance, Shoujo
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Magic-Kyun! Renaissance](https://myanimelist.net/anime/33299)
 	- Publication Status: Finished Airing
@@ -6398,7 +6433,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Megazone 23](https://myanimelist.net/anime/1935)
 	- Publication Status: Finished Airing
 	- MAL ID: 1935
-	- Genre(s): Action, Mecha, Music, Mystery, Romance, Sci-Fi
+	- Genre(s): Mecha, Music, Mystery, Romance, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Meiken Lassie](https://myanimelist.net/anime/3425)
 	- Publication Status: Finished Airing
@@ -7128,7 +7163,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Nihon Animator Mihonichi](https://myanimelist.net/anime/28149)
 	- Publication Status: Finished Airing
 	- MAL ID: 28149
-	- Genre(s): Action, Avant Garde, Ecchi, Fantasy, Mecha, Military, Music, School, Sci-Fi, Space, Supernatural
+	- Genre(s): Avant Garde, Ecchi, Fantasy, Mecha, Military, Music, School, Sci-Fi, Space, Supernatural
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Nijiiro Days](https://myanimelist.net/anime/31414)
 	- Publication Status: Finished Airing
@@ -7668,7 +7703,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Penetrate Blue](https://myanimelist.net/anime/56059)
 	- Publication Status: Finished Airing
 	- MAL ID: 56059
-	- Genre(s): Action, Girls Love, Mecha, Sci-Fi
+	- Genre(s): Girls Love, Mecha, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Penguin Highway](https://myanimelist.net/anime/37407)
 	- Publication Status: Finished Airing
@@ -7768,7 +7803,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Plastic Little](https://myanimelist.net/anime/2332)
 	- Publication Status: Finished Airing
 	- MAL ID: 2332
-	- Genre(s): Action, Adventure, Ecchi, Mecha, Military, Sci-Fi
+	- Genre(s): Adventure, Ecchi, Mecha, Military, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Plastic Memories](https://myanimelist.net/anime/27775)
 	- Publication Status: Finished Airing
@@ -7903,22 +7938,22 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Project A-Ko](https://myanimelist.net/anime/212)
 	- Publication Status: Finished Airing
 	- MAL ID: 212
-	- Genre(s): Action, Adventure, Comedy, Mecha, Sci-Fi, Super Power
+	- Genre(s): Adventure, Comedy, Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Project A-Ko 2: Daitokuji Zaibatsu no Inbou](https://myanimelist.net/anime/1296)
 	- Publication Status: Finished Airing
 	- MAL ID: 1296
-	- Genre(s): Action, Comedy, Mecha, Sci-Fi, Super Power
+	- Genre(s): Comedy, Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Project A-Ko 3: Cinderella Rhapsody](https://myanimelist.net/anime/1297)
 	- Publication Status: Finished Airing
 	- MAL ID: 1297
-	- Genre(s): Action, Comedy, Mecha, Sci-Fi, Super Power
+	- Genre(s): Comedy, Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Project A-Ko 4: Final](https://myanimelist.net/anime/1298)
 	- Publication Status: Finished Airing
 	- MAL ID: 1298
-	- Genre(s): Action, Comedy, Mecha, Sci-Fi, Super Power
+	- Genre(s): Comedy, Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Project BLUE Chikyuu SOS](https://myanimelist.net/anime/1247)
 	- Publication Status: Finished Airing
@@ -7933,7 +7968,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Promare](https://myanimelist.net/anime/35848)
 	- Publication Status: Finished Airing
 	- MAL ID: 35848
-	- Genre(s): Action, Mecha, Sci-Fi, Super Power
+	- Genre(s): Mecha, Sci-Fi, Super Power
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Psycho-Pass](https://myanimelist.net/anime/13601)
 	- Publication Status: Finished Airing
@@ -8028,7 +8063,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [RahXephon](https://myanimelist.net/anime/165)
 	- Publication Status: Finished Airing
 	- MAL ID: 165
-	- Genre(s): Action, Award Winning, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi, Suspense
+	- Genre(s): Award Winning, Drama, Mecha, Music, Mystery, Psychological, Romance, Sci-Fi, Suspense
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Rail Wars!](https://myanimelist.net/anime/23309)
 	- Publication Status: Finished Airing
@@ -8053,7 +8088,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Rakuen Tsuihou](https://myanimelist.net/anime/13391)
 	- Publication Status: Finished Airing
 	- MAL ID: 13391
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Rance 01: Hikari wo Motomete The Animation](https://myanimelist.net/anime/25345)
 	- Publication Status: Finished Airing
@@ -8288,7 +8323,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [SSSS.Gridman](https://myanimelist.net/anime/35847)
 	- Publication Status: Finished Airing
 	- MAL ID: 35847
-	- Genre(s): Action, Award Winning, Mecha, Sci-Fi
+	- Genre(s): Award Winning, Mecha, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Saenai Heroine no Sodatekata](https://myanimelist.net/anime/23277)
 	- Publication Status: Finished Airing
@@ -8503,7 +8538,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Scrapped Princess](https://myanimelist.net/anime/167)
 	- Publication Status: Finished Airing
 	- MAL ID: 167
-	- Genre(s): Action, Adventure, Drama, Fantasy, Mecha, Sci-Fi
+	- Genre(s): Adventure, Drama, Fantasy, Mecha, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Seihou Bukyou Outlaw Star](https://myanimelist.net/anime/400)
 	- Publication Status: Finished Airing
@@ -8873,7 +8908,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shin Evangelion Movie:||](https://myanimelist.net/anime/3786)
 	- Publication Status: Finished Airing
 	- MAL ID: 3786
-	- Genre(s): Action, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shin Gengou Nyankogelion](https://myanimelist.net/anime/47307)
 	- Publication Status: Finished Airing
@@ -9023,17 +9058,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Shinseiki Evangelion](https://myanimelist.net/anime/30)
 	- Publication Status: Finished Airing
 	- MAL ID: 30
-	- Genre(s): Action, Avant Garde, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Avant Garde, Award Winning, Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni](https://myanimelist.net/anime/32)
 	- Publication Status: Finished Airing
 	- MAL ID: 32
-	- Genre(s): Action, Avant Garde, Drama, Mecha, Psychological, Sci-Fi, Suspense
+	- Genre(s): Avant Garde, Drama, Mecha, Psychological, Sci-Fi, Suspense
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Shinseikiden Mars](https://myanimelist.net/anime/1712)
 	- Publication Status: Finished Airing
 	- MAL ID: 1712
-	- Genre(s): Action, Mecha, Sci-Fi, Shounen
+	- Genre(s): Mecha, Sci-Fi, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Shinsekai yori](https://myanimelist.net/anime/13125)
 	- Publication Status: Finished Airing
@@ -9233,17 +9268,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sidonia no Kishi](https://myanimelist.net/anime/19775)
 	- Publication Status: Finished Airing
 	- MAL ID: 19775
-	- Genre(s): Action, Mecha, Sci-Fi, Seinen, Space
+	- Genre(s): Mecha, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Sidonia no Kishi: Ai Tsumugu Hoshi](https://myanimelist.net/anime/35759)
 	- Publication Status: Finished Airing
 	- MAL ID: 35759
-	- Genre(s): Action, Mecha, Sci-Fi, Seinen, Space
+	- Genre(s): Mecha, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Sidonia no Kishi: Daikyuu Wakusei Seneki](https://myanimelist.net/anime/24893)
 	- Publication Status: Finished Airing
 	- MAL ID: 24893
-	- Genre(s): Action, Mecha, Sci-Fi, Seinen, Space
+	- Genre(s): Mecha, Sci-Fi, Seinen, Space
 	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Silent Witch: Chinmoku no Majo no Kakushigoto](https://myanimelist.net/anime/59459)
 	- Publication Status: Finished Airing
@@ -9293,7 +9328,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Sky Girls](https://myanimelist.net/anime/2604)
 	- Publication Status: Finished Airing
 	- MAL ID: 2604
-	- Genre(s): Action, Mecha, Military, Sci-Fi
+	- Genre(s): Mecha, Military, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Sky Girls OVA](https://myanimelist.net/anime/1480)
 	- Publication Status: Finished Airing
@@ -9370,6 +9405,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 48736
 	- Genre(s): Otaku Culture, Romance, School, Seinen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Sono Bisque Doll wa Koi wo Suru Season 2](https://myanimelist.net/anime/53065)
+	- Publication Status: Finished Airing
+	- MAL ID: 53065
+	- Genre(s): Otaku Culture, Romance, School, Seinen
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi](https://myanimelist.net/anime/7748)
 	- Publication Status: Finished Airing
 	- MAL ID: 7748
@@ -9458,12 +9498,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Star Driver the Movie](https://myanimelist.net/anime/12857)
 	- Publication Status: Finished Airing
 	- MAL ID: 12857
-	- Genre(s): Action, Mecha, Romance, School, Sci-Fi
+	- Genre(s): Mecha, Romance, School, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Star Driver: Kagayaki no Takuto](https://myanimelist.net/anime/8934)
 	- Publication Status: Finished Airing
 	- MAL ID: 8934
-	- Genre(s): Action, Mecha, Romance, School, Sci-Fi
+	- Genre(s): Mecha, Romance, School, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Steamboy](https://myanimelist.net/anime/565)
 	- Publication Status: Finished Airing
@@ -9543,7 +9583,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Suisei no Gargantia](https://myanimelist.net/anime/16524)
 	- Publication Status: Finished Airing
 	- MAL ID: 16524
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Suki na Ko ga Megane wo Wasureta](https://myanimelist.net/anime/54234)
 	- Publication Status: Finished Airing
@@ -9680,6 +9720,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2103
 	- Genre(s): Drama, Music, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [TOMORROW EViDENCE](https://myanimelist.net/anime/54045)
+	- Publication Status: Finished Airing
+	- MAL ID: 54045
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Tabi Machi Late Show](https://myanimelist.net/anime/32309)
 	- Publication Status: Finished Airing
 	- MAL ID: 32309
@@ -9868,17 +9913,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tengen Toppa Gurren Lagann](https://myanimelist.net/anime/2001)
 	- Publication Status: Finished Airing
 	- MAL ID: 2001
-	- Genre(s): Action, Adventure, Award Winning, Mecha, Sci-Fi
+	- Genre(s): Adventure, Award Winning, Mecha, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [Tengen Toppa Gurren Lagann Movie 1: Gurren-hen](https://myanimelist.net/anime/4107)
 	- Publication Status: Finished Airing
 	- MAL ID: 4107
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Tengen Toppa Gurren Lagann Movie 2: Lagann-hen](https://myanimelist.net/anime/4565)
 	- Publication Status: Finished Airing
 	- MAL ID: 4565
-	- Genre(s): Action, Mecha, Sci-Fi, Space, Super Power
+	- Genre(s): Mecha, Sci-Fi, Space, Super Power
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Tengoku Daimakyou](https://myanimelist.net/anime/53393)
 	- Publication Status: Finished Airing
@@ -9898,7 +9943,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tenkuu no Escaflowne](https://myanimelist.net/anime/182)
 	- Publication Status: Finished Airing
 	- MAL ID: 182
-	- Genre(s): Action, Adventure, Fantasy, Isekai, Love Polygon, Mecha, Romance
+	- Genre(s): Adventure, Fantasy, Isekai, Love Polygon, Mecha, Romance
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee), [Lestat-](https://myanimelist.net/profile/Lestat-), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513)
 	- Publication Status: Finished Airing
@@ -10000,6 +10045,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 50689
 	- Genre(s): Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [The Naked King](https://myanimelist.net/anime/49049)
+	- Publication Status: Finished Airing
+	- MAL ID: 49049
+	- Genre(s): Boys Love, Music
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [The Sky Crawlers](https://myanimelist.net/anime/3089)
 	- Publication Status: Finished Airing
 	- MAL ID: 3089
@@ -10248,12 +10298,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Top wo Nerae 2! Diebuster](https://myanimelist.net/anime/1002)
 	- Publication Status: Finished Airing
 	- MAL ID: 1002
-	- Genre(s): Action, Award Winning, Comedy, Drama, Mecha, Sci-Fi, Space
+	- Genre(s): Award Winning, Comedy, Drama, Mecha, Sci-Fi, Space
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Top wo Nerae! Gunbuster](https://myanimelist.net/anime/949)
 	- Publication Status: Finished Airing
 	- MAL ID: 949
-	- Genre(s): Action, Award Winning, Comedy, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Award Winning, Comedy, Drama, Mecha, Military, Sci-Fi, Space
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Toradora!](https://myanimelist.net/anime/4224)
 	- Publication Status: Finished Airing
@@ -10428,7 +10478,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Uchuu Senkan Tiramisù](https://myanimelist.net/anime/36267)
 	- Publication Status: Finished Airing
 	- MAL ID: 36267
-	- Genre(s): Action, Comedy, Mecha, Parody, Sci-Fi, Space
+	- Genre(s): Comedy, Mecha, Parody, Sci-Fi, Space
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Uchuu Senkan Yamato](https://myanimelist.net/anime/1650)
 	- Publication Status: Finished Airing
@@ -10704,7 +10754,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 46095
 	- Genre(s): Action, Music, Sci-Fi, Suspense, Time Travel
-	- Staff Member(s): [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Vocaloid China Project Senden Animation](https://myanimelist.net/anime/14359)
 	- Publication Status: Finished Airing
 	- MAL ID: 14359
@@ -10713,7 +10763,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Votoms Finder](https://myanimelist.net/anime/8249)
 	- Publication Status: Finished Airing
 	- MAL ID: 8249
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Drama, Mecha, Military, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Waga Seishun no Arcadia](https://myanimelist.net/anime/2202)
 	- Publication Status: Finished Airing
@@ -11318,7 +11368,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [iDOLM@STER Xenoglossia](https://myanimelist.net/anime/1694)
 	- Publication Status: Finished Airing
 	- MAL ID: 1694
-	- Genre(s): Action, Comedy, Mecha, Sci-Fi
+	- Genre(s): Comedy, Mecha, Sci-Fi
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [xxxHOLiC](https://myanimelist.net/anime/861)
 	- Publication Status: Finished Airing
