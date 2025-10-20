@@ -4,7 +4,7 @@ title: MRC2025 43.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 12, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 19, 2025:
 
 (43.2) Read a manga that an active MRC staff member has rated 9 or higher.
 
@@ -659,6 +659,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 20310
 	- Genre(s): Seinen
+	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
+- [Maou-sama to Kekkon shitai](https://myanimelist.net/manga/115134)
+	- Publication Status: Finished
+	- MAL ID: 115134
+	- Genre(s): Comedy, Fantasy, Romance
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx)
 - [Mirai Nikki](https://myanimelist.net/manga/584)
 	- Publication Status: Finished
