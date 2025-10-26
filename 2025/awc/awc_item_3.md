@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of October 19, 2025:
+This list contains a list of anime eligible for the following challenge item, as of October 26, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1350,6 +1350,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 44511
 	- Genre(s): Action, Fantasy, Gore, Shounen, Urban Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Lestat-](https://myanimelist.net/profile/Lestat-)
+- [Chainsaw Man Movie: Reze-hen](https://myanimelist.net/anime/57555)
+	- Publication Status: Finished Airing
+	- MAL ID: 57555
+	- Genre(s): Action, Fantasy, Gore, Shounen, Urban Fantasy
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
 - [Chance Triangle Session](https://myanimelist.net/anime/2495)
 	- Publication Status: Finished Airing
 	- MAL ID: 2495
@@ -1539,7 +1544,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 59898
 	- Genre(s): Comedy, Gag Humor, Seinen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Clannad](https://myanimelist.net/anime/2167)
 	- Publication Status: Finished Airing
 	- MAL ID: 2167
@@ -1764,7 +1769,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 60543
 	- Genre(s): Action, Comedy, Shounen, Supernatural
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen](https://myanimelist.net/anime/34103)
 	- Publication Status: Finished Airing
 	- MAL ID: 34103
@@ -8015,6 +8020,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 51986
 	- Genre(s): Anthropomorphic, Comedy, Kids
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Puparia](https://myanimelist.net/anime/44059)
+	- Publication Status: Finished Airing
+	- MAL ID: 44059
+	- Genre(s): Avant Garde
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Quanzhi Gaoshou](https://myanimelist.net/anime/33926)
 	- Publication Status: Finished Airing
 	- MAL ID: 33926
@@ -9599,7 +9609,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 48171
 	- Genre(s): Drama, Supernatural
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Summer Wars](https://myanimelist.net/anime/5681)
 	- Publication Status: Finished Airing
 	- MAL ID: 5681
@@ -10430,6 +10440,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 40102
 	- Genre(s): Comedy, Ecchi, Fantasy
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+- [Tu Bian Yingxiong X](https://myanimelist.net/anime/53447)
+	- Publication Status: Finished Airing
+	- MAL ID: 53447
+	- Genre(s): Action, Super Power
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Twisted-Wonderland 1-shuunen Kinen PV](https://myanimelist.net/anime/48952)
 	- Publication Status: Finished Airing
 	- MAL ID: 48952
