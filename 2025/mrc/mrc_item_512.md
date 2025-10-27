@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 19, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 26, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -86,6 +86,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 21525
 	- Genre(s): Adventure, Fantasy, Romance, Shoujo
 	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [Kineta](https://myanimelist.net/profile/Kineta/favorites), [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/favorites), [Meedor](https://myanimelist.net/profile/Meedor/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites), [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [Akebi-chan no Sailor-fuku](https://myanimelist.net/manga/101851)
+	- Publication Status: Currently Publishing
+	- MAL ID: 101851
+	- Genre(s): School, Seinen, Slice of Life
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Akira](https://myanimelist.net/manga/664)
 	- Publication Status: Finished
 	- MAL ID: 664
@@ -180,7 +185,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 2
 	- Genre(s): Action, Adventure, Award Winning, Drama, Fantasy, Gore, Horror, Military, Psychological, Seinen
-	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Karinara](https://myanimelist.net/profile/Karinara/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [Ryzor](https://myanimelist.net/profile/Ryzor/favorites), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
+	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Karinara](https://myanimelist.net/profile/Karinara/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [Ryzor](https://myanimelist.net/profile/Ryzor/favorites), [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Beware the Ides of March](https://myanimelist.net/manga/184938)
 	- Publication Status: Finished
 	- MAL ID: 184938
@@ -220,7 +225,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 107931
 	- Genre(s): Award Winning, Drama, School, Seinen, Visual Arts
-	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites)
+	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Boku no Chikyuu wo Mamotte](https://myanimelist.net/manga/655)
 	- Publication Status: Finished
 	- MAL ID: 655
@@ -555,7 +560,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 70345
 	- Genre(s): Adult Cast, Comedy, Gag Humor, Seinen
-	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Aquarius](https://myanimelist.net/profile/Aquarius/favorites), [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites)
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Aquarius](https://myanimelist.net/profile/Aquarius/favorites), [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [KawaiiTendou](https://myanimelist.net/profile/KawaiiTendou/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Gunnm](https://myanimelist.net/manga/768)
 	- Publication Status: Finished
 	- MAL ID: 768
@@ -616,6 +621,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 36413
 	- Genre(s): Childcare, Comedy, Organized Crime, Seinen, Supernatural
 	- Staff Member(s): [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites)
+- [Hirayasumi](https://myanimelist.net/manga/137303)
+	- Publication Status: Currently Publishing
+	- MAL ID: 137303
+	- Genre(s): Seinen, Slice of Life
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Hirunaka no Ryuusei](https://myanimelist.net/manga/27231)
 	- Publication Status: Finished
 	- MAL ID: 27231
@@ -871,6 +881,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 16765
 	- Genre(s): Action, Award Winning, Historical, Military, Seinen
 	- Staff Member(s): [ACasualViewer](https://myanimelist.net/profile/ACasualViewer/favorites), [Dreik55](https://myanimelist.net/profile/Dreik55/favorites), [Jicetus](https://myanimelist.net/profile/Jicetus/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+- [Kininatteru Hito ga Otoko ja Nakatta](https://myanimelist.net/manga/155861)
+	- Publication Status: Currently Publishing
+	- MAL ID: 155861
+	- Genre(s): Girls Love, Music
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Kiss Me If You Can](https://myanimelist.net/manga/184890)
 	- Publication Status: Currently Publishing
 	- MAL ID: 184890
@@ -925,7 +940,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 122863
 	- Genre(s): Romance, Sci-Fi, Seinen, Workplace
-	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
+	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Kozure Ookami](https://myanimelist.net/manga/904)
 	- Publication Status: Finished
 	- MAL ID: 904
@@ -1411,6 +1426,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 101396
 	- Genre(s): Boys Love, Otaku Culture, School
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/favorites), [aquatar](https://myanimelist.net/profile/aquatar/favorites)
+- [Sayonara Eri](https://myanimelist.net/manga/145863)
+	- Publication Status: Finished
+	- MAL ID: 145863
+	- Genre(s): Drama, Shounen
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [Sayonara, Heron](https://myanimelist.net/manga/70273)
 	- Publication Status: Finished
 	- MAL ID: 70273
@@ -1635,7 +1655,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 154063
 	- Genre(s): Fantasy, Romance, Villainess
-	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [The S-Class Guide as Sweet as Honey](https://myanimelist.net/manga/183967)
 	- Publication Status: Finished
 	- MAL ID: 183967
@@ -1871,6 +1891,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 133591
 	- Genre(s): Drama, Fantasy, Seinen
 	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites), [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
+- [Yotsuba to!](https://myanimelist.net/manga/104)
+	- Publication Status: Currently Publishing
+	- MAL ID: 104
+	- Genre(s): Award Winning, Childcare, Comedy, Iyashikei, Slice of Life
+	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites)
 - [You Get Me Going](https://myanimelist.net/manga/184876)
 	- Publication Status: Finished
 	- MAL ID: 184876

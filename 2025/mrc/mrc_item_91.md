@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 19, 2025:
+This list contains a list of manga eligible for the following challenge item, as of October 26, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -6046,7 +6046,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Ecchi, Romance, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Hananoi-kun to Koi no Yamai](https://myanimelist.net/manga/111953)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 111953
 	- Genre(s): Award Winning, Romance, School, Shoujo
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -20631,7 +20631,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Ecchi, School, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Watashi no Gochisou wa, Kimi.](https://myanimelist.net/manga/160053)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 160053
 	- Genre(s): Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -20751,7 +20751,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Shoujo, Slice of Life, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Who Made Me a Princess](https://myanimelist.net/manga/121269)
-	- Publication Status: Finished
+	- Publication Status: Currently Publishing
 	- MAL ID: 121269
 	- Genre(s): Drama, Fantasy, Reincarnation
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -21501,7 +21501,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yuuan no Kanata](https://myanimelist.net/manga/163493)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 163493
 	- Genre(s): Horror, Suspense
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
