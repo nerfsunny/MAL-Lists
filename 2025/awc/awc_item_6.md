@@ -4,7 +4,7 @@ title: AWC2025 06
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of October 26, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 02, 2025:
 
 (6) Watch an anime completed by a 2025 AWC participant who has a [sign-up post](https://myanimelist.net/forum/?topicid=2196122) on page 1-3 (participant must have rated the anime a 9 or 10 and completed it before item is started)
 
@@ -914,7 +914,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 60334
 	- Genre(s): Drama, Historical
-	- AWC Participants: [Ariies_](https://myanimelist.net/profile/Ariies_), [mozgow](https://myanimelist.net/profile/mozgow), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101)
+	- AWC Participants: [Ariies_](https://myanimelist.net/profile/Ariies_), [mozgow](https://myanimelist.net/profile/mozgow), [perseii](https://myanimelist.net/profile/perseii), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101)
 - [Anne's Secret Diary](https://myanimelist.net/anime/41280)
 	- Publication Status: Finished Airing
 	- MAL ID: 41280
@@ -1069,7 +1069,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 57181
 	- Genre(s): Love Polygon, Romance, School, Shounen, Sports, Team Sports
-	- AWC Participants: [FarCritical](https://myanimelist.net/profile/FarCritical), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [mozgow](https://myanimelist.net/profile/mozgow), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- AWC Participants: [ChemistryG33K](https://myanimelist.net/profile/ChemistryG33K), [FarCritical](https://myanimelist.net/profile/FarCritical), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [mozgow](https://myanimelist.net/profile/mozgow), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Ao no Kanata no Four Rhythm](https://myanimelist.net/anime/28391)
 	- Publication Status: Finished Airing
 	- MAL ID: 28391
@@ -2380,6 +2380,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 40830
 	- Genre(s): Drama, Music
 	- AWC Participants: [KuriPuri](https://myanimelist.net/profile/KuriPuri)
+- [Bokura no Yoake](https://myanimelist.net/anime/51307)
+	- Publication Status: Finished Airing
+	- MAL ID: 51307
+	- Genre(s): Drama, Sci-Fi, Seinen
+	- AWC Participants: [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Bokura wa Minna Kawai-sou](https://myanimelist.net/anime/21405)
 	- Publication Status: Finished Airing
 	- MAL ID: 21405
@@ -2779,7 +2784,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 57555
 	- Genre(s): Action, Fantasy, Gore, Shounen, Urban Fantasy
-	- AWC Participants: [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [scrouge](https://myanimelist.net/profile/scrouge), [tbeans10](https://myanimelist.net/profile/tbeans10)
+	- AWC Participants: [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san), [Kojiamko](https://myanimelist.net/profile/Kojiamko), [lossetari](https://myanimelist.net/profile/lossetari), [perseii](https://myanimelist.net/profile/perseii), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [scrouge](https://myanimelist.net/profile/scrouge), [tbeans10](https://myanimelist.net/profile/tbeans10), [TenObok](https://myanimelist.net/profile/TenObok), [xx_Loli_loVer_xx](https://myanimelist.net/profile/xx_Loli_loVer_xx)
 - [Chainsaw Man Recap](https://myanimelist.net/anime/62352)
 	- Publication Status: Finished Airing
 	- MAL ID: 62352
@@ -2864,7 +2869,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 10800
 	- Genre(s): Drama, Josei, Love Polygon, School, Sports, Strategy Game
-	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bunille](https://myanimelist.net/profile/Bunille), [Clover](https://myanimelist.net/profile/Clover), [Edd601](https://myanimelist.net/profile/Edd601), [eirian_j](https://myanimelist.net/profile/eirian_j), [FarCritical](https://myanimelist.net/profile/FarCritical), [hinagatari](https://myanimelist.net/profile/hinagatari), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Jokobo](https://myanimelist.net/profile/Jokobo), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Karinara](https://myanimelist.net/profile/Karinara), [KuriPuri](https://myanimelist.net/profile/KuriPuri), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Shelby-kun](https://myanimelist.net/profile/Shelby-kun), [SheyCroix](https://myanimelist.net/profile/SheyCroix), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [tbeans10](https://myanimelist.net/profile/tbeans10), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki135](https://myanimelist.net/profile/Yuki135), [zhabnica](https://myanimelist.net/profile/zhabnica)
+	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bunille](https://myanimelist.net/profile/Bunille), [Clover](https://myanimelist.net/profile/Clover), [Edd601](https://myanimelist.net/profile/Edd601), [eirian_j](https://myanimelist.net/profile/eirian_j), [FarCritical](https://myanimelist.net/profile/FarCritical), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Jokobo](https://myanimelist.net/profile/Jokobo), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Karinara](https://myanimelist.net/profile/Karinara), [KuriPuri](https://myanimelist.net/profile/KuriPuri), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Shelby-kun](https://myanimelist.net/profile/Shelby-kun), [SheyCroix](https://myanimelist.net/profile/SheyCroix), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [tbeans10](https://myanimelist.net/profile/tbeans10), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki135](https://myanimelist.net/profile/Yuki135), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Chihayafuru 2](https://myanimelist.net/anime/14397)
 	- Publication Status: Finished Airing
 	- MAL ID: 14397
@@ -3080,11 +3085,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 1471
 	- Genre(s): Action, Comedy, Mystery, Shounen
 	- AWC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae)
-- [City The Animation](https://myanimelist.net/anime/59898)
-	- Publication Status: Finished Airing
-	- MAL ID: 59898
-	- Genre(s): Comedy, Gag Humor, Seinen
-	- AWC Participants: [mozgow](https://myanimelist.net/profile/mozgow)
 - [Clannad](https://myanimelist.net/anime/2167)
 	- Publication Status: Finished Airing
 	- MAL ID: 2167
@@ -3218,12 +3218,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Code Geass: Hangyaku no Lelouch R2 Special Edition - Zero Requiem](https://myanimelist.net/anime/6768)
 	- Publication Status: Finished Airing
 	- MAL ID: 6768
-	- Genre(s): Mecha, Military, Super Power
+	- Genre(s): Mecha, Military, Sci-Fi, Super Power
 	- AWC Participants: [Karinara](https://myanimelist.net/profile/Karinara), [KuriPuri](https://myanimelist.net/profile/KuriPuri)
 - [Code Geass: Hangyaku no Lelouch Special Edition - Black Rebellion](https://myanimelist.net/anime/4596)
 	- Publication Status: Finished Airing
 	- MAL ID: 4596
-	- Genre(s): Mecha, Military, School, Super Power
+	- Genre(s): Mecha, Military, School, Sci-Fi, Super Power
 	- AWC Participants: [KuriPuri](https://myanimelist.net/profile/KuriPuri)
 - [Code:Breaker](https://myanimelist.net/anime/11703)
 	- Publication Status: Finished Airing
@@ -4094,7 +4094,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 52701
 	- Genre(s): Adventure, Comedy, Fantasy, Gourmet, Seinen
-	- AWC Participants: [2Trace-Rail9](https://myanimelist.net/profile/2Trace-Rail9), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bri](https://myanimelist.net/profile/Bri), [Canaan](https://myanimelist.net/profile/Canaan), [cornflakegod](https://myanimelist.net/profile/cornflakegod), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [CsillaLoli](https://myanimelist.net/profile/CsillaLoli), [Edd601](https://myanimelist.net/profile/Edd601), [FarCritical](https://myanimelist.net/profile/FarCritical), [fraideii](https://myanimelist.net/profile/fraideii), [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [is_peque](https://myanimelist.net/profile/is_peque), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Karinara](https://myanimelist.net/profile/Karinara), [Kenzoku67](https://myanimelist.net/profile/Kenzoku67), [Lestat-](https://myanimelist.net/profile/Lestat-), [lifeiscrazy](https://myanimelist.net/profile/lifeiscrazy), [LyLord](https://myanimelist.net/profile/LyLord), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Marzipan-Goose](https://myanimelist.net/profile/Marzipan-Goose), [mozgow](https://myanimelist.net/profile/mozgow), [Noyezu](https://myanimelist.net/profile/Noyezu), [perseii](https://myanimelist.net/profile/perseii), [r1r1](https://myanimelist.net/profile/r1r1), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [TenObok](https://myanimelist.net/profile/TenObok), [thriwien](https://myanimelist.net/profile/thriwien), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- AWC Participants: [2Trace-Rail9](https://myanimelist.net/profile/2Trace-Rail9), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bri](https://myanimelist.net/profile/Bri), [Canaan](https://myanimelist.net/profile/Canaan), [cornflakegod](https://myanimelist.net/profile/cornflakegod), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [CsillaLoli](https://myanimelist.net/profile/CsillaLoli), [Edd601](https://myanimelist.net/profile/Edd601), [EnderVsqz626](https://myanimelist.net/profile/EnderVsqz626), [FarCritical](https://myanimelist.net/profile/FarCritical), [fraideii](https://myanimelist.net/profile/fraideii), [Hiyajo-san](https://myanimelist.net/profile/Hiyajo-san), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [is_peque](https://myanimelist.net/profile/is_peque), [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [Karinara](https://myanimelist.net/profile/Karinara), [Kenzoku67](https://myanimelist.net/profile/Kenzoku67), [Lestat-](https://myanimelist.net/profile/Lestat-), [lifeiscrazy](https://myanimelist.net/profile/lifeiscrazy), [LyLord](https://myanimelist.net/profile/LyLord), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Marzipan-Goose](https://myanimelist.net/profile/Marzipan-Goose), [mozgow](https://myanimelist.net/profile/mozgow), [Noyezu](https://myanimelist.net/profile/Noyezu), [perseii](https://myanimelist.net/profile/perseii), [r1r1](https://myanimelist.net/profile/r1r1), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [TenObok](https://myanimelist.net/profile/TenObok), [thriwien](https://myanimelist.net/profile/thriwien), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka](https://myanimelist.net/anime/28121)
 	- Publication Status: Finished Airing
 	- MAL ID: 28121
@@ -4818,12 +4818,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Full Metal Panic! Invisible Victory](https://myanimelist.net/anime/31931)
 	- Publication Status: Finished Airing
 	- MAL ID: 31931
-	- Genre(s): Mecha, Military
+	- Genre(s): Mecha, Military, Sci-Fi
 	- AWC Participants: [FarCritical](https://myanimelist.net/profile/FarCritical)
 - [Full Metal Panic! The Second Raid](https://myanimelist.net/anime/73)
 	- Publication Status: Finished Airing
 	- MAL ID: 73
-	- Genre(s): Mecha, Military
+	- Genre(s): Mecha, Military, Sci-Fi
 	- AWC Participants: [mozgow](https://myanimelist.net/profile/mozgow), [nerfsunny](https://myanimelist.net/profile/nerfsunny)
 - [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72)
 	- Publication Status: Finished Airing
@@ -5689,7 +5689,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 1859
 	- Genre(s): Combat Sports, Gore, Shounen, Sports
-	- AWC Participants: [Karinara](https://myanimelist.net/profile/Karinara)
+	- AWC Participants: [cornflakegod](https://myanimelist.net/profile/cornflakegod), [Karinara](https://myanimelist.net/profile/Karinara)
+- [Grappler Baki (TV)](https://myanimelist.net/anime/287)
+	- Publication Status: Finished Airing
+	- MAL ID: 287
+	- Genre(s): Combat Sports, Gore, Shounen, Sports
+	- AWC Participants: [cornflakegod](https://myanimelist.net/profile/cornflakegod)
 - [Gravitation](https://myanimelist.net/anime/243)
 	- Publication Status: Finished Airing
 	- MAL ID: 243
@@ -6113,7 +6118,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 - [Hakubo](https://myanimelist.net/anime/34972)
 	- Publication Status: Finished Airing
 	- MAL ID: 34972
-	- Genre(s): Romance, School
+	- Genre(s): Drama, Music, Romance, School, Visual Arts
 	- AWC Participants: [YayakoChii](https://myanimelist.net/profile/YayakoChii)
 - [Hakugin](https://myanimelist.net/anime/42078)
 	- Publication Status: Finished Airing
@@ -7079,7 +7084,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 42429
 	- Genre(s): Fantasy, Isekai, Reincarnation
-	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [lifeiscrazy](https://myanimelist.net/profile/lifeiscrazy), [Roan](https://myanimelist.net/profile/Roan), [SheyCroix](https://myanimelist.net/profile/SheyCroix), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [KatjieKat](https://myanimelist.net/profile/KatjieKat), [lifeiscrazy](https://myanimelist.net/profile/lifeiscrazy), [Roan](https://myanimelist.net/profile/Roan), [SheyCroix](https://myanimelist.net/profile/SheyCroix), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA](https://myanimelist.net/anime/40841)
 	- Publication Status: Finished Airing
 	- MAL ID: 40841
@@ -10164,7 +10169,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 58514
 	- Genre(s): Drama, Historical, Medical, Mystery
-	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Canaan](https://myanimelist.net/profile/Canaan), [Caramel-san](https://myanimelist.net/profile/Caramel-san), [FarCritical](https://myanimelist.net/profile/FarCritical), [Grizz5546](https://myanimelist.net/profile/Grizz5546), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [Jhiday](https://myanimelist.net/profile/Jhiday), [Jokobo](https://myanimelist.net/profile/Jokobo), [jul42](https://myanimelist.net/profile/jul42), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [myuniquename](https://myanimelist.net/profile/myuniquename), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [ohpishhposh](https://myanimelist.net/profile/ohpishhposh), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [sandro88](https://myanimelist.net/profile/sandro88), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [survivor_girl](https://myanimelist.net/profile/survivor_girl), [TenObok](https://myanimelist.net/profile/TenObok), [thriwien](https://myanimelist.net/profile/thriwien), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Ariies_](https://myanimelist.net/profile/Ariies_), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Canaan](https://myanimelist.net/profile/Canaan), [Caramel-san](https://myanimelist.net/profile/Caramel-san), [FarCritical](https://myanimelist.net/profile/FarCritical), [Grizz5546](https://myanimelist.net/profile/Grizz5546), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [Jhiday](https://myanimelist.net/profile/Jhiday), [Jokobo](https://myanimelist.net/profile/Jokobo), [jul42](https://myanimelist.net/profile/jul42), [Kaylee](https://myanimelist.net/profile/Kaylee), [mozgow](https://myanimelist.net/profile/mozgow), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [myuniquename](https://myanimelist.net/profile/myuniquename), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [ohpishhposh](https://myanimelist.net/profile/ohpishhposh), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [sandro88](https://myanimelist.net/profile/sandro88), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [survivor_girl](https://myanimelist.net/profile/survivor_girl), [TenObok](https://myanimelist.net/profile/TenObok), [thriwien](https://myanimelist.net/profile/thriwien), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon), [xx_Loli_loVer_xx](https://myanimelist.net/profile/xx_Loli_loVer_xx), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Kuuchuu Buranko](https://myanimelist.net/anime/6774)
 	- Publication Status: Finished Airing
 	- MAL ID: 6774
@@ -12755,6 +12760,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- MAL ID: 55823
 	- Genre(s): Iyashikei, Mythology, Shoujo, Slice of Life, Supernatural
 	- AWC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae), [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Clover](https://myanimelist.net/profile/Clover), [goncix3000](https://myanimelist.net/profile/goncix3000), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial)
+- [Natsume Yuujinchou Shichi: Nobashita Te wa](https://myanimelist.net/anime/60302)
+	- Publication Status: Finished Airing
+	- MAL ID: 60302
+	- Genre(s): Iyashikei, Mythology, Shoujo, Slice of Life, Supernatural
+	- AWC Participants: [goncix3000](https://myanimelist.net/profile/goncix3000)
 - [Natsume Yuujinchou: Hitoyoshi Kuma de no Yasashii Jikan](https://myanimelist.net/anime/48953)
 	- Publication Status: Finished Airing
 	- MAL ID: 48953
@@ -13694,7 +13704,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 466
 	- Genre(s): Action, Adventure, Fantasy, Shounen
-	- AWC Participants: [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+	- AWC Participants: [cornflakegod](https://myanimelist.net/profile/cornflakegod), [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
 - [One Piece: Umi no Heso no Daibouken-hen](https://myanimelist.net/anime/1094)
 	- Publication Status: Finished Airing
 	- MAL ID: 1094
@@ -15004,7 +15014,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 54857
 	- Genre(s): Drama, Fantasy, Isekai, Psychological, Suspense, Time Travel
-	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Jokobo](https://myanimelist.net/profile/Jokobo), [ohpishhposh](https://myanimelist.net/profile/ohpishhposh), [Sam565](https://myanimelist.net/profile/Sam565), [TenObok](https://myanimelist.net/profile/TenObok), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon)
+	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Jokobo](https://myanimelist.net/profile/Jokobo), [ohpishhposh](https://myanimelist.net/profile/ohpishhposh), [Sam565](https://myanimelist.net/profile/Sam565), [TenObok](https://myanimelist.net/profile/TenObok), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon), [xx_Loli_loVer_xx](https://myanimelist.net/profile/xx_Loli_loVer_xx)
 - [Re:cycle of the Penguindrum](https://myanimelist.net/anime/48624)
 	- Publication Status: Finished Airing
 	- MAL ID: 48624
@@ -15414,7 +15424,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 38249
 	- Genre(s): Comedy, Gag Humor, School, Shounen, Super Power
-	- AWC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Noyezu](https://myanimelist.net/profile/Noyezu), [Nymeew](https://myanimelist.net/profile/Nymeew), [Roan](https://myanimelist.net/profile/Roan), [Sam565](https://myanimelist.net/profile/Sam565), [Sol](https://myanimelist.net/profile/Sol), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- AWC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Clover](https://myanimelist.net/profile/Clover), [Jaikeis](https://myanimelist.net/profile/Jaikeis), [Noyezu](https://myanimelist.net/profile/Noyezu), [Nymeew](https://myanimelist.net/profile/Nymeew), [Roan](https://myanimelist.net/profile/Roan), [Sam565](https://myanimelist.net/profile/Sam565), [Sol](https://myanimelist.net/profile/Sol), [SunflowerDaisho](https://myanimelist.net/profile/SunflowerDaisho), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Saiki Kusuo no Ψ-nan: Ψ-shidou-hen](https://myanimelist.net/anime/40542)
 	- Publication Status: Finished Airing
 	- MAL ID: 40542
@@ -17529,7 +17539,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 60489
 	- Genre(s): Drama, Psychological, Sci-Fi, Shounen, Time Travel
-	- AWC Participants: [Bri](https://myanimelist.net/profile/Bri), [EnderVsqz626](https://myanimelist.net/profile/EnderVsqz626), [Franchowo](https://myanimelist.net/profile/Franchowo), [Jhiday](https://myanimelist.net/profile/Jhiday), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Jokobo](https://myanimelist.net/profile/Jokobo), [mozgow](https://myanimelist.net/profile/mozgow), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [Nymeew](https://myanimelist.net/profile/Nymeew), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sol](https://myanimelist.net/profile/Sol), [TenObok](https://myanimelist.net/profile/TenObok), [zhabnica](https://myanimelist.net/profile/zhabnica)
+	- AWC Participants: [Bri](https://myanimelist.net/profile/Bri), [EnderVsqz626](https://myanimelist.net/profile/EnderVsqz626), [Franchowo](https://myanimelist.net/profile/Franchowo), [is_peque](https://myanimelist.net/profile/is_peque), [Jhiday](https://myanimelist.net/profile/Jhiday), [JmePenseBonne](https://myanimelist.net/profile/JmePenseBonne), [Jokobo](https://myanimelist.net/profile/Jokobo), [mozgow](https://myanimelist.net/profile/mozgow), [Myelin_sr](https://myanimelist.net/profile/Myelin_sr), [Nymeew](https://myanimelist.net/profile/Nymeew), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sol](https://myanimelist.net/profile/Sol), [TenObok](https://myanimelist.net/profile/TenObok), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Takt Op. Destiny](https://myanimelist.net/anime/48556)
 	- Publication Status: Finished Airing
 	- MAL ID: 48556
@@ -17989,7 +17999,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 885
 	- Genre(s): Avant Garde, Drama, Fantasy
-	- AWC Participants: [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [jul42](https://myanimelist.net/profile/jul42), [mozgow](https://myanimelist.net/profile/mozgow), [scrouge](https://myanimelist.net/profile/scrouge), [Sol](https://myanimelist.net/profile/Sol), [Yuki-](https://myanimelist.net/profile/Yuki-)
+	- AWC Participants: [JTtheLlama](https://myanimelist.net/profile/JTtheLlama), [jul42](https://myanimelist.net/profile/jul42), [scrouge](https://myanimelist.net/profile/scrouge), [Sol](https://myanimelist.net/profile/Sol), [Yuki-](https://myanimelist.net/profile/Yuki-)
 - [Tensura Nikki: Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/41488)
 	- Publication Status: Finished Airing
 	- MAL ID: 41488
@@ -18834,7 +18844,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 53447
 	- Genre(s): Action, Super Power
-	- AWC Participants: [MEW2908](https://myanimelist.net/profile/MEW2908), [mozgow](https://myanimelist.net/profile/mozgow), [Sam565](https://myanimelist.net/profile/Sam565), [TenObok](https://myanimelist.net/profile/TenObok), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+	- AWC Participants: [MEW2908](https://myanimelist.net/profile/MEW2908), [mozgow](https://myanimelist.net/profile/mozgow), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [TenObok](https://myanimelist.net/profile/TenObok), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
 - [Tuanzimen de Shiming](https://myanimelist.net/anime/51936)
 	- Publication Status: Finished Airing
 	- MAL ID: 51936
@@ -19749,7 +19759,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 14813
 	- Genre(s): Comedy, Love Polygon, Romance, School
-	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [cyanbin](https://myanimelist.net/profile/cyanbin), [EnderVsqz626](https://myanimelist.net/profile/EnderVsqz626), [Karinara](https://myanimelist.net/profile/Karinara), [KuriPuri](https://myanimelist.net/profile/KuriPuri), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [sandro88](https://myanimelist.net/profile/sandro88), [Sol](https://myanimelist.net/profile/Sol), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki-](https://myanimelist.net/profile/Yuki-)
+	- AWC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [cyanbin](https://myanimelist.net/profile/cyanbin), [EnderVsqz626](https://myanimelist.net/profile/EnderVsqz626), [Karinara](https://myanimelist.net/profile/Karinara), [KuriPuri](https://myanimelist.net/profile/KuriPuri), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [sandro88](https://myanimelist.net/profile/sandro88), [Sol](https://myanimelist.net/profile/Sol), [ToumaTachibana](https://myanimelist.net/profile/ToumaTachibana), [YayakoChii](https://myanimelist.net/profile/YayakoChii), [Yuki-](https://myanimelist.net/profile/Yuki-)
 - [Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan](https://myanimelist.net/anime/39547)
 	- Publication Status: Finished Airing
 	- MAL ID: 39547
@@ -19814,7 +19824,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC P
 	- Publication Status: Finished Airing
 	- MAL ID: 37779
 	- Genre(s): Mystery, Psychological, Shounen, Survival, Suspense
-	- AWC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Ariies_](https://myanimelist.net/profile/Ariies_), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bunille](https://myanimelist.net/profile/Bunille), [CutieZia](https://myanimelist.net/profile/CutieZia), [FarCritical](https://myanimelist.net/profile/FarCritical), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [FeezyWheezy](https://myanimelist.net/profile/FeezyWheezy), [Franchowo](https://myanimelist.net/profile/Franchowo), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [Kemmoi](https://myanimelist.net/profile/Kemmoi), [kiitsune_](https://myanimelist.net/profile/kiitsune_), [KrypRem](https://myanimelist.net/profile/KrypRem), [MaryJoP10](https://myanimelist.net/profile/MaryJoP10), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [Noyezu](https://myanimelist.net/profile/Noyezu), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nymeew](https://myanimelist.net/profile/Nymeew), [Roan](https://myanimelist.net/profile/Roan), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Sam565](https://myanimelist.net/profile/Sam565), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Shelby-kun](https://myanimelist.net/profile/Shelby-kun), [tbeans10](https://myanimelist.net/profile/tbeans10), [TenObok](https://myanimelist.net/profile/TenObok), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101), [Ykoz](https://myanimelist.net/profile/Ykoz), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- AWC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Ariies_](https://myanimelist.net/profile/Ariies_), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Bunille](https://myanimelist.net/profile/Bunille), [CutieZia](https://myanimelist.net/profile/CutieZia), [FarCritical](https://myanimelist.net/profile/FarCritical), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [FeezyWheezy](https://myanimelist.net/profile/FeezyWheezy), [Franchowo](https://myanimelist.net/profile/Franchowo), [IHaveNoLifeYada](https://myanimelist.net/profile/IHaveNoLifeYada), [Kemmoi](https://myanimelist.net/profile/Kemmoi), [kiitsune_](https://myanimelist.net/profile/kiitsune_), [KrypRem](https://myanimelist.net/profile/KrypRem), [MaryJoP10](https://myanimelist.net/profile/MaryJoP10), [Niveen_Sleem](https://myanimelist.net/profile/Niveen_Sleem), [Noyezu](https://myanimelist.net/profile/Noyezu), [nozomemee](https://myanimelist.net/profile/nozomemee), [Nymeew](https://myanimelist.net/profile/Nymeew), [Roan](https://myanimelist.net/profile/Roan), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Sam565](https://myanimelist.net/profile/Sam565), [Samus](https://myanimelist.net/profile/Samus), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Shelby-kun](https://myanimelist.net/profile/Shelby-kun), [tbeans10](https://myanimelist.net/profile/tbeans10), [TenObok](https://myanimelist.net/profile/TenObok), [TieboRiri](https://myanimelist.net/profile/TieboRiri), [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon), [UniqueOtaku101](https://myanimelist.net/profile/UniqueOtaku101), [Ykoz](https://myanimelist.net/profile/Ykoz), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Yakusoku no Neverland 2nd Season](https://myanimelist.net/anime/39617)
 	- Publication Status: Finished Airing
 	- MAL ID: 39617

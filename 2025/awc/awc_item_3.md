@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of October 26, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 02, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -2513,12 +2513,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Full Metal Panic! Invisible Victory](https://myanimelist.net/anime/31931)
 	- Publication Status: Finished Airing
 	- MAL ID: 31931
-	- Genre(s): Mecha, Military
+	- Genre(s): Mecha, Military, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic! The Second Raid](https://myanimelist.net/anime/73)
 	- Publication Status: Finished Airing
 	- MAL ID: 73
-	- Genre(s): Mecha, Military
+	- Genre(s): Mecha, Military, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72)
 	- Publication Status: Finished Airing
@@ -8434,7 +8434,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 60285
 	- Genre(s): Action, Adult Cast, Comedy, Organized Crime, Shounen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Sakamoto desu ga?](https://myanimelist.net/anime/32542)
 	- Publication Status: Finished Airing
 	- MAL ID: 32542

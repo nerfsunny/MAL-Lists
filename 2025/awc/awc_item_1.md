@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of October 26, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 02, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -129,7 +129,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Ashita no Arika](https://myanimelist.net/anime/62401)
 	- Publication Status: Finished Airing
 	- MAL ID: 62401
-	- Genre(s): Adult Cast, Supernatural, Time Travel, Workplace
+	- Genre(s): Adult Cast, Time Travel, Workplace
 	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/statistics/anime-scores)
 - [Atarashii Joushi wa Do Tennen](https://myanimelist.net/anime/55310)
 	- Publication Status: Finished Airing
@@ -554,7 +554,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Hakubo](https://myanimelist.net/anime/34972)
 	- Publication Status: Finished Airing
 	- MAL ID: 34972
-	- Genre(s): Romance, School
+	- Genre(s): Drama, Music, Romance, School, Visual Arts
 	- Staff Member(s): [Syureria](https://myanimelist.net/profile/Syureria/statistics/anime-scores)
 - [Hakuouki Movie 1: Kyoto Ranbu](https://myanimelist.net/anime/13117)
 	- Publication Status: Finished Airing
@@ -805,7 +805,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 60131
 	- Genre(s): Comedy, Music, Organized Crime
-	- Staff Member(s): [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/statistics/anime-scores)
+	- Staff Member(s): [LittleKitty24](https://myanimelist.net/profile/LittleKitty24/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
 - [Karasu wa Aruji wo Erabanai](https://myanimelist.net/anime/56980)
 	- Publication Status: Finished Airing
 	- MAL ID: 56980
@@ -1491,6 +1491,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 34494
 	- Genre(s): Adult Cast, Slice of Life, Workplace
 	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
+- [Sakurada Reset](https://myanimelist.net/anime/34102)
+	- Publication Status: Finished Airing
+	- MAL ID: 34102
+	- Genre(s): Drama, Mystery, School, Super Power, Time Travel
+	- Staff Member(s): [Nioxys](https://myanimelist.net/profile/Nioxys/statistics/anime-scores)
 - [Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru](https://myanimelist.net/anime/30187)
 	- Publication Status: Finished Airing
 	- MAL ID: 30187
@@ -2045,7 +2050,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 59421
 	- Genre(s): Drama, Josei, Romance
-	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores), [rlavus](https://myanimelist.net/profile/rlavus/statistics/anime-scores)
+	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/statistics/anime-scores)
 - [number24](https://myanimelist.net/anime/39583)
 	- Publication Status: Finished Airing
 	- MAL ID: 39583
