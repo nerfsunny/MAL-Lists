@@ -4,7 +4,7 @@ title: MRC2025 30.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 26, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 02, 2025:
 
 (30.1) Read a manga another MRC participant rated 9 or higher.
 
@@ -429,7 +429,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 125430
 	- Genre(s): Drama, Mystery, Psychological, Seinen
-	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Franchowo](https://myanimelist.net/profile/Franchowo), [hanami_27](https://myanimelist.net/profile/hanami_27), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [RooftopRat](https://myanimelist.net/profile/RooftopRat)
+	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Drackx](https://myanimelist.net/profile/Drackx), [Franchowo](https://myanimelist.net/profile/Franchowo), [hanami_27](https://myanimelist.net/profile/hanami_27), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [RooftopRat](https://myanimelist.net/profile/RooftopRat)
 - [Adam no Rokkotsu](https://myanimelist.net/manga/120577)
 	- Publication Status: Finished
 	- MAL ID: 120577
@@ -515,6 +515,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 23029
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [RenxKentaro](https://myanimelist.net/profile/RenxKentaro)
+- [Ai no Sanka](https://myanimelist.net/manga/87037)
+	- Publication Status: Finished
+	- MAL ID: 87037
+	- Genre(s): Historical, Romance, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ai, Sei](https://myanimelist.net/manga/154446)
 	- Publication Status: Finished
 	- MAL ID: 154446
@@ -565,6 +570,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 74
 	- Genre(s): Action, Award Winning, Ecchi, School, Shounen, Supernatural
 	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo), [Piruri](https://myanimelist.net/profile/Piruri)
+- [Air Koi](https://myanimelist.net/manga/21741)
+	- Publication Status: Finished
+	- MAL ID: 21741
+	- Genre(s): Drama, Romance, School, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Aishite Nai, kamo.](https://myanimelist.net/manga/99536)
 	- Publication Status: Finished
 	- MAL ID: 99536
@@ -795,11 +805,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 94154
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Amano Megumi wa Sukidarake!](https://myanimelist.net/manga/95206)
+	- Publication Status: Finished
+	- MAL ID: 95206
+	- Genre(s): Comedy, Ecchi, Love Status Quo, Romance, School, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ame to Hare no Kaze no Tabi](https://myanimelist.net/manga/100782)
 	- Publication Status: Finished
 	- MAL ID: 100782
 	- Genre(s): Adventure, Fantasy, Seinen
-	- MRC Participants: [TheEdgelord](https://myanimelist.net/profile/TheEdgelord)
+	- MRC Participants: [nightjasmine](https://myanimelist.net/profile/nightjasmine), [TheEdgelord](https://myanimelist.net/profile/TheEdgelord)
 - [Amefurashi](https://myanimelist.net/manga/102896)
 	- Publication Status: Finished
 	- MAL ID: 102896
@@ -854,7 +869,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 838
 	- Genre(s): Action, Comedy, Delinquents, Martial Arts, Romance, School, Shounen
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Nysse](https://myanimelist.net/profile/Nysse), [Piruri](https://myanimelist.net/profile/Piruri), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [Snakering](https://myanimelist.net/profile/Snakering), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Nysse](https://myanimelist.net/profile/Nysse), [Piruri](https://myanimelist.net/profile/Piruri), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [Snakering](https://myanimelist.net/profile/Snakering), [yube](https://myanimelist.net/profile/yube), [Zixyph](https://myanimelist.net/profile/Zixyph)
 - [Angel Diary](https://myanimelist.net/manga/778)
 	- Publication Status: Finished
 	- MAL ID: 778
@@ -870,6 +885,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 80
 	- Genre(s): Action, Comedy, Drama, Sci-Fi, Shounen, Strategy Game
 	- MRC Participants: [Robertson1](https://myanimelist.net/profile/Robertson1)
+- [Angelmois Please](https://myanimelist.net/manga/27167)
+	- Publication Status: Finished
+	- MAL ID: 27167
+	- Genre(s): Comedy, Fantasy, Shounen, Supernatural
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ani ga Nokoshita Koi no Yukue](https://myanimelist.net/manga/160927)
 	- Publication Status: Finished
 	- MAL ID: 160927
@@ -959,7 +979,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 184978
 	- Genre(s): Fantasy, Romance
-	- MRC Participants: [gingermoon](https://myanimelist.net/profile/gingermoon), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey)
+	- MRC Participants: [gingermoon](https://myanimelist.net/profile/gingermoon)
 - [Ant](https://myanimelist.net/manga/149629)
 	- Publication Status: Finished
 	- MAL ID: 149629
@@ -994,7 +1014,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 128694
 	- Genre(s): Romance, School, Shounen, Sports, Team Sports
-	- MRC Participants: [crazybob1215](https://myanimelist.net/profile/crazybob1215), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- MRC Participants: [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Drackx](https://myanimelist.net/profile/Drackx), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Ao no Rettou](https://myanimelist.net/manga/99958)
 	- Publication Status: Finished
 	- MAL ID: 99958
@@ -2394,7 +2414,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 10179
 	- Genre(s): Seinen, Slice of Life
-	- MRC Participants: [Jehan5000](https://myanimelist.net/profile/Jehan5000), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Syesta](https://myanimelist.net/profile/Syesta)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Jehan5000](https://myanimelist.net/profile/Jehan5000), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Syesta](https://myanimelist.net/profile/Syesta)
 - [Chichi to Hige-Gorilla to Watashi](https://myanimelist.net/manga/84983)
 	- Publication Status: Finished
 	- MAL ID: 84983
@@ -2445,6 +2465,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 46282
 	- Genre(s): Comedy, Drama, Romance, Slice of Life
 	- MRC Participants: [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [HapHazrD](https://myanimelist.net/profile/HapHazrD), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Nysse](https://myanimelist.net/profile/Nysse), [Piruri](https://myanimelist.net/profile/Piruri), [rahillimitci](https://myanimelist.net/profile/rahillimitci), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Schlopsi](https://myanimelist.net/profile/Schlopsi), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Chiki Chiki Banana](https://myanimelist.net/manga/7287)
+	- Publication Status: Finished
+	- MAL ID: 7287
+	- Genre(s): Romance, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Chikuhei no Hanayome](https://myanimelist.net/manga/130928)
 	- Publication Status: Finished
 	- MAL ID: 130928
@@ -3019,7 +3044,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 3986
 	- Genre(s): Action, Gore, High Stakes Game, Sci-Fi, Shounen, Supernatural, Survival, Suspense
-	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [claricespectro](https://myanimelist.net/profile/claricespectro), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [Dhameer](https://myanimelist.net/profile/Dhameer), [hinagatari](https://myanimelist.net/profile/hinagatari), [inazumera](https://myanimelist.net/profile/inazumera), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [Phigamm](https://myanimelist.net/profile/Phigamm), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [somnina](https://myanimelist.net/profile/somnina), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [yu6](https://myanimelist.net/profile/yu6)
+	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [claricespectro](https://myanimelist.net/profile/claricespectro), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [Dhameer](https://myanimelist.net/profile/Dhameer), [Drackx](https://myanimelist.net/profile/Drackx), [hinagatari](https://myanimelist.net/profile/hinagatari), [inazumera](https://myanimelist.net/profile/inazumera), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [Phigamm](https://myanimelist.net/profile/Phigamm), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [somnina](https://myanimelist.net/profile/somnina), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [yu6](https://myanimelist.net/profile/yu6)
 - [Dear](https://myanimelist.net/manga/3485)
 	- Publication Status: Finished
 	- MAL ID: 3485
@@ -3044,7 +3069,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 21
 	- Genre(s): Psychological, Shounen, Supernatural, Suspense
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Bookworm86](https://myanimelist.net/profile/Bookworm86), [Catexia](https://myanimelist.net/profile/Catexia), [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [claricespectro](https://myanimelist.net/profile/claricespectro), [CryCamellia](https://myanimelist.net/profile/CryCamellia), [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [dvdung](https://myanimelist.net/profile/dvdung), [eerie_descents](https://myanimelist.net/profile/eerie_descents), [fraideii](https://myanimelist.net/profile/fraideii), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [inazumera](https://myanimelist.net/profile/inazumera), [ixaa](https://myanimelist.net/profile/ixaa), [jeffu](https://myanimelist.net/profile/jeffu), [KatjieKat](https://myanimelist.net/profile/KatjieKat), [kawaii1324](https://myanimelist.net/profile/kawaii1324), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Liaeves](https://myanimelist.net/profile/Liaeves), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [menheru](https://myanimelist.net/profile/menheru), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [Nysse](https://myanimelist.net/profile/Nysse), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [ReidN](https://myanimelist.net/profile/ReidN), [Rinarin](https://myanimelist.net/profile/Rinarin), [Ryloshawk](https://myanimelist.net/profile/Ryloshawk), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Salyee](https://myanimelist.net/profile/Salyee), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [sofiekujo33](https://myanimelist.net/profile/sofiekujo33), [symeon_a](https://myanimelist.net/profile/symeon_a), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [Wakasagihime](https://myanimelist.net/profile/Wakasagihime), [Walrsu](https://myanimelist.net/profile/Walrsu), [yu6](https://myanimelist.net/profile/yu6)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Bookworm86](https://myanimelist.net/profile/Bookworm86), [Catexia](https://myanimelist.net/profile/Catexia), [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [claricespectro](https://myanimelist.net/profile/claricespectro), [CryCamellia](https://myanimelist.net/profile/CryCamellia), [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [dvdung](https://myanimelist.net/profile/dvdung), [eerie_descents](https://myanimelist.net/profile/eerie_descents), [fraideii](https://myanimelist.net/profile/fraideii), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [inazumera](https://myanimelist.net/profile/inazumera), [ixaa](https://myanimelist.net/profile/ixaa), [jeffu](https://myanimelist.net/profile/jeffu), [KatjieKat](https://myanimelist.net/profile/KatjieKat), [kawaii1324](https://myanimelist.net/profile/kawaii1324), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Liaeves](https://myanimelist.net/profile/Liaeves), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [menheru](https://myanimelist.net/profile/menheru), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [Nysse](https://myanimelist.net/profile/Nysse), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [ReidN](https://myanimelist.net/profile/ReidN), [Rinarin](https://myanimelist.net/profile/Rinarin), [Ryloshawk](https://myanimelist.net/profile/Ryloshawk), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [Salyee](https://myanimelist.net/profile/Salyee), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [sofiekujo33](https://myanimelist.net/profile/sofiekujo33), [symeon_a](https://myanimelist.net/profile/symeon_a), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [Wakasagihime](https://myanimelist.net/profile/Wakasagihime), [Walrsu](https://myanimelist.net/profile/Walrsu), [yu6](https://myanimelist.net/profile/yu6), [Zu-](https://myanimelist.net/profile/Zu-)
 - [Death Note Tanpenshuu](https://myanimelist.net/manga/132335)
 	- Publication Status: Finished
 	- MAL ID: 132335
@@ -3419,7 +3444,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 9699
 	- Genre(s): Boys Love, School, Slice of Life
-	- MRC Participants: [Awkward-Bean](https://myanimelist.net/profile/Awkward-Bean), [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [HaruHaruMon](https://myanimelist.net/profile/HaruHaruMon), [Katsura](https://myanimelist.net/profile/Katsura), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [nozomemee](https://myanimelist.net/profile/nozomemee), [Pratikshin30](https://myanimelist.net/profile/Pratikshin30), [taynis](https://myanimelist.net/profile/taynis), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood), [uglyorganist](https://myanimelist.net/profile/uglyorganist), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- MRC Participants: [Awkward-Bean](https://myanimelist.net/profile/Awkward-Bean), [chinesecartoonz](https://myanimelist.net/profile/chinesecartoonz), [HaruHaruMon](https://myanimelist.net/profile/HaruHaruMon), [Katsura](https://myanimelist.net/profile/Katsura), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [nozomemee](https://myanimelist.net/profile/nozomemee), [Pratikshin30](https://myanimelist.net/profile/Pratikshin30), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood), [uglyorganist](https://myanimelist.net/profile/uglyorganist), [Yuki135](https://myanimelist.net/profile/Yuki135)
 - [Doukyuusei A](https://myanimelist.net/manga/176977)
 	- Publication Status: Finished
 	- MAL ID: 176977
@@ -3624,7 +3649,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 4964
 	- Genre(s): Drama, Shoujo
-	- MRC Participants: [Franchowo](https://myanimelist.net/profile/Franchowo), [Rinarin](https://myanimelist.net/profile/Rinarin), [tbeans10](https://myanimelist.net/profile/tbeans10), [yu6](https://myanimelist.net/profile/yu6)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Franchowo](https://myanimelist.net/profile/Franchowo), [Rinarin](https://myanimelist.net/profile/Rinarin), [tbeans10](https://myanimelist.net/profile/tbeans10), [yu6](https://myanimelist.net/profile/yu6)
 - [Eien no Yoru no Hate](https://myanimelist.net/manga/124293)
 	- Publication Status: Finished
 	- MAL ID: 124293
@@ -3654,7 +3679,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 933
 	- Genre(s): Action, Drama, Gore, Horror, Psychological, Romance, Seinen, Supernatural
-	- MRC Participants: [Kazzeon](https://myanimelist.net/profile/Kazzeon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid)
 - [Emerging](https://myanimelist.net/manga/10970)
 	- Publication Status: Finished
 	- MAL ID: 10970
@@ -3870,6 +3895,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 32463
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+- [Flying☆Witch](https://myanimelist.net/manga/22589)
+	- Publication Status: Finished
+	- MAL ID: 22589
+	- Genre(s): Romance, School, Shounen, Supernatural
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Foam of the Sea](https://myanimelist.net/manga/167925)
 	- Publication Status: Finished
 	- MAL ID: 167925
@@ -3980,6 +4010,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 54927
 	- Genre(s): Boys Love, Comedy, Erotica, Romance
 	- MRC Participants: [Ballestra](https://myanimelist.net/profile/Ballestra)
+- [Fudatsuki no Kyouko-chan](https://myanimelist.net/manga/56513)
+	- Publication Status: Finished
+	- MAL ID: 56513
+	- Genre(s): Comedy, Romance, School, Shounen, Supernatural, Vampire
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Fujimi Lovers](https://myanimelist.net/manga/70465)
 	- Publication Status: Finished
 	- MAL ID: 70465
@@ -4219,7 +4254,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 147037
 	- Genre(s): Fantasy, Romance, Shounen
-	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Drackx](https://myanimelist.net/profile/Drackx), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Gakkougurashi!](https://myanimelist.net/manga/55163)
 	- Publication Status: Finished
 	- MAL ID: 55163
@@ -4525,6 +4560,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 115230
 	- Genre(s): Adventure, Drama, Sci-Fi, Slice of Life
 	- MRC Participants: [ejala](https://myanimelist.net/profile/ejala), [Glumbum](https://myanimelist.net/profile/Glumbum), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [yube](https://myanimelist.net/profile/yube)
+- [Giniro no Seven](https://myanimelist.net/manga/138817)
+	- Publication Status: Finished
+	- MAL ID: 138817
+	- Genre(s): Action, Ecchi, Sci-Fi, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ginmokusei no Shitateya](https://myanimelist.net/manga/149842)
 	- Publication Status: Finished
 	- MAL ID: 149842
@@ -4724,7 +4764,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 958
 	- Genre(s): Horror, Mystery, Psychological, Shounen
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [lubryka](https://myanimelist.net/profile/lubryka), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [Drackx](https://myanimelist.net/profile/Drackx), [lubryka](https://myanimelist.net/profile/lubryka), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy)
 - [Gouhou Drug](https://myanimelist.net/manga/108)
 	- Publication Status: Finished
 	- MAL ID: 108
@@ -4905,6 +4945,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 111356
 	- Genre(s): Adult Cast, Award Winning, Detective, Seinen, Slice of Life, Workplace
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
+- [Hakui no Kedamono: Sensei no Yubi de Kanjichau](https://myanimelist.net/manga/144452)
+	- Publication Status: Finished
+	- MAL ID: 144452
+	- Genre(s): Erotica, Josei
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Hakujin to Kurobotan](https://myanimelist.net/manga/123271)
 	- Publication Status: Finished
 	- MAL ID: 123271
@@ -5014,7 +5059,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 72719
 	- Genre(s): Romance, Shoujo
-	- MRC Participants: [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Salyee](https://myanimelist.net/profile/Salyee)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Salyee](https://myanimelist.net/profile/Salyee)
 - [Hana yori Dango](https://myanimelist.net/manga/877)
 	- Publication Status: Finished
 	- MAL ID: 877
@@ -5350,6 +5395,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 48089
 	- Genre(s): Boys Love, Comedy, Erotica
 	- MRC Participants: [Liaeves](https://myanimelist.net/profile/Liaeves), [TheRandomWeirdo](https://myanimelist.net/profile/TheRandomWeirdo)
+- [Heaven Flame](https://myanimelist.net/manga/152675)
+	- Publication Status: Finished
+	- MAL ID: 152675
+	- Genre(s): Drama, Fantasy, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Heavenly Demon Reborn!](https://myanimelist.net/manga/147572)
 	- Publication Status: Finished
 	- MAL ID: 147572
@@ -5365,6 +5415,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 131339
 	- Genre(s): Award Winning, Drama, Seinen
 	- MRC Participants: [nightjasmine](https://myanimelist.net/profile/nightjasmine), [Rocy98](https://myanimelist.net/profile/Rocy98)
+- [Heisei Haizanhei☆Sumire-chan (31)](https://myanimelist.net/manga/156640)
+	- Publication Status: Finished
+	- MAL ID: 156640
+	- Genre(s): Ecchi, Seinen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Heisei Umare](https://myanimelist.net/manga/75181)
 	- Publication Status: Finished
 	- MAL ID: 75181
@@ -5444,7 +5499,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 78773
 	- Genre(s): Comedy, Romance, School, Shounen, Sports, Team Sports
-	- MRC Participants: [FarCritical](https://myanimelist.net/profile/FarCritical), [KingBop](https://myanimelist.net/profile/KingBop), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [FarCritical](https://myanimelist.net/profile/FarCritical), [KingBop](https://myanimelist.net/profile/KingBop), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Henteko na Ai: Nagabe Tanpenshuu](https://myanimelist.net/manga/128807)
 	- Publication Status: Finished
 	- MAL ID: 128807
@@ -5819,7 +5874,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 1149
 	- Genre(s): Action, Drama, Martial Arts, Sci-Fi, Shounen
-	- MRC Participants: [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [yu6](https://myanimelist.net/profile/yu6), [yube](https://myanimelist.net/profile/yube)
+	- MRC Participants: [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [WingsR](https://myanimelist.net/profile/WingsR), [yu6](https://myanimelist.net/profile/yu6), [yube](https://myanimelist.net/profile/yube)
 - [Hokuto no Ken: Jagi Gaiden](https://myanimelist.net/manga/12467)
 	- Publication Status: Finished
 	- MAL ID: 12467
@@ -5944,7 +5999,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 10552
 	- Genre(s): Action, Psychological, Seinen, Supernatural, Suspense
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Javaking369](https://myanimelist.net/profile/Javaking369), [jeffu](https://myanimelist.net/profile/jeffu), [Karinara](https://myanimelist.net/profile/Karinara), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [lubryka](https://myanimelist.net/profile/lubryka), [Nysse](https://myanimelist.net/profile/Nysse), [Piruri](https://myanimelist.net/profile/Piruri), [RorschachMask](https://myanimelist.net/profile/RorschachMask), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sethlans](https://myanimelist.net/profile/Sethlans)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Drackx](https://myanimelist.net/profile/Drackx), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Javaking369](https://myanimelist.net/profile/Javaking369), [jeffu](https://myanimelist.net/profile/jeffu), [Karinara](https://myanimelist.net/profile/Karinara), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [lubryka](https://myanimelist.net/profile/lubryka), [Nysse](https://myanimelist.net/profile/Nysse), [Piruri](https://myanimelist.net/profile/Piruri), [RorschachMask](https://myanimelist.net/profile/RorschachMask), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sethlans](https://myanimelist.net/profile/Sethlans)
 - [Hoshi to Harinezumi](https://myanimelist.net/manga/116938)
 	- Publication Status: Finished
 	- MAL ID: 116938
@@ -6590,6 +6645,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 114384
 	- Genre(s): Boys Love, Erotica, School
 	- MRC Participants: [RenxKentaro](https://myanimelist.net/profile/RenxKentaro)
+- [Itookashi](https://myanimelist.net/manga/117235)
+	- Publication Status: Finished
+	- MAL ID: 117235
+	- Genre(s): Comedy, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Itooshiki Hibi](https://myanimelist.net/manga/138950)
 	- Publication Status: Finished
 	- MAL ID: 138950
@@ -6924,7 +6984,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 3008
 	- Genre(s): Action, Adventure, Organized Crime, Shounen
-	- MRC Participants: [Agitatedcat](https://myanimelist.net/profile/Agitatedcat), [Ana_Suzuya](https://myanimelist.net/profile/Ana_Suzuya), [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [etanmess](https://myanimelist.net/profile/etanmess), [frederikcrazy](https://myanimelist.net/profile/frederikcrazy), [JMucha24](https://myanimelist.net/profile/JMucha24), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Omoyak](https://myanimelist.net/profile/Omoyak), [ReidN](https://myanimelist.net/profile/ReidN), [Rocy98](https://myanimelist.net/profile/Rocy98), [Sethlans](https://myanimelist.net/profile/Sethlans), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Tunes](https://myanimelist.net/profile/Tunes), [WingsR](https://myanimelist.net/profile/WingsR)
+	- MRC Participants: [Agitatedcat](https://myanimelist.net/profile/Agitatedcat), [Ana_Suzuya](https://myanimelist.net/profile/Ana_Suzuya), [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [etanmess](https://myanimelist.net/profile/etanmess), [frederikcrazy](https://myanimelist.net/profile/frederikcrazy), [JMucha24](https://myanimelist.net/profile/JMucha24), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [Omoyak](https://myanimelist.net/profile/Omoyak), [ReidN](https://myanimelist.net/profile/ReidN), [Rocy98](https://myanimelist.net/profile/Rocy98), [RooftopRat](https://myanimelist.net/profile/RooftopRat), [Sethlans](https://myanimelist.net/profile/Sethlans), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Tunes](https://myanimelist.net/profile/Tunes), [WingsR](https://myanimelist.net/profile/WingsR)
 - [JoJo no Kimyou na Bouken Part 6: Stone Ocean](https://myanimelist.net/manga/3009)
 	- Publication Status: Finished
 	- MAL ID: 3009
@@ -6994,7 +7054,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 115710
 	- Genre(s): Action, School, Shounen, Supernatural
-	- MRC Participants: [claricespectro](https://myanimelist.net/profile/claricespectro), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [ofwaterdeep](https://myanimelist.net/profile/ofwaterdeep)
+	- MRC Participants: [claricespectro](https://myanimelist.net/profile/claricespectro), [Drackx](https://myanimelist.net/profile/Drackx), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [ofwaterdeep](https://myanimelist.net/profile/ofwaterdeep), [WingsR](https://myanimelist.net/profile/WingsR)
 - [Jukkakukan no Satsujin](https://myanimelist.net/manga/121008)
 	- Publication Status: Finished
 	- MAL ID: 121008
@@ -7014,7 +7074,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 100448
 	- Genre(s): Drama, Shounen
-	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [BlazingNova](https://myanimelist.net/profile/BlazingNova), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [claricespectro](https://myanimelist.net/profile/claricespectro), [CryCamellia](https://myanimelist.net/profile/CryCamellia), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [FarCritical](https://myanimelist.net/profile/FarCritical), [HaruHaruMon](https://myanimelist.net/profile/HaruHaruMon), [Hoots__](https://myanimelist.net/profile/Hoots__), [Incremental](https://myanimelist.net/profile/Incremental), [ixaa](https://myanimelist.net/profile/ixaa), [jaeo_k](https://myanimelist.net/profile/jaeo_k), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [KingBop](https://myanimelist.net/profile/KingBop), [Korinaki](https://myanimelist.net/profile/Korinaki), [krovv](https://myanimelist.net/profile/krovv), [lemonmon](https://myanimelist.net/profile/lemonmon), [lid_iii](https://myanimelist.net/profile/lid_iii), [lobofm](https://myanimelist.net/profile/lobofm), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Maokawa](https://myanimelist.net/profile/Maokawa), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [me_hami](https://myanimelist.net/profile/me_hami), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [MetalPower26](https://myanimelist.net/profile/MetalPower26), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [PhantomQiz](https://myanimelist.net/profile/PhantomQiz), [Phigamm](https://myanimelist.net/profile/Phigamm), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [tracreed](https://myanimelist.net/profile/tracreed), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [yu6](https://myanimelist.net/profile/yu6), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135)
+	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [BlazingNova](https://myanimelist.net/profile/BlazingNova), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [claricespectro](https://myanimelist.net/profile/claricespectro), [CryCamellia](https://myanimelist.net/profile/CryCamellia), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [FarCritical](https://myanimelist.net/profile/FarCritical), [HaruHaruMon](https://myanimelist.net/profile/HaruHaruMon), [Hoots__](https://myanimelist.net/profile/Hoots__), [Incremental](https://myanimelist.net/profile/Incremental), [ixaa](https://myanimelist.net/profile/ixaa), [jaeo_k](https://myanimelist.net/profile/jaeo_k), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [kcmyang](https://myanimelist.net/profile/kcmyang), [KingBop](https://myanimelist.net/profile/KingBop), [Korinaki](https://myanimelist.net/profile/Korinaki), [krovv](https://myanimelist.net/profile/krovv), [lemonmon](https://myanimelist.net/profile/lemonmon), [lid_iii](https://myanimelist.net/profile/lid_iii), [lobofm](https://myanimelist.net/profile/lobofm), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Maokawa](https://myanimelist.net/profile/Maokawa), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [me_hami](https://myanimelist.net/profile/me_hami), [mehmeh-san](https://myanimelist.net/profile/mehmeh-san), [MetalPower26](https://myanimelist.net/profile/MetalPower26), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [PhantomQiz](https://myanimelist.net/profile/PhantomQiz), [Phigamm](https://myanimelist.net/profile/Phigamm), [PokeSvorlds](https://myanimelist.net/profile/PokeSvorlds), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [tracreed](https://myanimelist.net/profile/tracreed), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [yu6](https://myanimelist.net/profile/yu6), [Yuki-](https://myanimelist.net/profile/Yuki-), [Yuki135](https://myanimelist.net/profile/Yuki135), [Zu-](https://myanimelist.net/profile/Zu-)
 - [Jun: Shoutarou no Fantasy World](https://myanimelist.net/manga/52343)
 	- Publication Status: Finished
 	- MAL ID: 52343
@@ -7254,7 +7314,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 108948
 	- Genre(s): Horror, Psychological, Seinen
-	- MRC Participants: [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [KingBop](https://myanimelist.net/profile/KingBop), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
+	- MRC Participants: [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [Drackx](https://myanimelist.net/profile/Drackx), [KingBop](https://myanimelist.net/profile/KingBop), [Nezperdian](https://myanimelist.net/profile/Nezperdian), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
 - [Kake kara Hajimaru Sayonara no Koi](https://myanimelist.net/manga/134644)
 	- Publication Status: Finished
 	- MAL ID: 134644
@@ -7465,6 +7525,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 96334
 	- Genre(s): Pets, Seinen, Slice of Life
 	- MRC Participants: [jul42](https://myanimelist.net/profile/jul42), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Kanojo wa Itsumo Kagayaiteita](https://myanimelist.net/manga/121587)
+	- Publication Status: Finished
+	- MAL ID: 121587
+	- Genre(s): Drama, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kanojo wa Rokurokubi](https://myanimelist.net/manga/90800)
 	- Publication Status: Finished
 	- MAL ID: 90800
@@ -7994,7 +8059,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 99314
 	- Genre(s): Drama, Seinen
-	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Ballestra](https://myanimelist.net/profile/Ballestra), [Brati](https://myanimelist.net/profile/Brati), [DebiPS](https://myanimelist.net/profile/DebiPS), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [maricharmix](https://myanimelist.net/profile/maricharmix), [Nysse](https://myanimelist.net/profile/Nysse)
+	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Ballestra](https://myanimelist.net/profile/Ballestra), [Brati](https://myanimelist.net/profile/Brati), [DebiPS](https://myanimelist.net/profile/DebiPS), [Drackx](https://myanimelist.net/profile/Drackx), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [maricharmix](https://myanimelist.net/profile/maricharmix), [Nysse](https://myanimelist.net/profile/Nysse)
 - [Kimi no Na wa. Another Side: Earthbound](https://myanimelist.net/manga/108023)
 	- Publication Status: Finished
 	- MAL ID: 108023
@@ -8024,7 +8089,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 104538
 	- Genre(s): Drama, Romance
-	- MRC Participants: [Ara](https://myanimelist.net/profile/Ara), [Baskemtball](https://myanimelist.net/profile/Baskemtball), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Dhameer](https://myanimelist.net/profile/Dhameer), [hanami_27](https://myanimelist.net/profile/hanami_27), [ixaa](https://myanimelist.net/profile/ixaa), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [KingBop](https://myanimelist.net/profile/KingBop), [krovv](https://myanimelist.net/profile/krovv), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [Phigamm](https://myanimelist.net/profile/Phigamm), [Piruri](https://myanimelist.net/profile/Piruri), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [symeon_a](https://myanimelist.net/profile/symeon_a), [Yuki-](https://myanimelist.net/profile/Yuki-)
+	- MRC Participants: [Ara](https://myanimelist.net/profile/Ara), [Baskemtball](https://myanimelist.net/profile/Baskemtball), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [Dhameer](https://myanimelist.net/profile/Dhameer), [Drackx](https://myanimelist.net/profile/Drackx), [hanami_27](https://myanimelist.net/profile/hanami_27), [ixaa](https://myanimelist.net/profile/ixaa), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [KingBop](https://myanimelist.net/profile/KingBop), [krovv](https://myanimelist.net/profile/krovv), [nerfsunny](https://myanimelist.net/profile/nerfsunny), [Phigamm](https://myanimelist.net/profile/Phigamm), [Piruri](https://myanimelist.net/profile/Piruri), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [symeon_a](https://myanimelist.net/profile/symeon_a), [Yuki-](https://myanimelist.net/profile/Yuki-)
 - [Kimi no Sumire](https://myanimelist.net/manga/135525)
 	- Publication Status: Finished
 	- MAL ID: 135525
@@ -8225,6 +8290,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 177873
 	- Genre(s): Drama, Shounen, Supernatural, Suspense
 	- MRC Participants: [Piruri](https://myanimelist.net/profile/Piruri)
+- [Kintoki: Kinmezoku no Toki](https://myanimelist.net/manga/23172)
+	- Publication Status: Finished
+	- MAL ID: 23172
+	- Genre(s): Adventure, Martial Arts, Shounen, Super Power
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kirai ja Nai kedo](https://myanimelist.net/manga/11646)
 	- Publication Status: Finished
 	- MAL ID: 11646
@@ -8235,6 +8305,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 1344
 	- Genre(s): Drama, Medical, Psychological, Seinen
 	- MRC Participants: [Ebo](https://myanimelist.net/profile/Ebo), [letsgomeisei](https://myanimelist.net/profile/letsgomeisei), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [Nysse](https://myanimelist.net/profile/Nysse), [Omoyak](https://myanimelist.net/profile/Omoyak), [ReidN](https://myanimelist.net/profile/ReidN), [Wakasagihime](https://myanimelist.net/profile/Wakasagihime)
+- [Kiriko](https://myanimelist.net/manga/87670)
+	- Publication Status: Finished
+	- MAL ID: 87670
+	- Genre(s): Horror, Seinen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kiseijuu](https://myanimelist.net/manga/401)
 	- Publication Status: Finished
 	- MAL ID: 401
@@ -8915,6 +8990,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 91716
 	- Genre(s): Hentai
 	- MRC Participants: [Nezperdian](https://myanimelist.net/profile/Nezperdian)
+- [Kunisaki Izumo no Jijou](https://myanimelist.net/manga/13406)
+	- Publication Status: Finished
+	- MAL ID: 13406
+	- Genre(s): Comedy, Crossdressing, Harem, Performing Arts, School, Shounen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kuragehime](https://myanimelist.net/manga/17904)
 	- Publication Status: Finished
 	- MAL ID: 17904
@@ -9080,6 +9160,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 26592
 	- Genre(s): Erotica, Girls Love, School
 	- MRC Participants: [Thnx4dafood](https://myanimelist.net/profile/Thnx4dafood)
+- [Kyoushitsu Jibaku Club](https://myanimelist.net/manga/119484)
+	- Publication Status: Finished
+	- MAL ID: 119484
+	- Genre(s): Drama, Mystery, School, Suspense
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Kyuuai Étranger](https://myanimelist.net/manga/120507)
 	- Publication Status: Finished
 	- MAL ID: 120507
@@ -9614,7 +9699,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 121891
 	- Genre(s): Drama, Horror, Romance, Shounen, Supernatural
-	- MRC Participants: [koffec69](https://myanimelist.net/profile/koffec69), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [koffec69](https://myanimelist.net/profile/koffec69), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing)
 - [Machigitsune to Hito no Ko](https://myanimelist.net/manga/129545)
 	- Publication Status: Finished
 	- MAL ID: 129545
@@ -9635,6 +9720,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 46802
 	- Genre(s): Boys Love, Drama, Erotica
 	- MRC Participants: [TheRandomWeirdo](https://myanimelist.net/profile/TheRandomWeirdo), [uglyorganist](https://myanimelist.net/profile/uglyorganist)
+- [Mada, Ikiteru](https://myanimelist.net/manga/20310)
+	- Publication Status: Finished
+	- MAL ID: 20310
+	- Genre(s): Seinen
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Madame Petit](https://myanimelist.net/manga/44671)
 	- Publication Status: Finished
 	- MAL ID: 44671
@@ -9895,6 +9985,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 165910
 	- Genre(s): Drama, School
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum)
+- [Maou-sama to Kekkon shitai](https://myanimelist.net/manga/115134)
+	- Publication Status: Finished
+	- MAL ID: 115134
+	- Genre(s): Comedy, Fantasy, Romance
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Maou: Juvenile Remix](https://myanimelist.net/manga/10169)
 	- Publication Status: Finished
 	- MAL ID: 10169
@@ -10229,7 +10324,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 584
 	- Genre(s): Action, Gore, High Stakes Game, Psychological, Shounen, Supernatural, Survival, Suspense
-	- MRC Participants: [Dhameer](https://myanimelist.net/profile/Dhameer), [ixaa](https://myanimelist.net/profile/ixaa), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [Piruri](https://myanimelist.net/profile/Piruri), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [yu6](https://myanimelist.net/profile/yu6)
+	- MRC Participants: [Dhameer](https://myanimelist.net/profile/Dhameer), [Drackx](https://myanimelist.net/profile/Drackx), [ixaa](https://myanimelist.net/profile/ixaa), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [Piruri](https://myanimelist.net/profile/Piruri), [SilentSympathy](https://myanimelist.net/profile/SilentSympathy), [yu6](https://myanimelist.net/profile/yu6)
 - [Mirai Nikki: Paradox](https://myanimelist.net/manga/13277)
 	- Publication Status: Finished
 	- MAL ID: 13277
@@ -10430,6 +10525,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 99316
 	- Genre(s): Boys Love, Drama, Erotica
 	- MRC Participants: [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Rocy98](https://myanimelist.net/profile/Rocy98), [tbeans10](https://myanimelist.net/profile/tbeans10)
+- [Mou Ikkai](https://myanimelist.net/manga/125334)
+	- Publication Status: Finished
+	- MAL ID: 125334
+	- Genre(s): Romance, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Moujuu School Days](https://myanimelist.net/manga/86239)
 	- Publication Status: Finished
 	- MAL ID: 86239
@@ -10654,7 +10754,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 43975
 	- Genre(s): Drama, Memoir, Pets, Slice of Life
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [somnina](https://myanimelist.net/profile/somnina)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Hoots__](https://myanimelist.net/profile/Hoots__), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [somnina](https://myanimelist.net/profile/somnina)
 - [My Little Inferno](https://myanimelist.net/manga/124885)
 	- Publication Status: Finished
 	- MAL ID: 124885
@@ -10919,7 +11019,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 140604
 	- Genre(s): Drama, Gourmet, Romance, Shounen
-	- MRC Participants: [AutumnBug](https://myanimelist.net/profile/AutumnBug), [DebiPS](https://myanimelist.net/profile/DebiPS), [Nysse](https://myanimelist.net/profile/Nysse), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- MRC Participants: [AutumnBug](https://myanimelist.net/profile/AutumnBug), [DebiPS](https://myanimelist.net/profile/DebiPS), [Drackx](https://myanimelist.net/profile/Drackx), [Nysse](https://myanimelist.net/profile/Nysse), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Nee Senpai, Oshiete yo](https://myanimelist.net/manga/62739)
 	- Publication Status: Finished
 	- MAL ID: 62739
@@ -11300,6 +11400,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 113085
 	- Genre(s): Detective, Mystery, Seinen, Suspense
 	- MRC Participants: [Wakasagihime](https://myanimelist.net/profile/Wakasagihime)
+- [Nokogiri Yama](https://myanimelist.net/manga/115545)
+	- Publication Status: Finished
+	- MAL ID: 115545
+	- Genre(s): Hentai
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Nokori Ichinichi de Hametsu Flag Zenbu Heshiorimasu: Zamaa RTA Kiroku 24Hr.](https://myanimelist.net/manga/155065)
 	- Publication Status: Finished
 	- MAL ID: 155065
@@ -11345,6 +11450,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 139139
 	- Genre(s): Boys Love, Erotica
 	- MRC Participants: [karma_majo](https://myanimelist.net/profile/karma_majo)
+- [Noraneko to Hidamari](https://myanimelist.net/manga/145968)
+	- Publication Status: Finished
+	- MAL ID: 145968
+	- Genre(s): Romance, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Not Simple](https://myanimelist.net/manga/12569)
 	- Publication Status: Finished
 	- MAL ID: 12569
@@ -11970,6 +12080,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 144341
 	- Genre(s): Boys Love, School
 	- MRC Participants: [RenxKentaro](https://myanimelist.net/profile/RenxKentaro)
+- [Otome no Itari](https://myanimelist.net/manga/129375)
+	- Publication Status: Finished
+	- MAL ID: 129375
+	- Genre(s): Romance, School, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Otomen](https://myanimelist.net/manga/878)
 	- Publication Status: Finished
 	- MAL ID: 878
@@ -12190,6 +12305,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 147245
 	- Genre(s): Boys Love, Childcare
 	- MRC Participants: [Caramel-san](https://myanimelist.net/profile/Caramel-san)
+- [Papa, Doushita no?♡](https://myanimelist.net/manga/155011)
+	- Publication Status: Finished
+	- MAL ID: 155011
+	- Genre(s): Hentai
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Papa★I Love You](https://myanimelist.net/manga/10875)
 	- Publication Status: Finished
 	- MAL ID: 10875
@@ -12204,7 +12324,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 29
 	- Genre(s): Drama, Josei, Romance, School, Visual Arts
-	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [letsgomeisei](https://myanimelist.net/profile/letsgomeisei), [rozewald](https://myanimelist.net/profile/rozewald), [SherlyCat25](https://myanimelist.net/profile/SherlyCat25), [willowlywillow](https://myanimelist.net/profile/willowlywillow)
+	- MRC Participants: [Arashiiiii](https://myanimelist.net/profile/Arashiiiii), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [letsgomeisei](https://myanimelist.net/profile/letsgomeisei), [Momokolo](https://myanimelist.net/profile/Momokolo), [rozewald](https://myanimelist.net/profile/rozewald), [SherlyCat25](https://myanimelist.net/profile/SherlyCat25), [willowlywillow](https://myanimelist.net/profile/willowlywillow)
 - [Paradise View](https://myanimelist.net/manga/67223)
 	- Publication Status: Finished
 	- MAL ID: 67223
@@ -12389,7 +12509,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 745
 	- Genre(s): Action, Award Winning, Detective, Mystery, Psychological, Sci-Fi, Seinen, Suspense
-	- MRC Participants: [Agitatedcat](https://myanimelist.net/profile/Agitatedcat), [airotciv](https://myanimelist.net/profile/airotciv), [Ana_Suzuya](https://myanimelist.net/profile/Ana_Suzuya), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Bri](https://myanimelist.net/profile/Bri), [claricespectro](https://myanimelist.net/profile/claricespectro), [Duskaegon](https://myanimelist.net/profile/Duskaegon), [ejala](https://myanimelist.net/profile/ejala), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [Katsura](https://myanimelist.net/profile/Katsura), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [lobofm](https://myanimelist.net/profile/lobofm), [lubryka](https://myanimelist.net/profile/lubryka), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Nysse](https://myanimelist.net/profile/Nysse), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Phigamm](https://myanimelist.net/profile/Phigamm), [Piruri](https://myanimelist.net/profile/Piruri), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Reisho-Teki](https://myanimelist.net/profile/Reisho-Teki), [Robertson1](https://myanimelist.net/profile/Robertson1), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sethlans](https://myanimelist.net/profile/Sethlans), [SozinsDownfall](https://myanimelist.net/profile/SozinsDownfall), [taynis](https://myanimelist.net/profile/taynis), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [yu6](https://myanimelist.net/profile/yu6), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+	- MRC Participants: [Agitatedcat](https://myanimelist.net/profile/Agitatedcat), [airotciv](https://myanimelist.net/profile/airotciv), [Ana_Suzuya](https://myanimelist.net/profile/Ana_Suzuya), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [BrainpanSonata](https://myanimelist.net/profile/BrainpanSonata), [Bri](https://myanimelist.net/profile/Bri), [claricespectro](https://myanimelist.net/profile/claricespectro), [Duskaegon](https://myanimelist.net/profile/Duskaegon), [ejala](https://myanimelist.net/profile/ejala), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Geekwriter](https://myanimelist.net/profile/Geekwriter), [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [Katsura](https://myanimelist.net/profile/Katsura), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [lobofm](https://myanimelist.net/profile/lobofm), [lubryka](https://myanimelist.net/profile/lubryka), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [Nysse](https://myanimelist.net/profile/Nysse), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Phigamm](https://myanimelist.net/profile/Phigamm), [Piruri](https://myanimelist.net/profile/Piruri), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Reisho-Teki](https://myanimelist.net/profile/Reisho-Teki), [Robertson1](https://myanimelist.net/profile/Robertson1), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Sethlans](https://myanimelist.net/profile/Sethlans), [SozinsDownfall](https://myanimelist.net/profile/SozinsDownfall), [taynis](https://myanimelist.net/profile/taynis), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [yu6](https://myanimelist.net/profile/yu6), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
 - [Pochi to Tama](https://myanimelist.net/manga/47963)
 	- Publication Status: Finished
 	- MAL ID: 47963
@@ -12425,11 +12545,16 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 12169
 	- Genre(s): Adventure, Sci-Fi
 	- MRC Participants: [yu6](https://myanimelist.net/profile/yu6)
+- [Pokémon: Mewtwo no Gyakushuu](https://myanimelist.net/manga/24220)
+	- Publication Status: Finished
+	- MAL ID: 24220
+	- Genre(s): Adventure, Fantasy, Kids
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ponkotsu Ponko](https://myanimelist.net/manga/120250)
 	- Publication Status: Finished
 	- MAL ID: 120250
 	- Genre(s): Comedy, Seinen, Slice of Life
-	- MRC Participants: [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy)
+	- MRC Participants: [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [Stargate18](https://myanimelist.net/profile/Stargate18)
 - [Poor Poor Lips](https://myanimelist.net/manga/11865)
 	- Publication Status: Finished
 	- MAL ID: 11865
@@ -12825,6 +12950,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 42559
 	- Genre(s): Comedy, Shounen
 	- MRC Participants: [jeffu](https://myanimelist.net/profile/jeffu)
+- [Reunion](https://myanimelist.net/manga/184875)
+	- Publication Status: Finished
+	- MAL ID: 184875
+	- Genre(s): Boys Love, Drama, Erotica
+	- MRC Participants: [Caramel-san](https://myanimelist.net/profile/Caramel-san)
 - [Revenge Wedding](https://myanimelist.net/manga/147988)
 	- Publication Status: Finished
 	- MAL ID: 147988
@@ -13014,7 +13144,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 138475
 	- Genre(s): Comedy, Shounen, Supernatural
-	- MRC Participants: [Hoots__](https://myanimelist.net/profile/Hoots__), [Incremental](https://myanimelist.net/profile/Incremental), [Nysse](https://myanimelist.net/profile/Nysse), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [tbeans10](https://myanimelist.net/profile/tbeans10)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Hoots__](https://myanimelist.net/profile/Hoots__), [Incremental](https://myanimelist.net/profile/Incremental), [Nysse](https://myanimelist.net/profile/Nysse), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [tbeans10](https://myanimelist.net/profile/tbeans10)
 - [Rurouni Kenshin: Meiji Kenkaku Romantan](https://myanimelist.net/manga/22)
 	- Publication Status: Finished
 	- MAL ID: 22
@@ -13040,6 +13170,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 102106
 	- Genre(s): Action, Drama, Shounen, Supernatural
 	- MRC Participants: [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy)
+- [Ryousai Kenbo](https://myanimelist.net/manga/52755)
+	- Publication Status: Finished
+	- MAL ID: 52755
+	- Genre(s): Hentai
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Ryushika Ryushika](https://myanimelist.net/manga/21676)
 	- Publication Status: Finished
 	- MAL ID: 21676
@@ -13389,7 +13524,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 145863
 	- Genre(s): Drama, Shounen
-	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [anakg](https://myanimelist.net/profile/anakg), [andreth](https://myanimelist.net/profile/andreth), [Ara](https://myanimelist.net/profile/Ara), [BlazingNova](https://myanimelist.net/profile/BlazingNova), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [FarCritical](https://myanimelist.net/profile/FarCritical), [hanami_27](https://myanimelist.net/profile/hanami_27), [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [hydra96](https://myanimelist.net/profile/hydra96), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [is2bela](https://myanimelist.net/profile/is2bela), [kaminoitoko](https://myanimelist.net/profile/kaminoitoko), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [lemonmon](https://myanimelist.net/profile/lemonmon), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [MarzoTres](https://myanimelist.net/profile/MarzoTres), [Matija_](https://myanimelist.net/profile/Matija_), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [me_hami](https://myanimelist.net/profile/me_hami), [n4zako](https://myanimelist.net/profile/n4zako), [Nekogamer82emoji](https://myanimelist.net/profile/Nekogamer82emoji), [noimagination7](https://myanimelist.net/profile/noimagination7), [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Phigamm](https://myanimelist.net/profile/Phigamm), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Ryloshawk](https://myanimelist.net/profile/Ryloshawk), [samantha_gytm](https://myanimelist.net/profile/samantha_gytm), [Saobenoit](https://myanimelist.net/profile/Saobenoit), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [Stargate18](https://myanimelist.net/profile/Stargate18), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Tunes](https://myanimelist.net/profile/Tunes), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [Zandah](https://myanimelist.net/profile/Zandah), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades), [zhabnica](https://myanimelist.net/profile/zhabnica), [Zu-](https://myanimelist.net/profile/Zu-)
+	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [anakg](https://myanimelist.net/profile/anakg), [andreth](https://myanimelist.net/profile/andreth), [Ara](https://myanimelist.net/profile/Ara), [BlazingNova](https://myanimelist.net/profile/BlazingNova), [bluecoke_](https://myanimelist.net/profile/bluecoke_), [crazybob1215](https://myanimelist.net/profile/crazybob1215), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [FarCritical](https://myanimelist.net/profile/FarCritical), [hanami_27](https://myanimelist.net/profile/hanami_27), [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [hydra96](https://myanimelist.net/profile/hydra96), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [is2bela](https://myanimelist.net/profile/is2bela), [kaminoitoko](https://myanimelist.net/profile/kaminoitoko), [KingCrimson69](https://myanimelist.net/profile/KingCrimson69), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [lemonmon](https://myanimelist.net/profile/lemonmon), [Majerinodino](https://myanimelist.net/profile/Majerinodino), [MarzoTres](https://myanimelist.net/profile/MarzoTres), [Matija_](https://myanimelist.net/profile/Matija_), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [me_hami](https://myanimelist.net/profile/me_hami), [n4zako](https://myanimelist.net/profile/n4zako), [Nekogamer82emoji](https://myanimelist.net/profile/Nekogamer82emoji), [noimagination7](https://myanimelist.net/profile/noimagination7), [originalsinshiro](https://myanimelist.net/profile/originalsinshiro), [Pentagonion](https://myanimelist.net/profile/Pentagonion), [Phigamm](https://myanimelist.net/profile/Phigamm), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Ryloshawk](https://myanimelist.net/profile/Ryloshawk), [samantha_gytm](https://myanimelist.net/profile/samantha_gytm), [Saobenoit](https://myanimelist.net/profile/Saobenoit), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [Stargate18](https://myanimelist.net/profile/Stargate18), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [Tunes](https://myanimelist.net/profile/Tunes), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [Zandah](https://myanimelist.net/profile/Zandah), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades), [zhabnica](https://myanimelist.net/profile/zhabnica)
 - [Sayonara Football](https://myanimelist.net/manga/26491)
 	- Publication Status: Finished
 	- MAL ID: 26491
@@ -13829,7 +13964,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 727
 	- Genre(s): Action, Drama, Martial Arts, Psychological, Seinen
-	- MRC Participants: [reallyegoist](https://myanimelist.net/profile/reallyegoist)
+	- MRC Participants: [reallyegoist](https://myanimelist.net/profile/reallyegoist), [Zixyph](https://myanimelist.net/profile/Zixyph)
 - [Share House with Terminator](https://myanimelist.net/manga/169073)
 	- Publication Status: Finished
 	- MAL ID: 169073
@@ -13950,6 +14085,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 85812
 	- Genre(s): Drama, Fantasy, Romance, Supernatural
 	- MRC Participants: [milkee](https://myanimelist.net/profile/milkee), [Phanuel](https://myanimelist.net/profile/Phanuel)
+- [Shin Gendai Ryoukiden](https://myanimelist.net/manga/9709)
+	- Publication Status: Finished
+	- MAL ID: 9709
+	- Genre(s): Gore, Hentai, Horror
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Shin Getter Robo](https://myanimelist.net/manga/8571)
 	- Publication Status: Finished
 	- MAL ID: 8571
@@ -14444,7 +14584,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 51
 	- Genre(s): Award Winning, School, Shounen, Sports, Team Sports
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Bri](https://myanimelist.net/profile/Bri), [ChizuruFan23](https://myanimelist.net/profile/ChizuruFan23), [Dukas](https://myanimelist.net/profile/Dukas), [GoldenDevilGamer](https://myanimelist.net/profile/GoldenDevilGamer), [hinagatari](https://myanimelist.net/profile/hinagatari), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [lemonmon](https://myanimelist.net/profile/lemonmon), [letsgomeisei](https://myanimelist.net/profile/letsgomeisei), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [Maokawa](https://myanimelist.net/profile/Maokawa), [Nysse](https://myanimelist.net/profile/Nysse), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Saobenoit](https://myanimelist.net/profile/Saobenoit), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [skylucario](https://myanimelist.net/profile/skylucario), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Bri](https://myanimelist.net/profile/Bri), [ChizuruFan23](https://myanimelist.net/profile/ChizuruFan23), [Drackx](https://myanimelist.net/profile/Drackx), [Dukas](https://myanimelist.net/profile/Dukas), [GoldenDevilGamer](https://myanimelist.net/profile/GoldenDevilGamer), [hinagatari](https://myanimelist.net/profile/hinagatari), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [Leaf2020](https://myanimelist.net/profile/Leaf2020), [lemonmon](https://myanimelist.net/profile/lemonmon), [letsgomeisei](https://myanimelist.net/profile/letsgomeisei), [MadaoArseid](https://myanimelist.net/profile/MadaoArseid), [Maokawa](https://myanimelist.net/profile/Maokawa), [Nysse](https://myanimelist.net/profile/Nysse), [poisonwill](https://myanimelist.net/profile/poisonwill), [reallyegoist](https://myanimelist.net/profile/reallyegoist), [ReidN](https://myanimelist.net/profile/ReidN), [Saobenoit](https://myanimelist.net/profile/Saobenoit), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [skylucario](https://myanimelist.net/profile/skylucario), [Tsunamii_](https://myanimelist.net/profile/Tsunamii_), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades)
 - [Slayers Evolution-R](https://myanimelist.net/manga/12654)
 	- Publication Status: Finished
 	- MAL ID: 12654
@@ -14539,7 +14679,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 3731
 	- Genre(s): Drama, Seinen, Slice of Life
-	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Bri](https://myanimelist.net/profile/Bri), [chibieska](https://myanimelist.net/profile/chibieska), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Finku_](https://myanimelist.net/profile/Finku_), [Glumbum](https://myanimelist.net/profile/Glumbum), [hanami_27](https://myanimelist.net/profile/hanami_27), [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [ixaa](https://myanimelist.net/profile/ixaa), [kawaii1324](https://myanimelist.net/profile/kawaii1324), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [lobofm](https://myanimelist.net/profile/lobofm), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Pinky_Bunny](https://myanimelist.net/profile/Pinky_Bunny), [rozewald](https://myanimelist.net/profile/rozewald), [Salyee](https://myanimelist.net/profile/Salyee), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [StarInBetween](https://myanimelist.net/profile/StarInBetween), [Wakasagihime](https://myanimelist.net/profile/Wakasagihime), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades), [Zu-](https://myanimelist.net/profile/Zu-)
+	- MRC Participants: [AlexShepard](https://myanimelist.net/profile/AlexShepard), [Bri](https://myanimelist.net/profile/Bri), [chibieska](https://myanimelist.net/profile/chibieska), [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Finku_](https://myanimelist.net/profile/Finku_), [Glumbum](https://myanimelist.net/profile/Glumbum), [hanami_27](https://myanimelist.net/profile/hanami_27), [HikikomoriPaints](https://myanimelist.net/profile/HikikomoriPaints), [Ionic_Andy](https://myanimelist.net/profile/Ionic_Andy), [ixaa](https://myanimelist.net/profile/ixaa), [kawaii1324](https://myanimelist.net/profile/kawaii1324), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [KingShadyH](https://myanimelist.net/profile/KingShadyH), [lobofm](https://myanimelist.net/profile/lobofm), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Pinky_Bunny](https://myanimelist.net/profile/Pinky_Bunny), [rozewald](https://myanimelist.net/profile/rozewald), [Salyee](https://myanimelist.net/profile/Salyee), [sashalat42](https://myanimelist.net/profile/sashalat42), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [StarInBetween](https://myanimelist.net/profile/StarInBetween), [Wakasagihime](https://myanimelist.net/profile/Wakasagihime), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [ZeCalamidades](https://myanimelist.net/profile/ZeCalamidades), [Zu-](https://myanimelist.net/profile/Zu-)
 - [Soleil](https://myanimelist.net/manga/26698)
 	- Publication Status: Finished
 	- MAL ID: 26698
@@ -15039,7 +15179,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 8848
 	- Genre(s): Action, Comedy, Drama, Ecchi, Seinen
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [PhantomQiz](https://myanimelist.net/profile/PhantomQiz), [Tectonic8](https://myanimelist.net/profile/Tectonic8)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [Drackx](https://myanimelist.net/profile/Drackx), [PhantomQiz](https://myanimelist.net/profile/PhantomQiz), [Tectonic8](https://myanimelist.net/profile/Tectonic8)
 - [Suna no Shiro](https://myanimelist.net/manga/10780)
 	- Publication Status: Finished
 	- MAL ID: 10780
@@ -16680,6 +16820,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 99575
 	- Genre(s): Detective, Historical, Mystery, Romance, Shoujo
 	- MRC Participants: [DebiPS](https://myanimelist.net/profile/DebiPS), [Glumbum](https://myanimelist.net/profile/Glumbum), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [nightjasmine](https://myanimelist.net/profile/nightjasmine), [skylucario](https://myanimelist.net/profile/skylucario), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [yube](https://myanimelist.net/profile/yube)
+- [Usotsuki Chocolate Syrup](https://myanimelist.net/manga/68805)
+	- Publication Status: Finished
+	- MAL ID: 68805
+	- Genre(s): Romance, School, Shoujo
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Usotsuki Satsuki wa Shi ga Mieru](https://myanimelist.net/manga/132078)
 	- Publication Status: Finished
 	- MAL ID: 132078
@@ -16824,7 +16969,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 15916
 	- Genre(s): Historical
-	- MRC Participants: [Nysse](https://myanimelist.net/profile/Nysse)
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx), [Nysse](https://myanimelist.net/profile/Nysse)
 - [Wagahai wa Neko de Aru, Shokugyou wa Barista.](https://myanimelist.net/manga/133373)
 	- Publication Status: Finished
 	- MAL ID: 133373
@@ -16984,7 +17129,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 11734
 	- Genre(s): Drama, Music, Psychological, Romance, Seinen
-	- MRC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Caramel-san](https://myanimelist.net/profile/Caramel-san), [chibieska](https://myanimelist.net/profile/chibieska), [CMYK](https://myanimelist.net/profile/CMYK), [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [FarCritical](https://myanimelist.net/profile/FarCritical), [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [hydra96](https://myanimelist.net/profile/hydra96), [inazumera](https://myanimelist.net/profile/inazumera), [ixaa](https://myanimelist.net/profile/ixaa), [jul42](https://myanimelist.net/profile/jul42), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [lemonmon](https://myanimelist.net/profile/lemonmon), [Maokawa](https://myanimelist.net/profile/Maokawa), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Phigamm](https://myanimelist.net/profile/Phigamm), [Pinky_Bunny](https://myanimelist.net/profile/Pinky_Bunny), [rahillimitci](https://myanimelist.net/profile/rahillimitci), [Reisho-Teki](https://myanimelist.net/profile/Reisho-Teki), [Rinarin](https://myanimelist.net/profile/Rinarin), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Schlopsi](https://myanimelist.net/profile/Schlopsi), [Sen1793](https://myanimelist.net/profile/Sen1793), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [taynis](https://myanimelist.net/profile/taynis), [tbeans10](https://myanimelist.net/profile/tbeans10), [TheOnlyOpinion](https://myanimelist.net/profile/TheOnlyOpinion), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [yu6](https://myanimelist.net/profile/yu6), [Yuki-](https://myanimelist.net/profile/Yuki-), [Zensorium](https://myanimelist.net/profile/Zensorium)
+	- MRC Participants: [Akami_Ka](https://myanimelist.net/profile/Akami_Ka), [Aur0ra](https://myanimelist.net/profile/Aur0ra), [Caramel-san](https://myanimelist.net/profile/Caramel-san), [chibieska](https://myanimelist.net/profile/chibieska), [CMYK](https://myanimelist.net/profile/CMYK), [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [FarCritical](https://myanimelist.net/profile/FarCritical), [GakutoDeathGlare](https://myanimelist.net/profile/GakutoDeathGlare), [hinagatari](https://myanimelist.net/profile/hinagatari), [Hoots__](https://myanimelist.net/profile/Hoots__), [hydra96](https://myanimelist.net/profile/hydra96), [inazumera](https://myanimelist.net/profile/inazumera), [ixaa](https://myanimelist.net/profile/ixaa), [jul42](https://myanimelist.net/profile/jul42), [Kkulpanda](https://myanimelist.net/profile/Kkulpanda), [lemonmon](https://myanimelist.net/profile/lemonmon), [Maokawa](https://myanimelist.net/profile/Maokawa), [McLarenRacing](https://myanimelist.net/profile/McLarenRacing), [Phigamm](https://myanimelist.net/profile/Phigamm), [Pinky_Bunny](https://myanimelist.net/profile/Pinky_Bunny), [rahillimitci](https://myanimelist.net/profile/rahillimitci), [Reisho-Teki](https://myanimelist.net/profile/Reisho-Teki), [Rinarin](https://myanimelist.net/profile/Rinarin), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Schlopsi](https://myanimelist.net/profile/Schlopsi), [Sen1793](https://myanimelist.net/profile/Sen1793), [sh1n1gummy](https://myanimelist.net/profile/sh1n1gummy), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [tbeans10](https://myanimelist.net/profile/tbeans10), [TheOnlyOpinion](https://myanimelist.net/profile/TheOnlyOpinion), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion), [willowlywillow](https://myanimelist.net/profile/willowlywillow), [yu6](https://myanimelist.net/profile/yu6), [Yuki-](https://myanimelist.net/profile/Yuki-), [Zensorium](https://myanimelist.net/profile/Zensorium)
 - [Watashitachi wa Douka shiteiru](https://myanimelist.net/manga/103003)
 	- Publication Status: Finished
 	- MAL ID: 103003
@@ -17629,7 +17774,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 114754
 	- Genre(s): Adventure, Drama, Fantasy, Shounen
-	- MRC Participants: [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [KingBop](https://myanimelist.net/profile/KingBop), [krovv](https://myanimelist.net/profile/krovv), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Yuki-](https://myanimelist.net/profile/Yuki-)
+	- MRC Participants: [DevilsAngel9697](https://myanimelist.net/profile/DevilsAngel9697), [DoubleDee-](https://myanimelist.net/profile/DoubleDee-), [Drackx](https://myanimelist.net/profile/Drackx), [KingBop](https://myanimelist.net/profile/KingBop), [krovv](https://myanimelist.net/profile/krovv), [Luffy_15](https://myanimelist.net/profile/Luffy_15), [RenxKentaro](https://myanimelist.net/profile/RenxKentaro), [rubixuitous](https://myanimelist.net/profile/rubixuitous), [Ryuzaki_Shoryu](https://myanimelist.net/profile/Ryuzaki_Shoryu), [ScarletCelestial](https://myanimelist.net/profile/ScarletCelestial), [Yuki-](https://myanimelist.net/profile/Yuki-)
 - [Yuusha-tachi](https://myanimelist.net/manga/88390)
 	- Publication Status: Finished
 	- MAL ID: 88390
@@ -17740,6 +17885,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 25245
 	- Genre(s): Pets, Seinen, Slice of Life
 	- MRC Participants: [Glumbum](https://myanimelist.net/profile/Glumbum), [Phanuel](https://myanimelist.net/profile/Phanuel), [TheEdgelord](https://myanimelist.net/profile/TheEdgelord)
+- [Zombie Maria](https://myanimelist.net/manga/99251)
+	- Publication Status: Finished
+	- MAL ID: 99251
+	- Genre(s): Comedy, Romance, Seinen, Supernatural
+	- MRC Participants: [Drackx](https://myanimelist.net/profile/Drackx)
 - [Zomgan](https://myanimelist.net/manga/150498)
 	- Publication Status: Finished
 	- MAL ID: 150498
@@ -17897,6 +18047,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [djindjo](https://myanimelist.net/profile/djindjo) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72675220)
 - [dogteeth](https://myanimelist.net/profile/dogteeth) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72499237)
 - [DoubleDee-](https://myanimelist.net/profile/DoubleDee-) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498702)
+- [Drackx](https://myanimelist.net/profile/Drackx) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=73456628)
 - [Dukas](https://myanimelist.net/profile/Dukas) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72823260)
 - [Duskaegon](https://myanimelist.net/profile/Duskaegon) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72504954)
 - [dvdung](https://myanimelist.net/profile/dvdung) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=73151112)
@@ -18029,6 +18180,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 - [Pentagonion](https://myanimelist.net/profile/Pentagonion) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72520207)
 - [PhantomQiz](https://myanimelist.net/profile/PhantomQiz) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72625737)
 - [Phanuel](https://myanimelist.net/profile/Phanuel) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72498795)
+- [Phedro](https://myanimelist.net/profile/Phedro) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=73459952)
 - [Phigamm](https://myanimelist.net/profile/Phigamm) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72542418)
 - [Pinky_Bunny](https://myanimelist.net/profile/Pinky_Bunny) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72645582)
 - [Piruri](https://myanimelist.net/profile/Piruri) - [Challenge Sign-up Post](https://myanimelist.net/forum/?goto=post&topicid=2205133&id=72562190)

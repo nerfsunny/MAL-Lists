@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of October 26, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 02, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -14886,7 +14886,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Seinen, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Pink to Habanero](https://myanimelist.net/manga/144012)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 144012
 	- Genre(s): Comedy, Romance, School, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
