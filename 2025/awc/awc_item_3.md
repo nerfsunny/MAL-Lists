@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of November 02, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 10, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -2508,17 +2508,17 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Full Metal Panic!](https://myanimelist.net/anime/71)
 	- Publication Status: Finished Airing
 	- MAL ID: 71
-	- Genre(s): Comedy, Mecha, Military, Sci-Fi
+	- Genre(s): Comedy, Mecha, Military
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic! Invisible Victory](https://myanimelist.net/anime/31931)
 	- Publication Status: Finished Airing
 	- MAL ID: 31931
-	- Genre(s): Mecha, Military, Sci-Fi
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic! The Second Raid](https://myanimelist.net/anime/73)
 	- Publication Status: Finished Airing
 	- MAL ID: 73
-	- Genre(s): Mecha, Military, Sci-Fi
+	- Genre(s): Mecha, Military
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Full Metal Panic? Fumoffu](https://myanimelist.net/anime/72)
 	- Publication Status: Finished Airing
@@ -2755,11 +2755,6 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2775
 	- Genre(s): Gore, Horror, Mecha, Psychological, Sci-Fi, Seinen
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
-- [Gensou Mangekyou: The Memories of Phantasm](https://myanimelist.net/anime/55315)
-	- Publication Status: Finished Airing
-	- MAL ID: 55315
-	- Genre(s): Fantasy
-	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Gensoumaden Saiyuuki](https://myanimelist.net/anime/129)
 	- Publication Status: Finished Airing
 	- MAL ID: 129
@@ -3183,6 +3178,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Gundam Build Fighters](https://myanimelist.net/anime/19319)
 	- Publication Status: Finished Airing
 	- MAL ID: 19319
+	- Genre(s): Mecha, Sci-Fi
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Gundam Build Fighters: GM no Gyakushuu](https://myanimelist.net/anime/35982)
+	- Publication Status: Finished Airing
+	- MAL ID: 35982
 	- Genre(s): Mecha, Sci-Fi
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Gungrave](https://myanimelist.net/anime/267)
@@ -4499,7 +4499,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 40591
 	- Genre(s): Comedy, Romance, School, Seinen
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA](https://myanimelist.net/anime/43609)
 	- Publication Status: Finished Airing
 	- MAL ID: 43609
@@ -5298,6 +5298,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Koneko no Chi: Ponponra Dairyokou](https://myanimelist.net/anime/36418)
 	- Publication Status: Finished Airing
 	- MAL ID: 36418
+	- Genre(s): Pets, Slice of Life
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Koneko no Chi: Ponponraa Natsuyasumi](https://myanimelist.net/anime/58196)
+	- Publication Status: Finished Airing
+	- MAL ID: 58196
 	- Genre(s): Pets, Slice of Life
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kono Bijutsu-bu ni wa Mondai ga Aru!](https://myanimelist.net/anime/31952)
