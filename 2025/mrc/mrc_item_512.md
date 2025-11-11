@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 02, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 09, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -161,6 +161,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 9711
 	- Genre(s): Comedy, Drama, Otaku Culture, Romance, Shounen
 	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites), [Mythologically](https://myanimelist.net/profile/Mythologically/favorites), [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
+- [Ballroom e Youkoso](https://myanimelist.net/manga/48347)
+	- Publication Status: Currently Publishing
+	- MAL ID: 48347
+	- Genre(s): Comedy, Drama, Performing Arts, Romance, School, Shounen, Sports
+	- Staff Member(s): [SyverenWaterlow](https://myanimelist.net/profile/SyverenWaterlow/favorites)
 - [Basara](https://myanimelist.net/manga/974)
 	- Publication Status: Finished
 	- MAL ID: 974
@@ -515,7 +520,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 29211
 	- Genre(s): Comedy, Otaku Culture, Romance, School
-	- Staff Member(s): [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
+	- Staff Member(s): [Xealias](https://myanimelist.net/profile/Xealias/favorites), [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Getsuyoubi no Tawawa](https://myanimelist.net/manga/130486)
 	- Publication Status: Currently Publishing
 	- MAL ID: 130486
@@ -526,6 +531,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 25096
 	- Genre(s): Award Winning, Comedy, Drama, School, Shounen
 	- Staff Member(s): [tingy](https://myanimelist.net/profile/tingy/favorites)
+- [Gintama](https://myanimelist.net/manga/44)
+	- Publication Status: Finished
+	- MAL ID: 44
+	- Genre(s): Action, Comedy, Gag Humor, Historical, Parody, Samurai, Sci-Fi, Shounen
+	- Staff Member(s): [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Girl Crush](https://myanimelist.net/manga/142097)
 	- Publication Status: Currently Publishing
 	- MAL ID: 142097
@@ -970,7 +980,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 3866
 	- Genre(s): Action, Fantasy, Historical, Mystery, Mythology, Shounen, Supernatural
-	- Staff Member(s): [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [Karinara](https://myanimelist.net/profile/Karinara/favorites)
+	- Staff Member(s): [Cestlavie_](https://myanimelist.net/profile/Cestlavie_/favorites), [Karinara](https://myanimelist.net/profile/Karinara/favorites), [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Kyou no Cerberus](https://myanimelist.net/manga/57185)
 	- Publication Status: Finished
 	- MAL ID: 57185
@@ -1131,6 +1141,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 17641
 	- Genre(s): Comedy, Gag Humor, School, Shounen, Slice of Life
 	- Staff Member(s): [Jinbou](https://myanimelist.net/profile/Jinbou/favorites)
+- [Mo Dao Zu Shi](https://myanimelist.net/manga/137200)
+	- Publication Status: Finished
+	- MAL ID: 137200
+	- Genre(s): Action, Adventure, Boys Love, Fantasy, Historical, Mystery, Mythology, Reincarnation
+	- Staff Member(s): [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Monster](https://myanimelist.net/manga/1)
 	- Publication Status: Finished
 	- MAL ID: 1
@@ -1205,7 +1220,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 24692
 	- Genre(s): Action, Fantasy, Mythology, Shounen
-	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Kookerz](https://myanimelist.net/profile/Kookerz/favorites), [LiIlie](https://myanimelist.net/profile/LiIlie/favorites)
+	- Staff Member(s): [Gilrin](https://myanimelist.net/profile/Gilrin/favorites), [Kookerz](https://myanimelist.net/profile/Kookerz/favorites), [LiIlie](https://myanimelist.net/profile/LiIlie/favorites), [SyverenWaterlow](https://myanimelist.net/profile/SyverenWaterlow/favorites)
 - [Nukozuke!](https://myanimelist.net/manga/45947)
 	- Publication Status: Currently Publishing
 	- MAL ID: 45947
@@ -1287,7 +1302,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Genre(s): Drama, Psychological, Seinen, Slice of Life
 	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [iShipMyFriends](https://myanimelist.net/profile/iShipMyFriends/favorites)
 - [Painter of the Night](https://myanimelist.net/manga/139429)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 139429
 	- Genre(s): Boys Love, Erotica, Historical
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/favorites)
@@ -1336,6 +1351,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 109229
 	- Genre(s): Organized Crime, Romance, Seinen
 	- Staff Member(s): [Kineta](https://myanimelist.net/profile/Kineta/favorites)
+- [Rave](https://myanimelist.net/manga/14)
+	- Publication Status: Finished
+	- MAL ID: 14
+	- Genre(s): Adventure, Comedy, Fantasy, Shounen
+	- Staff Member(s): [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [ReLIFE](https://myanimelist.net/manga/78523)
 	- Publication Status: Finished
 	- MAL ID: 78523
@@ -1681,6 +1701,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 184899
 	- Genre(s): Boys Love, Erotica
 	- Staff Member(s): [-Mitsukii](https://myanimelist.net/profile/-Mitsukii/favorites)
+- [Tian Guan Cifu](https://myanimelist.net/manga/140765)
+	- Publication Status: Currently Publishing
+	- MAL ID: 140765
+	- Genre(s): Action, Adventure, Boys Love, Drama, Fantasy, Historical, Mythology
+	- Staff Member(s): [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Time Slip Ota-Girl](https://myanimelist.net/manga/111341)
 	- Publication Status: Finished
 	- MAL ID: 111341
@@ -1700,7 +1725,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Finished
 	- MAL ID: 33327
 	- Genre(s): Action, Fantasy, Gore, Horror, Psychological, Seinen, Urban Fantasy
-	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [Jicetus](https://myanimelist.net/profile/Jicetus/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+	- Staff Member(s): [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites), [Jicetus](https://myanimelist.net/profile/Jicetus/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [SyverenWaterlow](https://myanimelist.net/profile/SyverenWaterlow/favorites), [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Tomo-chan wa Onnanoko!](https://myanimelist.net/manga/92149)
 	- Publication Status: Finished
 	- MAL ID: 92149
@@ -1795,7 +1820,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 132678
 	- Genre(s): Historical, Romance, Slice of Life
-	- Staff Member(s): [nirererin](https://myanimelist.net/profile/nirererin/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Velvet Kiss](https://myanimelist.net/manga/22638)
 	- Publication Status: Finished
 	- MAL ID: 22638
@@ -2036,4 +2061,5 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [ToumaTachibana](https://myanimelist.net/profile/ToumaTachibana/favorites)
 - [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon/favorites)
 - [Vindstot](https://myanimelist.net/profile/Vindstot/favorites)
+- [Xealias](https://myanimelist.net/profile/Xealias/favorites)
 - [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites)

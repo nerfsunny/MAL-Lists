@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 02, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 09, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -111,7 +111,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Erotica, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [100-nen no Tateito](https://myanimelist.net/manga/163995)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 163995
 	- Genre(s): Drama, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -18711,7 +18711,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Comedy, School, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tales of Crestoria: Togabito no Zaika](https://myanimelist.net/manga/155224)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 155224
 	- Genre(s): Action, Adventure, Fantasy
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -19618,7 +19618,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Totsuidekita Yome ga Aisouwarai Bakari shiteru](https://myanimelist.net/manga/129651)
 	- Publication Status: Finished
 	- MAL ID: 129651
-	- Genre(s): Comedy, Historical, Romance, Samurai, Slice of Life
+	- Genre(s): Comedy, Historical, Romance, Samurai
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Totsukuni no Shoujo](https://myanimelist.net/manga/93972)
 	- Publication Status: Finished
