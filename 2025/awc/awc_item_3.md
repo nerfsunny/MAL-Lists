@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of November 10, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 16, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -28,7 +28,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [07-Ghost](https://myanimelist.net/anime/5525)
 	- Publication Status: Finished Airing
 	- MAL ID: 5525
-	- Genre(s): Action, Fantasy, Josei, Military, Mythology
+	- Genre(s): Action, Fantasy, Josei, Military
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [1001 Nights](https://myanimelist.net/anime/3914)
 	- Publication Status: Finished Airing
@@ -609,7 +609,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 36214
 	- Genre(s): Girls Love, School, Shoujo
-	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Asobi Asobase](https://myanimelist.net/anime/37171)
 	- Publication Status: Finished Airing
 	- MAL ID: 37171
@@ -2758,7 +2758,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Gensoumaden Saiyuuki](https://myanimelist.net/anime/129)
 	- Publication Status: Finished Airing
 	- MAL ID: 129
-	- Genre(s): Action, Adventure, Drama, Fantasy, Mythology, Shounen
+	- Genre(s): Action, Adventure, Drama, Fantasy, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Ghost Hunt](https://myanimelist.net/anime/1571)
 	- Publication Status: Finished Airing
@@ -3363,12 +3363,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Hakkenden: Touhou Hakken Ibun](https://myanimelist.net/anime/15613)
 	- Publication Status: Finished Airing
 	- MAL ID: 15613
-	- Genre(s): Action, Fantasy, Mystery, Mythology, Shoujo
+	- Genre(s): Action, Mystery, Mythology, Shoujo, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Hakkenden: Touhou Hakken Ibun 2nd Season](https://myanimelist.net/anime/18055)
 	- Publication Status: Finished Airing
 	- MAL ID: 18055
-	- Genre(s): Action, Fantasy, Mystery, Mythology, Shoujo
+	- Genre(s): Action, Mystery, Mythology, Shoujo, Supernatural
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Hakubunchou no Shiro](https://myanimelist.net/anime/49654)
 	- Publication Status: Finished Airing
@@ -3853,22 +3853,22 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Hoozuki no Reitetsu](https://myanimelist.net/anime/20431)
 	- Publication Status: Finished Airing
 	- MAL ID: 20431
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Hoozuki no Reitetsu 2nd Season](https://myanimelist.net/anime/35075)
 	- Publication Status: Finished Airing
 	- MAL ID: 35075
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Hoozuki no Reitetsu 2nd Season: Sono Ni](https://myanimelist.net/anime/37029)
 	- Publication Status: Finished Airing
 	- MAL ID: 37029
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Hoozuki no Reitetsu OVA](https://myanimelist.net/anime/24471)
 	- Publication Status: Finished Airing
 	- MAL ID: 24471
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Mythology, Seinen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Hope](https://myanimelist.net/anime/39957)
 	- Publication Status: Finished Airing
@@ -4210,11 +4210,21 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 39725
 	- Genre(s): Idols (Male), Music, School
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Jagainu-kun](https://myanimelist.net/anime/1839)
+	- Publication Status: Finished Airing
+	- MAL ID: 1839
+	- Genre(s): Adventure, Anthropomorphic, Fantasy, Kids, Slice of Life
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Jahy-sama wa Kujikenai!](https://myanimelist.net/anime/48753)
 	- Publication Status: Finished Airing
 	- MAL ID: 48753
 	- Genre(s): Comedy, Shounen, Supernatural
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Jebal Joyonghi Jom Hae!](https://myanimelist.net/anime/62419)
+	- Publication Status: Finished Airing
+	- MAL ID: 62419
+	- Genre(s): Boys Love, Comedy
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Jewelpet Kira☆Deco!](https://myanimelist.net/anime/12963)
 	- Publication Status: Finished Airing
 	- MAL ID: 12963
@@ -4713,7 +4723,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kappa no Coo to Natsuyasumi](https://myanimelist.net/anime/2848)
 	- Publication Status: Finished Airing
 	- MAL ID: 2848
-	- Genre(s): Adventure, Award Winning, Fantasy, Mythology
+	- Genre(s): Adventure, Award Winning, Mythology, Supernatural
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kara no Kyoukai Movie 1: Fukan Fuukei](https://myanimelist.net/anime/2593)
 	- Publication Status: Finished Airing
@@ -5428,7 +5438,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Koukyuu no Karasu](https://myanimelist.net/anime/50590)
 	- Publication Status: Finished Airing
 	- MAL ID: 50590
-	- Genre(s): Fantasy, Historical, Josei, Mystery, Mythology
+	- Genre(s): Fantasy, Historical, Mystery, Mythology
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Koutetsujou no Kabaneri](https://myanimelist.net/anime/28623)
 	- Publication Status: Finished Airing
@@ -5733,7 +5743,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Ling Long: Incarnation](https://myanimelist.net/anime/39675)
 	- Publication Status: Finished Airing
 	- MAL ID: 39675
-	- Genre(s): Action, Drama, Horror, Mythology, Sci-Fi, Suspense
+	- Genre(s): Action, Drama, Horror, Sci-Fi, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Ling Long: Incarnation Final Chapter](https://myanimelist.net/anime/44090)
 	- Publication Status: Finished Airing
@@ -5743,12 +5753,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Ling Long: Incarnation Middle Chapter](https://myanimelist.net/anime/42985)
 	- Publication Status: Finished Airing
 	- MAL ID: 42985
-	- Genre(s): Action, Drama, Horror, Mythology, Sci-Fi, Suspense
+	- Genre(s): Action, Drama, Horror, Sci-Fi, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Ling Long: Incarnation Part 2](https://myanimelist.net/anime/42290)
 	- Publication Status: Finished Airing
 	- MAL ID: 42290
-	- Genre(s): Action, Drama, Horror, Mythology, Sci-Fi, Suspense
+	- Genre(s): Action, Drama, Horror, Sci-Fi, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Ling Long: Incarnation Special](https://myanimelist.net/anime/48890)
 	- Publication Status: Finished Airing
@@ -10945,6 +10955,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 53448
 	- Genre(s): Boys Love, Comedy, Drama, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Xiao Lu He Xiao Lan 3rd Season](https://myanimelist.net/anime/56695)
+	- Publication Status: Finished Airing
+	- MAL ID: 56695
+	- Genre(s): Boys Love, Comedy, Drama, Fantasy
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Ya She](https://myanimelist.net/anime/49573)
 	- Publication Status: Finished Airing
 	- MAL ID: 49573
@@ -11083,6 +11098,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [You Shou Yan 2nd Season](https://myanimelist.net/anime/55821)
 	- Publication Status: Finished Airing
 	- MAL ID: 55821
+	- Genre(s): Comedy, Fantasy
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [You Shou Yan 3rd Season](https://myanimelist.net/anime/58555)
+	- Publication Status: Finished Airing
+	- MAL ID: 58555
 	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Youjo Senki](https://myanimelist.net/anime/32615)

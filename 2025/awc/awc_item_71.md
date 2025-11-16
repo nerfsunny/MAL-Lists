@@ -4,7 +4,7 @@ title: AWC2025 71
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of September 06, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 14, 2025:
 
 (71) Watch an anime that only has one main character listed on MAL (can have any number of supporting characters)
 
@@ -125,6 +125,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 44040
 	- Genre(s): Comedy, Workplace
+- [Abe George Kattobi Seishun Ki: Shibuya Honky Tonk](https://myanimelist.net/anime/17501)
+	- Publication Status: Finished Airing
+	- MAL ID: 17501
+	- Genre(s): Drama, Ecchi
 - [Additional Memory](https://myanimelist.net/anime/39093)
 	- Publication Status: Finished Airing
 	- MAL ID: 39093
@@ -232,7 +236,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Ai no Senshi Rainbowman](https://myanimelist.net/anime/8285)
 	- Publication Status: Finished Airing
 	- MAL ID: 8285
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Ai to Ken no Camelot: Mangaka Marina Time Slip Jiken](https://myanimelist.net/anime/5931)
 	- Publication Status: Finished Airing
 	- MAL ID: 5931
@@ -253,6 +257,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 52067
 	- Genre(s): Idols (Female), Music
+- [Aikatsu Academy!](https://myanimelist.net/anime/59308)
+	- Publication Status: Finished Airing
+	- MAL ID: 59308
+	- Genre(s): Idols (Female), Music, School, Slice of Life
 - [Aikatsu!: Nerawareta Mahou no Aikatsu! Card](https://myanimelist.net/anime/32806)
 	- Publication Status: Finished Airing
 	- MAL ID: 32806
@@ -324,7 +332,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Akai Shouzou: Char, Soshite Frontal e](https://myanimelist.net/anime/14007)
 	- Publication Status: Finished Airing
 	- MAL ID: 14007
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Shounen, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Shounen, Space
 - [Akakichi no Eleven](https://myanimelist.net/anime/2316)
 	- Publication Status: Finished Airing
 	- MAL ID: 2316
@@ -440,7 +448,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Amedama](https://myanimelist.net/anime/60805)
 	- Publication Status: Finished Airing
 	- MAL ID: 60805
-	- Genre(s): Award Winning, Drama
+	- Genre(s): Drama
 - [Amefuri Kozou](https://myanimelist.net/anime/6462)
 	- Publication Status: Finished Airing
 	- MAL ID: 6462
@@ -504,11 +512,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Animation Seisaku Shinkou Kuromi-chan](https://myanimelist.net/anime/1797)
 	- Publication Status: Finished Airing
 	- MAL ID: 1797
-	- Genre(s): Adult Cast, Comedy, Drama, Otaku Culture, Parody
+	- Genre(s): Adult Cast, Comedy, Drama, Otaku Culture, Parody, Workplace
 - [Animation Seisaku Shinkou Kuromi-chan 2](https://myanimelist.net/anime/1798)
 	- Publication Status: Finished Airing
 	- MAL ID: 1798
-	- Genre(s): Comedy, Drama, Otaku Culture, Parody
+	- Genre(s): Adult Cast, Comedy, Drama, Otaku Culture, Parody, Workplace
 - [Anime Himitsu no Hanazono](https://myanimelist.net/anime/2810)
 	- Publication Status: Finished Airing
 	- MAL ID: 2810
@@ -604,7 +612,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Argento Soma: Hitori to Hitori](https://myanimelist.net/anime/1789)
 	- Publication Status: Finished Airing
 	- MAL ID: 1789
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Ari-chan](https://myanimelist.net/anime/28245)
 	- Publication Status: Finished Airing
 	- MAL ID: 28245
@@ -621,7 +629,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 58751
 	- Genre(s): Action, Fantasy, Music
-- [Arknights x Luo Xiao Hei Zhan Ji: Hao Jiu Bu Jian](https://myanimelist.net/anime/54944)
+- [Arknights x Luo Xiaohei Zhanji: Haojiu Bujian](https://myanimelist.net/anime/54944)
 	- Publication Status: Finished Airing
 	- MAL ID: 54944
 	- Genre(s): Action
@@ -668,7 +676,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [As One](https://myanimelist.net/anime/61139)
 	- Publication Status: Finished Airing
 	- MAL ID: 61139
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Asa ga Kuru mae ni: Sasurai Version](https://myanimelist.net/anime/22411)
 	- Publication Status: Finished Airing
 	- MAL ID: 22411
@@ -853,6 +861,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 39760
 	- Genre(s): Fantasy, Supernatural
+- [Bai Yao Pu 5th Season](https://myanimelist.net/anime/60562)
+	- Publication Status: Finished Airing
+	- MAL ID: 60562
+	- Genre(s): Adventure, Historical, Mystery, Supernatural
 - [Bai Ye Ling Long](https://myanimelist.net/anime/37740)
 	- Publication Status: Finished Airing
 	- MAL ID: 37740
@@ -1057,6 +1069,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 53477
 	- Genre(s): Action, Adventure, Fantasy
+- [Biohazard: Damnation](https://myanimelist.net/anime/9544)
+	- Publication Status: Finished Airing
+	- MAL ID: 9544
+	- Genre(s): Action, Horror, Sci-Fi
 - [Biriken Nandemo Shoukai](https://myanimelist.net/anime/8521)
 	- Publication Status: Finished Airing
 	- MAL ID: 8521
@@ -1104,11 +1120,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Blame! Prologue](https://myanimelist.net/anime/3430)
 	- Publication Status: Finished Airing
 	- MAL ID: 3430
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Blame! Special](https://myanimelist.net/anime/3429)
 	- Publication Status: Finished Airing
 	- MAL ID: 3429
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Bleach 20th PV](https://myanimelist.net/anime/60048)
 	- Publication Status: Finished Airing
 	- MAL ID: 60048
@@ -1264,7 +1280,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Buddy Complex: Daremo Shiranai Ashita e](https://myanimelist.net/anime/31105)
 	- Publication Status: Finished Airing
 	- MAL ID: 31105
-	- Genre(s): Action, Mecha, Sci-Fi, Time Travel
+	- Genre(s): Mecha, Sci-Fi, Time Travel
 - [Buffett Shenmi Julebu](https://myanimelist.net/anime/46351)
 	- Publication Status: Finished Airing
 	- MAL ID: 46351
@@ -1361,7 +1377,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 55655
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
-- [Cang Yuan Tu 2nd Season](https://myanimelist.net/anime/60420)
+- [Cang Yuan Tu 2](https://myanimelist.net/anime/60420)
 	- Publication Status: Finished Airing
 	- MAL ID: 60420
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
@@ -1521,10 +1537,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 47623
 	- Genre(s): Slice of Life
-- [Chie-chan Funsenki: Jarinko Chie](https://myanimelist.net/anime/9383)
-	- Publication Status: Finished Airing
-	- MAL ID: 9383
-	- Genre(s): Comedy, Drama, Seinen
 - [Chiisana Jumbo](https://myanimelist.net/anime/7771)
 	- Publication Status: Finished Airing
 	- MAL ID: 7771
@@ -1549,6 +1561,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2915
 	- Genre(s): Drama, Historical
+- [Chikyuu no Latair](https://myanimelist.net/anime/62268)
+	- Publication Status: Finished Airing
+	- MAL ID: 62268
+	- Genre(s): Educational
 - [Chikyuu SOS Sore Ike Kororin](https://myanimelist.net/anime/14623)
 	- Publication Status: Finished Airing
 	- MAL ID: 14623
@@ -1596,7 +1612,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Choro Q Dougram](https://myanimelist.net/anime/2258)
 	- Publication Status: Finished Airing
 	- MAL ID: 2258
-	- Genre(s): Action, Comedy, Mecha, Sci-Fi
+	- Genre(s): Comedy, Mecha, Sci-Fi
 - [Chou Futsuu Ken Chiba Densetsu](https://myanimelist.net/anime/54197)
 	- Publication Status: Finished Airing
 	- MAL ID: 54197
@@ -1648,11 +1664,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Chu Feng: Yi Dian Zhi Zi](https://myanimelist.net/anime/44062)
 	- Publication Status: Finished Airing
 	- MAL ID: 44062
-	- Genre(s): Action, Fantasy, Mecha, Romance, Sci-Fi
+	- Genre(s): Fantasy, Mecha, Romance, Sci-Fi
 - [Chuldong! Super Wings](https://myanimelist.net/anime/38525)
 	- Publication Status: Finished Airing
 	- MAL ID: 38525
-	- Genre(s): Adventure, Kids, Racing
+	- Genre(s): Adventure, Kids
 - [Chuldong! Super Wings 2](https://myanimelist.net/anime/38526)
 	- Publication Status: Finished Airing
 	- MAL ID: 38526
@@ -1664,19 +1680,19 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Chuldong! Super Wings 4](https://myanimelist.net/anime/56263)
 	- Publication Status: Finished Airing
 	- MAL ID: 56263
-	- Genre(s): Adventure, Kids, Racing
+	- Genre(s): Adventure, Kids
 - [Chuldong! Super Wings 5](https://myanimelist.net/anime/56264)
 	- Publication Status: Finished Airing
 	- MAL ID: 56264
-	- Genre(s): Adventure, Kids, Racing
+	- Genre(s): Adventure, Kids
 - [Chuldong! Super Wings 6](https://myanimelist.net/anime/56265)
 	- Publication Status: Finished Airing
 	- MAL ID: 56265
-	- Genre(s): Adventure, Kids, Racing
+	- Genre(s): Adventure, Kids
 - [Chuldong! Super Wings 7](https://myanimelist.net/anime/56266)
 	- Publication Status: Finished Airing
 	- MAL ID: 56266
-	- Genre(s): Adventure, Kids, Racing
+	- Genre(s): Adventure, Kids
 - [Chuukan Kanriroku Tonegawa](https://myanimelist.net/anime/37338)
 	- Publication Status: Finished Airing
 	- MAL ID: 37338
@@ -1693,6 +1709,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 52237
 	- Genre(s): Fantasy, Kids, Mahou Shoujo
+- [Cinnamon Birthday Song](https://myanimelist.net/anime/58336)
+	- Publication Status: Finished Airing
+	- MAL ID: 58336
+	- Genre(s): Anthropomorphic, Kids, Music
+- [Cinnamon no Halloween March](https://myanimelist.net/anime/58338)
+	- Publication Status: Finished Airing
+	- MAL ID: 58338
+	- Genre(s): Anthropomorphic, Kids, Music
 - [Cinnamon no Parade](https://myanimelist.net/anime/14537)
 	- Publication Status: Finished Airing
 	- MAL ID: 14537
@@ -1749,10 +1773,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 44265
 	- Genre(s): Music
-- [Comic Party Revolution OVA](https://myanimelist.net/anime/5147)
-	- Publication Status: Finished Airing
-	- MAL ID: 5147
-	- Genre(s): Comedy, Otaku Culture
 - [Conception](https://myanimelist.net/anime/37823)
 	- Publication Status: Finished Airing
 	- MAL ID: 37823
@@ -1821,6 +1841,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 53810
 	- Genre(s): Adventure, Comedy, Seinen
+- [Crayon Shin-chan Movie 32: Ora-tachi no Kyouryuu Nikki](https://myanimelist.net/anime/57499)
+	- Publication Status: Finished Airing
+	- MAL ID: 57499
+	- Genre(s): Adventure, Comedy, Seinen
+- [Crayon Shin-chan Movie 33: Chou Karei! Shakunetsu no Kasukabe Dancers](https://myanimelist.net/anime/60862)
+	- Publication Status: Finished Airing
+	- MAL ID: 60862
+	- Genre(s): Adventure, Comedy, Seinen
 - [Cream Lemon: New Generation](https://myanimelist.net/anime/5167)
 	- Publication Status: Finished Airing
 	- MAL ID: 5167
@@ -1840,7 +1868,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Cross Ange: Tenshi to Ryuu no Rondo](https://myanimelist.net/anime/25731)
 	- Publication Status: Finished Airing
 	- MAL ID: 25731
-	- Genre(s): Action, Fantasy, Gore, Mecha, Military, Sci-Fi
+	- Genre(s): Fantasy, Gore, Mecha, Military, Sci-Fi
 - [Cupid.](https://myanimelist.net/anime/61551)
 	- Publication Status: Finished Airing
 	- MAL ID: 61551
@@ -1888,11 +1916,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Daicon Opening Animations](https://myanimelist.net/anime/2724)
 	- Publication Status: Finished Airing
 	- MAL ID: 2724
-	- Genre(s): Action, Adventure, Mecha, Music, Otaku Culture, Sci-Fi
+	- Genre(s): Adventure, Mecha, Music, Otaku Culture, Sci-Fi
 - [Daikuu Maryuu Gaiking](https://myanimelist.net/anime/956)
 	- Publication Status: Finished Airing
 	- MAL ID: 956
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Dainiji Ura Nyuugakushiken The Animation](https://myanimelist.net/anime/35238)
 	- Publication Status: Finished Airing
 	- MAL ID: 35238
@@ -1929,10 +1957,18 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 59875
 	- Genre(s): Fantasy, Kids
+- [Dance Dance Evolution Dance Masters Silent Hill Robbie!!!!!!!!!!! Kigurumi Usagi ga Odottemita](https://myanimelist.net/anime/53193)
+	- Publication Status: Finished Airing
+	- MAL ID: 53193
+	- Genre(s): Horror, Music, Performing Arts
 - [Danchi Tomoo](https://myanimelist.net/anime/17703)
 	- Publication Status: Finished Airing
 	- MAL ID: 17703
 	- Genre(s): Comedy, Seinen
+- [Dancing Reed](https://myanimelist.net/anime/62541)
+	- Publication Status: Finished Airing
+	- MAL ID: 62541
+	- Genre(s): Idols (Female), Music
 - [Daraku: Onna Kyoushi Hakai](https://myanimelist.net/anime/3578)
 	- Publication Status: Finished Airing
 	- MAL ID: 3578
@@ -1941,6 +1977,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 3439
 	- Genre(s): Hentai
+- [Dare!?](https://myanimelist.net/anime/62566)
+	- Publication Status: Finished Airing
+	- MAL ID: 62566
+	- Genre(s): Music
 - [Dash! Yonkurou](https://myanimelist.net/anime/3116)
 	- Publication Status: Finished Airing
 	- MAL ID: 3116
@@ -1952,7 +1992,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [De:vadasy](https://myanimelist.net/anime/1529)
 	- Publication Status: Finished Airing
 	- MAL ID: 1529
-	- Genre(s): Action, Ecchi, Mecha, Psychological
+	- Genre(s): Ecchi, Mecha, Psychological
 - [Dead Dead Demons Dededede Destruction (ONA) Episode 0](https://myanimelist.net/anime/58920)
 	- Publication Status: Finished Airing
 	- MAL ID: 58920
@@ -1960,7 +2000,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Dead Heat](https://myanimelist.net/anime/10780)
 	- Publication Status: Finished Airing
 	- MAL ID: 10780
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Racing, Sci-Fi
 - [Deadman Wonderland: Akai Knife Tsukai](https://myanimelist.net/anime/10418)
 	- Publication Status: Finished Airing
 	- MAL ID: 10418
@@ -2005,10 +2045,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 10639
 	- Genre(s): Action, Fantasy
-- [Dianqi Shaonu](https://myanimelist.net/anime/54973)
-	- Publication Status: Finished Airing
-	- MAL ID: 54973
-	- Genre(s): Comedy
 - [Dibetagurashi: Ahiru no Seikatsu](https://myanimelist.net/anime/17733)
 	- Publication Status: Finished Airing
 	- MAL ID: 17733
@@ -2021,6 +2057,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 51561
 	- Genre(s): Music
+- [Dive In!](https://myanimelist.net/anime/61041)
+	- Publication Status: Finished Airing
+	- MAL ID: 61041
+	- Genre(s): Drama
 - [DNA Sights 999.9](https://myanimelist.net/anime/2019)
 	- Publication Status: Finished Airing
 	- MAL ID: 2019
@@ -2032,7 +2072,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Document Taiyou no Kiba Dougram](https://myanimelist.net/anime/9972)
 	- Publication Status: Finished Airing
 	- MAL ID: 9972
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Drama, Mecha, Military, Sci-Fi
 - [Doggy God's Street](https://myanimelist.net/anime/51638)
 	- Publication Status: Finished Airing
 	- MAL ID: 51638
@@ -2324,7 +2364,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Eightman](https://myanimelist.net/anime/5052)
 	- Publication Status: Finished Airing
 	- MAL ID: 5052
-	- Genre(s): Action, Drama, Mecha, Sci-Fi
+	- Genre(s): Drama, Mecha, Sci-Fi
 - [Eikou e no Spur: Igaya Chiharu Monogatari](https://myanimelist.net/anime/19943)
 	- Publication Status: Finished Airing
 	- MAL ID: 19943
@@ -2408,7 +2448,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Eureka Seven AO: One More Time - Lord Don't Slow Me Down](https://myanimelist.net/anime/34776)
 	- Publication Status: Finished Airing
 	- MAL ID: 34776
-	- Genre(s): Action, Adventure, Drama, Mecha, Sci-Fi
+	- Genre(s): Adventure, Drama, Mecha, Sci-Fi
 - [Everlasting Soul](https://myanimelist.net/anime/56757)
 	- Publication Status: Finished Airing
 	- MAL ID: 56757
@@ -2560,6 +2600,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Follow Your Fantasy](https://myanimelist.net/anime/55392)
 	- Publication Status: Finished Airing
 	- MAL ID: 55392
+	- Genre(s): Music
+- [Forever Glow](https://myanimelist.net/anime/59565)
+	- Publication Status: Finished Airing
+	- MAL ID: 59565
 	- Genre(s): Music
 - [Fortune Dogs](https://myanimelist.net/anime/3355)
 	- Publication Status: Finished Airing
@@ -2920,11 +2964,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Ginga Hyouryuu Vifam Recaps](https://myanimelist.net/anime/9387)
 	- Publication Status: Finished Airing
 	- MAL ID: 9387
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen](https://myanimelist.net/anime/9390)
 	- Publication Status: Finished Airing
 	- MAL ID: 9390
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Ginga Hyouryuu Vifam: Kieta 12-nin](https://myanimelist.net/anime/9389)
 	- Publication Status: Finished Airing
 	- MAL ID: 9389
@@ -3157,10 +3201,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 55997
 	- Genre(s): Action, Adventure, Comedy, Fantasy
+- [Guimi Zhi Zhu: Caidan](https://myanimelist.net/anime/62286)
+	- Publication Status: Finished Airing
+	- MAL ID: 62286
+	- Genre(s): Adult Cast, Comedy, Fantasy, Isekai
 - [Guimi Zhi Zhu: Xiaochou Pian](https://myanimelist.net/anime/49818)
 	- Publication Status: Finished Airing
 	- MAL ID: 49818
-	- Genre(s): Action, Adult Cast, Fantasy, Isekai, Mystery, Suspense, Urban Fantasy
+	- Genre(s): Action, Adult Cast, Fantasy, Isekai, Mystery, Suspense
 - [Guitar Shoujo!](https://myanimelist.net/anime/28347)
 	- Publication Status: Finished Airing
 	- MAL ID: 28347
@@ -3261,6 +3309,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 10906
 	- Genre(s): Hentai
+- [Hakujaden](https://myanimelist.net/anime/4513)
+	- Publication Status: Finished Airing
+	- MAL ID: 4513
+	- Genre(s): Adventure, Fantasy, Historical, Romance
 - [Hakumei Kousen](https://myanimelist.net/anime/61358)
 	- Publication Status: Finished Airing
 	- MAL ID: 61358
@@ -3280,11 +3332,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Hakyuu Houshin Engi](https://myanimelist.net/anime/36029)
 	- Publication Status: Finished Airing
 	- MAL ID: 36029
-	- Genre(s): Action, Adventure, Fantasy, Mythology, Shounen
+	- Genre(s): Action, Adventure, Fantasy, Shounen
 - [Hakyuu Houshin Engi Recap](https://myanimelist.net/anime/37856)
 	- Publication Status: Finished Airing
 	- MAL ID: 37856
-	- Genre(s): Action, Adventure, Fantasy, Mythology, Shounen
+	- Genre(s): Action, Adventure, Fantasy, Shounen
 - [Hal & Bons](https://myanimelist.net/anime/3516)
 	- Publication Status: Finished Airing
 	- MAL ID: 3516
@@ -3401,6 +3453,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 41282
 	- Genre(s): Hentai
+- [Harukanaru Toki no Naka de 3: Owarinaki Unmei Specials](https://myanimelist.net/anime/62830)
+	- Publication Status: Finished Airing
+	- MAL ID: 62830
+	- Genre(s): Action, Fantasy, Historical, Isekai, Military, Time Travel
 - [Hasande Ageru](https://myanimelist.net/anime/38036)
 	- Publication Status: Finished Airing
 	- MAL ID: 38036
@@ -3460,11 +3516,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Heisei Inu Monogatari Bow](https://myanimelist.net/anime/2749)
 	- Publication Status: Finished Airing
 	- MAL ID: 2749
-	- Genre(s): Adventure, Comedy
+	- Genre(s): Comedy, Gag Humor, Pets, Seinen
 - [Heisei Inu Monogatari Bow Movie](https://myanimelist.net/anime/2750)
 	- Publication Status: Finished Airing
 	- MAL ID: 2750
-	- Genre(s): Adventure, Comedy
+	- Genre(s): Comedy, Gag Humor, Pets, Seinen
 - [Heisei Policemen!!](https://myanimelist.net/anime/18389)
 	- Publication Status: Finished Airing
 	- MAL ID: 18389
@@ -3609,6 +3665,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 38011
 	- Genre(s): N/A
+- [Help!!](https://myanimelist.net/anime/58597)
+	- Publication Status: Finished Airing
+	- MAL ID: 58597
+	- Genre(s): Music
 - [Hermes: Ai wa Kaze no Gotoku](https://myanimelist.net/anime/6937)
 	- Publication Status: Finished Airing
 	- MAL ID: 6937
@@ -3773,6 +3833,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 1741
 	- Genre(s): Comedy, Ecchi
+- [Hitchcock-ui Eotteonhalu](https://myanimelist.net/anime/60339)
+	- Publication Status: Finished Airing
+	- MAL ID: 60339
+	- Genre(s): Drama
 - [Hito tte Tada no Tsutsu Janai desu ka](https://myanimelist.net/anime/61550)
 	- Publication Status: Finished Airing
 	- MAL ID: 61550
@@ -3856,23 +3920,23 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Hoozuki no Reitetsu](https://myanimelist.net/anime/20431)
 	- Publication Status: Finished Airing
 	- MAL ID: 20431
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 - [Hoozuki no Reitetsu 2nd Season](https://myanimelist.net/anime/35075)
 	- Publication Status: Finished Airing
 	- MAL ID: 35075
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 - [Hoozuki no Reitetsu 2nd Season OVA](https://myanimelist.net/anime/39538)
 	- Publication Status: Finished Airing
 	- MAL ID: 39538
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 - [Hoozuki no Reitetsu 2nd Season: Sono Ni](https://myanimelist.net/anime/37029)
 	- Publication Status: Finished Airing
 	- MAL ID: 37029
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Fantasy, Seinen
 - [Hoozuki no Reitetsu OVA](https://myanimelist.net/anime/24471)
 	- Publication Status: Finished Airing
 	- MAL ID: 24471
-	- Genre(s): Comedy, Fantasy, Mythology, Seinen
+	- Genre(s): Comedy, Mythology, Seinen
 - [HORIZON feat. Hatsune Miku](https://myanimelist.net/anime/19185)
 	- Publication Status: Finished Airing
 	- MAL ID: 19185
@@ -3885,6 +3949,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 5927
 	- Genre(s): Comedy, Romance, Sci-Fi
+- [Hoshi no Kodomo to Hajimari no Ki](https://myanimelist.net/anime/61039)
+	- Publication Status: Finished Airing
+	- MAL ID: 61039
+	- Genre(s): Fantasy
 - [Hoshi no Oujisama Petit Prince](https://myanimelist.net/anime/3811)
 	- Publication Status: Finished Airing
 	- MAL ID: 3811
@@ -3925,6 +3993,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 35557
 	- Genre(s): Action, Anthropomorphic, Drama, Fantasy, Mystery, Seinen
+- [Housenka](https://myanimelist.net/anime/58915)
+	- Publication Status: Finished Airing
+	- MAL ID: 58915
+	- Genre(s): N/A
 - [Howling](https://myanimelist.net/anime/50036)
 	- Publication Status: Finished Airing
 	- MAL ID: 50036
@@ -3940,7 +4012,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Huang Yan](https://myanimelist.net/anime/50575)
 	- Publication Status: Finished Airing
 	- MAL ID: 50575
-	- Genre(s): Romance, Suspense
+	- Genre(s): Psychological, Romance, Suspense
 - [Huanmeng Shan Hai Yao](https://myanimelist.net/anime/50025)
 	- Publication Status: Finished Airing
 	- MAL ID: 50025
@@ -4204,7 +4276,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Ippatsu Hicchuu!! Devander](https://myanimelist.net/anime/13693)
 	- Publication Status: Finished Airing
 	- MAL ID: 13693
-	- Genre(s): Action, Mecha, Parody, Sci-Fi, Super Power
+	- Genre(s): Mecha, Parody, Sci-Fi, Super Power
 - [Ippatsu Kanta-kun](https://myanimelist.net/anime/5287)
 	- Publication Status: Finished Airing
 	- MAL ID: 5287
@@ -4289,6 +4361,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 55629
 	- Genre(s): Ecchi, Military
+- [Izumi no Koe](https://myanimelist.net/anime/56502)
+	- Publication Status: Finished Airing
+	- MAL ID: 56502
+	- Genre(s): Drama
 - [Izure Saikyou no Renkinjutsushi?](https://myanimelist.net/anime/58822)
 	- Publication Status: Finished Airing
 	- MAL ID: 58822
@@ -4309,9 +4385,9 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 40412
 	- Genre(s): Anthropomorphic, Music
-- [Jarinko Chie (TV)](https://myanimelist.net/anime/3947)
+- [Jarinko Chie (TV) Special](https://myanimelist.net/anime/51646)
 	- Publication Status: Finished Airing
-	- MAL ID: 3947
+	- MAL ID: 51646
 	- Genre(s): Comedy, Drama, Seinen
 - [Jean Valjean Monogatari](https://myanimelist.net/anime/5900)
 	- Publication Status: Finished Airing
@@ -4329,13 +4405,13 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 39419
 	- Genre(s): Action, Adventure, Comedy, Historical, Martial Arts
-- [Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 2nd Season](https://myanimelist.net/anime/44078)
-	- Publication Status: Finished Airing
-	- MAL ID: 44078
-	- Genre(s): Action, Adventure, Comedy, Historical, Martial Arts
 - [Jian Wang 3: Xia Gan Yi Dan Shen Jianxin 3rd Season](https://myanimelist.net/anime/44079)
 	- Publication Status: Finished Airing
 	- MAL ID: 44079
+	- Genre(s): Action, Adventure, Comedy, Historical, Martial Arts
+- [Jian Wang 3: Xia Gan Yi Dan Shen Jianxin II](https://myanimelist.net/anime/44078)
+	- Publication Status: Finished Airing
+	- MAL ID: 44078
 	- Genre(s): Action, Adventure, Comedy, Historical, Martial Arts
 - [Jian Wang 3: Xia Gan Yi Dan Shen Jianxin Zhi Chang Piao](https://myanimelist.net/anime/44228)
 	- Publication Status: Finished Airing
@@ -4365,10 +4441,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 38881
 	- Genre(s): Comedy, Gag Humor, Shounen, Slice of Life
+- [Jin Zhan Fashi](https://myanimelist.net/anime/56963)
+	- Publication Status: Finished Airing
+	- MAL ID: 56963
+	- Genre(s): Action, Adventure, Fantasy, Video Game
 - [Jinki:Extend - Sorekara](https://myanimelist.net/anime/848)
 	- Publication Status: Finished Airing
 	- MAL ID: 848
-	- Genre(s): Action, Mecha, Sci-Fi, Shounen
+	- Genre(s): Mecha, Sci-Fi, Shounen
 - [Jinkou Shoujo: Henshin Sex Android](https://myanimelist.net/anime/6122)
 	- Publication Status: Finished Airing
 	- MAL ID: 6122
@@ -4388,7 +4468,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Jinzou Ningen Kikaider The Animation](https://myanimelist.net/anime/598)
 	- Publication Status: Finished Airing
 	- MAL ID: 598
-	- Genre(s): Action, Drama, Mecha, Sci-Fi, Shounen
+	- Genre(s): Drama, Mecha, Sci-Fi, Shounen
 - [Jishu Seisaku Movie Binchou-tan](https://myanimelist.net/anime/1926)
 	- Publication Status: Finished Airing
 	- MAL ID: 1926
@@ -4396,7 +4476,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Jiu Tian Xuan Di Jue](https://myanimelist.net/anime/49873)
 	- Publication Status: Finished Airing
 	- MAL ID: 49873
-	- Genre(s): Adventure, Fantasy, Martial Arts, Mythology
+	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts, Mythology
 - [Jiu Tian Xuan Di Jue 2nd Season](https://myanimelist.net/anime/51735)
 	- Publication Status: Finished Airing
 	- MAL ID: 51735
@@ -4429,6 +4509,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 38626
 	- Genre(s): Racing, Sports
+- [Juedai Shuang Jiao: Tian Wai You Tian](https://myanimelist.net/anime/60434)
+	- Publication Status: Finished Airing
+	- MAL ID: 60434
+	- Genre(s): Action, Martial Arts
 - [Jujutsu Kaisen Official PVs](https://myanimelist.net/anime/38777)
 	- Publication Status: Finished Airing
 	- MAL ID: 38777
@@ -4469,6 +4553,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 19627
 	- Genre(s): Drama, Slice of Life
+- [Juubee Ninpuuchou Burst](https://myanimelist.net/anime/54017)
+	- Publication Status: Finished Airing
+	- MAL ID: 54017
+	- Genre(s): Action, Horror, Martial Arts, Samurai, Supernatural
 - [Kaba Enchou no Doubutsuen Nikki](https://myanimelist.net/anime/25057)
 	- Publication Status: Finished Airing
 	- MAL ID: 25057
@@ -4688,11 +4776,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Karakuri Kengou Den Musashi Lord](https://myanimelist.net/anime/8065)
 	- Publication Status: Finished Airing
 	- MAL ID: 8065
-	- Genre(s): Action, Adventure, Mecha
+	- Genre(s): Adventure, Mecha
 - [Karakuri Kiden: Hiwou Senki](https://myanimelist.net/anime/3935)
 	- Publication Status: Finished Airing
 	- MAL ID: 3935
-	- Genre(s): Action, Adventure, Historical, Mecha
+	- Genre(s): Adventure, Historical, Mecha
 - [Karasu Tengu Kabuto](https://myanimelist.net/anime/2243)
 	- Publication Status: Finished Airing
 	- MAL ID: 2243
@@ -4757,6 +4845,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 9023
 	- Genre(s): Comedy
+- [Kawaii Festival](https://myanimelist.net/anime/58478)
+	- Publication Status: Finished Airing
+	- MAL ID: 58478
+	- Genre(s): Anthropomorphic, Kids, Music
 - [Kawaiku Naritai](https://myanimelist.net/anime/38852)
 	- Publication Status: Finished Airing
 	- MAL ID: 38852
@@ -4777,10 +4869,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 23157
 	- Genre(s): Music
-- [Kaze no Matasaburou](https://myanimelist.net/anime/12141)
-	- Publication Status: Finished Airing
-	- MAL ID: 12141
-	- Genre(s): Fantasy, Kids, Slice of Life
 - [Kaze no Yukue](https://myanimelist.net/anime/52893)
 	- Publication Status: Finished Airing
 	- MAL ID: 52893
@@ -4960,11 +5048,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou](https://myanimelist.net/anime/10581)
 	- Publication Status: Finished Airing
 	- MAL ID: 10581
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Space
 - [Kidou Senshi Gundam II: Ai Senshi-hen](https://myanimelist.net/anime/1091)
 	- Publication Status: Finished Airing
 	- MAL ID: 1091
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Drama, Mecha, Military, Sci-Fi, Space
 - [Kidou Senshi Gundam Unicorn: Episode EX - Hyakunen no Kodoku](https://myanimelist.net/anime/24371)
 	- Publication Status: Finished Airing
 	- MAL ID: 24371
@@ -4972,11 +5060,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Kidou Senshi Gundam ZZ](https://myanimelist.net/anime/86)
 	- Publication Status: Finished Airing
 	- MAL ID: 86
-	- Genre(s): Action, Comedy, Drama, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Comedy, Drama, Mecha, Military, Sci-Fi, Space
 - [Kidou Senshi Gundam: Fukushuu no Requiem](https://myanimelist.net/anime/55845)
 	- Publication Status: Finished Airing
 	- MAL ID: 55845
-	- Genre(s): Action, Adult Cast, Mecha, Military, Sci-Fi
+	- Genre(s): Adult Cast, Mecha, Military, Sci-Fi
 - [Kidou Senshi Gundam: Uchuu Seiki Yowa](https://myanimelist.net/anime/5723)
 	- Publication Status: Finished Airing
 	- MAL ID: 5723
@@ -4985,6 +5073,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 6318
 	- Genre(s): Comedy, Ecchi, Mecha, Parody
+- [Kijin Gentoushou](https://myanimelist.net/anime/49778)
+	- Publication Status: Finished Airing
+	- MAL ID: 49778
+	- Genre(s): Action, Adventure, Fantasy, Historical
 - [Kijutsushi x Majutsushi: Osaka Tanteibu no Jikenbo](https://myanimelist.net/anime/4497)
 	- Publication Status: Finished Airing
 	- MAL ID: 4497
@@ -5004,15 +5096,23 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Kikou Kantai Dairugger XV](https://myanimelist.net/anime/3609)
 	- Publication Status: Finished Airing
 	- MAL ID: 3609
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi, Space
+	- Genre(s): Adventure, Mecha, Sci-Fi, Space
 - [Kimagure Mercy](https://myanimelist.net/anime/36630)
 	- Publication Status: Finished Airing
 	- MAL ID: 36630
 	- Genre(s): Music
+- [Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai](https://myanimelist.net/anime/59192)
+	- Publication Status: Finished Airing
+	- MAL ID: 59192
+	- Genre(s): Action, Historical, Shounen, Supernatural
 - [Kimetsu no Yaiba: Hashira Geiko-hen](https://myanimelist.net/anime/55701)
 	- Publication Status: Finished Airing
 	- MAL ID: 55701
 	- Genre(s): Action, Historical, Shounen, Supernatural
+- [Kimi e](https://myanimelist.net/anime/61051)
+	- Publication Status: Finished Airing
+	- MAL ID: 61051
+	- Genre(s): Music
 - [KimiKiss Pure Rouge: Love Fighter](https://myanimelist.net/anime/4205)
 	- Publication Status: Finished Airing
 	- MAL ID: 4205
@@ -5037,10 +5137,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 19995
 	- Genre(s): Adventure, Sci-Fi
-- [King of Prism: Dramatic Prism.1](https://myanimelist.net/anime/59275)
-	- Publication Status: Finished Airing
-	- MAL ID: 59275
-	- Genre(s): Idols (Male), Music, Sports
 - [Kingdom of Chaos: Born to Kill](https://myanimelist.net/anime/3267)
 	- Publication Status: Finished Airing
 	- MAL ID: 3267
@@ -5056,7 +5152,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Kinkyuu Hasshin Saver Kids](https://myanimelist.net/anime/4504)
 	- Publication Status: Finished Airing
 	- MAL ID: 4504
-	- Genre(s): Action, Adventure, Comedy, Mecha, Sci-Fi
+	- Genre(s): Adventure, Comedy, Mecha, Sci-Fi
 - [Kinnikuman: Gyakushuu! Uchuu Kakure Choujin](https://myanimelist.net/anime/3276)
 	- Publication Status: Finished Airing
 	- MAL ID: 3276
@@ -5356,23 +5452,23 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Koukaku Kidoutai Arise: Alternative Architecture](https://myanimelist.net/anime/29325)
 	- Publication Status: Finished Airing
 	- MAL ID: 29325
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi, Suspense
+	- Genre(s): Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi, Suspense
 - [Koukaku Kidoutai Arise: Another Mission](https://myanimelist.net/anime/18989)
 	- Publication Status: Finished Airing
 	- MAL ID: 18989
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Sci-Fi
+	- Genre(s): Adult Cast, Detective, Mecha, Sci-Fi
 - [Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain](https://myanimelist.net/anime/17187)
 	- Publication Status: Finished Airing
 	- MAL ID: 17187
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi
+	- Genre(s): Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi
 - [Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears](https://myanimelist.net/anime/19193)
 	- Publication Status: Finished Airing
 	- MAL ID: 19193
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi
+	- Genre(s): Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi
 - [Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone](https://myanimelist.net/anime/19195)
 	- Publication Status: Finished Airing
 	- MAL ID: 19195
-	- Genre(s): Action, Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi, Suspense
+	- Genre(s): Adult Cast, Detective, Mecha, Mystery, Psychological, Sci-Fi, Suspense
 - [Koukaku Kidoutai Arise: Ghost in the Shell - Logicoma Specials](https://myanimelist.net/anime/21575)
 	- Publication Status: Finished Airing
 	- MAL ID: 21575
@@ -5380,7 +5476,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Koukaku Kidoutai: Shin Movie](https://myanimelist.net/anime/27411)
 	- Publication Status: Finished Airing
 	- MAL ID: 27411
-	- Genre(s): Action, Adult Cast, Award Winning, Detective, Mecha, Mystery, Psychological, Sci-Fi
+	- Genre(s): Adult Cast, Award Winning, Detective, Mecha, Mystery, Psychological, Sci-Fi
 - [Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D - Tachikoma na Hibi](https://myanimelist.net/anime/10950)
 	- Publication Status: Finished Airing
 	- MAL ID: 10950
@@ -5629,6 +5725,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 56176
 	- Genre(s): Idols (Female), Music, Supernatural
+- [Kyunkyun Miko Kyunkyun♡](https://myanimelist.net/anime/58539)
+	- Publication Status: Finished Airing
+	- MAL ID: 58539
+	- Genre(s): Music
 - [Kyuujitsu no Warumono-san](https://myanimelist.net/anime/54617)
 	- Publication Status: Finished Airing
 	- MAL ID: 54617
@@ -5809,6 +5909,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 4813
 	- Genre(s): Hentai
+- [Long Zu](https://myanimelist.net/anime/44408)
+	- Publication Status: Finished Airing
+	- MAL ID: 44408
+	- Genre(s): Adventure, Fantasy
 - [Lord of Vermilion: Guren no Ou](https://myanimelist.net/anime/37601)
 	- Publication Status: Finished Airing
 	- MAL ID: 37601
@@ -5833,6 +5937,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 32730
 	- Genre(s): Idols (Female), Music
+- [Love Me!](https://myanimelist.net/anime/62505)
+	- Publication Status: Finished Airing
+	- MAL ID: 62505
+	- Genre(s): Idols (Female), Music
 - [Lovesky Sagashite...](https://myanimelist.net/anime/52759)
 	- Publication Status: Finished Airing
 	- MAL ID: 52759
@@ -5849,7 +5957,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 61388
 	- Genre(s): Music
-- [Luo Xiao Hei Zhan Ji: Fan Wai](https://myanimelist.net/anime/36588)
+- [Luo Xiaohei Zhanji Fanwai](https://myanimelist.net/anime/36588)
 	- Publication Status: Finished Airing
 	- MAL ID: 36588
 	- Genre(s): Comedy, Music, Parody, School
@@ -6068,7 +6176,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Makyou Gaiden Le Deus](https://myanimelist.net/anime/4058)
 	- Publication Status: Finished Airing
 	- MAL ID: 4058
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Mamekichi Mameko NEET no Nichijou](https://myanimelist.net/anime/53011)
 	- Publication Status: Finished Airing
 	- MAL ID: 53011
@@ -6077,6 +6185,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 55195
 	- Genre(s): Comedy
+- [Mameshi-Pamyu-Pamyu](https://myanimelist.net/anime/33551)
+	- Publication Status: Finished Airing
+	- MAL ID: 33551
+	- Genre(s): Comedy, Parody
 - [Man Tou Riji](https://myanimelist.net/anime/35215)
 	- Publication Status: Finished Airing
 	- MAL ID: 35215
@@ -6172,7 +6284,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Mars](https://myanimelist.net/anime/10648)
 	- Publication Status: Finished Airing
 	- MAL ID: 10648
-	- Genre(s): Action, Mecha, Sci-Fi, Shounen
+	- Genre(s): Mecha, Sci-Fi, Shounen
 - [Marude Dameo](https://myanimelist.net/anime/19873)
 	- Publication Status: Finished Airing
 	- MAL ID: 19873
@@ -6188,7 +6300,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Mashin Eiyuuden Wataru: Shichikon no Ryuujinmaru - Saikai](https://myanimelist.net/anime/57828)
 	- Publication Status: Finished Airing
 	- MAL ID: 57828
-	- Genre(s): Action, Adventure, Comedy, Mecha
+	- Genre(s): Adventure, Comedy, Mecha
 - [Mashiro no Oto](https://myanimelist.net/anime/42590)
 	- Publication Status: Finished Airing
 	- MAL ID: 42590
@@ -6249,6 +6361,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 51474
 	- Genre(s): Music
+- [Mayonaka no Doa: Stay With Me (Houshou Marine Cover)](https://myanimelist.net/anime/56725)
+	- Publication Status: Finished Airing
+	- MAL ID: 56725
+	- Genre(s): Idols (Female), Music
 - [Mazinger Z x Hello Kitty x Chogokin](https://myanimelist.net/anime/51431)
 	- Publication Status: Finished Airing
 	- MAL ID: 51431
@@ -6301,6 +6417,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 36563
 	- Genre(s): Adult Cast, Combat Sports, Sci-Fi, Sports
+- [Megumi no Hito (Houshou Marine Cover)](https://myanimelist.net/anime/56251)
+	- Publication Status: Finished Airing
+	- MAL ID: 56251
+	- Genre(s): Music
 - [Mei Chuxi de Yinyangshi Yijia](https://myanimelist.net/anime/39678)
 	- Publication Status: Finished Airing
 	- MAL ID: 39678
@@ -6313,6 +6433,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 31165
 	- Genre(s): Drama
+- [Meikai Halloween Night!](https://myanimelist.net/anime/62881)
+	- Publication Status: Finished Airing
+	- MAL ID: 62881
+	- Genre(s): Fantasy, Music
 - [Meitantei Conan Movie 08: Ginyoku no Time Travel Recap](https://myanimelist.net/anime/7304)
 	- Publication Status: Finished Airing
 	- MAL ID: 7304
@@ -6425,6 +6549,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 19103
 	- Genre(s): Hentai
+- [Metamon Henshin Shiritori Battle](https://myanimelist.net/anime/62381)
+	- Publication Status: Finished Airing
+	- MAL ID: 62381
+	- Genre(s): Action, Comedy, Fantasy, Kids
 - [Metroid Short Animation](https://myanimelist.net/anime/37548)
 	- Publication Status: Finished Airing
 	- MAL ID: 37548
@@ -6512,7 +6640,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Mini Yon Soldier Rin!](https://myanimelist.net/anime/18275)
 	- Publication Status: Finished Airing
 	- MAL ID: 18275
-	- Genre(s): Action, Adventure, Mecha, Shounen
+	- Genre(s): Adventure, Mecha, Shounen
 - [Minky Momo in Tabidachi no Eki](https://myanimelist.net/anime/6492)
 	- Publication Status: Finished Airing
 	- MAL ID: 6492
@@ -6540,7 +6668,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Miraesonyeon Kunta Beomyuda 5000 Nyeon](https://myanimelist.net/anime/16800)
 	- Publication Status: Finished Airing
 	- MAL ID: 16800
-	- Genre(s): Action, Adventure, Mecha
+	- Genre(s): Adventure, Mecha
 - [Mirai Campanella](https://myanimelist.net/anime/61946)
 	- Publication Status: Finished Airing
 	- MAL ID: 61946
@@ -6645,13 +6773,13 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2246
 	- Genre(s): Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense
-- [Mononoke Movie: Dai-2 Shou - Hinezumi](https://myanimelist.net/anime/59408)
-	- Publication Status: Finished Airing
-	- MAL ID: 59408
-	- Genre(s): Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense
-- [Mononoke Movie: Karakasa](https://myanimelist.net/anime/52107)
+- [Mononoke Movie 1: Karakasa](https://myanimelist.net/anime/52107)
 	- Publication Status: Finished Airing
 	- MAL ID: 52107
+	- Genre(s): Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense
+- [Mononoke Movie 2: Hinezumi](https://myanimelist.net/anime/59408)
+	- Publication Status: Finished Airing
+	- MAL ID: 59408
 	- Genre(s): Adult Cast, Historical, Horror, Mystery, Mythology, Psychological, Supernatural, Suspense
 - [Monpy](https://myanimelist.net/anime/30117)
 	- Publication Status: Finished Airing
@@ -7312,7 +7440,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Obake Zukan!](https://myanimelist.net/anime/52319)
 	- Publication Status: Finished Airing
 	- MAL ID: 52319
-	- Genre(s): Comedy, Fantasy, Kids, Mythology, Supernatural
+	- Genre(s): Comedy, Kids, Mythology, Supernatural
 - [Obenkyou Shitoite yo](https://myanimelist.net/anime/43919)
 	- Publication Status: Finished Airing
 	- MAL ID: 43919
@@ -7489,10 +7617,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 52921
 	- Genre(s): Action, Adventure, Fantasy, Shounen
-- [One Punch Man 2nd Season Specials](https://myanimelist.net/anime/39705)
-	- Publication Status: Finished Airing
-	- MAL ID: 39705
-	- Genre(s): Action, Adult Cast, Comedy, Parody, Seinen, Super Power
 - [One Punch Man: Road to Hero](https://myanimelist.net/anime/31704)
 	- Publication Status: Finished Airing
 	- MAL ID: 31704
@@ -7525,10 +7649,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 53150
 	- Genre(s): Action, Historical, Samurai
-- [Onmyou Hyakki Monogatari PV](https://myanimelist.net/anime/58842)
-	- Publication Status: Finished Airing
-	- MAL ID: 58842
-	- Genre(s): Martial Arts, Mythology, Supernatural
 - [Onna Kyoushi Nijuusan-sai](https://myanimelist.net/anime/4852)
 	- Publication Status: Finished Airing
 	- MAL ID: 4852
@@ -7536,7 +7656,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Onna no Sono no Hoshi](https://myanimelist.net/anime/52601)
 	- Publication Status: Finished Airing
 	- MAL ID: 52601
-	- Genre(s): Comedy, Josei, School, Slice of Life, Workplace
+	- Genre(s): Comedy, Josei, School, Workplace
+- [Onomatopoeia Island](https://myanimelist.net/anime/62417)
+	- Publication Status: Finished Airing
+	- MAL ID: 62417
+	- Genre(s): Fantasy, Kids, Music
 - [Onyankopon](https://myanimelist.net/anime/35971)
 	- Publication Status: Finished Airing
 	- MAL ID: 35971
@@ -7869,6 +7993,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 23285
 	- Genre(s): Kids, Slice of Life
+- [PayPay Monogatari: Jiman no Collection](https://myanimelist.net/anime/61529)
+	- Publication Status: Finished Airing
+	- MAL ID: 61529
+	- Genre(s): N/A
 - [Peach Command Shin Momotarou Densetsu](https://myanimelist.net/anime/33310)
 	- Publication Status: Finished Airing
 	- MAL ID: 33310
@@ -7928,7 +8056,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Persona 2: Another Self](https://myanimelist.net/anime/31676)
 	- Publication Status: Finished Airing
 	- MAL ID: 31676
-	- Genre(s): Action, Fantasy, Mythology, Supernatural
+	- Genre(s): Action, Sci-Fi, Supernatural
 - [Persona 3 the Movie Meets "Walkman"](https://myanimelist.net/anime/32735)
 	- Publication Status: Finished Airing
 	- MAL ID: 32735
@@ -8252,7 +8380,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Promare: Galo-hen](https://myanimelist.net/anime/39991)
 	- Publication Status: Finished Airing
 	- MAL ID: 39991
-	- Genre(s): Action, Mecha, Sci-Fi, Super Power
+	- Genre(s): Mecha, Sci-Fi, Super Power
 - [Propo Dance!](https://myanimelist.net/anime/49442)
 	- Publication Status: Finished Airing
 	- MAL ID: 49442
@@ -8264,7 +8392,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Psychoarmor Govarian](https://myanimelist.net/anime/6428)
 	- Publication Status: Finished Airing
 	- MAL ID: 6428
-	- Genre(s): Action, Mecha, Sci-Fi, Super Power
+	- Genre(s): Mecha, Sci-Fi, Super Power
 - [Psychotic Polka](https://myanimelist.net/anime/52827)
 	- Publication Status: Finished Airing
 	- MAL ID: 52827
@@ -8384,7 +8512,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Ramen Chai-nyan](https://myanimelist.net/anime/49498)
 	- Publication Status: Finished Airing
 	- MAL ID: 49498
-	- Genre(s): Action, Comedy, Mecha
+	- Genre(s): Comedy, Mecha
 - [Ranma ½: DoCo Music Video](https://myanimelist.net/anime/10824)
 	- Publication Status: Finished Airing
 	- MAL ID: 10824
@@ -8465,6 +8593,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 37921
 	- Genre(s): Slice of Life
+- [Renai Senryaku](https://myanimelist.net/anime/59519)
+	- Publication Status: Finished Airing
+	- MAL ID: 59519
+	- Genre(s): Music
 - [Requiem](https://myanimelist.net/anime/3581)
 	- Publication Status: Finished Airing
 	- MAL ID: 3581
@@ -8476,7 +8608,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Restol: Teugsu Gujo Dae](https://myanimelist.net/anime/5636)
 	- Publication Status: Finished Airing
 	- MAL ID: 5636
-	- Genre(s): Action, Adventure, Detective, Mecha
+	- Genre(s): Adventure, Detective, Mecha
 - [Ribbon no Kishi (1999)](https://myanimelist.net/anime/14249)
 	- Publication Status: Finished Airing
 	- MAL ID: 14249
@@ -8624,7 +8756,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Saikyou Robot Daiouja](https://myanimelist.net/anime/4574)
 	- Publication Status: Finished Airing
 	- MAL ID: 4574
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Saint Luminous Jogakuin](https://myanimelist.net/anime/2781)
 	- Publication Status: Finished Airing
 	- MAL ID: 2781
@@ -8653,10 +8785,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 57532
 	- Genre(s): Action, Comedy, Delinquents, Martial Arts, School
-- [Sakura Momoko Gekijou: Coji-Coji](https://myanimelist.net/anime/3869)
-	- Publication Status: Finished Airing
-	- MAL ID: 3869
-	- Genre(s): Comedy, Fantasy
 - [Sakura Taisen Special](https://myanimelist.net/anime/52809)
 	- Publication Status: Finished Airing
 	- MAL ID: 52809
@@ -8837,6 +8965,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 52873
 	- Genre(s): Music
+- [Sekaiichi Kawaii Watashi](https://myanimelist.net/anime/58826)
+	- Publication Status: Finished Airing
+	- MAL ID: 58826
+	- Genre(s): Idols (Female), Music
 - [Sekiei Ayakashi Mangatan](https://myanimelist.net/anime/12907)
 	- Publication Status: Finished Airing
 	- MAL ID: 12907
@@ -8852,7 +8984,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Sengoku Bushou Retsuden Bakufuu Douji Hissatsuman](https://myanimelist.net/anime/16788)
 	- Publication Status: Finished Airing
 	- MAL ID: 16788
-	- Genre(s): Action, Adventure, Mecha
+	- Genre(s): Adventure, Mecha
 - [Sensou no Tsukurikata](https://myanimelist.net/anime/32728)
 	- Publication Status: Finished Airing
 	- MAL ID: 32728
@@ -8917,6 +9049,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 44263
 	- Genre(s): Music
+- [Shalom, Shaloum-chan!](https://myanimelist.net/anime/62416)
+	- Publication Status: Finished Airing
+	- MAL ID: 62416
+	- Genre(s): Adventure, Anthropomorphic, Slice of Life
 - [Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su](https://myanimelist.net/anime/52347)
 	- Publication Status: Finished Airing
 	- MAL ID: 52347
@@ -8937,11 +9073,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 13755
 	- Genre(s): Music
-- [Shaonian Bai Ma Zui Chun Feng](https://myanimelist.net/anime/48867)
+- [Shaonian Bai Ma Zui Chunfeng](https://myanimelist.net/anime/48867)
 	- Publication Status: Finished Airing
 	- MAL ID: 48867
 	- Genre(s): Action, Fantasy, Historical, Martial Arts
-- [Shaonian Bai Ma Zui Chun Feng 2nd Season](https://myanimelist.net/anime/59246)
+- [Shaonian Bai Ma Zui Chunfeng 2](https://myanimelist.net/anime/59246)
 	- Publication Status: Finished Airing
 	- MAL ID: 59246
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
@@ -9053,10 +9189,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 52832
 	- Genre(s): Music
-- [Shin Kidou Senki Gundam Wing: Operation 30th](https://myanimelist.net/anime/62120)
-	- Publication Status: Finished Airing
-	- MAL ID: 62120
-	- Genre(s): Action, Mecha, Music, Sci-Fi
 - [Shin Kyojin no Hoshi](https://myanimelist.net/anime/15875)
 	- Publication Status: Finished Airing
 	- MAL ID: 15875
@@ -9120,7 +9252,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Shinkalion Hello Kitty](https://myanimelist.net/anime/51324)
 	- Publication Status: Finished Airing
 	- MAL ID: 51324
-	- Genre(s): Action, Kids, Mecha, Sci-Fi
+	- Genre(s): Kids, Mecha, Sci-Fi
 - [Shinken Densetsu: Tight Road](https://myanimelist.net/anime/22313)
 	- Publication Status: Finished Airing
 	- MAL ID: 22313
@@ -9148,7 +9280,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Shinseikiden Mars](https://myanimelist.net/anime/1712)
 	- Publication Status: Finished Airing
 	- MAL ID: 1712
-	- Genre(s): Action, Mecha, Sci-Fi, Shounen
+	- Genre(s): Mecha, Sci-Fi, Shounen
 - [Shinshaku Sengoku Eiyuu Densetsu: Sanada Juu Yuushi](https://myanimelist.net/anime/989)
 	- Publication Status: Finished Airing
 	- MAL ID: 989
@@ -9408,12 +9540,12 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Sonic X Pilot](https://myanimelist.net/anime/10263)
 	- Publication Status: Finished Airing
 	- MAL ID: 10263
-	- Genre(s): Action, Adventure, Comedy, Kids, Mecha, Sci-Fi
+	- Genre(s): Adventure, Comedy, Kids, Mecha, Sci-Fi
 - [Sonna Ame no Hi ni Wa](https://myanimelist.net/anime/51428)
 	- Publication Status: Finished Airing
 	- MAL ID: 51428
 	- Genre(s): Music
-- [Sono Kinisasete yo: My My Mai](https://myanimelist.net/anime/3095)
+- [Sono Ki ni Sasete yo: My My Mai](https://myanimelist.net/anime/3095)
 	- Publication Status: Finished Airing
 	- MAL ID: 3095
 	- Genre(s): Comedy, Ecchi, Supernatural
@@ -9552,7 +9684,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Spectral Force](https://myanimelist.net/anime/1585)
 	- Publication Status: Finished Airing
 	- MAL ID: 1585
-	- Genre(s): Fantasy, Mythology
+	- Genre(s): Fantasy
 - [Spectral Force Chronicle Divergence](https://myanimelist.net/anime/3695)
 	- Publication Status: Finished Airing
 	- MAL ID: 3695
@@ -9645,6 +9777,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 47972
 	- Genre(s): Music, Romance
+- [Suki ni Zen Furou](https://myanimelist.net/anime/53275)
+	- Publication Status: Finished Airing
+	- MAL ID: 53275
+	- Genre(s): Music, Slice of Life
 - [Suki Suki Diesuki Chou Ayeshiteru](https://myanimelist.net/anime/62136)
 	- Publication Status: Finished Airing
 	- MAL ID: 62136
@@ -9772,7 +9908,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Taiyou no Mokushiroku: A Spirit of the Sun](https://myanimelist.net/anime/1857)
 	- Publication Status: Finished Airing
 	- MAL ID: 1857
-	- Genre(s): Drama, Sci-Fi
+	- Genre(s): Drama, Sci-Fi, Seinen
 - [Taka no Tsume 8: Yoshida-kun no Batten File](https://myanimelist.net/anime/33662)
 	- Publication Status: Finished Airing
 	- MAL ID: 33662
@@ -9809,6 +9945,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 8079
 	- Genre(s): Avant Garde, Sci-Fi
+- [Tame-Lie-One-Step](https://myanimelist.net/anime/58825)
+	- Publication Status: Finished Airing
+	- MAL ID: 58825
+	- Genre(s): Idols (Female), Music
 - [TANK S.W.A.T. 01](https://myanimelist.net/anime/2181)
 	- Publication Status: Finished Airing
 	- MAL ID: 2181
@@ -9924,7 +10064,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Tenkousei wa Kounin Kaikeishi!](https://myanimelist.net/anime/37133)
 	- Publication Status: Finished Airing
 	- MAL ID: 37133
-	- Genre(s): School, Slice of Life
+	- Genre(s): Educational, School, Slice of Life
 - [Tenkuu Senki Shurato: Sousei e no Antou](https://myanimelist.net/anime/2114)
 	- Publication Status: Finished Airing
 	- MAL ID: 2114
@@ -10012,7 +10152,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Tetsujin 28-gou (1980)](https://myanimelist.net/anime/4208)
 	- Publication Status: Finished Airing
 	- MAL ID: 4208
-	- Genre(s): Action, Mecha
+	- Genre(s): Mecha
 - [Tetsujin 28-gou (2004)](https://myanimelist.net/anime/2337)
 	- Publication Status: Finished Airing
 	- MAL ID: 2337
@@ -10024,11 +10164,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Tetsujin 28-gou: Hakuchuu no Zangetsu](https://myanimelist.net/anime/10005)
 	- Publication Status: Finished Airing
 	- MAL ID: 10005
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Tetsuwan Atom: Ao Kishi no Kan](https://myanimelist.net/anime/17965)
 	- Publication Status: Finished Airing
 	- MAL ID: 17965
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Tetsuwan Atom: Chikyuu Saigo no Hi](https://myanimelist.net/anime/17961)
 	- Publication Status: Finished Airing
 	- MAL ID: 17961
@@ -10036,7 +10176,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou](https://myanimelist.net/anime/18637)
 	- Publication Status: Finished Airing
 	- MAL ID: 18637
-	- Genre(s): Action, Mecha, Sci-Fi, Shounen, Super Power
+	- Genre(s): Mecha, Sci-Fi, Shounen, Super Power
 - [Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...](https://myanimelist.net/anime/17963)
 	- Publication Status: Finished Airing
 	- MAL ID: 17963
@@ -10169,6 +10309,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 35000
 	- Genre(s): Comedy, Ecchi, Harem, Romance, School, Sci-Fi, Shounen
+- [Toaru Hi no Kabigon](https://myanimelist.net/anime/62200)
+	- Publication Status: Finished Airing
+	- MAL ID: 62200
+	- Genre(s): Fantasy, Kids, Slice of Life
 - [Toaru Ossan no VRMMO Katsudouki](https://myanimelist.net/anime/54431)
 	- Publication Status: Finished Airing
 	- MAL ID: 54431
@@ -10209,6 +10353,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2179
 	- Genre(s): Drama, Romance, School
+- [Tokimeki Rainbow](https://myanimelist.net/anime/58328)
+	- Publication Status: Finished Airing
+	- MAL ID: 58328
+	- Genre(s): Anthropomorphic, Kids, Music
 - [Tokineiro](https://myanimelist.net/anime/2862)
 	- Publication Status: Finished Airing
 	- MAL ID: 2862
@@ -10220,7 +10368,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Tokusou Senshatai Dominion](https://myanimelist.net/anime/1152)
 	- Publication Status: Finished Airing
 	- MAL ID: 1152
-	- Genre(s): Action, Comedy, Detective, Mecha, Mystery, Sci-Fi, Shounen
+	- Genre(s): Comedy, Detective, Mecha, Mystery, Sci-Fi, Shounen
 - [Tokyo Babylon: Vision](https://myanimelist.net/anime/24139)
 	- Publication Status: Finished Airing
 	- MAL ID: 24139
@@ -10245,6 +10393,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 57292
 	- Genre(s): Music
+- [Tokyogurashi!](https://myanimelist.net/anime/33119)
+	- Publication Status: Finished Airing
+	- MAL ID: 33119
+	- Genre(s): Music, Parody
 - [Tom Sawyer no Bouken Specials](https://myanimelist.net/anime/25069)
 	- Publication Status: Finished Airing
 	- MAL ID: 25069
@@ -10348,7 +10500,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Transformers Superlink Special](https://myanimelist.net/anime/9528)
 	- Publication Status: Finished Airing
 	- MAL ID: 9528
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [TRAPxTRAP feat. Hatsune Miku](https://myanimelist.net/anime/40559)
 	- Publication Status: Finished Airing
 	- MAL ID: 40559
@@ -10381,6 +10533,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2190
 	- Genre(s): Hentai
+- [Tsuihou Shiromadoushi Mini Anime](https://myanimelist.net/anime/62037)
+	- Publication Status: Finished Airing
+	- MAL ID: 62037
+	- Genre(s): Comedy, Fantasy
 - [Tsuki no Sango](https://myanimelist.net/anime/12867)
 	- Publication Status: Finished Airing
 	- MAL ID: 12867
@@ -10516,15 +10672,15 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Uchuu no Kishi Tekkaman Blade OVA: Burning Clock](https://myanimelist.net/anime/2299)
 	- Publication Status: Finished Airing
 	- MAL ID: 2299
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Uchuu no Senshi](https://myanimelist.net/anime/2516)
 	- Publication Status: Finished Airing
 	- MAL ID: 2516
-	- Genre(s): Action, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Mecha, Military, Sci-Fi, Space
 - [Uchuu Taitei God Sigma](https://myanimelist.net/anime/4183)
 	- Publication Status: Finished Airing
 	- MAL ID: 4183
-	- Genre(s): Action, Mecha, Space
+	- Genre(s): Mecha, Space
 - [Uchuujin Pipi](https://myanimelist.net/anime/19985)
 	- Publication Status: Finished Airing
 	- MAL ID: 19985
@@ -10572,7 +10728,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Umi kara no Shisha](https://myanimelist.net/anime/9566)
 	- Publication Status: Finished Airing
 	- MAL ID: 9566
-	- Genre(s): Action, Mecha, Sci-Fi, Super Power
+	- Genre(s): Mecha, Sci-Fi, Super Power
 - [Umi Monogatari: Kanon to Iku Amamikoshima](https://myanimelist.net/anime/10306)
 	- Publication Status: Finished Airing
 	- MAL ID: 10306
@@ -10581,6 +10737,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 2718
 	- Genre(s): Adventure, Fantasy, Shounen
+- [Umi Yori Fukai Sora no Shita](https://myanimelist.net/anime/51813)
+	- Publication Status: Finished Airing
+	- MAL ID: 51813
+	- Genre(s): Idols (Female), Music
 - [UnAlive](https://myanimelist.net/anime/52454)
 	- Publication Status: Finished Airing
 	- MAL ID: 52454
@@ -10625,6 +10785,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 32639
 	- Genre(s): Music
+- [Usagi](https://myanimelist.net/anime/52690)
+	- Publication Status: Finished Airing
+	- MAL ID: 52690
+	- Genre(s): Avant Garde, Horror
 - [Usaru-san](https://myanimelist.net/anime/7174)
 	- Publication Status: Finished Airing
 	- MAL ID: 7174
@@ -10680,11 +10844,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Vandread: Gekitou-hen](https://myanimelist.net/anime/1111)
 	- Publication Status: Finished Airing
 	- MAL ID: 1111
-	- Genre(s): Action, Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space
+	- Genre(s): Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space
 - [Vandread: Taidou-hen](https://myanimelist.net/anime/1112)
 	- Publication Status: Finished Airing
 	- MAL ID: 1112
-	- Genre(s): Action, Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space
+	- Genre(s): Adventure, Comedy, Ecchi, Mecha, Sci-Fi, Space
 - [Vegeta Super Yasaijin ni Narou-hen](https://myanimelist.net/anime/48617)
 	- Publication Status: Finished Airing
 	- MAL ID: 48617
@@ -10704,7 +10868,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Video Senshi Lezarion](https://myanimelist.net/anime/6672)
 	- Publication Status: Finished Airing
 	- MAL ID: 6672
-	- Genre(s): Action, Mecha, Sci-Fi
+	- Genre(s): Mecha, Sci-Fi
 - [Viking](https://myanimelist.net/anime/55443)
 	- Publication Status: Finished Airing
 	- MAL ID: 55443
@@ -10741,6 +10905,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 38998
 	- Genre(s): Comedy, Music
+- [VirtuaReal Love](https://myanimelist.net/anime/62678)
+	- Publication Status: Finished Airing
+	- MAL ID: 62678
+	- Genre(s): Idols (Female), Music
 - [Visionary](https://myanimelist.net/anime/4700)
 	- Publication Status: Finished Airing
 	- MAL ID: 4700
@@ -10748,7 +10916,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Votoms Finder](https://myanimelist.net/anime/8249)
 	- Publication Status: Finished Airing
 	- MAL ID: 8249
-	- Genre(s): Action, Drama, Mecha, Military, Sci-Fi
+	- Genre(s): Drama, Mecha, Military, Sci-Fi
 - [VSPO! x Vanguard Animation PV](https://myanimelist.net/anime/57846)
 	- Publication Status: Finished Airing
 	- MAL ID: 57846
@@ -10780,7 +10948,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Wakusei Daikaiju Negadon](https://myanimelist.net/anime/3070)
 	- Publication Status: Finished Airing
 	- MAL ID: 3070
-	- Genre(s): Action, Fantasy, Mecha, Military, Sci-Fi, Space
+	- Genre(s): Fantasy, Mecha, Military, Sci-Fi, Space
 - [Wakusei Robo Danguard Ace tai Konchuu Robot Gundan](https://myanimelist.net/anime/8707)
 	- Publication Status: Finished Airing
 	- MAL ID: 8707
@@ -10792,7 +10960,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Wan Jie Du Zun](https://myanimelist.net/anime/48684)
 	- Publication Status: Finished Airing
 	- MAL ID: 48684
-	- Genre(s): Fantasy, Historical, Martial Arts
+	- Genre(s): Action, Fantasy, Historical, Martial Arts
 - [Wan Jie Du Zun 2nd Season](https://myanimelist.net/anime/52765)
 	- Publication Status: Finished Airing
 	- MAL ID: 52765
@@ -10853,10 +11021,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 57699
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
-- [Wanko to Piroshi](https://myanimelist.net/anime/60231)
-	- Publication Status: Finished Airing
-	- MAL ID: 60231
-	- Genre(s): Anthropomorphic, Kids
 - [Wankorobee](https://myanimelist.net/anime/2708)
 	- Publication Status: Finished Airing
 	- MAL ID: 2708
@@ -10965,6 +11129,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 11789
 	- Genre(s): Fantasy, Kids
+- [With Pochi! Yoshi's Woolly World Special Anime](https://myanimelist.net/anime/48872)
+	- Publication Status: Finished Airing
+	- MAL ID: 48872
+	- Genre(s): Comedy, Slice of Life
 - [With You: Mitsumeteitai](https://myanimelist.net/anime/2538)
 	- Publication Status: Finished Airing
 	- MAL ID: 2538
@@ -10976,7 +11144,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Wizard Barristers: Benmashi Cecil](https://myanimelist.net/anime/20053)
 	- Publication Status: Finished Airing
 	- MAL ID: 20053
-	- Genre(s): Action, Fantasy, Mecha, Urban Fantasy
+	- Genre(s): Fantasy, Mecha, Urban Fantasy
+- [Wo De San Ti](https://myanimelist.net/anime/59351)
+	- Publication Status: Finished Airing
+	- MAL ID: 59351
+	- Genre(s): Sci-Fi
 - [Wo Qi Ku Le Baiwan Xiulian Zhe](https://myanimelist.net/anime/49952)
 	- Publication Status: Finished Airing
 	- MAL ID: 49952
@@ -10997,6 +11169,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 12809
 	- Genre(s): Comedy, Fantasy
+- [Wonder Scale](https://myanimelist.net/anime/58823)
+	- Publication Status: Finished Airing
+	- MAL ID: 58823
+	- Genre(s): Idols (Female), Music
 - [Wonky Monkey](https://myanimelist.net/anime/55049)
 	- Publication Status: Finished Airing
 	- MAL ID: 55049
@@ -11041,6 +11217,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 37936
 	- Genre(s): Action, Fantasy, Historical, Martial Arts
+- [Wuyan Xia](https://myanimelist.net/anime/52854)
+	- Publication Status: Finished Airing
+	- MAL ID: 52854
+	- Genre(s): Drama
 - [X Densha de Ikou](https://myanimelist.net/anime/1973)
 	- Publication Status: Finished Airing
 	- MAL ID: 1973
@@ -11052,7 +11232,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Xia Meng Hui](https://myanimelist.net/anime/59018)
 	- Publication Status: Finished Airing
 	- MAL ID: 59018
-	- Genre(s): Award Winning, Drama
+	- Genre(s): Drama
 - [Xiao Mo Tou Baolu La!](https://myanimelist.net/anime/50411)
 	- Publication Status: Finished Airing
 	- MAL ID: 50411
@@ -11065,10 +11245,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 45044
 	- Genre(s): Adventure, Anthropomorphic, Fantasy, Kids
-- [Xiaobing Chuanqi](https://myanimelist.net/anime/58754)
-	- Publication Status: Finished Airing
-	- MAL ID: 58754
-	- Genre(s): Action, Sci-Fi
 - [Xin Chenglong Lixian Ji: Mengjing Shouhu Zhe](https://myanimelist.net/anime/47428)
 	- Publication Status: Finished Airing
 	- MAL ID: 47428
@@ -11105,6 +11281,10 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 24603
 	- Genre(s): Comedy, Fantasy, Kids
+- [Xiyou Ji: Zai Shi Yao Wang](https://myanimelist.net/anime/45654)
+	- Publication Status: Finished Airing
+	- MAL ID: 45654
+	- Genre(s): Action, Fantasy
 - [Xmas Song](https://myanimelist.net/anime/38905)
 	- Publication Status: Finished Airing
 	- MAL ID: 38905
@@ -11121,7 +11301,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 49569
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts, Romance
-- [Xue Ying Ling Zhu Zhi Qi Yu Pian](https://myanimelist.net/anime/40991)
+- [Xue Ying Ling Zhu: Qi Yu Pian](https://myanimelist.net/anime/40991)
 	- Publication Status: Finished Airing
 	- MAL ID: 40991
 	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts, Romance
@@ -11228,35 +11408,39 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Yao Shen Ji](https://myanimelist.net/anime/35626)
 	- Publication Status: Finished Airing
 	- MAL ID: 35626
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 2nd Season](https://myanimelist.net/anime/37164)
 	- Publication Status: Finished Airing
 	- MAL ID: 37164
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 3rd Season](https://myanimelist.net/anime/38435)
 	- Publication Status: Finished Airing
 	- MAL ID: 38435
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 4th Season](https://myanimelist.net/anime/40734)
 	- Publication Status: Finished Airing
 	- MAL ID: 40734
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 5th Season](https://myanimelist.net/anime/50274)
 	- Publication Status: Finished Airing
 	- MAL ID: 50274
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 6th Season](https://myanimelist.net/anime/59891)
 	- Publication Status: Finished Airing
 	- MAL ID: 59891
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 7th Season](https://myanimelist.net/anime/54285)
 	- Publication Status: Finished Airing
 	- MAL ID: 54285
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Fantasy, Martial Arts, Romance
 - [Yao Shen Ji 8th Season](https://myanimelist.net/anime/58744)
 	- Publication Status: Finished Airing
 	- MAL ID: 58744
-	- Genre(s): Action, Adventure, Comedy, Fantasy, Martial Arts, Mythology, Romance
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Martial Arts, Romance
+- [Yao Shen Ji 9th Season](https://myanimelist.net/anime/62026)
+	- Publication Status: Finished Airing
+	- MAL ID: 62026
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Martial Arts, Romance
 - [Yasamura Yasashi no Yasashii Sekai](https://myanimelist.net/anime/33933)
 	- Publication Status: Finished Airing
 	- MAL ID: 33933
@@ -11292,7 +11476,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Yi Nian Yong Heng 3rd Season](https://myanimelist.net/anime/56215)
 	- Publication Status: Finished Airing
 	- MAL ID: 56215
-	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
+	- Genre(s): Action, Adventure, Comedy, Fantasy, Historical, Martial Arts
 - [Yi Nian Yong Heng Xiao Juchang](https://myanimelist.net/anime/52519)
 	- Publication Status: Finished Airing
 	- MAL ID: 52519
@@ -11340,7 +11524,7 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Yoiko](https://myanimelist.net/anime/4591)
 	- Publication Status: Finished Airing
 	- MAL ID: 4591
-	- Genre(s): Comedy, Ecchi, School, Slice of Life
+	- Genre(s): Comedy, Ecchi, School, Seinen
 - [Yokohama Kaidashi Kikou](https://myanimelist.net/anime/975)
 	- Publication Status: Finished Airing
 	- MAL ID: 975
@@ -11364,11 +11548,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Yong Sheng: Hai Shi Xian Ling](https://myanimelist.net/anime/59398)
 	- Publication Status: Finished Airing
 	- MAL ID: 59398
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts
+	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
 - [Yong Sheng: Qizhuang Shanhe](https://myanimelist.net/anime/58448)
 	- Publication Status: Finished Airing
 	- MAL ID: 58448
-	- Genre(s): Action, Adventure, Fantasy, Martial Arts
+	- Genre(s): Action, Adventure, Fantasy, Historical, Martial Arts
 - [Yonimo Osoroshii Grimm Douwa](https://myanimelist.net/anime/4085)
 	- Publication Status: Finished Airing
 	- MAL ID: 4085
@@ -11449,10 +11633,6 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 40519
 	- Genre(s): Fantasy, Hentai
-- [Yousei Dick](https://myanimelist.net/anime/7625)
-	- Publication Status: Finished Airing
-	- MAL ID: 7625
-	- Genre(s): Fantasy, Kids
 - [Yousei Ou](https://myanimelist.net/anime/7818)
 	- Publication Status: Finished Airing
 	- MAL ID: 7818
@@ -11480,19 +11660,19 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Yuan Long](https://myanimelist.net/anime/42284)
 	- Publication Status: Finished Airing
 	- MAL ID: 42284
-	- Genre(s): Action, Adventure, Fantasy
+	- Genre(s): Action, Adventure, Fantasy, Historical
 - [Yuan Long 2nd Season](https://myanimelist.net/anime/44071)
 	- Publication Status: Finished Airing
 	- MAL ID: 44071
-	- Genre(s): Action, Adventure, Fantasy
+	- Genre(s): Action, Adventure, Fantasy, Historical
 - [Yuan Long 3rd Season](https://myanimelist.net/anime/50406)
 	- Publication Status: Finished Airing
 	- MAL ID: 50406
-	- Genre(s): Action, Adventure, Fantasy
+	- Genre(s): Action, Adventure, Fantasy, Historical
 - [Yuanshen Tiwate Pian: Mu Jian PV - Dong Ye Yu Xi](https://myanimelist.net/anime/58537)
 	- Publication Status: Finished Airing
 	- MAL ID: 58537
-	- Genre(s): Adult Cast, Fantasy
+	- Genre(s): Fantasy
 - [Yuanshen: Chen Jian Xing Lu](https://myanimelist.net/anime/61840)
 	- Publication Status: Finished Airing
 	- MAL ID: 61840
@@ -11513,10 +11693,14 @@ It is commonnly recommended to take a screenshot of the character list so that i
 	- Publication Status: Finished Airing
 	- MAL ID: 59301
 	- Genre(s): Fantasy, Isekai
+- [Yujin Xingzhe](https://myanimelist.net/anime/61622)
+	- Publication Status: Finished Airing
+	- MAL ID: 61622
+	- Genre(s): Action, Sci-Fi
 - [Yuki](https://myanimelist.net/anime/8598)
 	- Publication Status: Finished Airing
 	- MAL ID: 8598
-	- Genre(s): Adventure, Fantasy, Mythology
+	- Genre(s): Adventure, Fantasy, Historical, Mythology
 - [Yuki Terai](https://myanimelist.net/anime/6412)
 	- Publication Status: Finished Airing
 	- MAL ID: 6412
@@ -11648,11 +11832,11 @@ It is commonnly recommended to take a screenshot of the character list so that i
 - [Zero Tester](https://myanimelist.net/anime/9520)
 	- Publication Status: Finished Airing
 	- MAL ID: 9520
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Zero Tester: Chikyuu wo Mamore!](https://myanimelist.net/anime/9522)
 	- Publication Status: Finished Airing
 	- MAL ID: 9522
-	- Genre(s): Action, Adventure, Mecha, Sci-Fi
+	- Genre(s): Adventure, Mecha, Sci-Fi
 - [Zetsubou Funsai Shoujo ∞ Amida](https://myanimelist.net/anime/42156)
 	- Publication Status: Finished Airing
 	- MAL ID: 42156
