@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 09, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 16, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -2171,7 +2171,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, School, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Boku to Gal ga Fuufu ni Naru made](https://myanimelist.net/manga/154486)
-	- Publication Status: Currently Publishing
+	- Publication Status: Discontinued
 	- MAL ID: 154486
 	- Genre(s): Comedy, Ecchi, Romance
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -15681,7 +15681,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Sci-Fi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Rockman-chan](https://myanimelist.net/manga/136189)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 136189
 	- Genre(s): Action, Comedy, Sci-Fi
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -16445,8 +16445,8 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 20188
 	- Genre(s): Boys Love, Crossdressing, Romance, School, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Sazanami-chou to, Hazama no Ko](https://myanimelist.net/manga/173404)
-	- Publication Status: Currently Publishing
+- [Sazanami-chou to Hazama no Ko](https://myanimelist.net/manga/173404)
+	- Publication Status: Finished
 	- MAL ID: 173404
 	- Genre(s): Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -17596,7 +17596,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Music, Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Shounen Onmyouji](https://myanimelist.net/manga/154736)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 154736
 	- Genre(s): Adventure, Historical, Mythology, Seinen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)

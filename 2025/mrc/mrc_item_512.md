@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 09, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 16, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -271,6 +271,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 56529
 	- Genre(s): Action, Detective, Mystery, Seinen, Supernatural
 	- Staff Member(s): [mobulidae](https://myanimelist.net/profile/mobulidae/favorites)
+- [Capeta](https://myanimelist.net/manga/9546)
+	- Publication Status: Finished
+	- MAL ID: 9546
+	- Genre(s): Award Winning, Comedy, Drama, Racing, Shounen
+	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites)
 - [Cardcaptor Sakura](https://myanimelist.net/manga/106)
 	- Publication Status: Finished
 	- MAL ID: 106
@@ -1820,7 +1825,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- Publication Status: Currently Publishing
 	- MAL ID: 132678
 	- Genre(s): Historical, Romance, Slice of Life
-	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites), [Naitik7897](https://myanimelist.net/profile/Naitik7897/favorites), [nirererin](https://myanimelist.net/profile/nirererin/favorites), [rlavus](https://myanimelist.net/profile/rlavus/favorites)
 - [Velvet Kiss](https://myanimelist.net/manga/22638)
 	- Publication Status: Finished
 	- MAL ID: 22638
