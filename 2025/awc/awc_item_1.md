@@ -4,7 +4,7 @@ title: AWC2025 01
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of November 16, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 23, 2025:
 
 (1) Watch an anime an active [MAL Staff Member](https://myanimelist.net/forum/?topicid=1867298#msg60815692) has listed in their '[Popularity vs Anime Score](https://i.imgur.com/H3AydsD.png)' profile statistics and provide a screenshot (AWC Staff are not MAL Staff)
 
@@ -59,7 +59,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Akuma-kun](https://myanimelist.net/anime/8194)
 	- Publication Status: Finished Airing
 	- MAL ID: 8194
-	- Genre(s): Adventure, Fantasy, Horror, Supernatural
+	- Genre(s): Adventure, Horror, Supernatural
 	- Staff Member(s): [iShipMyFriends](https://myanimelist.net/profile/iShipMyFriends/statistics/anime-scores)
 - [Altered Carbon: Resleeved](https://myanimelist.net/anime/40613)
 	- Publication Status: Finished Airing
@@ -200,7 +200,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- Publication Status: Finished Airing
 	- MAL ID: 50248
 	- Genre(s): Sports
-	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/statistics/anime-scores), [Pipe](https://myanimelist.net/profile/Pipe/statistics/anime-scores), [Zettaiken](https://myanimelist.net/profile/Zettaiken/statistics/anime-scores)
+	- Staff Member(s): [Pipe](https://myanimelist.net/profile/Pipe/statistics/anime-scores), [Zettaiken](https://myanimelist.net/profile/Zettaiken/statistics/anime-scores)
 - [Blue Giant](https://myanimelist.net/anime/50183)
 	- Publication Status: Finished Airing
 	- MAL ID: 50183
@@ -819,7 +819,7 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 - [Kaze no Matasaburou (Movie)](https://myanimelist.net/anime/30922)
 	- Publication Status: Finished Airing
 	- MAL ID: 30922
-	- Genre(s): Fantasy, Supernatural
+	- Genre(s): Fantasy
 	- Staff Member(s): [goncix3000](https://myanimelist.net/profile/goncix3000/statistics/anime-scores), [tingy](https://myanimelist.net/profile/tingy/statistics/anime-scores)
 - [Kemono Friends](https://myanimelist.net/anime/33089)
 	- Publication Status: Finished Airing
@@ -1281,6 +1281,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 46422
 	- Genre(s): Anthropomorphic, Fantasy, Romance, Shoujo
 	- Staff Member(s): [SushiRoe](https://myanimelist.net/profile/SushiRoe/statistics/anime-scores)
+- [Nijiiro Hotaru: Eien no Natsuyasumi](https://myanimelist.net/anime/6219)
+	- Publication Status: Finished Airing
+	- MAL ID: 6219
+	- Genre(s): Fantasy, Romance, Time Travel
+	- Staff Member(s): [CukieMunster](https://myanimelist.net/profile/CukieMunster/statistics/anime-scores)
 - [Nodame Cantabile Finale](https://myanimelist.net/anime/5690)
 	- Publication Status: Finished Airing
 	- MAL ID: 5690
@@ -1431,6 +1436,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 32360
 	- Genre(s): Action, Fantasy, Sci-Fi, Super Power
 	- Staff Member(s): [Twintail_Daemon](https://myanimelist.net/profile/Twintail_Daemon/statistics/anime-scores)
+- [Rabbits Kingdom the Movie](https://myanimelist.net/anime/51539)
+	- Publication Status: Finished Airing
+	- MAL ID: 51539
+	- Genre(s): Idols (Male), Music
+	- Staff Member(s): [Dancho](https://myanimelist.net/profile/Dancho/statistics/anime-scores)
 - [Rakudai Majo: Fuuka to Yami no Majo](https://myanimelist.net/anime/51404)
 	- Publication Status: Finished Airing
 	- MAL ID: 51404
@@ -1496,6 +1506,11 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 34494
 	- Genre(s): Adult Cast, Slice of Life, Workplace
 	- Staff Member(s): [cmanjakaa](https://myanimelist.net/profile/cmanjakaa/statistics/anime-scores), [gaussian_](https://myanimelist.net/profile/gaussian_/statistics/anime-scores)
+- [Sakurada Reset](https://myanimelist.net/anime/34102)
+	- Publication Status: Finished Airing
+	- MAL ID: 34102
+	- Genre(s): Drama, Mystery, School, Super Power, Time Travel
+	- Staff Member(s): [Nioxys](https://myanimelist.net/profile/Nioxys/statistics/anime-scores)
 - [Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru](https://myanimelist.net/anime/30187)
 	- Publication Status: Finished Airing
 	- MAL ID: 30187
@@ -1826,11 +1841,6 @@ It is commonly recommended to take a screenshot of the staff member's profile st
 	- MAL ID: 2105
 	- Genre(s): Drama, Ecchi, Fantasy, Romance
 	- Staff Member(s): [Mythologically](https://myanimelist.net/profile/Mythologically/statistics/anime-scores)
-- [Touken Ranbu Kai: Kyoden Moyuru Honnouji](https://myanimelist.net/anime/51859)
-	- Publication Status: Finished Airing
-	- MAL ID: 51859
-	- Genre(s): Action, Anthropomorphic, Fantasy, Historical, Samurai
-	- Staff Member(s): [Dancho](https://myanimelist.net/profile/Dancho/statistics/anime-scores)
 - [Tsuma, Shougakusei ni Naru.](https://myanimelist.net/anime/54726)
 	- Publication Status: Finished Airing
 	- MAL ID: 54726

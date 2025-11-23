@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of November 16, 2025:
+This list contains a list of anime eligible for the following challenge item, as of November 23, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -298,7 +298,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Alexander Senki](https://myanimelist.net/anime/1442)
 	- Publication Status: Finished Airing
 	- MAL ID: 1442
-	- Genre(s): Action, Adventure, Fantasy, Historical, Sci-Fi, Supernatural
+	- Genre(s): Action, Adventure, Fantasy, Historical, Sci-Fi
 	- Staff Member(s): [Lestat-](https://myanimelist.net/profile/Lestat-)
 - [Alice to Zouroku](https://myanimelist.net/anime/34350)
 	- Publication Status: Finished Airing
@@ -4173,7 +4173,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Isekai Shokudou](https://myanimelist.net/anime/34012)
 	- Publication Status: Finished Airing
 	- MAL ID: 34012
-	- Genre(s): Fantasy, Gourmet, Isekai, Slice of Life, Workplace
+	- Genre(s): Fantasy, Gourmet, Isekai, Slice of Life
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Isekai Shokudou 2](https://myanimelist.net/anime/48804)
 	- Publication Status: Finished Airing
@@ -4588,7 +4588,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kakushigoto](https://myanimelist.net/anime/40716)
 	- Publication Status: Finished Airing
 	- MAL ID: 40716
-	- Genre(s): Childcare, Comedy, Gag Humor, Otaku Culture, Shounen, Workplace
+	- Genre(s): Childcare, Comedy, Gag Humor, Otaku Culture, Shounen
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Kakushigoto Movie](https://myanimelist.net/anime/44586)
 	- Publication Status: Finished Airing
@@ -5453,7 +5453,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kowloon Generic Romance](https://myanimelist.net/anime/60083)
 	- Publication Status: Finished Airing
 	- MAL ID: 60083
-	- Genre(s): Adult Cast, Mystery, Romance, Sci-Fi, Seinen, Workplace
+	- Genre(s): Adult Cast, Mystery, Romance, Sci-Fi, Seinen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Koyomimonogatari](https://myanimelist.net/anime/32268)
 	- Publication Status: Finished Airing
@@ -8578,12 +8578,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Seijo no Maryoku wa Bannou desu](https://myanimelist.net/anime/42826)
 	- Publication Status: Finished Airing
 	- MAL ID: 42826
-	- Genre(s): Fantasy, Isekai, Medical, Romance
+	- Genre(s): Fantasy, Isekai, Romance
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Seijo no Maryoku wa Bannou desu Season 2](https://myanimelist.net/anime/51215)
 	- Publication Status: Finished Airing
 	- MAL ID: 51215
-	- Genre(s): Fantasy, Isekai, Medical, Romance
+	- Genre(s): Fantasy, Isekai, Romance
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Seikai no Monshou](https://myanimelist.net/anime/290)
 	- Publication Status: Finished Airing
@@ -8730,10 +8730,15 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 199
 	- Genre(s): Adventure, Award Winning, Fantasy, Mythology
 	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [mozgow](https://myanimelist.net/profile/mozgow)
+- [Sengoku Kitan Youtouden Movie](https://myanimelist.net/anime/1378)
+	- Publication Status: Finished Airing
+	- MAL ID: 1378
+	- Genre(s): Action, Martial Arts, Samurai
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Sengoku Night Blood](https://myanimelist.net/anime/35251)
 	- Publication Status: Finished Airing
 	- MAL ID: 35251
-	- Genre(s): Fantasy, Historical, Isekai, Josei, Reverse Harem, Romance, Vampire
+	- Genre(s): Fantasy, Isekai, Josei, Reverse Harem, Romance, Vampire
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Senki Zesshou Symphogear G](https://myanimelist.net/anime/15793)
 	- Publication Status: Finished Airing
@@ -9378,7 +9383,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Slayers Gorgeous](https://myanimelist.net/anime/867)
 	- Publication Status: Finished Airing
 	- MAL ID: 867
-	- Genre(s): Adventure, Comedy, Fantasy, Supernatural
+	- Genre(s): Adventure, Comedy, Fantasy
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Slayers Next](https://myanimelist.net/anime/535)
 	- Publication Status: Finished Airing
@@ -11044,7 +11049,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 58390
 	- Genre(s): Romance, Shounen, Supernatural, Vampire
-	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Yojouhan Shinwa Taikei](https://myanimelist.net/anime/7785)
 	- Publication Status: Finished Airing
 	- MAL ID: 7785
