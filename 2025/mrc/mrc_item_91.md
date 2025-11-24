@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 16, 2025:
+This list contains a list of manga eligible for the following challenge item, as of November 23, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -2841,7 +2841,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Historical, Shounen, Slice of Life
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Chitose-kun wa Ramune Bin no Naka](https://myanimelist.net/manga/130461)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 130461
 	- Genre(s): Comedy, Harem, Romance, School
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri)
@@ -12248,7 +12248,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Minasoko nite](https://myanimelist.net/manga/152782)
 	- Publication Status: Finished
 	- MAL ID: 152782
-	- Genre(s): Drama, Supernatural
+	- Genre(s): Drama, Horror, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Minds](https://myanimelist.net/manga/21174)
 	- Publication Status: Finished
@@ -12356,7 +12356,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Comedy, Memoir, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mizuki-senpai no Koi Uranai](https://myanimelist.net/manga/132333)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 132333
 	- Genre(s): Comedy, Romance, School, Seinen, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
