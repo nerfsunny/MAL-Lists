@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 23, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 01, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1306,6 +1306,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 4632
 	- Genre(s): Drama, Psychological, Seinen, Slice of Life
 	- Staff Member(s): [-DxP-](https://myanimelist.net/profile/-DxP-/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites), [iShipMyFriends](https://myanimelist.net/profile/iShipMyFriends/favorites)
+- [PPPPPP](https://myanimelist.net/manga/140199)
+	- Publication Status: Finished
+	- MAL ID: 140199
+	- Genre(s): Music, Shounen
+	- Staff Member(s): [MagicPolly](https://myanimelist.net/profile/MagicPolly/favorites)
 - [Painter of the Night](https://myanimelist.net/manga/139429)
 	- Publication Status: Finished
 	- MAL ID: 139429
@@ -2015,6 +2020,7 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
 - [Denji](https://myanimelist.net/profile/Denji/favorites)
 - [Dreik55](https://myanimelist.net/profile/Dreik55/favorites)
+- [Elf-hime](https://myanimelist.net/profile/Elf-hime/favorites)
 - [Fluffygreygrass](https://myanimelist.net/profile/Fluffygreygrass/favorites)
 - [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Gilrin](https://myanimelist.net/profile/Gilrin/favorites)

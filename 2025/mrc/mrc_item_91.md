@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of November 23, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 01, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -1521,7 +1521,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Mystery, Sci-Fi, Seinen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Baby Blooper](https://myanimelist.net/manga/153744)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 153744
 	- Genre(s): Comedy, School, Shounen, Visual Arts
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -4246,7 +4246,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Drama, Mystery, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Elf Otto to Dwarf Yome](https://myanimelist.net/manga/156918)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 156918
 	- Genre(s): Fantasy, Romance, Shounen
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -6583,7 +6583,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Hideout](https://myanimelist.net/manga/28361)
 	- Publication Status: Finished
 	- MAL ID: 28361
-	- Genre(s): Action, Horror, Psychological, Seinen
+	- Genre(s): Horror, Psychological, Seinen
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Higan Hikou Shoujo Naeko](https://myanimelist.net/manga/102313)
 	- Publication Status: Finished
@@ -10293,7 +10293,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Koroshiya 1](https://myanimelist.net/manga/932)
 	- Publication Status: Finished
 	- MAL ID: 932
-	- Genre(s): Action, Drama, Gore, Horror, Psychological, Seinen
+	- Genre(s): Action, Drama, Gore, Organized Crime, Psychological, Seinen, Suspense
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon), [batsling1234](https://myanimelist.net/profile/batsling1234), [denvicar](https://myanimelist.net/profile/denvicar)
 - [Kotonoba Drive](https://myanimelist.net/manga/66559)
 	- Publication Status: Finished
@@ -13710,6 +13710,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 119965
 	- Genre(s): Adventure, Comedy, Fantasy
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Nukitashi: Nukige Mitai na Shima ni Sunderu Watashi wa Dou Surya Ii desu ka?](https://myanimelist.net/manga/149963)
+	- Publication Status: Finished
+	- MAL ID: 149963
+	- Genre(s): Erotica, School
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Number Girl](https://myanimelist.net/manga/59345)
 	- Publication Status: Finished
 	- MAL ID: 59345
@@ -17196,7 +17201,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Action, Comedy, Drama, Harem, Hentai, Music, Parody, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Shinitai Majo to Koroshitai Tenshu](https://myanimelist.net/manga/161813)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 161813
 	- Genre(s): Comedy, Mystery, Shounen, Supernatural
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
@@ -19660,11 +19665,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 83005
 	- Genre(s): Horror, Mystery, School, Seinen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
-- [Toujima Tanzaburou wa Kamen Rider ni Naritai](https://myanimelist.net/manga/121957)
-	- Publication Status: Currently Publishing
-	- MAL ID: 121957
-	- Genre(s): Action, Comedy, Seinen, Super Power
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Toukon Yuuma](https://myanimelist.net/manga/104511)
 	- Publication Status: Finished
 	- MAL ID: 104511
