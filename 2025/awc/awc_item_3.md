@@ -4,7 +4,7 @@ title: AWC2025 03
 
 ## ABOUT ME
 
-This list contains a list of anime eligible for the following challenge item, as of November 23, 2025:
+This list contains a list of anime eligible for the following challenge item, as of December 01, 2025:
 
 (3) Watch an anime completed by an [AWC Staff Member](https://myanimelist.net/forum/?goto=post&topicid=1867298&id=68289129) (staff must have rated the anime at least an 8 and completed it before item is started)
 
@@ -1358,7 +1358,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Chance Triangle Session](https://myanimelist.net/anime/2495)
 	- Publication Status: Finished Airing
 	- MAL ID: 2495
-	- Genre(s): Drama, Idols (Female), Music, Slice of Life
+	- Genre(s): Drama, Idols (Female), Music
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Change!! Getter Robo: Sekai Saigo no Hi](https://myanimelist.net/anime/978)
 	- Publication Status: Finished Airing
@@ -1980,6 +1980,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 1796
 	- Genre(s): Action, Adventure, Comedy, Sci-Fi
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
+- [Disney Tsum Tsum](https://myanimelist.net/anime/28921)
+	- Publication Status: Finished Airing
+	- MAL ID: 28921
+	- Genre(s): Kids
+	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Dogs: Bullets & Carnage](https://myanimelist.net/anime/5593)
 	- Publication Status: Finished Airing
 	- MAL ID: 5593
@@ -3203,7 +3208,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Gunsmith Cats](https://myanimelist.net/anime/650)
 	- Publication Status: Finished Airing
 	- MAL ID: 650
-	- Genre(s): Action, Comedy, Detective, Seinen
+	- Genre(s): Action, Comedy, Seinen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Gwahoheub](https://myanimelist.net/anime/40491)
 	- Publication Status: Finished Airing
@@ -5643,7 +5648,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Kuruneko](https://myanimelist.net/anime/6604)
 	- Publication Status: Finished Airing
 	- MAL ID: 6604
-	- Genre(s): Comedy, Pets, Slice of Life
+	- Genre(s): Pets, Slice of Life
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Kusatta Kyoushi no Houteishiki](https://myanimelist.net/anime/1909)
 	- Publication Status: Finished Airing
@@ -5654,7 +5659,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- Publication Status: Finished Airing
 	- MAL ID: 54492
 	- Genre(s): Drama, Historical, Medical, Mystery
-	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
+	- Staff Member(s): [BeanChagBear](https://myanimelist.net/profile/BeanChagBear), [Franchowo](https://myanimelist.net/profile/Franchowo), [Kaylee](https://myanimelist.net/profile/Kaylee), [Ranacchi](https://myanimelist.net/profile/Ranacchi), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps), [mozgow](https://myanimelist.net/profile/mozgow)
 - [Kusuriya no Hitorigoto 2nd Season](https://myanimelist.net/anime/58514)
 	- Publication Status: Finished Airing
 	- MAL ID: 58514
@@ -5748,7 +5753,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Ling Long: Incarnation Final Chapter](https://myanimelist.net/anime/44090)
 	- Publication Status: Finished Airing
 	- MAL ID: 44090
-	- Genre(s): Action, Drama, Horror, Mythology, Sci-Fi, Suspense
+	- Genre(s): Action, Drama, Horror, Mythology, Sci-Fi, Supernatural, Suspense
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Ling Long: Incarnation Middle Chapter](https://myanimelist.net/anime/42985)
 	- Publication Status: Finished Airing
@@ -6078,12 +6083,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Magic Knight Rayearth](https://myanimelist.net/anime/435)
 	- Publication Status: Finished Airing
 	- MAL ID: 435
-	- Genre(s): Adventure, Comedy, Drama, Fantasy, Isekai, Mecha, Shoujo
+	- Genre(s): Adventure, Fantasy, Isekai, Mecha, Shoujo
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Magic Knight Rayearth II](https://myanimelist.net/anime/1563)
 	- Publication Status: Finished Airing
 	- MAL ID: 1563
-	- Genre(s): Adventure, Drama, Fantasy, Isekai, Mahou Shoujo, Mecha, Romance, Shoujo
+	- Genre(s): Adventure, Drama, Fantasy, Isekai, Mecha, Romance, Shoujo
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Magic-Kyun! Renaissance](https://myanimelist.net/anime/33299)
 	- Publication Status: Finished Airing
@@ -6545,7 +6550,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 2514
 	- Genre(s): Adventure, Detective, Mystery, Shounen
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
-- [Meitantei Conan OVA 05: Hyouteki wa Kogorou!! Shounen Tanteidan Maruchichousa](https://myanimelist.net/anime/2515)
+- [Meitantei Conan OVA 05: Target wa Kogorou!! Shounen Tanteidan Maruhi Report](https://myanimelist.net/anime/2515)
 	- Publication Status: Finished Airing
 	- MAL ID: 2515
 	- Genre(s): Adventure, Comedy, Detective, Mystery, Shounen
@@ -6603,7 +6608,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Metropolis](https://myanimelist.net/anime/522)
 	- Publication Status: Finished Airing
 	- MAL ID: 522
-	- Genre(s): Adventure, Detective, Drama, Romance, Sci-Fi, Shounen
+	- Genre(s): Adventure, Drama, Romance, Sci-Fi, Shounen
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Mezzo Forte](https://myanimelist.net/anime/221)
 	- Publication Status: Finished Airing
@@ -6738,7 +6743,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Mono](https://myanimelist.net/anime/58492)
 	- Publication Status: Finished Airing
 	- MAL ID: 58492
-	- Genre(s): CGDCT, Comedy
+	- Genre(s): CGDCT, Comedy, School, Visual Arts
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Monogatari Series: Off & Monster Season](https://myanimelist.net/anime/57864)
 	- Publication Status: Finished Airing
@@ -7903,7 +7908,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Poyopoyo Kansatsu Nikki](https://myanimelist.net/anime/12021)
 	- Publication Status: Finished Airing
 	- MAL ID: 12021
-	- Genre(s): Comedy, Pets, Seinen, Slice of Life
+	- Genre(s): Pets, Seinen, Slice of Life
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae), [Kaylee](https://myanimelist.net/profile/Kaylee)
 - [Prince of Stride: Alternative](https://myanimelist.net/anime/31559)
 	- Publication Status: Finished Airing
@@ -9758,7 +9763,7 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Tabi Machi Late Show](https://myanimelist.net/anime/32309)
 	- Publication Status: Finished Airing
 	- MAL ID: 32309
-	- Genre(s): Drama, Slice of Life
+	- Genre(s): Drama
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Tabisuru Nuigurumi: Traveling Daru](https://myanimelist.net/anime/15077)
 	- Publication Status: Finished Airing
@@ -9773,22 +9778,22 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Taiho Shichau zo](https://myanimelist.net/anime/1577)
 	- Publication Status: Finished Airing
 	- MAL ID: 1577
-	- Genre(s): Action, Comedy, Detective, Seinen, Workplace
+	- Genre(s): Action, Adult Cast, Comedy, Seinen, Workplace
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Taiho Shichau zo (TV)](https://myanimelist.net/anime/1372)
 	- Publication Status: Finished Airing
 	- MAL ID: 1372
-	- Genre(s): Action, Adult Cast, Comedy, Detective, Seinen, Workplace
+	- Genre(s): Action, Adult Cast, Comedy, Seinen, Workplace
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Taiho Shichau zo The Movie](https://myanimelist.net/anime/2013)
 	- Publication Status: Finished Airing
 	- MAL ID: 2013
-	- Genre(s): Action, Adult Cast, Comedy, Detective, Drama, Seinen, Workplace
+	- Genre(s): Action, Adult Cast, Comedy, Seinen, Workplace
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Taiho Shichau zo: Second Season](https://myanimelist.net/anime/2014)
 	- Publication Status: Finished Airing
 	- MAL ID: 2014
-	- Genre(s): Action, Adult Cast, Comedy, Detective, Seinen, Workplace
+	- Genre(s): Action, Adult Cast, Comedy, Seinen, Workplace
 	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Taishou Otome Otogibanashi](https://myanimelist.net/anime/45055)
 	- Publication Status: Finished Airing
@@ -10918,12 +10923,12 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [Wooser no Sono Higurashi: Kakusei-hen](https://myanimelist.net/anime/20267)
 	- Publication Status: Finished Airing
 	- MAL ID: 20267
-	- Genre(s): Comedy, Fantasy, Slice of Life
+	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [Wooser no Sono Higurashi: Mugen-hen](https://myanimelist.net/anime/29017)
 	- Publication Status: Finished Airing
 	- MAL ID: 29017
-	- Genre(s): Comedy, Fantasy, Slice of Life
+	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
 - [World Trigger 2nd Season](https://myanimelist.net/anime/40907)
 	- Publication Status: Finished Airing
@@ -10970,6 +10975,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 	- MAL ID: 49573
 	- Genre(s): Adult Cast, Mystery, Mythology, Supernatural, Workplace
 	- Staff Member(s): [Aeradae](https://myanimelist.net/profile/Aeradae)
+- [Yagate Kimi ni Naru](https://myanimelist.net/anime/37786)
+	- Publication Status: Finished Airing
+	- MAL ID: 37786
+	- Genre(s): Drama, Girls Love, School
+	- Staff Member(s): [mozgow](https://myanimelist.net/profile/mozgow)
 - [Yahari Ore no Seishun Love Comedy wa Machigatteiru.](https://myanimelist.net/anime/14813)
 	- Publication Status: Finished Airing
 	- MAL ID: 14813
@@ -11108,6 +11118,11 @@ It is commonly recommended to take a screenshot of the anime listed on the AWC S
 - [You Shou Yan 3rd Season](https://myanimelist.net/anime/58555)
 	- Publication Status: Finished Airing
 	- MAL ID: 58555
+	- Genre(s): Comedy, Fantasy
+	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
+- [You Shou Yan 4th Season](https://myanimelist.net/anime/59385)
+	- Publication Status: Finished Airing
+	- MAL ID: 59385
 	- Genre(s): Comedy, Fantasy
 	- Staff Member(s): [Ranacchi](https://myanimelist.net/profile/Ranacchi)
 - [Youjo Senki](https://myanimelist.net/anime/32615)
