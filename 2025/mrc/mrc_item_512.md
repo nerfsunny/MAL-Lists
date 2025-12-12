@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 11, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -216,6 +216,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 139152
 	- Genre(s): Action, Shounen, Super Power, Supernatural
 	- Staff Member(s): [Zettaiken](https://myanimelist.net/profile/Zettaiken/favorites)
+- [Blink Master of the Magic Academy](https://myanimelist.net/manga/170974)
+	- Publication Status: Currently Publishing
+	- MAL ID: 170974
+	- Genre(s): Action, Fantasy, Isekai, Reincarnation, School
+	- Staff Member(s): [KayKimii](https://myanimelist.net/profile/KayKimii/favorites)
 - [Bloody†Mary](https://myanimelist.net/manga/67169)
 	- Publication Status: Finished
 	- MAL ID: 67169
@@ -631,6 +636,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 141833
 	- Genre(s): Horror, Mystery, Supernatural
 	- Staff Member(s): [rlavus](https://myanimelist.net/profile/rlavus/favorites)
+- [Hikaru in the Light!](https://myanimelist.net/manga/147923)
+	- Publication Status: Finished
+	- MAL ID: 147923
+	- Genre(s): Idols (Female), Seinen
+	- Staff Member(s): [Rosaluna_](https://myanimelist.net/profile/Rosaluna_/favorites)
 - [Hinamatsuri](https://myanimelist.net/manga/36413)
 	- Publication Status: Finished
 	- MAL ID: 36413
@@ -1676,11 +1686,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 5767
 	- Genre(s): Drama, Love Polygon, Psychological, Romance, School
 	- Staff Member(s): [Naruleach](https://myanimelist.net/profile/Naruleach/favorites)
-- [The Frozen Player Returns](https://myanimelist.net/manga/148156)
-	- Publication Status: Currently Publishing
-	- MAL ID: 148156
-	- Genre(s): Action, Adventure, Fantasy
-	- Staff Member(s): [KayKimii](https://myanimelist.net/profile/KayKimii/favorites)
 - [The Perks of Being a Villainess](https://myanimelist.net/manga/154063)
 	- Publication Status: Currently Publishing
 	- MAL ID: 154063
@@ -2020,7 +2025,6 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 - [DatRandomDude](https://myanimelist.net/profile/DatRandomDude/favorites)
 - [Denji](https://myanimelist.net/profile/Denji/favorites)
 - [Dreik55](https://myanimelist.net/profile/Dreik55/favorites)
-- [Elf-hime](https://myanimelist.net/profile/Elf-hime/favorites)
 - [Fluffygreygrass](https://myanimelist.net/profile/Fluffygreygrass/favorites)
 - [gaussian_](https://myanimelist.net/profile/gaussian_/favorites)
 - [Gilrin](https://myanimelist.net/profile/Gilrin/favorites)

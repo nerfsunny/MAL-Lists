@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 01, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 11, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -8918,7 +8918,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187)
 	- Publication Status: Finished
 	- MAL ID: 108187
-	- Genre(s): Comedy, Iyashikei, Romance, Slice of Life
+	- Genre(s): Childcare, Iyashikei, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Karakasa no Saien](https://myanimelist.net/manga/11205)
 	- Publication Status: Finished
@@ -11438,7 +11438,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [Mahou no Yama](https://myanimelist.net/manga/21602)
 	- Publication Status: Finished
 	- MAL ID: 21602
-	- Genre(s): Kids, Seinen, Slice of Life
+	- Genre(s): Seinen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Mahoujin Guruguru](https://myanimelist.net/manga/4080)
 	- Publication Status: Finished
@@ -12350,6 +12350,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 124002
 	- Genre(s): Romance, Shounen, Slice of Life
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Mizudako-chan kara wa Nigerarenai!](https://myanimelist.net/manga/168925)
+	- Publication Status: Currently Publishing
+	- MAL ID: 168925
+	- Genre(s): Comedy, Fantasy, Romance, School
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Mizukami Satoshi no Manga Sadou](https://myanimelist.net/manga/99320)
 	- Publication Status: Finished
 	- MAL ID: 99320
@@ -16294,6 +16299,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 118206
 	- Genre(s): Comedy, Romance, Slice of Life
+	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
+- [Sanpakugan-chan wa Tsutaetai.](https://myanimelist.net/manga/115488)
+	- Publication Status: Finished
+	- MAL ID: 115488
+	- Genre(s): Comedy, Love Status Quo, Romance, School
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Saotome Senshu, Hitakakusu](https://myanimelist.net/manga/102997)
 	- Publication Status: Finished
