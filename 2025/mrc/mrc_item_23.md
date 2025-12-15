@@ -4,7 +4,7 @@ title: MRC2025 2.3
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 11, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 14, 2025:
 
 (2.3) Read a manga another MRC participant rated 4 or lower.
 
@@ -3255,6 +3255,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 7113
 	- Genre(s): Comedy, School, Seinen
 	- MRC Participants: [LordZirkaZero](https://myanimelist.net/profile/LordZirkaZero)
+- [Bakashite Damashite](https://myanimelist.net/manga/145155)
+	- Publication Status: Finished
+	- MAL ID: 145155
+	- Genre(s): Boys Love, Erotica
+	- MRC Participants: [Sen1793](https://myanimelist.net/profile/Sen1793)
 - [Bakashoujiki ga Taosenai!](https://myanimelist.net/manga/151148)
 	- Publication Status: Finished
 	- MAL ID: 151148
@@ -7714,7 +7719,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 2833
 	- Genre(s): Boys Love, Erotica
-	- MRC Participants: [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
+	- MRC Participants: [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [nozomemee](https://myanimelist.net/profile/nozomemee), [Stardew](https://myanimelist.net/profile/Stardew), [subliminallydark](https://myanimelist.net/profile/subliminallydark), [TheColdMayor](https://myanimelist.net/profile/TheColdMayor), [YayakoChii](https://myanimelist.net/profile/YayakoChii)
 - [Eien no Aida ni Miru Yume](https://myanimelist.net/manga/9203)
 	- Publication Status: Finished
 	- MAL ID: 9203
@@ -12839,7 +12844,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 103814
 	- Genre(s): Drama, Psychological, School, Supernatural
-	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [krovv](https://myanimelist.net/profile/krovv), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
+	- MRC Participants: [Armandoriel](https://myanimelist.net/profile/Armandoriel), [krovv](https://myanimelist.net/profile/krovv), [PurpleViola](https://myanimelist.net/profile/PurpleViola), [rubixuitous](https://myanimelist.net/profile/rubixuitous)
 - [Ikenie Yakata](https://myanimelist.net/manga/95674)
 	- Publication Status: Finished
 	- MAL ID: 95674
@@ -18260,6 +18265,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 17007
 	- Genre(s): Action, Comedy, Crossdressing, Romance, Shoujo, Slice of Life
 	- MRC Participants: [PurpleViola](https://myanimelist.net/profile/PurpleViola)
+- [Love or Hate](https://myanimelist.net/manga/123788)
+	- Publication Status: Finished
+	- MAL ID: 123788
+	- Genre(s): Boys Love, Drama, Erotica
+	- MRC Participants: [Franchowo](https://myanimelist.net/profile/Franchowo)
 - [Love x Eros](https://myanimelist.net/manga/14305)
 	- Publication Status: Finished
 	- MAL ID: 14305
@@ -19595,6 +19605,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 966
 	- Genre(s): Drama, Ecchi, Romance, Seinen
 	- MRC Participants: [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+- [Mi to Shounen](https://myanimelist.net/manga/14290)
+	- Publication Status: Finished
+	- MAL ID: 14290
+	- Genre(s): Historical, Shoujo
+	- MRC Participants: [fraideii](https://myanimelist.net/profile/fraideii)
 - [Mi-da-ra](https://myanimelist.net/manga/3830)
 	- Publication Status: Finished
 	- MAL ID: 3830
@@ -26749,7 +26764,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 134434
 	- Genre(s): Comedy, Parody, Shounen
-	- MRC Participants: [LyLord](https://myanimelist.net/profile/LyLord)
+	- MRC Participants: [LyLord](https://myanimelist.net/profile/LyLord), [symeon_a](https://myanimelist.net/profile/symeon_a)
 - [Shinigami Alice](https://myanimelist.net/manga/18114)
 	- Publication Status: Finished
 	- MAL ID: 18114
@@ -26784,7 +26799,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 136398
 	- Genre(s): Boys Love, Erotica, Supernatural
-	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [Haylen](https://myanimelist.net/profile/Haylen), [Plate](https://myanimelist.net/profile/Plate)
+	- MRC Participants: [chibieska](https://myanimelist.net/profile/chibieska), [Haylen](https://myanimelist.net/profile/Haylen), [Plate](https://myanimelist.net/profile/Plate), [real_slim_jadey](https://myanimelist.net/profile/real_slim_jadey)
 - [Shinigami x Doctor](https://myanimelist.net/manga/57127)
 	- Publication Status: Finished
 	- MAL ID: 57127
@@ -28610,6 +28625,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 108212
 	- Genre(s): Boys Love, Drama, Erotica, School
 	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Stardew](https://myanimelist.net/profile/Stardew), [TheRandomWeirdo](https://myanimelist.net/profile/TheRandomWeirdo)
+- [Suzuka](https://myanimelist.net/manga/430)
+	- Publication Status: Finished
+	- MAL ID: 430
+	- Genre(s): Comedy, Drama, Ecchi, Romance, School, Shounen, Sports
+	- MRC Participants: [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose)
 - [Sweet Black](https://myanimelist.net/manga/3757)
 	- Publication Status: Finished
 	- MAL ID: 3757
@@ -29919,7 +29939,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 104565
 	- Genre(s): Action, Award Winning, Delinquents, Shounen, Time Travel
-	- MRC Participants: [bluecoke_](https://myanimelist.net/profile/bluecoke_), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Omoyak](https://myanimelist.net/profile/Omoyak)
+	- MRC Participants: [bluecoke_](https://myanimelist.net/profile/bluecoke_), [ChizuruFan23](https://myanimelist.net/profile/ChizuruFan23), [FateXBlood](https://myanimelist.net/profile/FateXBlood), [Omoyak](https://myanimelist.net/profile/Omoyak)
 - [Told Me](https://myanimelist.net/manga/69203)
 	- Publication Status: Finished
 	- MAL ID: 69203
@@ -31290,6 +31310,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- MAL ID: 106197
 	- Genre(s): Drama, Ecchi, Psychological, Romance, School, Shounen
 	- MRC Participants: [Incremental](https://myanimelist.net/profile/Incremental)
+- [Utsukushii Karada](https://myanimelist.net/manga/124974)
+	- Publication Status: Finished
+	- MAL ID: 124974
+	- Genre(s): Boys Love, Drama, Erotica
+	- MRC Participants: [ringdingdont](https://myanimelist.net/profile/ringdingdont)
 - [Utsukushii Koto](https://myanimelist.net/manga/139549)
 	- Publication Status: Finished
 	- MAL ID: 139549
@@ -31969,7 +31994,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 108021
 	- Genre(s): Drama, Erotica, Girls Love, Love Polygon, Romance
-	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
+	- MRC Participants: [lubryka](https://myanimelist.net/profile/lubryka), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Trap_Traps_Traps](https://myanimelist.net/profile/Trap_Traps_Traps)
 - [What Lies Within](https://myanimelist.net/manga/176011)
 	- Publication Status: Finished
 	- MAL ID: 176011
@@ -33164,7 +33189,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC P
 	- Publication Status: Finished
 	- MAL ID: 1487
 	- Genre(s): Award Winning, Drama, Historical, Seinen
-	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
+	- MRC Participants: [cyb3rf4iry](https://myanimelist.net/profile/cyb3rf4iry), [Miyumi_Rose](https://myanimelist.net/profile/Miyumi_Rose), [Ultima_Oblivion](https://myanimelist.net/profile/Ultima_Oblivion)
 - [Yuurei Kesun de Tsukiatte Kudasai](https://myanimelist.net/manga/145984)
 	- Publication Status: Finished
 	- MAL ID: 145984

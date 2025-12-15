@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 11, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 14, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -4893,7 +4893,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 - [GE: Good Ending](https://myanimelist.net/manga/19885)
 	- Publication Status: Finished
 	- MAL ID: 19885
-	- Genre(s): Romance, School, Shounen, Sports
+	- Genre(s): Romance, School, Shounen
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [GTO](https://myanimelist.net/manga/336)
 	- Publication Status: Finished
@@ -20761,7 +20761,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Shoujo, Slice of Life, Sports
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Who Made Me a Princess](https://myanimelist.net/manga/121269)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 121269
 	- Genre(s): Drama, Fantasy, Reincarnation
 	- Staff Member(s): [Bri](https://myanimelist.net/profile/Bri), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -20926,7 +20926,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Gourmet, Romance, Seinen, Slice of Life
 	- Staff Member(s): [Drackx](https://myanimelist.net/profile/Drackx), [Kazzeon](https://myanimelist.net/profile/Kazzeon)
 - [Yajin](https://myanimelist.net/manga/114284)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 114284
 	- Genre(s): Horror, School, Supernatural
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
