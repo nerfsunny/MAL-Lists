@@ -4,7 +4,7 @@ title: MRC2025 9.1
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 14, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 18, 2025:
 
 (9.1) Read a manga that is on one of the active MRC staff's Plan to Read list.
 
@@ -8361,7 +8361,7 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Genre(s): Drama, Romance, Shoujo
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Juui-san no Oshigoto in Isekai](https://myanimelist.net/manga/99384)
-	- Publication Status: Currently Publishing
+	- Publication Status: Finished
 	- MAL ID: 99384
 	- Genre(s): Fantasy, Isekai, Medical
 	- Staff Member(s): [Kazzeon](https://myanimelist.net/profile/Kazzeon)
@@ -19050,6 +19050,11 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- MAL ID: 12552
 	- Genre(s): Comedy, Parody, Seinen, Super Power
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
+- [Teppai no Jan!](https://myanimelist.net/manga/110997)
+	- Publication Status: Finished
+	- MAL ID: 110997
+	- Genre(s): Psychological, Strategy Game
+	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Teppuu](https://myanimelist.net/manga/11366)
 	- Publication Status: Finished
 	- MAL ID: 11366
@@ -19074,11 +19079,6 @@ It is commonly recommended to take a screenshot of the manga listed on the MRC S
 	- Publication Status: Finished
 	- MAL ID: 153846
 	- Genre(s): Adult Cast, Comedy, Drama, Music, Organized Crime, Seinen
-	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
-- [Tetsuhai no Jan!](https://myanimelist.net/manga/110997)
-	- Publication Status: Finished
-	- MAL ID: 110997
-	- Genre(s): Psychological, Strategy Game
 	- Staff Member(s): [batsling1234](https://myanimelist.net/profile/batsling1234)
 - [Tetsunabe no Jan](https://myanimelist.net/manga/1773)
 	- Publication Status: Finished

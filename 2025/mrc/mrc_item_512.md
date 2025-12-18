@@ -4,7 +4,7 @@ title: MRC2025 51.2
 
 ## ABOUT ME
 
-This list contains a list of manga eligible for the following challenge item, as of December 14, 2025:
+This list contains a list of manga eligible for the following challenge item, as of December 18, 2025:
 
 (51.2) Read an [active MAL staff](https://myanimelist.net/about.php?go=team) member's listed favorite manga.
 
@@ -1351,6 +1351,11 @@ It is commonly recommended to take a screenshot of the staff member's favorites 
 	- MAL ID: 745
 	- Genre(s): Action, Award Winning, Detective, Mystery, Psychological, Sci-Fi, Seinen, Suspense
 	- Staff Member(s): [Aidan](https://myanimelist.net/profile/Aidan/favorites), [Red-Comet](https://myanimelist.net/profile/Red-Comet/favorites)
+- [Positively Yours](https://myanimelist.net/manga/140921)
+	- Publication Status: Finished
+	- MAL ID: 140921
+	- Genre(s): Adult Cast, Romance
+	- Staff Member(s): [Meedor](https://myanimelist.net/profile/Meedor/favorites)
 - [Prison Lab](https://myanimelist.net/manga/97320)
 	- Publication Status: Finished
 	- MAL ID: 97320
